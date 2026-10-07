@@ -1,0 +1,1 @@
+export const FILTER_KEYWORDS = ['java', 'spring', 'microservices', 'backend', 'architecture', 'enterprise', 'fintech', 'banking', 'fullstack', 'full-stack', 'angular', 'vue', 'typescript', 'node', 'ai agent', 'generative ai', 'multi-agent', 'rest api', 'legacy', 'modernization'];

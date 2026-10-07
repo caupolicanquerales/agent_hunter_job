@@ -1,0 +1,141 @@
+[
+  {
+    "id": "chunk_06-1",
+    "title": "Toptal: Power Platform Solutions Architect",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Power Platform Solutions Architect for a global company, assessing and modernizing an existing Power Platform solution, defining target architecture and leading scalable, secure technical design. Requires deep Power Apps/Dataverse, Azure API and enterprise ERP integration skills; no salary figure disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "modernization"
+    ],
+    "score": 57,
+    "recommendation": "SKIP",
+    "pros": [
+      "Modernization assessment and target-architecture definition are core priorities",
+      "Enterprise integration architecture across ERP systems fits the enterprise domain",
+      "Senior architecture leadership on a global company engagement"
+    ],
+    "cons": [
+      "Microsoft Power Platform and Azure low-code stack, no Java or Spring Boot",
+      "No applied AI component in the description",
+      "No salary or years-of-experience data"
+    ]
+  },
+  {
+    "id": "chunk_06-2",
+    "title": "Toggl: Senior Full Stack",
+    "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "€83,000",
+    "salary_currency": "EUR",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Senior Full Stack Engineer owning end-to-end product areas for Toggl 2.0, from data model and API to interface, inside a cross-functional Product Tribe. Fully remote within UTC-4 to UTC+4 at €83,000 per year; specific stack not detailed in the description.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 46,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior end-to-end ownership from data model and API to UI",
+      "Full-stack role with backend depth",
+      "Transparent €83,000 salary and fully remote work"
+    ],
+    "cons": [
+      "No Java, Spring Boot or microservices named in the description",
+      "SaaS product domain with no banking, fintech or modernization signals",
+      "No applied AI component"
+    ]
+  },
+  {
+    "id": "chunk_06-3",
+    "title": "Edfinity: Senior Software Engineer, remote",
+    "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior Software Engineer at Edfinity building AI-powered STEM courseware in a small remote senior team where AI agents produce most of the code and engineers direct the work. Stack is Ruby on Rails, MongoDB, Elasticsearch, ClickHouse, Redis and React; no salary stated.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack",
+      "ai agent"
+    ],
+    "score": 48,
+    "recommendation": "SKIP",
+    "pros": [
+      "AI-driven engineering culture where agents write most code matches applied AI practice",
+      "Small collaborative team of senior engineers with broad ownership",
+      "Fully remote role"
+    ],
+    "cons": [
+      "Ruby on Rails and React stack with no Java or Spring Boot",
+      "Higher-ed edtech domain rather than banking or enterprise modernization",
+      "No salary or years-of-experience data"
+    ]
+  },
+  {
+    "id": "chunk_06-4",
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "At least 7 years of experience",
+    "description_review": "Senior Software Engineer for a healthcare tech evolution, building and optimizing backend services with NestJS and Node.js, REST API endpoints, SQL and Prisma while working closely with the CTO and Chief Engineer. Requires at least 7 years of experience; no salary stated.",
+    "matched_keywords": [
+      "backend",
+      "node",
+      "rest api"
+    ],
+    "score": 43,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend services and REST API development at senior level",
+      "7+ years experience requirement matches seniority",
+      "Close collaboration with engineering leadership"
+    ],
+    "cons": [
+      "NestJS/Node.js and React stack, no Java or Spring Boot",
+      "Healthcare domain with no banking, fintech or modernization signals",
+      "No applied AI component"
+    ]
+  },
+  {
+    "id": "chunk_06-5",
+    "title": "Sticker Mule: Software engineer",
+    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$150,000–$250,000",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Full-stack software engineer at Sticker Mule shipping web and mobile products from one codebase with Go, TypeScript, React, Expo, GraphQL and Postgres on GCP, using AI aggressively. Autonomous small teams; salary $150,000–$250,000 USD per year, fully remote.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack",
+      "typescript"
+    ],
+    "score": 48,
+    "recommendation": "SKIP",
+    "pros": [
+      "Aggressive AI usage in daily engineering matches applied AI focus",
+      "TypeScript and React full-stack work within the candidate stack",
+      "Disclosed salary of $150,000–$250,000 USD fully remote"
+    ],
+    "cons": [
+      "Go and GCP-centric stack with no Java or Spring Boot",
+      "Commerce domain with no banking, fintech or enterprise modernization",
+      "No seniority tag or years-of-experience requirement"
+    ]
+  }
+]

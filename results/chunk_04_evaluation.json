@@ -1,0 +1,132 @@
+[
+  {
+    "id": "chunk_04-1",
+    "title": "Dremio: Software Engineer - Developer Experience",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Portugal remote developer-experience role at lakehouse platform Dremio, building and maintaining CI/CD systems, developer productivity tooling and on-demand break-fix support for internal engineers. Enterprise data-platform company, but the job is engineering productivity/DevOps tooling with no product backend stack named. Salary not disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise-scale product serving hundreds of global companies",
+      "Software engineering role with automation and tooling ownership"
+    ],
+    "cons": [
+      "DevOps/CI-CD developer-experience focus rather than backend or architecture work",
+      "No Java, Spring Boot, microservices or fintech domain in the description"
+    ]
+  },
+  {
+    "id": "chunk_04-2",
+    "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Portugal remote Senior Staff engineer on Dremio's Query Execution team, designing the runtime that executes analytical queries: query operators, expression evaluation, memory management, execution scheduling, runtime planning and performance optimization. Deep systems/architecture scope affecting scalability and reliability across an enterprise cloud data platform. Salary not disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 54,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior Staff scope with full ownership of execution-engine design and runtime architecture",
+      "Enterprise cloud platform with scalability and reliability impact",
+      "Strong performance-optimization and systems engineering depth"
+    ],
+    "cons": [
+      "No Java, Spring Boot or microservices stack stated; C++/systems-style runtime work is implied but unconfirmed",
+      "Data-platform domain, not banking, fintech or legacy modernization",
+      "No applied AI or modernization component"
+    ]
+  },
+  {
+    "id": "chunk_04-3",
+    "title": "STEUART NUTRITION: Software Developer AI Coding",
+    "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "3+ years",
+    "description_review": "Remote developer role (3+ years experience) at a small GMP-certified supplement manufacturer, customizing a training app plus internal tools and automations. Requires proven AI-assisted coding with Claude, Cursor, Copilot and Grok, and prefers JavaScript/TypeScript or Python for APIs and web apps, with at least 4 hours daily overlap with US Eastern time. Salary not disclosed.",
+    "matched_keywords": [
+      "java",
+      "typescript"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "AI-assisted development is central to the workflow, matching applied-AI interest",
+      "TypeScript/JavaScript and API work overlaps part of the stack"
+    ],
+    "cons": [
+      "Mid-level 3+ year role at a small manufacturer, below senior/architect scope",
+      "No Java, Spring Boot, microservices or enterprise platform work",
+      "No banking, fintech or legacy modernization domain"
+    ]
+  },
+  {
+    "id": "chunk_04-4",
+    "title": "Glean: Application Security Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "US remote application security engineer at Glean, the enterprise Work AI platform built on search, knowledge graphs, LLM-powered assistants and scalable AI agents with 100+ SaaS connectors. The role is securing an AI product rather than building backend services; tech stack specifics are not given. Salary not disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise AI platform with agentic capabilities, aligned with multi-agent work",
+      "Robust APIs and open platform architecture environment"
+    ],
+    "cons": [
+      "Application security specialization, not backend or software architecture",
+      "No Java, Spring Boot or modernization stack mentioned",
+      "US-only remote location constraint"
+    ]
+  },
+  {
+    "id": "chunk_04-5",
+    "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+    "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Fully remote worldwide senior full-stack role building a greenfield contractor referral and services marketplace (web plus mobile) with accounts, listings, job tracking, payments, advertising and admin tools. Startup-style product from idea to production with no stated backend stack or architecture scope. Salary not disclosed.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior full-stack ownership from idea to running product",
+      "Open to applicants worldwide with fully remote schedule"
+    ],
+    "cons": [
+      "No Java, Spring Boot or microservices named; generalist full-stack product build",
+      "Travel marketplace startup, not enterprise, banking or fintech domain",
+      "No applied AI or legacy modernization component"
+    ]
+  }
+]

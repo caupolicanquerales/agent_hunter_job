@@ -1,0 +1,119 @@
+[
+  {
+    "id": "chunk_8-1",
+    "title": "Sr Solutions Architect at ExtraHop",
+    "link": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure t...",
+    "matched_keywords": [
+      "rest api",
+      "architecture",
+      "enterprise",
+      "ai"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture/senior scope",
+      "Domain alignment",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_8-2",
+    "title": "Java Developer at Clera",
+    "link": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "About the RoleWe are an early-stage, venture-backed AI infrastructure company building production-ready Kubernetes-based systems for GPU-intensive workloads. Our platform helps companies go from bare ...",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "ai",
+      "orchestration"
+    ],
+    "score": 43,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java/Spring/backend relevant",
+      "Architecture/senior scope",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_8-3",
+    "title": "AI Intern at CertifyOS",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "About CertifyOSCertifyOS is building the data infrastructure that powers modern healthcare.Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary admin...",
+    "matched_keywords": [
+      "architecture",
+      "ai"
+    ],
+    "score": 39,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture/senior scope",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_8-4",
+    "title": "Senior Vue Developer at Lemon.io",
+    "link": "https://www.workingnomads.com/job/go/1923073/",
+    "source": "WorkingNomads_Dev",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-pic...",
+    "matched_keywords": [
+      "ai",
+      "vue"
+    ],
+    "score": 27,
+    "recommendation": "SKIP",
+    "pros": [
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_8-5",
+    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
+    "link": "https://www.workingnomads.com/job/go/1889808/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "At least 6 years of experience",
+    "description_review": "Stack .NET Developer / Algorithm Engineer – Backend Focus. Remote We are looking for an experienced Full Stack .Net Developer, very strong on backend with some experience on F/E (react)to join our tea...",
+    "matched_keywords": [
+      "microservices",
+      "apis",
+      "architecture",
+      "backend"
+    ],
+    "score": 43,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java/Spring/backend relevant",
+      "Architecture/senior scope"
+    ],
+    "cons": []
+  }
+]

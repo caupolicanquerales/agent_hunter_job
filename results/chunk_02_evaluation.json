@@ -1,0 +1,129 @@
+[
+  {
+    "id": "chunk_02-1",
+    "title": "PagerDuty: Senior Director, Field Enablement",
+    "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote US senior director role leading a global field enablement team supporting PagerDuty's sales, customer success and partnership organizations, building enablement strategy for a SaaS platform with AI agents. This is a people/sales enablement leadership position, not a software engineering role; no stack, salary or years of experience stated.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise SaaS environment with AI-first product exposure",
+      "Senior leadership scope in a Fortune-500-serving company"
+    ],
+    "cons": [
+      "Non-engineering role: sales/customer enablement, not development",
+      "No Java/Spring, architecture or hands-on technical content",
+      "US-only remote location"
+    ]
+  },
+  {
+    "id": "chunk_02-2",
+    "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
+    "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote US backend engineering roles at LaunchDarkly building high-scale distributed systems, event pipelines, SDKs and enterprise workflows, including AI-powered capabilities and AgentControl for software/AI delivery. Platform serves trillions of feature flag evaluations daily; no specific language stack, salary or years of experience stated.",
+    "matched_keywords": [
+      "backend",
+      "enterprise"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend engineering on high-scale distributed systems with enterprise workflows",
+      "Applied AI direction (AI-powered capabilities, AgentControl) matches AI interest",
+      "Strong ownership and technical judgment culture"
+    ],
+    "cons": [
+      "No Java/Spring Boot or microservices stack named in the description",
+      "No banking/fintech or legacy modernization domain",
+      "US remote only; salary field shows AUD with no amount"
+    ]
+  },
+  {
+    "id": "chunk_02-3",
+    "title": "Wrike: Director, Global GTM Strategy & Operations",
+    "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$14",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Remote US director role owning Wrike's global go-to-market operations: revenue planning, quota setting, territory management and cross-functional sales/marketing alignment. A commercial/operations leadership position with no engineering, stack or AI development content; salary field reads $14/year (likely misparsed from a $14B market figure).",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise-scale organizational scope"
+    ],
+    "cons": [
+      "Non-technical GTM/sales operations role, not software engineering",
+      "No Java, backend, architecture or AI engineering content",
+      "Keyword match on 'architecture' refers to operational, not software, architecture"
+    ]
+  },
+  {
+    "id": "chunk_02-4",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote United States backend engineer role on Tailscale's Control Plane team, contributing to open-source client code and backend services with full product-lifecycle ownership at an early-stage distributed company. No Java/Spring, fintech or AI content; no salary or years of experience stated.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend services with strong end-to-end product ownership",
+      "Fully distributed, remote-friendly engineering culture"
+    ],
+    "cons": [
+      "No Java/Spring Boot or enterprise microservices stack stated",
+      "Networking/control-plane specialty, no banking/fintech or modernization angle",
+      "US remote only; early-stage scope rather than enterprise architecture"
+    ]
+  },
+  {
+    "id": "chunk_02-5",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote Canada backend engineer role on Tailscale's Control Plane team, same posting as the US variant: open-source client code plus backend services with full product-lifecycle ownership. No Java/Spring, fintech or AI content; no salary or years of experience stated.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 38,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend services with full lifecycle ownership",
+      "Fully distributed remote engineering culture"
+    ],
+    "cons": [
+      "No Java/Spring Boot or enterprise microservices stack stated",
+      "Canada remote only, outside common hiring regions for this search",
+      "No banking/fintech, modernization or applied AI dimension"
+    ]
+  }
+]

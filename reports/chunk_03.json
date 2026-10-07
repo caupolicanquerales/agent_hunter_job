@@ -1,0 +1,76 @@
+{
+  "chunk": 3,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Stripe: Abuse Research Engineer",
+      "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and identifies product conditions that enable fraud. Using agentic automated testing and simulation tools, ARG translates research into actionable threat advisories, strategic control recommendations, and regression scenarios to systematically eliminate vulnerabilities. What you’ll do As an Abuse Research Engineer in the Abuse Research Group, you will play a critical role in safeguarding Stripe’s financial ecosystem by proactively hunting for advanced threats, dissecting complex fraud vectors, and extracting actionable adversary intelligence. &nbsp;Rather than relying solely on reactive alerts, you will develop and execute hypothesis-driven threat hunting operations across internal telemetry and",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Lithic: Senior Risk Associate",
+      "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp; We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;We are hiring a Senior Risk Associate to run Lithic's risk assessment function: the client risk assessment program, the third party risk management program, and the enterprise risk assessment. You will execute the assessments, own the operations that keep them on schedule and defensible, and continuously improve the rubrics, questionnaires, registers, and SOPs that govern them. You will also own program underwriting: the criteria, limit and reserve recommendations, and periodic reassessment that follo",
+      "matched_keywords": [
+        "enterprise",
+        "fintech",
+        "banking",
+        "legacy"
+      ]
+    },
+    {
+      "title": "Salesloft: Principal Software Engineer, AI",
+      "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location: Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future. THE OPPORTUNITY At Salesloft, our Principal Engineer for AI sets the technical direction for how machine intelligence works across our Predictive Revenue System. This is the most senior individual-contributor role on our AI engineering team: you will architect the systems that turn LLMs, machine learning models, and agentic workflows into production capabilities that thousands of enterprise revenue teams depend on. This is deep, ambiguous, frontier work. You will make the foundational architectural decisions for AI at Salesloft — how we serve models at scale, how we bui",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Lithic: Senior Software Engineer, Card Authorization",
+      "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp; We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;We are hiring a Senior Software Engineer for Lithic’s Card Authorization team, which owns the real-time systems that make every card authorization decision correct, reliable, and fast. The team also owns related fraud tooling, including Lithic’s Rules Engine and 3D Secure integration. You’ll own high-impact projects end-to-end, solve distributed-systems problems at scale, and help build the tools customers use to control fraud and payment risk. What you'll do: Write reliable, secure, scalable code for",
+      "matched_keywords": [
+        "fintech",
+        "banking",
+        "legacy"
+      ]
+    },
+    {
+      "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+      "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead. What You'll Do You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review. You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data. You will choose the right method for eac",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    }
+  ]
+}

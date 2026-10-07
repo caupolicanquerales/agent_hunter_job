@@ -1,0 +1,73 @@
+{
+  "chunk": 2,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "PagerDuty: Senior Director, Field Enablement",
+      "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote (USA - San Francisco, CA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp;ABOUT THE ROLE PagerDuty is seeking a Sr. Director, Field Enablement to join our diverse, customer-focused team! As Sr. Director of&nbsp; Field Enablement, you will lead a team of enablement professionals supporting our sales, customer success, and partnership organizations.&nbsp; You will build and scale our global enablement function to ensure our customer-facing teams are equipped to sell and support our diversifying product portfolio as we enter our next phase of growth. This is an exciting opportunity to shape the enablement strategy for a high-growth SaaS company and directly improve teams' capabilities and productivity worldwide. The ideal candidate is a strategic, seasoned enablement leader passionate a",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
+      "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs, developer tools, cloud infrastructure, and product experiences that make this possible. The work spans high-scale distributed systems, reliable data and event pipelines, intuitive enterprise workflows, and AI-powered capabilities that help teams manage the next generation of software delivery. LaunchDarkly’s SDKs are used in systems that perform trillions of feature flag evaluations each day, giving our engineering work a direct connection to the reliability and customer experience of software around the world. As the company grows, we are expanding beyond traditional feature management into experimentation, observability, and AgentControl—helping customers control more of the software and AI lifecycle. That creates an unusually broad set of technical challenges, visible customer impact, and room for engineers to shape what comes next. We believe in the power of teams. We work with humility, openness, curiosity, and care; we value clear communication, thoughtful technical judgment, inclusive collaboration, and a strong sense of ownership. We e",
+      "matched_keywords": [
+        "backend",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Wrike: Director, Global GTM Strategy & Operations",
+      "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$14",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposeful work, together.&nbsp; &nbsp;About the Role: You'll own your outcomes, from the strategies you run to the conversations that shape what we build next. Collaborative work management is a $14B category growing at 15% a year, and the enterprise competitive set is consolidating fast. Wrike is hiring a Director of Go-To-Market Operations to lead our global GTM Operations team across Sales, Customer Success, and Marketing. You will own Wrike’s revenue planning and operational architecture end-to-end driving annual planning, quota setting, territory management, and cross-functional alignment across our global revenue engine. Reporting directly to GTM leadership, you will serve as a strategic co-pilot t",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Tailscale: Backend Engineer, Control Plane",
+      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the pro",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Tailscale: Backend Engineer, Control Plane",
+      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the product fo",
+      "matched_keywords": [
+        "backend"
+      ]
+    }
+  ]
+}

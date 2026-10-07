@@ -1,0 +1,82 @@
+{
+  "chunk": 1,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Twikey: Senior Java Developer",
+      "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+      "source": "WeWorkRemotely_Backend",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Ghent - Belgium URL: https://www.twikey.com/jobs Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and smart solutions alongside the job? Then we want to talk to you. Straight forward but clear: Twikey isn't looking for someone to just execute. We're looking for someone who thinks, does and keeps going when the going gets tough. Because fintech is evolving at breakneck speed. That calls for real ownership and for someone who can dive deep on the technical side to keep innovating and improving our platform. You get plenty in return, such as the freedom and responsibility to deliver your own projects. Thanks in part to our organisational structure, you can shape your ideas in the short term and see the results of your hard work quickly. Driven by your passion for building scalable, performant and secure back-end systems, you continuously raise the bar for your own skills and for our product. As a member of our development team you work closely with our CTO, 3 fellow developers and 2 testers on the core of our software application. A small, strong team in which you take on a role with real impact on the future of our product. You focus on&nbsp;developing and improving the back-end&nbsp;of our platform, optimising the architecture and data processing while keeping the security and stability of our system in mind. This lets you put your technical skills to full use and",
+      "matched_keywords": [
+        "backend",
+        "architecture",
+        "fintech"
+      ]
+    },
+    {
+      "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+      "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+      "source": "WeWorkRemotely_Backend",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. &nbsp; What we’re looking for: 5+ years with Node.js and 3+ past years with Nest.js Strong expertise in Node.js and Nest.js frameworks. Proven experience building REST and/or GraphQL APIs. Strong knowledge of JavaScript (ES6+) and TypeScript. Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). Familiarity with authentication/authorization mechanisms (JWT, OAuth2). Experience with unit/integration testing (e.g., Jest, Mocha). Proficiency with Git and version control workflows. Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. &nbsp; Nice to Have: Experience with cloud platforms (AWS, Azure, GCP). Familiarity with CI/CD pipelines and DevOps practices. Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka). Experience with Docker and containerized applications. Knowledge of microservices and serverless architectures. &nbsp; Responsibilities: Design and develop robust, scalable, and secure backend applic",
+      "matched_keywords": [
+        "java",
+        "microservices",
+        "backend",
+        "architecture",
+        "typescript",
+        "node"
+      ]
+    },
+    {
+      "title": "Reddit: Backend Engineer, IAM",
+      "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+      "source": "WeWorkRemotely_Backend",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This is a remote-friendly role. Reddit has a flexible first workforce. The Identity and Access Management team develops and maintains a set of mission critical, highly performant, and highly scalable systems that manage user identity, authentication, and authorization for all of our millions of daily users and backend services. Some of our present and future challenges include: Building systems around consumer IAM to meet the needs of Reddit’s engineering organization and millions of daily users. Design, build and ship backend services powering experiences for one of the most visited sites in the world. Work with product management, security, client engineering, and backend teams to define and implement Reddit’s IAM vision and roadmap. In your day-to-day, you will: Steer: Work with the team to select, scope, and execute on high leverage projects that align with Reddit’s goals. Build: Execute on a strategy and create a more performant, more scalable, higher quality architecture around IAM. XFN C",
+      "matched_keywords": [
+        "backend",
+        "architecture"
+      ]
+    },
+    {
+      "title": "Dremio: Software Engineer - Query Execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the roleDremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution. As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.What you’ll be doing Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management. Develop reliable software: Write clear, maintainab",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Lemon.io: Senior Angular Full-stack Developer",
+      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$11M",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp; PHP, Angular &amp; .NET &amp; TypeScript, Angular &amp; Node, Angular &amp; TypeScript, React &amp; PHP,",
+      "matched_keywords": [
+        "angular",
+        "typescript",
+        "node"
+      ]
+    }
+  ]
+}

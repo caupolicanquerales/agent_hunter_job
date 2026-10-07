@@ -1,0 +1,120 @@
+[
+  {
+    "id": "chunk_7-1",
+    "title": "A.Team: Senior Independent AI Engineer / Architect",
+    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$200M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI e...",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "ai",
+      "agent",
+      "orchestration"
+    ],
+    "score": 59,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture/senior scope",
+      "Domain alignment",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_7-2",
+    "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$90-$170",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this visi...",
+    "matched_keywords": [
+      "enterprise",
+      "ai"
+    ],
+    "score": 34,
+    "recommendation": "SKIP",
+    "pros": [
+      "Domain alignment",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_7-3",
+    "title": "Frontend Engineer at Bjak ",
+    "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the ...",
+    "matched_keywords": [
+      "architecture",
+      "backend",
+      "ai"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java/Spring/backend relevant",
+      "Architecture/senior scope",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_7-4",
+    "title": "Frontend Engineer at Bjak ",
+    "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the ...",
+    "matched_keywords": [
+      "architecture",
+      "backend",
+      "ai"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java/Spring/backend relevant",
+      "Architecture/senior scope",
+      "AI/agent exposure"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_7-5",
+    "title": "AI agent engineer at Sticker Mule",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "source": "RemoteOK_Java",
+    "salary": "150000",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.We're hiring an engineer to build, run and manage a team of AI a...",
+    "matched_keywords": [
+      "ai",
+      "agent",
+      "typescript"
+    ],
+    "score": 32,
+    "recommendation": "SKIP",
+    "pros": [
+      "AI/agent exposure"
+    ],
+    "cons": []
+  }
+]

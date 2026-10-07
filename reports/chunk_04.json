@@ -1,0 +1,76 @@
+{
+  "chunk": 4,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Dremio: Software Engineer - Developer Experience",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutions. You will be responsible for both regularly scheduled work as well as on-demand break-fix work to support Dremio’s CI/CD system, identifying areas of improvement, and implementing changes to increase efficiency and effectiveness of those systems. Bring your industry experience to improve the efficiency and scale of Dremio’s infrastructure via innovation on tooling and methodologies. You should have empathy for developers and a passion for engineering productivity.&nbsp; &nbsp; What you’ll be doing Solve problems for fellow Dremio engineers by: Leveraging and contributing to playbooks to implement solutions to unblock them Identifying short term workarounds and documenting them Automatin",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution. As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform. &nbsp; What you’ll be doing Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management. Improve runtime performance: Optimize vectorized processing, concurrency, parallel",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "STEUART NUTRITION: Software Developer AI Coding",
+      "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "3+ years",
+      "description": "Headquarters: Minnesota URL: https://www.steuartnutrition.com/ About us Steuart Nutrition is a GMP-certified contract manufacturer making powders, liquids, capsules and stick packs for growing wellness brands. We run on Extreme Ownership, clear communication and fast turnaround, and we want a developer who works the same way. The role We're hiring a remote developer to own the customization of our training app. You'll learn the platform quickly, then build what our teams need to train and onboard people. Over time you'll also take on other internal tools and automations. AI-assisted development is central to how we work, so we want someone who uses AI tools to write and ship better code faster. What you'll do Learn our training app inside and out, then customize and extend it Build features, integrations and automations with AI coding tools like Claude, Cursor, Copilot and Grok Turn rough requests from the plant and office teams into working solutions Document your work so others can use it and maintain it Give regular, clear progress updates What we're looking for 3+ years of professional software development Strong, proven skill with AI-assisted coding: you know how to prompt, check and fix AI-generated code A track record of quickly learning unfamiliar platforms and codebases Experience with APIs, web apps and integrations (JavaScript/TypeScript or Python preferred) Excellent written English and consistent communication Able to overlap at least 4 hours a day with US Easter",
+      "matched_keywords": [
+        "java",
+        "typescript"
+      ]
+    },
+    {
+      "title": "Glean: Application Security Engineer",
+      "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. &nbsp; At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level. &nbsp; Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its glo",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+      "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Phoenix, Arizona URL: https://adventuretravel365.com/ Senior Full-Stack Developer - Marketplace Web &amp; Mobile Platform We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life. We’re building a new contractor referral and services marketplace, think Thumbtack or Angi, where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more. This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide. There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before and gets excited about taking a platform from an idea to a working product, then continuing to grow it with us. What You’ll Help Us Build The platform will have two main sides: clients looking for services and contractors/vendors looking for business. Some of the functionality we’re planning includes: Client and contractor/vendor accounts and profiles Contractor listings, categories, search, and filtering Service requests, inquiries, referrals, and lead management Job and project tracking Client and vendor dashboards Online payments and transaction tracking Reviews and ratings Notifications and communications Banner advertising and paid promotional opportunities Admin tools for managing ",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack"
+      ]
+    }
+  ]
+}

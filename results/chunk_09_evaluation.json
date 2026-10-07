@@ -1,0 +1,144 @@
+[
+  {
+    "id": "chunk_09-1",
+    "title": "Senior back-end Engineer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
+    "link": "https://www.workingnomads.com/job/go/1885527/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior remote back-end role at an AI infrastructure startup placed via Lemon.io, requiring 5+ years of experience plus Golang/Python, Kubernetes and 2+ years of AI agent development. Wide international remote coverage across EU, US and APAC; no salary stated. Backend and AI agent work matches part of the profile, but the core language stack is Go/Python rather than Java/Spring.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "vue",
+      "ai agent"
+    ],
+    "score": 51,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend scope with 5+ years expectation fits experience level",
+      "AI agent development (2+ yrs required) aligns with multi-agent platform background"
+    ],
+    "cons": [
+      "Core stack is Golang/Python/Kubernetes, not Java/Spring Boot",
+      "No banking, fintech or enterprise modernization domain"
+    ]
+  },
+  {
+    "id": "chunk_09-2",
+    "title": "Head of Engineering at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, Latin America, USA",
+    "link": "https://www.workingnomads.com/job/go/1878435/",
+    "source": "WorkingNomads_Dev",
+    "salary": "$16M",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "10 years",
+    "description_review": "Hands-on Head of Engineering at Lemon.io, a 10-year-old talent marketplace, leading a growing team and owning architecture, technical roadmap and prioritization alongside the founder. Remote across Europe, Latin America and the USA, with a stated $16M annual GMV figure (not salary). Strong architecture and leadership scope, but no Java/Spring or banking context is described.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 44,
+    "recommendation": "SKIP",
+    "pros": [
+      "Hands-on architecture and prioritization decisions match senior architecture strengths",
+      "10-year requirement aligns with 7+ years of senior engineering experience"
+    ],
+    "cons": [
+      "Engineering management/leadership role rather than senior individual-contributor Java work",
+      "No Java, Spring Boot, microservices stack or enterprise/banking domain mentioned"
+    ]
+  },
+  {
+    "id": "chunk_09-3",
+    "title": "Senior Java & React Developer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, LATAM, APAC, the U.S., Canada",
+    "link": "https://www.workingnomads.com/job/go/1844110/",
+    "source": "WorkingNomads_Dev",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "4+ years",
+    "description_review": "Senior remote Java and React developer placements through Lemon.io for startup clients, requiring 4+ years of commercial experience including 3+ years each of Java and React. Async-friendly, no micromanagement, rate depends on location and skills. The Java requirement matches the core stack, but it is a hands-on full-stack dev role with no architecture, enterprise or AI component.",
+    "matched_keywords": [
+      "java"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java is a required primary language, matching the top core stack skill",
+      "Senior level with 4+ years commercial expectation fits 7+ years experience"
+    ],
+    "cons": [
+      "React is a required skill and there is no architecture or modernization scope",
+      "Startup project placements with no banking, fintech or enterprise domain"
+    ]
+  },
+  {
+    "id": "chunk_09-4",
+    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
+    "company": "CodeForAI",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+    "source": "Remotive_Dev",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote AI Code Trainer role evaluating model-generated code, writing reference solutions and designing tests for AI model evaluation. Open to developers from many backgrounds and languages including Java, Python and full-stack web. AI-adjacent work but it is model evaluation/training content work rather than software engineering on Java/Spring systems.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "fullstack",
+      "full-stack",
+      "typescript",
+      "node"
+    ],
+    "score": 43,
+    "recommendation": "SKIP",
+    "pros": [
+      "Involves auditing code quality and writing production-grade reference solutions",
+      "Accepts Java among the qualifying languages"
+    ],
+    "cons": [
+      "AI code training/evaluation task work, not engineering on product systems",
+      "No seniority, architecture, or enterprise/banking scope stated"
+    ]
+  },
+  {
+    "id": "chunk_09-5",
+    "title": "Senior back-end Engineer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+    "source": "Remotive_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior remote back-end engineer opening at an AI research company placed via Lemon.io, with Go/Python, Kubernetes and AI agent development requirements, plus other senior backend and platform roles. No location or salary detail given beyond broad EU/US coverage. Same Go/Python-centered vacancy that misses the Java/Spring and enterprise banking focus.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "ai agent"
+    ],
+    "score": 51,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend responsibility fits 7+ years of experience",
+      "AI agent development requirement aligns with multi-agent platform work"
+    ],
+    "cons": [
+      "Golang/Python/Kubernetes stack instead of Java/Spring Boot",
+      "No banking, fintech or legacy modernization context"
+    ]
+  }
+]

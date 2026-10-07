@@ -1,0 +1,77 @@
+{
+  "chunk": 5,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Headquarters: SummaryWe are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery.General informationThis role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement.Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns.AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions.Tasks and DeliverablesDesign and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake.Define and maintain API contracts, field mappings, transformations, and automated tests.Use Data Modeler to develop and maintain accurat",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Sticker Mule: AI agent engineer",
+      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$150,000–$250,000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "matched_keywords": [
+        "typescript",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: SummaryWe are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science.General informationThis Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform.The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infrastructure and a mix of structured and unstructured data sources.Tasks and Deliverables- Participate in the architecture design and implementation of high-performance, scalable, and optimized data solutions.- Create data models from scratch using strong SQL fundamentals.- Write and optimize in-application SQL statements.- Ensure the performance, security, and availability of databases.- Prepare documentation and technical specifications.- Handle database procedures such as upgrades, backups, recovery, and migration.- Profile server resource usage and optimize configurations as necessary.- Design, build, and automate the deployment of data pipelines and applications.- Integrate data from on-premise",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+      "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "month",
+      "years_experience": "5+ years",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. &nbsp; What we offer: &nbsp; Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exc",
+      "matched_keywords": [
+        "microservices",
+        "backend",
+        "architecture",
+        "fullstack",
+        "full-stack",
+        "node"
+      ]
+    },
+    {
+      "title": "Fin: Solutions Architect -Spanish Speaking",
+      "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: NYC, Remote; San Francisco, California Fin, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce.What's the opportunity?&nbsp; Fin is looking for an exceptional Solutions Architect to join our vibrant Customer Solutions Team. In this role, you’ll engage directly with our customers as their trusted advisor, playing a pivotal part in defining and demonstrating value across the ent",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    }
+  ]
+}

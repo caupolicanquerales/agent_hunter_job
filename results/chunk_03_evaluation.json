@@ -1,0 +1,131 @@
+[
+  {
+    "id": "chunk_03-1",
+    "title": "Stripe: Abuse Research Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote-from-US senior security research role at Stripe's Abuse Research Group, doing hypothesis-driven threat hunting, fraud path mapping and agentic automated testing across Stripe's payments ecosystem. No Java/Spring or backend platform stack is stated; the focus is adversary analysis, fraud engineering and product security rather than software architecture or modernization. Salary not disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 41,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech/payments domain matches 7+ years of banking experience",
+      "Uses agentic automated testing tools, touching applied AI automation"
+    ],
+    "cons": [
+      "Security research/threat hunting role, not backend or architecture work",
+      "No Java, Spring Boot or modernization stack mentioned"
+    ]
+  },
+  {
+    "id": "chunk_03-2",
+    "title": "Lithic: Senior Risk Associate",
+    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote senior risk associate at fintech card-issuing platform Lithic, running client risk, third-party risk and enterprise risk assessment programs including rubrics, questionnaires, registers and SOPs. This is a risk/operations function with no software engineering, architecture or tech stack involved. Salary not disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "fintech",
+      "banking",
+      "legacy"
+    ],
+    "score": 23,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech/payments and enterprise domain aligns with banking background",
+      "Exposure to legacy mainframe modernization narrative at Lithic"
+    ],
+    "cons": [
+      "Not a software engineering role; no coding, architecture or tech stack",
+      "Risk assessment and program ownership is outside SWE career track"
+    ]
+  },
+  {
+    "id": "chunk_03-3",
+    "title": "Salesloft: Principal Software Engineer, AI",
+    "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote-US principal IC role setting technical direction for AI at Salesloft, architecting production systems that combine LLMs, ML models and agentic workflows across an enterprise Predictive Revenue System. Most senior individual-contributor role on the AI engineering team with foundational architectural ownership. Salary not stated.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 67,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Principal-level architecture ownership matches seniority and architecture fit",
+      "Hands-on agentic workflows and LLM production systems align with multi-agent platform experience",
+      "Enterprise product serving thousands of customers matches enterprise software focus"
+    ],
+    "cons": [
+      "No Java or Spring Boot named in the listing; AI/ML-centric stack",
+      "No banking, fintech or legacy modernization domain"
+    ]
+  },
+  {
+    "id": "chunk_03-4",
+    "title": "Lithic: Senior Software Engineer, Card Authorization",
+    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote senior backend engineer on Lithic's Card Authorization team, owning real-time card authorization decision systems, fraud tooling, Rules Engine and 3D Secure integration with end-to-end project ownership and distributed-systems problems at scale. Fintech card-issuing platform replacing legacy mainframe processors. Salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "banking",
+      "legacy"
+    ],
+    "score": 54,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend ownership of high-impact projects end-to-end",
+      "Fintech/payments and legacy-mainframe-replacement domain fits banking background",
+      "Distributed systems at scale matches enterprise backend experience"
+    ],
+    "cons": [
+      "No Java, Spring Boot or microservices stack stated in the description",
+      "No applied AI or modernization (version migration) component"
+    ]
+  },
+  {
+    "id": "chunk_03-5",
+    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+    "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote-US director role owning ZoomInfo's B2B data graph strategy for AI agents, blending classical ML with LLM and agentic systems, shipping code alongside a team of senior engineers and setting standards for agentic coding tools. Management position with evaluation and inference-cost disciplines; US locations only (Bethesda/MA/MD/WA, Vancouver WA, Waltham MA). Salary not disclosed.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Deep applied AI work with LLM and agentic systems matches multi-agent platform background",
+      "Stays close to the code, reviewing and shipping alongside senior engineers",
+      "Enterprise-scale data platform with modernization of how agents reason over data"
+    ],
+    "cons": [
+      "Director/management scope rather than senior IC engineering",
+      "No Java, Spring Boot or banking/fintech domain; data/ML stack unspecified",
+      "US-location restricted remote role"
+    ]
+  }
+]

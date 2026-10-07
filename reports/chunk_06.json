@@ -1,0 +1,80 @@
+{
+  "chunk": 6,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Toptal: Power Platform Solutions Architect",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation.Required Skills:Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BIStrong experience designing Dataverse schemas and security rolesAzure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application InsightsExperience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migratedExperience integrating enterprise applications with ERP systemsExperience designing identity and access models for licensed and unlicensed user audiencesStrong understanding of Microsoft Power Platform licensing models, including per-user Dataverse licensing and capacity/session-based Power Pages licensingExperience evaluating existing solutions and defining modernization, remediation, or rebuild strategiesOptional Skills (not mandatory):SAP integration experienceDeliverablesLead the technical assessment of the existing Power Apps application, Power Automate flows, data layer, Power BI reporting, and four integration touchpointsSupport the Regulatory data-profiling spike and incorporate findings",
+      "matched_keywords": [
+        "architecture",
+        "enterprise",
+        "modernization"
+      ]
+    },
+    {
+      "title": "Toggl: Senior Full Stack",
+      "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "€83,000",
+      "salary_currency": "EUR",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe building for managers, the people who plan work, protect margins, and keep projects on time and on budget. You own significant parts of that experience end-to-end, working hands-on with product and design to ship work that matters. You'll do this as we build and launch Toggl 2.0, our consolidated planning, time tracking, and time intelligence product. The salary for this position is&nbsp;€83,000 annually. You can work from anywhere in the world&nbsp;as long as your main location is between UTC-4 and UTC+4. &nbsp; The Role As a Senior Full Stack Engineer, you own meaningful parts of the product end-to-end, from the data model and the API to the interface someone actually clicks: the technical approach, the quality of what ships, and whether it actually works for the people using it. You are accountable not for tickets closed, but for clarity, craft, and outcomes. You'll work in the Tribe serving managers, across planning and capacity management, dashboards, and billable work. This is some of the most data-dense, interaction-heavy surface area in the product: schedules and capacity views, reports, and visualizations that have to stay fast and readable at real customer scale. The interesting problems live on both sides of th",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Edfinity: Senior Software Engineer, remote",
+      "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Austin, TX URL: https://edfinity.com About Edfinity Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit remote team of senior engineers. We're growing fast and leading the field in AI-powered courseware that moves the needle on educator productivity and student outcomes. Your work will reach hundreds of institutions, and you will help decide how it gets built. How we work We're fully remote, with team members distributed across the US, and with that comes personal flexibility and accountability. AI agents produce most of our code. We move fast, but we temper velocity with quality and stability above all else. Engineers frame the problems, direct the work, and are accountable for everything that ships. If you already work this way and have opinions about it, you'll feel at home. Everyone has opportunities to work across different areas of the platform, and team members are expected to develop deep technical expertise over time. This is particularly important as we step away from hands-on coding. We're a small team of collaborative senior engineers. Your opinion matters. The pace of change is real. More than ever, we're continually evolving our tooling and workflows as LLMs become more capable. What you’ll be doing Our stack is Ruby on Rails, MongoDB, Elasticearch, ClickHouse, Redis/Sidekiq, and React. Full-stack product development in areas like assessment authori",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+      "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "At least 7 years of experience",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js, ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance. Ensure the scalability, security, and responsiveness of backend services. Uphold rigorous data protection standards and implement industry-leading security measures. Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team. &nbsp; What Youll Bring: Essential Skills &amp; Experience: At least 7 years of experience with: React React Vite REST API development Strong knowledge and hands-on experience with SQL. Proficiency in Prisma for database management. A minimum of 5 years of experience in REST API development using the NestJS framework. Expertise in backend development, specifically with NestJ",
+      "matched_keywords": [
+        "backend",
+        "node",
+        "rest api"
+      ]
+    },
+    {
+      "title": "Sticker Mule: Software engineer",
+      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$150,000–$250,000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from 40+ countries and collaborate using Asana and Slack. &nbsp; Requirements You are an exceptional full-stack software engineer. You use AI aggressively and write well in English. &nbsp; What you will work on You'll help build and scale&nbsp;Sticker Mule&nbsp;Pro&nbsp;— a suite of software tools for creators and businesses: Stores (Shopify alternative) AI tools (internal and customer-facing) Notify (Mailchimp alternative) Reply (Zendesk alternative) Hire Me (Contra alternative) Mobile apps &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engine",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "typescript"
+      ]
+    }
+  ]
+}

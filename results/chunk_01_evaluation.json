@@ -1,0 +1,136 @@
+[
+  {
+    "id": "chunk_01-1",
+    "title": "Twikey: Senior Java Developer",
+    "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior back-end role at fintech Twikey (Ghent, Belgium), focused on developing and improving the platform's back-end, optimizing architecture and data processing with security and stability in mind. Small team working closely with the CTO on scalable, performant, secure systems. No stack details, salary or years of experience stated beyond the Java title.",
+    "matched_keywords": [
+      "backend",
+      "architecture",
+      "fintech"
+    ],
+    "score": 88,
+    "recommendation": "APPLY",
+    "pros": [
+      "Senior Java back-end role matches core stack (Java, backend ownership)",
+      "Fintech domain aligns with 7+ years banking/fintech experience",
+      "Architecture optimization and ownership scope fits seniority and modernization strengths"
+    ],
+    "cons": [
+      "No explicit Spring Boot/microservices or AI mentioned in description",
+      "Salary, seniority years and remote conditions not stated"
+    ]
+  },
+  {
+    "id": "chunk_01-2",
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Long-term full-time remote senior backend role (CET) building scalable web applications with Node.js/Nest.js, REST/GraphQL APIs, TypeScript and SQL/NoSQL databases. Nice-to-haves include Docker, microservices, event-driven architecture and CI/CD. No Java, Spring Boot, fintech or AI focus.",
+    "matched_keywords": [
+      "java",
+      "microservices",
+      "backend",
+      "architecture",
+      "typescript",
+      "node"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend scope with scalable systems, REST APIs and microservices familiarity",
+      "TypeScript knowledge overlaps with profile stack; CET timezone matches"
+    ],
+    "cons": [
+      "Core stack is Node.js/Nest.js, no Java or Spring Boot despite keyword match",
+      "Consulting/network model with no banking/fintech or modernization domain signal"
+    ]
+  },
+  {
+    "id": "chunk_01-3",
+    "title": "Reddit: Backend Engineer, IAM",
+    "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Remote US backend engineer role in Reddit's IAM team, building highly scalable identity, authentication and authorization systems for millions of users, plus backend services and architecture around IAM. No Java/Spring, fintech domain or salary stated; years_experience is N/A despite a day-period salary field.",
+    "matched_keywords": [
+      "backend",
+      "architecture"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior-impact backend services and architecture work at large enterprise scale",
+      "Security/IAM systems involve complex, performant distributed design"
+    ],
+    "cons": [
+      "No Java/Spring Boot or microservices stack stated in the description",
+      "Remote US only, no banking/fintech or modernization/AI signal"
+    ]
+  },
+  {
+    "id": "chunk_01-4",
+    "title": "Dremio: Software Engineer - Query Execution",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Portugal remote software engineer role on Dremio's Query Execution team, building well-scoped improvements to the analytical query runtime: query operators, expression evaluation, memory management and scheduling on an open-source lakehouse platform. Enterprise data domain but no Java/Spring, fintech, AI or seniority/salary details stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise analytics platform with architecture-relevant systems work",
+      "Remote Portugal location is compatible"
+    ],
+    "cons": [
+      "No Java/Spring Boot or microservices signals; data-engine runtime specialty",
+      "Role scoped to 'well-scoped improvements', below senior architecture ownership",
+      "No banking/fintech or applied AI dimension"
+    ]
+  },
+  {
+    "id": "chunk_01-5",
+    "title": "Lemon.io: Senior Angular Full-stack Developer",
+    "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack positions via the Lemon.io marketplace placing engineers with startup clients; stacks are Angular combined with PHP, .NET, Node or TypeScript rather than a fixed role. Remote with flexible async schedule; the stated $11M is total platform payouts, not salary. No Java/Spring, fintech or AI content.",
+    "matched_keywords": [
+      "angular",
+      "typescript",
+      "node"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior full-stack scope with Angular and TypeScript match profile frontend skills",
+      "Remote, flexible schedule with no micromanagement"
+    ],
+    "cons": [
+      "Backend options are PHP/.NET/Node, not Java/Spring Boot core stack",
+      "Startup marketplace placement without banking/fintech or architecture ownership",
+      "No applied AI or modernization focus; salary figure is not a pay rate"
+    ]
+  }
+]
