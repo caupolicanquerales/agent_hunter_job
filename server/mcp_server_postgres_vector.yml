@@ -1,0 +1,43 @@
+services:
+  jobs-db:
+    image: pgvector/pgvector:pg16
+    container_name: jobs-vector-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: jobs_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: secretpassword
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d jobs_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  jobs-mcp-server:
+    build:
+      context: ./mcp-server
+      dockerfile: Dockerfile
+    container_name: jobs-mcp-server
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://postgres:secretpassword@jobs-db:5432/jobs_db
+      APIFY_TOKEN: ${APIFY_TOKEN:?Set APIFY_TOKEN in a .env file next to this compose file}
+      MCP_TRANSPORT: ${MCP_TRANSPORT:-sse}
+      MCP_HOST: 0.0.0.0
+      MCP_PORT: 3000
+    volumes:
+      - hf_cache:/model-cache
+    depends_on:
+      jobs-db:
+        condition: service_healthy
+    ports:
+      - "3000:3000" # MCP over SSE; use MCP_TRANSPORT=stdio and drop this block for stdio
+
+volumes:
+  pgdata:
+  hf_cache:

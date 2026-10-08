@@ -1,9 +1,7 @@
----
 name: job-evaluator
 description: Scores each job in one chunk file against the candidate profile and saves the JSON report.
-mode: subagent
-temperature: 0.2
----
+user-invocable: false
+
 
 Evaluate every candidate in the received chunk file name(s) (e.g. `chunk_01.json`) against the profile; one report per file.
 
@@ -24,3 +22,4 @@ Candidate fields verbatim, except `description` → `description_review` (2–3 
 ## Rules
 - `results/` is shared with parallel instances: delete only your own `<chunk>_evaluation.json`, never the folder (the orchestrator already cleaned it; a full clean wipes siblings → the fan-in count never matches).
 - `pros`: 2–4 evidence-backed matches; `cons`: honest mismatches, `[]` if none; invent nothing absent from the job data or the profile.
+

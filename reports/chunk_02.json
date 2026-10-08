@@ -3,6 +3,21 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Lemon.io: Senior Angular Full-stack Developer",
+      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$11M",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp; PHP, Angular &amp; .NET &amp; TypeScript, Angular &amp; Node, Angular &amp; TypeScript, React &amp; PHP,",
+      "matched_keywords": [
+        "angular",
+        "typescript",
+        "node"
+      ]
+    },
+    {
       "title": "PagerDuty: Senior Director, Field Enablement",
       "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
       "source": "WeWorkRemotely_Fullstack",
@@ -52,19 +67,6 @@
       "salary_period": "N/A",
       "years_experience": "N/A",
       "description": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the pro",
-      "matched_keywords": [
-        "backend"
-      ]
-    },
-    {
-      "title": "Tailscale: Backend Engineer, Control Plane",
-      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the product fo",
       "matched_keywords": [
         "backend"
       ]

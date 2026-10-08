@@ -1,119 +1,145 @@
 [
   {
-    "id": "chunk_8-1",
-    "title": "Sr Solutions Architect at ExtraHop",
-    "link": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
-    "source": "RemoteOK_Java",
-    "salary": "0",
+    "id": "chunk_08-1",
+    "title": "Senior Backend Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925598/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure t...",
+    "years_experience": "6+ years",
+    "description_review": "Senior .NET backend architect position responsible for designing and implementing high-throughput distributed enterprise systems. Focuses on building scalable cloud-native architectures beyond standard CRUD operations. Remote opportunity aligned with CET (+/- 3 hours) requiring 6+ years of experience.",
     "matched_keywords": [
-      "rest api",
-      "architecture",
-      "enterprise",
-      "ai"
+      "backend",
+      "enterprise"
     ],
-    "score": 55,
+    "score": 57,
     "recommendation": "SKIP",
     "pros": [
-      "Architecture/senior scope",
-      "Domain alignment",
-      "AI/agent exposure"
+      "Senior architecture and distributed systems engineering scope matching senior profile",
+      "Candidate has C# background in secondary stack",
+      "Enterprise scale and performance optimization focus"
     ],
-    "cons": []
+    "cons": [
+      "Strictly .NET-focused backend without Java or Spring Boot",
+      "No applied AI or machine learning components"
+    ]
   },
   {
-    "id": "chunk_8-2",
-    "title": "Java Developer at Clera",
-    "link": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
-    "source": "RemoteOK_Java",
-    "salary": "0",
+    "id": "chunk_08-2",
+    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925596/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior backend-focused AI engineer position leading the design of next-generation autonomous systems and agentic workflows. Focuses on language-agnostic architecture, tool-using agents executing complex coding tasks, and integrating Claude with scalable production backends. Remote opportunity in CET (+/- 3 hours).",
+    "matched_keywords": [
+      "backend",
+      "fullstack",
+      "full-stack",
+      "ai agent"
+    ],
+    "score": 89,
+    "recommendation": "APPLY",
+    "pros": [
+      "Direct match for candidate's hands-on experience building multi-agent platforms and automated coding harnesses",
+      "Core focus on agentic workflows, autonomous reasoning, and tool use in backend production environments",
+      "Emphasizes language-agnostic architecture and robust scalable backend systems",
+      "Senior scope leading technical evolution without micromanagement in CET timezone"
+    ],
+    "cons": [
+      "Compensation figure not explicitly specified in posting"
+    ]
+  },
+  {
+    "id": "chunk_08-3",
+    "title": "Senior Salesforce Developer at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925592/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "4 years",
+    "description_review": "Senior Salesforce developer role responsible for developing custom CRM applications and integrations using Apex, Visualforce, and Lightning Web Components (LWC). Involves REST and SOAP API integrations across Sales, Service, and Experience Clouds. Fully remote in CET (+/- 3 hours) with 4+ years requirement.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 28,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise application integration using REST and SOAP APIs",
+      "Senior development responsibilities within structured enterprise platforms"
+    ],
+    "cons": [
+      "Specialized proprietary Salesforce/Apex ecosystem misaligned with general SWE stack",
+      "No Java, Spring Boot, microservices architecture, or AI engineering"
+    ]
+  },
+  {
+    "id": "chunk_08-4",
+    "title": "Senior SAP S/4HANA Developer at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925590/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "About the RoleWe are an early-stage, venture-backed AI infrastructure company building production-ready Kubernetes-based systems for GPU-intensive workloads. Our platform helps companies go from bare ...",
+    "description_review": "Senior SAP S/4HANA developer position driving backend and full-stack development within modern SAP enterprise landscapes. Focuses on ABAP RESTful Application Programming (RAP), Core Data Services, SAP BTP side-by-side extensions, and Clean Core architecture. Remote engagement aligned with CET (+/- 3 hours).",
     "matched_keywords": [
-      "java",
       "backend",
-      "ai",
-      "orchestration"
+      "enterprise",
+      "fullstack",
+      "full-stack",
+      "legacy"
     ],
     "score": 43,
     "recommendation": "SKIP",
     "pros": [
-      "Java/Spring/backend relevant",
-      "Architecture/senior scope",
-      "AI/agent exposure"
+      "Senior technical ownership of enterprise architecture and modernization",
+      "Clean Core principles, RESTful service exposure, and database performance optimization"
     ],
-    "cons": []
+    "cons": [
+      "Proprietary SAP ABAP and BTP stack rather than open Java and Spring Boot ecosystems",
+      "Lacks applied AI, GenAI orchestration, or modern frontend frameworks"
+    ]
   },
   {
-    "id": "chunk_8-3",
-    "title": "AI Intern at CertifyOS",
-    "link": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-    "source": "RemoteOK_Java",
-    "salary": "0",
-    "salary_currency": "N/A",
-    "salary_period": "month",
-    "years_experience": "N/A",
-    "description_review": "About CertifyOSCertifyOS is building the data infrastructure that powers modern healthcare.Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary admin...",
-    "matched_keywords": [
-      "architecture",
-      "ai"
-    ],
-    "score": 39,
-    "recommendation": "SKIP",
-    "pros": [
-      "Architecture/senior scope",
-      "AI/agent exposure"
-    ],
-    "cons": []
-  },
-  {
-    "id": "chunk_8-4",
+    "id": "chunk_08-5",
     "title": "Senior Vue Developer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, LATAM, APAC, the U.S., Canada",
     "link": "https://www.workingnomads.com/job/go/1923073/",
     "source": "WorkingNomads_Dev",
     "salary": "$11M",
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-pic...",
+    "description_review": "Senior Vue.js and Nuxt.js developer role connecting senior engineers to vetted startup clients across the US and Europe through Lemon.io. Involves building frontend or full-stack features with direct client communication and autonomous, async schedules. Remote opportunity across LATAM, Europe, and North America.",
     "matched_keywords": [
-      "ai",
+      "fullstack",
+      "full-stack",
       "vue"
     ],
-    "score": 27,
+    "score": 56,
     "recommendation": "SKIP",
     "pros": [
-      "AI/agent exposure"
+      "Directly matches candidate's Vue.js and TypeScript frontend experience",
+      "Senior-level independent role with asynchronous work and no micromanagement",
+      "Global remote flexibility covering Europe and LATAM"
     ],
-    "cons": []
-  },
-  {
-    "id": "chunk_8-5",
-    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
-    "link": "https://www.workingnomads.com/job/go/1889808/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "At least 6 years of experience",
-    "description_review": "Stack .NET Developer / Algorithm Engineer – Backend Focus. Remote We are looking for an experienced Full Stack .Net Developer, very strong on backend with some experience on F/E (react)to join our tea...",
-    "matched_keywords": [
-      "microservices",
-      "apis",
-      "architecture",
-      "backend"
-    ],
-    "score": 43,
-    "recommendation": "SKIP",
-    "pros": [
-      "Java/Spring/backend relevant",
-      "Architecture/senior scope"
-    ],
-    "cons": []
+    "cons": [
+      "Focuses heavily on Vue/Nuxt frontend rather than candidate's core Java/Spring backend depth",
+      "Marketplace matching platform rather than a direct long-term engineering engagement"
+    ]
   }
 ]

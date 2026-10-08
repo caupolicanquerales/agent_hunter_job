@@ -1,6 +1,31 @@
 [
   {
     "id": "chunk_05-1",
+    "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+    "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior remote full-stack developer role building a contractor referral and services marketplace platform across web and mobile. Scope covers user accounts, job tracking, payments, dashboards, and admin tools worldwide. No specific tech stack or salary is disclosed.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior full-stack ownership scope fits senior engineering experience",
+      "End-to-end platform delivery from scratch aligns with general software engineering background"
+    ],
+    "cons": [
+      "No Java, Spring Boot, or enterprise backend stack specified",
+      "Domain is consumer/contractor marketplace rather than enterprise, banking, or fintech"
+    ]
+  },
+  {
+    "id": "chunk_05-2",
     "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
     "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
     "source": "WeWorkRemotely_Fullstack",
@@ -8,24 +33,23 @@
     "salary_currency": "N/A",
     "salary_period": "day",
     "years_experience": "N/A",
-    "description_review": "Senior remote integration engineer building MuleSoft/API integrations across Salesforce, SAP and a carrier data lake, with end-to-end production ownership of API contracts, mapping, testing and monitoring. AI copilots and agents are an explicit daily expectation. No salary or years-of-experience stated.",
+    "description_review": "Senior integration engineer role focused on designing and operating enterprise API integrations across MuleSoft, SAP, Salesforce, and carrier data lakes. Emphasizes end-to-end production ownership, API design, contract management, and daily AI-assisted engineering workflows. Remote engagement with day-rate compensation structure.",
     "matched_keywords": [
       "enterprise"
     ],
-    "score": 70,
+    "score": 73,
     "recommendation": "CONSIDER",
     "pros": [
-      "Senior end-to-end API design and integration ownership matches enterprise software strengths",
-      "Enterprise domain (Salesforce, SAP, data lake) aligns with modernization focus",
-      "AI-assisted engineering explicitly required, matching applied AI experience"
+      "Explicit daily AI-assisted engineering and agent workflow matches applied AI background",
+      "Enterprise integration, API contracts, and architecture align with senior enterprise background",
+      "Senior scope with end-to-end production ownership and operational resilience"
     ],
     "cons": [
-      "MuleSoft-centric stack, no Java or Spring Boot in the description",
-      "No salary or years-of-experience data"
+      "Centered on MuleSoft, SAP, and Salesforce rather than core Java and Spring Boot development"
     ]
   },
   {
-    "id": "chunk_05-2",
+    "id": "chunk_05-3",
     "title": "Sticker Mule: AI agent engineer",
     "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
     "source": "WeWorkRemotely_Fullstack",
@@ -33,26 +57,25 @@
     "salary_currency": "USD",
     "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote AI agent engineer at Sticker Mule who identifies agent opportunities, builds and manages a team of autonomous agents, connects them to tools and measures results. Stack is Go, TypeScript, GraphQL, Postgres and GCP; salary $150,000–$250,000 USD per year.",
+    "description_review": "Remote AI agent engineer role building and managing autonomous multi-agent systems integrated with internal and third-party tools. Stack spans Go, TypeScript, GraphQL, Postgres, and GCP with frontier LLMs such as Claude, OpenAI, and Grok. Offers $150,000–$250,000 USD annual salary with a $20,000 signing bonus.",
     "matched_keywords": [
       "typescript",
       "ai agent"
     ],
-    "score": 57,
-    "recommendation": "SKIP",
+    "score": 70,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Building and orchestrating autonomous agents matches multi-agent platform experience",
-      "TypeScript is part of the candidate stack",
-      "Disclosed salary band of $150,000–$250,000 USD fully remote"
+      "Core focus on autonomous multi-agent systems directly matches candidate's multi-agent platform experience",
+      "Stack includes TypeScript and Postgres which fit candidate's complementary skills",
+      "Attractive transparent compensation ($150k–$250k USD) with full remote flexibility"
     ],
     "cons": [
-      "Core stack is Go/GCP/GraphQL, no Java or Spring Boot",
-      "No banking, fintech or enterprise modernization domain",
-      "No seniority requirement stated beyond running agents"
+      "Requires Go rather than candidate's primary Java and Spring Boot stack",
+      "Commerce and manufacturing focus rather than banking, fintech, or legacy modernization"
     ]
   },
   {
-    "id": "chunk_05-3",
+    "id": "chunk_05-4",
     "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
     "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
     "source": "WeWorkRemotely_Fullstack",
@@ -60,24 +83,23 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote senior data engineer for a Data Intelligence Platform on AWS, focused on SQL data modeling, pipeline automation, database performance and scalable data architecture. Touches personalization and recommendation engines; no salary or seniority years stated.",
+    "description_review": "Senior data engineering position architecting and implementing AWS data lake solutions, SQL data models, and automated data pipelines. Supports data intelligence platforms, web services, and analytics infrastructure for internal business units. Remote contractor position with unstated compensation.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 40,
+    "score": 38,
     "recommendation": "SKIP",
     "pros": [
-      "Participates in architecture design of scalable data solutions",
-      "Enterprise data platform environment"
+      "Senior architectural scope covering pipeline automation and scalable data solutions",
+      "Involves web services and relational database optimization"
     ],
     "cons": [
-      "Data engineering focus with no Java, Spring Boot or microservices backend work",
-      "Little applied AI or legacy modernization beyond recommendation engines",
-      "No salary or years-of-experience data"
+      "Pure data engineering and AWS data pipeline role rather than backend software engineering",
+      "No Java, Spring Boot, or microservices application development"
     ]
   },
   {
-    "id": "chunk_05-4",
+    "id": "chunk_05-5",
     "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
     "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
     "source": "WeWorkRemotely_Fullstack",
@@ -85,7 +107,7 @@
     "salary_currency": "N/A",
     "salary_period": "month",
     "years_experience": "5+ years",
-    "description_review": "Senior fullstack contractor role via Proxify for a client, building React.js and Node.js applications with microservices architecture and SQL/MongoDB databases. Requires 5+ years experience and CET timezone; paid monthly with no salary figure disclosed.",
+    "description_review": "Senior remote full-stack developer role requiring 5+ years of experience with Node.js microservices, React.js, SQL, and MongoDB. Focuses on building reusable libraries, low-latency applications, and data storage solutions for global clients. CET (+/- 3 hours) preferred with monthly compensation.",
     "matched_keywords": [
       "microservices",
       "backend",
@@ -94,43 +116,16 @@
       "full-stack",
       "node"
     ],
-    "score": 44,
+    "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Senior fullstack scope with backend depth and microservices architecture",
-      "5+ years seniority requirement matches experience level",
-      "CET timezone alignment"
+      "Senior microservices architecture and API design scope",
+      "Database experience with SQL and MongoDB aligns with candidate's stack",
+      "5+ years senior requirements match candidate's 7+ years of experience"
     ],
     "cons": [
-      "Node.js/React stack instead of Java and Spring Boot",
-      "No banking, fintech or enterprise modernization domain stated",
-      "No applied AI component"
-    ]
-  },
-  {
-    "id": "chunk_05-5",
-    "title": "Fin: Solutions Architect -Spanish Speaking",
-    "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Solutions Architect at Fin (part of Salesforce) acting as trusted advisor to customers on the AI customer agent Fin and Salesforce Agentforce, defining and demonstrating value across the customer journey. NYC/SF remote; no salary or years-of-experience stated.",
-    "matched_keywords": [
-      "ai agent"
-    ],
-    "score": 55,
-    "recommendation": "SKIP",
-    "pros": [
-      "Agentic AI product environment matches applied multi-agent experience",
-      "Enterprise customer exposure within the Salesforce ecosystem",
-      "Spanish-speaking requirement is a differentiator"
-    ],
-    "cons": [
-      "Customer-facing advisory architecture rather than hands-on software engineering",
-      "No Java, Spring Boot, microservices or modernization delivery in the description",
-      "No salary or years-of-experience data"
+      "Stack centered on React.js and Node.js with no Java or Spring Boot",
+      "General client staffing engagement lacking fintech or enterprise modernization context"
     ]
   }
 ]

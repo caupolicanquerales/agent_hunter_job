@@ -1,0 +1,91 @@
+{
+  "chunk": 18,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Backend Developer (.NET) at Proxify",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925598/",
+      "source": "WorkingNomads_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "6+ years",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior .NET Developer to join one of our high-growth client teams as a core backend architect. In this role, you will lead the design and implementation of enterprise-level applications, moving beyond simple CRUD operations to build complex, high-throughput distributed systems. You will be the technical engine behind the client’s product evolution, ensuring that their backend infrastructure is not only performant and secure but also prepared for the latest cloud-native advancements. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 6+ years of professional experience in backend development, with deep expertise",
+      "matched_keywords": [
+        "backend",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior AI Engineer (Backend-Focused) at Proxify",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925596/",
+      "source": "WorkingNomads_AI",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior AI Engineer to join one of our high-growth client teams to lead the development of next-generation autonomous systems. This is a backend-heavy fullstack role where you will be responsible for more than just simple prompt engineering. You will be architecting Agentic Workflows—systems that can reason, use tools, and execute complex coding tasks autonomously. The ideal candidate is a language-agnostic engineer who is obsessed with the Claude ecosystem and has hands-on experience building systems where AI agents interact with real-world data and codebases. You will bridge the gap between advanced LLM capabilities and robust, scalable backend production environments. What we are looking for: Deep expertise in Agentic Devel",
+      "matched_keywords": [
+        "backend",
+        "fullstack",
+        "full-stack",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Senior Salesforce Developer at Proxify",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925592/",
+      "source": "WorkingNomads_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "4 years",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Salesforce Developer with experience to join one of our fast-growing client teams. You will play a key role in building modern web applications, collaborating with cross-functional teams, and helping shape the future of user experiences across various platforms. What we’re looking for: Minimum of 4 years of experience in Salesforce development. Deep understanding of Salesforce architecture, data model, and security model. Strong hands-on experience with Apex, Visualforce, Lightning Web Components (LWC), and SOQL. Proven experience developing custom Salesforce applications and integrations using REST and SOAP APIs. Experience with Salesforce Sales Cloud, Service Cloud, and Experience Cloud. Familiarity with CI/CD tools ",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Senior SAP S/4HANA Developer at Proxify",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925590/",
+      "source": "WorkingNomads_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior SAP S/4HANA Developer on behalf of our client to lead backend and full-stack development within a modern S/4HANA enterprise landscape. In this role, you will take technical ownership of designing, building, and extending mission-critical SAP applications—leveraging modern development paradigms such as the ABAP RESTful Application Programming Model (RAP) and Core Data Services (CDS). You will drive modern, upgrade-stable SAP development by adhering strictly to \"Clean Core\" architectural guidelines. Rather than relying on legacy, modification-heavy ABAP patterns, you will build side-by-side extensions on SAP BTP, expose optimized OData services, push heavy calculations down to the in-memory SAP HANA database, and deliver",
+      "matched_keywords": [
+        "backend",
+        "enterprise",
+        "fullstack",
+        "full-stack",
+        "legacy"
+      ]
+    },
+    {
+      "title": "Senior Vue Developer at Lemon.io",
+      "company": "Lemon.io",
+      "location": "Europe, LATAM, APAC, the U.S., Canada",
+      "link": "https://www.workingnomads.com/job/go/1923073/",
+      "source": "WorkingNomads_AI",
+      "salary": "$11M",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have different positions for Senior Vue Developers, including front-end and full-stack roles. Please check the requirements for each option in the topic below. We also have many other positions available—please check the job listings below. Requirements for Senior Vue.js &amp; Nuxt.js Developer: 4+ ",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "vue"
+      ]
+    }
+  ]
+}

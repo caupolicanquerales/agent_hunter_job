@@ -3,6 +3,21 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Sticker Mule: Software engineer",
+      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$150,000–$250,000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from 40+ countries and collaborate using Asana and Slack. &nbsp; Requirements You are an exceptional full-stack software engineer. You use AI aggressively and write well in English. &nbsp; What you will work on You'll help build and scale&nbsp;Sticker Mule&nbsp;Pro&nbsp;— a suite of software tools for creators and businesses: Stores (Shopify alternative) AI tools (internal and customer-facing) Notify (Mailchimp alternative) Reply (Zendesk alternative) Hire Me (Contra alternative) Mobile apps &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engine",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "typescript"
+      ]
+    },
+    {
       "title": "A.Team: Senior Independent AI Engineer / Architect",
       "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
       "source": "WeWorkRemotely_Fullstack",
@@ -27,22 +42,6 @@
       "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under \"how you heard about A·Team.\" No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue ",
       "matched_keywords": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "Frontend Engineer at Bjak ",
-      "company": "Bjak ",
-      "location": "Singapore",
-      "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
-      "source": "RemoteOK_Java",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinationsOur objective is to organise anyone's life.Â RoleAs a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets.You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work.Â What You'll OwnBuild major web experiences across Chat, Notes, Calendar, Docs, and Sheets.Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets.Build reusable frontend architecture and components that work consistently across ActAI applications.Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows.Own frontend performance, responsiveness, reliability and accessibility across browsers and devices.Wo",
-      "matched_keywords": [
-        "backend",
-        "architecture"
       ]
     },
     {

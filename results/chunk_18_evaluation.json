@@ -1,0 +1,141 @@
+[
+  {
+    "id": "chunk_18-1",
+    "title": "Senior Software Engineer at Phaidra",
+    "company": "Phaidra",
+    "location": "Remote - United States",
+    "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior Software Engineer role at Phaidra developing AI-powered control systems and reinforcement learning agents for industrial automation. Focuses on transforming static, monolithic facilities into adaptive systems through domain-expert configurable agents. Fully remote role based in the United States.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 74,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Strong focus on AI agents and replacing legacy/monolithic control systems",
+      "Senior software engineering scope working on high-impact production AI systems",
+      "Modernization of legacy industrial infrastructure aligns with candidate's modernization background"
+    ],
+    "cons": [
+      "Specialized reinforcement learning/industrial controls stack rather than Java/Spring enterprise stack",
+      "Role is US-based remote, potentially requiring US work authorization"
+    ]
+  },
+  {
+    "id": "chunk_18-2",
+    "title": "ML Engineer at Trunk Tools, Inc.",
+    "company": "Trunk Tools, Inc.",
+    "location": "",
+    "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+    "source": "RemoteOK_ML",
+    "salary": "183000",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "ML Engineer role at Trunk Tools, a Series B funded startup building intelligent automation and multi-agent systems for the construction industry. Responsibilities include owning core search, retrieval, and multi-agent orchestration platforms for production-ready AI agents. Offers $183,000 USD salary.",
+    "matched_keywords": [
+      "ai agent",
+      "multi-agent"
+    ],
+    "score": 81,
+    "recommendation": "APPLY",
+    "pros": [
+      "Directly matches candidate's experience building multi-agent platforms and agent orchestration harnesses",
+      "High-growth Series B AI company deploying production-ready multi-agent workflows",
+      "Clear salary transparency ($183,000 USD) and platform ownership"
+    ],
+    "cons": [
+      "Focus is Machine Learning / ML engineering rather than traditional enterprise Java backend",
+      "May require specialized Python/ML framework depth"
+    ]
+  },
+  {
+    "id": "chunk_18-3",
+    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925654/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Backend Developer position at Proxify working with Node.js and Nest.js for building scalable web applications and APIs. Requires 5+ years of Node.js, 3+ years Nest.js, REST/GraphQL APIs, TypeScript, and relational/NoSQL databases. Remote position for candidates in CET timezone (+/- 3 hours).",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "typescript",
+      "node"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior backend scope focusing on scalable web architectures and REST APIs",
+      "Aligns with candidate's TypeScript and SQL/NoSQL database proficiency",
+      "Full-time remote position tailored for CET (+/- 3 hours) timezone"
+    ],
+    "cons": [
+      "Demands 5+ years Node.js and 3+ years Nest.js as primary requirement instead of Java/Spring Boot",
+      "Lacks banking/fintech domain context and applied GenAI components"
+    ]
+  },
+  {
+    "id": "chunk_18-4",
+    "title": "Senior Cloud Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925640/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Cloud Engineer role at Proxify specializing in Microsoft Azure to design, automate, and maintain cloud infrastructure. Requires 5+ years managing enterprise Azure environments, VNets, container orchestration, CI/CD automation, and zero-trust security. Full-time remote within CET (+/- 3 hours).",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 48,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise infrastructure and container orchestration focus",
+      "Remote role compatible with CET timezone"
+    ],
+    "cons": [
+      "Pure Cloud Engineer / DevOps role rather than software development",
+      "Weak fit per profile guidelines (explicitly advises against pure DevOps/cloud roles)",
+      "No Java, Spring Boot, or application programming scope"
+    ]
+  },
+  {
+    "id": "chunk_18-5",
+    "title": "Senior Data Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925636/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Data Engineer position at Proxify focused on Microsoft Azure data solutions and pipeline orchestration. Requires 5+ years of data engineering, advanced SQL performance tuning, Azure Data Factory/SQL, ETL pipelines, and data warehouse architectures. Fully remote for CET (+/- 3 hours) time zone.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 52,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior scope dealing with enterprise data architecture, complex SQL, and pipeline orchestration",
+      "Remote position matching CET timezone"
+    ],
+    "cons": [
+      "Dedicated Data Engineering/ETL role rather than software engineering/microservices development",
+      "No Java/Spring Boot backend engineering or application development focus",
+      "Lack of banking/fintech domain context or applied AI agent work"
+    ]
+  }
+]

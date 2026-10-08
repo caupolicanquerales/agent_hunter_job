@@ -8,22 +8,21 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior back-end role at fintech Twikey (Ghent, Belgium), focused on developing and improving the platform's back-end, optimizing architecture and data processing with security and stability in mind. Small team working closely with the CTO on scalable, performant, secure systems. No stack details, salary or years of experience stated beyond the Java title.",
+    "description_review": "Senior remote backend developer role at Ghent-based fintech Twikey focusing on core platform development, architecture optimization, and scalable backend systems. The role involves close collaboration with the CTO and development team to build secure, high-performance systems. Direct ownership of platform evolution in a fast-paced fintech environment.",
     "matched_keywords": [
       "backend",
       "architecture",
       "fintech"
     ],
-    "score": 88,
+    "score": 86,
     "recommendation": "APPLY",
     "pros": [
-      "Senior Java back-end role matches core stack (Java, backend ownership)",
-      "Fintech domain aligns with 7+ years banking/fintech experience",
-      "Architecture optimization and ownership scope fits seniority and modernization strengths"
+      "Direct match for core Senior Java backend profile with architecture focus",
+      "Fintech domain aligns with 7+ years banking experience at ICBC and BBVA",
+      "Platform ownership and scalable backend design match senior engineering capabilities"
     ],
     "cons": [
-      "No explicit Spring Boot/microservices or AI mentioned in description",
-      "Salary, seniority years and remote conditions not stated"
+      "Does not explicitly specify Spring Boot version or applied AI/orchestration technologies"
     ]
   },
   {
@@ -35,7 +34,7 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Long-term full-time remote senior backend role (CET) building scalable web applications with Node.js/Nest.js, REST/GraphQL APIs, TypeScript and SQL/NoSQL databases. Nice-to-haves include Docker, microservices, event-driven architecture and CI/CD. No Java, Spring Boot, fintech or AI focus.",
+    "description_review": "Senior backend developer position requiring 5+ years of Node.js and 3+ years of Nest.js for building modern scalable web APIs and microservices. Long-term full-time remote role restricted to candidates located in CET timezone (+/- 3 hours). Requires strong TypeScript, REST/GraphQL, relational and NoSQL databases, and event-driven architecture.",
     "matched_keywords": [
       "java",
       "microservices",
@@ -44,15 +43,15 @@
       "typescript",
       "node"
     ],
-    "score": 45,
+    "score": 56,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend scope with scalable systems, REST APIs and microservices familiarity",
-      "TypeScript knowledge overlaps with profile stack; CET timezone matches"
+      "Senior backend scope involving microservices, REST APIs, and event-driven architecture",
+      "Matches secondary skills in TypeScript, Docker, and relational/NoSQL databases"
     ],
     "cons": [
-      "Core stack is Node.js/Nest.js, no Java or Spring Boot despite keyword match",
-      "Consulting/network model with no banking/fintech or modernization domain signal"
+      "Primary requirement of 5+ years Node.js and Nest.js conflicts with Java/Spring core focus",
+      "Strict CET (+/- 3 hours) timezone restriction may limit location eligibility"
     ]
   },
   {
@@ -64,24 +63,47 @@
     "salary_currency": "N/A",
     "salary_period": "day",
     "years_experience": "N/A",
-    "description_review": "Remote US backend engineer role in Reddit's IAM team, building highly scalable identity, authentication and authorization systems for millions of users, plus backend services and architecture around IAM. No Java/Spring, fintech domain or salary stated; years_experience is N/A despite a day-period salary field.",
+    "description_review": "Remote US-based backend engineer position on Reddit's Identity and Access Management team. The role focuses on designing and building mission-critical, high-scale authentication and authorization systems serving millions of daily users. Involves high-leverage architectural execution and cross-functional collaboration across engineering.",
     "matched_keywords": [
       "backend",
       "architecture"
     ],
-    "score": 50,
-    "recommendation": "SKIP",
+    "score": 66,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Senior-impact backend services and architecture work at large enterprise scale",
-      "Security/IAM systems involve complex, performant distributed design"
+      "Authentication, authorization, and IAM domain aligns with OAuth2, JWT, and security experience",
+      "High-throughput distributed backend architecture fits senior systems engineering profile"
     ],
     "cons": [
-      "No Java/Spring Boot or microservices stack stated in the description",
-      "Remote US only, no banking/fintech or modernization/AI signal"
+      "Specific backend programming language stack is not detailed in the description",
+      "Remote eligibility indicates US workforce focus"
     ]
   },
   {
     "id": "chunk_01-4",
+    "title": "Abnormal: Director of Security Engineering",
+    "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote US director-level engineering leadership role reporting directly to the CISO at AI cybersecurity firm Abnormal. The position entails leading and growing security engineering teams, managing FedRAMP cloud environments, and representing security to executive leaders and auditors. Demands people management and governance over hands-on application development.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 38,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise architecture scope within an AI-driven cybersecurity platform"
+    ],
+    "cons": [
+      "Executive Director/people-management role is a mismatch for a hands-on Senior SWE profile",
+      "Requires extensive CISO-level security governance and FedRAMP compliance expertise rather than software engineering"
+    ]
+  },
+  {
+    "id": "chunk_01-5",
     "title": "Dremio: Software Engineer - Query Execution",
     "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
     "source": "WeWorkRemotely_Fullstack",
@@ -89,48 +111,20 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Portugal remote software engineer role on Dremio's Query Execution team, building well-scoped improvements to the analytical query runtime: query operators, expression evaluation, memory management and scheduling on an open-source lakehouse platform. Enterprise data domain but no Java/Spring, fintech, AI or seniority/salary details stated.",
+    "description_review": "Remote Portugal software engineering role on Dremio's Query Execution team building the core engine for lakehouse analytics. Involves developing query operators, expression evaluation, memory management, and runtime scheduling at scale using Apache Iceberg and Apache Arrow. Focuses on low-level analytical systems performance for enterprise customers.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 40,
-    "recommendation": "SKIP",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise analytics platform with architecture-relevant systems work",
-      "Remote Portugal location is compatible"
+      "Enterprise data lakehouse platform handling large-scale distributed performance and architecture",
+      "Deep technical focus on software quality, performance optimization, and reliable system components"
     ],
     "cons": [
-      "No Java/Spring Boot or microservices signals; data-engine runtime specialty",
-      "Role scoped to 'well-scoped improvements', below senior architecture ownership",
-      "No banking/fintech or applied AI dimension"
-    ]
-  },
-  {
-    "id": "chunk_01-5",
-    "title": "Lemon.io: Senior Angular Full-stack Developer",
-    "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$11M",
-    "salary_currency": "USD",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior full-stack positions via the Lemon.io marketplace placing engineers with startup clients; stacks are Angular combined with PHP, .NET, Node or TypeScript rather than a fixed role. Remote with flexible async schedule; the stated $11M is total platform payouts, not salary. No Java/Spring, fintech or AI content.",
-    "matched_keywords": [
-      "angular",
-      "typescript",
-      "node"
-    ],
-    "score": 55,
-    "recommendation": "SKIP",
-    "pros": [
-      "Senior full-stack scope with Angular and TypeScript match profile frontend skills",
-      "Remote, flexible schedule with no micromanagement"
-    ],
-    "cons": [
-      "Backend options are PHP/.NET/Node, not Java/Spring Boot core stack",
-      "Startup marketplace placement without banking/fintech or architecture ownership",
-      "No applied AI or modernization focus; salary figure is not a pay rate"
+      "Focuses on internal query runtime and database engine mechanics rather than enterprise business microservices/REST APIs",
+      "Listed as remote within Portugal, which may impose regional residency constraints"
     ]
   }
 ]

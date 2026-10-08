@@ -1,0 +1,93 @@
+[
+  {
+    "id": "chunk_19-1",
+    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
+    "company": "CloudGeometry",
+    "location": "Brazil",
+    "link": "https://www.workingnomads.com/job/go/1889808/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "At least 6 years of experience",
+    "description_review": "Full Stack .NET Developer / Algorithm Engineer with backend focus at CloudGeometry, developing healthcare cost reduction systems. Requires 6+ years experience in C#/.NET Core 8+, Entity Framework, microservices, REST APIs, and strong data structures/algorithms. Remote position based in Brazil.",
+    "matched_keywords": [
+      "microservices",
+      "backend",
+      "architecture",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 59,
+    "recommendation": "SKIP",
+    "pros": [
+      "Requires 6+ years experience, microservices architecture, and RESTful APIs",
+      "Matches candidate's C# experience and strong OOP design patterns background",
+      "Focuses on complex data-driven architecture and clean, high-quality code"
+    ],
+    "cons": [
+      "Primary tech stack is .NET/C# rather than core Java/Spring Boot",
+      "Weak fit per profile guidelines for non-AI .NET-only roles",
+      "Role location specified for Brazil"
+    ]
+  },
+  {
+    "id": "chunk_19-2",
+    "title": "Senior back-end Engineer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
+    "link": "https://www.workingnomads.com/job/go/1885527/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Back-end Engineer role via Lemon.io for a research-driven open-source AI infrastructure company. Involves building next-generation AI platforms, requiring 5+ years backend development and 2+ years AI agent development alongside Python, Golang, and Kubernetes. Remote across EU, US, Canada, UK, and Mexico.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "vue",
+      "node",
+      "ai agent"
+    ],
+    "score": 85,
+    "recommendation": "APPLY",
+    "pros": [
+      "Explicit requirement for 2+ years AI agent development directly aligns with candidate's multi-agent platform and harness development",
+      "Senior backend role with extensive remote eligibility (EU, US, Mexico, etc.)",
+      "High alignment with candidate's applied GenAI and software architecture priorities"
+    ],
+    "cons": [
+      "Specific opening mentions Golang/Python as primary languages rather than Java/Spring Boot",
+      "Staffing/matchmaking network model via Lemon.io rather than direct hire"
+    ]
+  },
+  {
+    "id": "chunk_19-3",
+    "title": "Head of Engineering at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, Latin America, USA",
+    "link": "https://www.workingnomads.com/job/go/1878435/",
+    "source": "WorkingNomads_AI",
+    "salary": "$16M",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "10 years",
+    "description_review": "Head of Engineering position at Lemon.io to lead platform transformation from services-driven marketplace to technology-driven platform. Requires 10 years experience to own technical roadmap, lead and grow the engineering team, and make core architecture decisions alongside the founder. Remote in Europe, Latin America, or USA.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Hands-on engineering leadership and architecture ownership for platform transformation",
+      "Remote eligibility across Europe and Latin America"
+    ],
+    "cons": [
+      "Executive Head of Engineering role requiring 10+ years experience, beyond candidate's 7+ years Senior SWE focus",
+      "Salary field falsely captured marketplace annual GMV ($16M) instead of actual compensation",
+      "Does not focus on hands-on Java/Spring Boot microservices development"
+    ]
+  }
+]

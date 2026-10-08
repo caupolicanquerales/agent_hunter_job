@@ -1,129 +1,134 @@
 [
   {
     "id": "chunk_02-1",
-    "title": "PagerDuty: Senior Director, Field Enablement",
-    "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+    "title": "Sticker Mule: Software engineer",
+    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
     "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
+    "salary": "$150,000–$250,000",
+    "salary_currency": "USD",
+    "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote US senior director role leading a global field enablement team supporting PagerDuty's sales, customer success and partnership organizations, building enablement strategy for a SaaS platform with AI agents. This is a people/sales enablement leadership position, not a software engineering role; no stack, salary or years of experience stated.",
+    "description_review": "Fully remote full-stack role at Sticker Mule offering $150k-$250k USD plus $20k signing bonus across 40+ countries. The tech stack uses Go, TypeScript, React, Expo, GraphQL, and Postgres on GCP, shipping web and mobile apps. Requires aggressive AI usage in daily workflows to build internal and consumer-facing tools.",
     "matched_keywords": [
-      "ai agent"
+      "fullstack",
+      "full-stack",
+      "typescript"
     ],
-    "score": 15,
-    "recommendation": "SKIP",
+    "score": 65,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise SaaS environment with AI-first product exposure",
-      "Senior leadership scope in a Fortune-500-serving company"
+      "High compensation ($150k-$250k USD) and fully remote international availability",
+      "Agile product ownership and strong emphasis on applied AI usage align with candidate profile",
+      "TypeScript and PostgreSQL match secondary technical stack"
     ],
     "cons": [
-      "Non-engineering role: sales/customer enablement, not development",
-      "No Java/Spring, architecture or hands-on technical content",
-      "US-only remote location"
+      "Core stack is Go and React/Expo rather than Java and Spring Boot",
+      "E-commerce creator tooling domain differs from banking, fintech, and enterprise modernization"
     ]
   },
   {
     "id": "chunk_02-2",
-    "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
-    "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+    "title": "A.Team: Senior Independent AI Engineer / Architect",
+    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
     "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "AUD",
+    "salary": "$200M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote US backend engineering roles at LaunchDarkly building high-scale distributed systems, event pipelines, SDKs and enterprise workflows, including AI-powered capabilities and AgentControl for software/AI delivery. Platform serves trillions of feature flag evaluations daily; no specific language stack, salary or years of experience stated.",
-    "matched_keywords": [
-      "backend",
-      "enterprise"
-    ],
-    "score": 55,
-    "recommendation": "SKIP",
-    "pros": [
-      "Backend engineering on high-scale distributed systems with enterprise workflows",
-      "Applied AI direction (AI-powered capabilities, AgentControl) matches AI interest",
-      "Strong ownership and technical judgment culture"
-    ],
-    "cons": [
-      "No Java/Spring Boot or microservices stack named in the description",
-      "No banking/fintech or legacy modernization domain",
-      "US remote only; salary field shows AUD with no amount"
-    ]
-  },
-  {
-    "id": "chunk_02-3",
-    "title": "Wrike: Director, Global GTM Strategy & Operations",
-    "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$14",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "N/A",
-    "description_review": "Remote US director role owning Wrike's global go-to-market operations: revenue planning, quota setting, territory management and cross-functional sales/marketing alignment. A commercial/operations leadership position with no engineering, stack or AI development content; salary field reads $14/year (likely misparsed from a $14B market figure).",
+    "description_review": "Remote contract network role (Americas, Europe, Israel) with A.Team for senior AI architects and engineers building production systems. Focuses on agent architectures, orchestration frameworks, enterprise AI deployments, and LLM reliability infrastructure. Engagements involve working directly with startup founders and enterprise CTOs to ship production AI solutions.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 5,
-    "recommendation": "SKIP",
+    "score": 83,
+    "recommendation": "APPLY",
     "pros": [
-      "Enterprise-scale organizational scope"
+      "Agent architectures and orchestration systems directly match candidate's multi-agent platform and modernization harness work",
+      "Enterprise AI deployment scope leverages candidate's senior software architecture and enterprise background",
+      "Remote availability across Americas and Europe accommodates candidate location"
     ],
     "cons": [
-      "Non-technical GTM/sales operations role, not software engineering",
-      "No Java, backend, architecture or AI engineering content",
-      "Keyword match on 'architecture' refers to operational, not software, architecture"
+      "Talent network marketplace / freelance contract structure rather than permanent full-time employment"
+    ]
+  },
+  {
+    "id": "chunk_02-3",
+    "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$90-$170",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote invite-only network role with A.Team offering $90-$170/hr for senior software developers on high-impact projects. Small autonomous teams build ambitious greenfield software and scale enterprise platforms for venture-backed startups and enterprises. Designed for senior engineers from large corporate backgrounds seeking autonomous mission-based work.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 76,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Competitive hourly rate ($90-$170/hr) with full autonomy on project selection",
+      "Targeting senior developers exiting large enterprises matches 7+ years corporate banking background",
+      "High-impact distributed system and product architecture opportunities"
+    ],
+    "cons": [
+      "Marketplace/contract-based model without guaranteed ongoing salary",
+      "No specific mention of Java, Spring Boot, or core AI agent toolsets in the overview listing"
     ]
   },
   {
     "id": "chunk_02-4",
-    "title": "Tailscale: Backend Engineer, Control Plane",
-    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
+    "title": "Frontend Engineer at Bjak ",
+    "company": "Bjak ",
+    "location": "Ireland",
+    "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "source": "RemoteOK_Java",
+    "salary": "0",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote United States backend engineer role on Tailscale's Control Plane team, contributing to open-source client code and backend services with full product-lifecycle ownership at an early-stage distributed company. No Java/Spring, fintech or AI content; no salary or years of experience stated.",
+    "description_review": "Remote frontend engineer role at Bjak (ActAI) based in Ireland building AI-native productivity apps such as chat, notes, calendar, and sheets. Focuses heavily on frontend UI architecture, real-time messaging, streaming AI responses, and rich text editors. Heavy web client specialization collaborating with backend and AI engineers.",
     "matched_keywords": [
-      "backend"
+      "backend",
+      "architecture"
     ],
-    "score": 40,
+    "score": 48,
     "recommendation": "SKIP",
     "pros": [
-      "Backend services with strong end-to-end product ownership",
-      "Fully distributed, remote-friendly engineering culture"
+      "Work with streaming AI responses and proactive agent workflows aligns with applied AI interests",
+      "Candidate possesses frontend experience in TypeScript and Angular/Vue"
     ],
     "cons": [
-      "No Java/Spring Boot or enterprise microservices stack stated",
-      "Networking/control-plane specialty, no banking/fintech or modernization angle",
-      "US remote only; early-stage scope rather than enterprise architecture"
+      "Pure frontend engineering role mismatches the candidate's core backend/Java/Spring strengths",
+      "Location listed in Ireland with unclear global remote eligibility"
     ]
   },
   {
     "id": "chunk_02-5",
-    "title": "Tailscale: Backend Engineer, Control Plane",
-    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
+    "title": "AI agent engineer at Sticker Mule",
+    "company": "Sticker Mule",
+    "location": "",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "source": "RemoteOK_Java",
+    "salary": "150000",
+    "salary_currency": "USD",
+    "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote Canada backend engineer role on Tailscale's Control Plane team, same posting as the US variant: open-source client code plus backend services with full product-lifecycle ownership. No Java/Spring, fintech or AI content; no salary or years of experience stated.",
+    "description_review": "Fully remote AI agent engineer role at Sticker Mule offering $150k-$250k USD plus a $20k signing bonus. Entails building, managing, and connecting autonomous AI agent teams to third-party and internal systems using Claude, OpenAI, Grok, and open-source models. The technical environment leverages Go, TypeScript, GraphQL, Postgres, and GCP.",
     "matched_keywords": [
-      "backend"
+      "typescript",
+      "ai agent"
     ],
-    "score": 38,
-    "recommendation": "SKIP",
+    "score": 82,
+    "recommendation": "APPLY",
     "pros": [
-      "Backend services with full lifecycle ownership",
-      "Fully distributed remote engineering culture"
+      "Autonomous AI agent engineering and orchestration directly maps to candidate's multi-agent platform and harness development",
+      "Excellent compensation ($150k-$250k USD + $20k bonus) and global remote structure",
+      "Strong hands-on application of modern LLMs and agent tool use"
     ],
     "cons": [
-      "No Java/Spring Boot or enterprise microservices stack stated",
-      "Canada remote only, outside common hiring regions for this search",
-      "No banking/fintech, modernization or applied AI dimension"
+      "Codebase uses Go, TypeScript, and GraphQL rather than Java/Spring Boot core backend",
+      "E-commerce manufacturing domain rather than banking or financial services"
     ]
   }
 ]

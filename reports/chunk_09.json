@@ -3,90 +3,80 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Senior back-end Engineer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
-      "link": "https://www.workingnomads.com/job/go/1885527/",
-      "source": "WorkingNomads_Dev",
-      "salary": "N/A",
-      "salary_currency": "EUR",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python &amp; LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue,",
+      "title": "Scrum Master at Blackstone Talent Group",
+      "company": "Blackstone Talent Group",
+      "location": "Dallas-Fort Worth Metroplex",
+      "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
+      "source": "RemoteOK_AI",
+      "salary": "0",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "3 years",
+      "description": "Scrum Master (Contractor) â Job DescriptionPosition Details:Location: Dallas, Tx (Remote)Type: 6 Month Contract - NO C2CResponsibilities: Support Agile delivery for assigned team(s) under guidance of the Senior Scrum Master LeadFacilitate team-level Agile ceremonies (daily standups, spring planning, refinement, reviews, etc.)Maintain team boards and delivery artifacts (e.g., Jira storyboards, sprint backlogs) ensuring work is current and accurately trackedAssist with sprint forecasting, capacity planning and backlog readinessTrack and escalate impediments, risks, and dependencies to the Senior Scrum Master Lead, follow through on action itemsHelp monitor and report basic delivery metrics and support status updatesPromote Agile best practices and help the team adopt consistent working agreements and continuous improvement actionsBuild working relationships with IT team members and business stakeholdersRequired Skills and Qualifications:1-3 years of experience in an Agile delivery roleWorking knowledge of Scrum fundamentals and Agile principlesStrong organization and attention to detailClear written and verbal communication skills; able to raise risks/issues earlyExperience with Agile delivery tools such as Jira, Confluence, and ServiceNowScrum Master certification a plusBlackstone Talent Group is a division of Blackstone Technology Group, a global IT services and solutions firm that implements technological solutions across commercial industry verticals and the US Federal Go",
       "matched_keywords": [
-        "java",
-        "backend",
-        "architecture",
-        "vue",
-        "ai agent"
+        "spring"
       ]
     },
     {
-      "title": "Head of Engineering at Lemon.io",
-      "company": "Lemon.io",
-      "location": "Europe, Latin America, USA",
-      "link": "https://www.workingnomads.com/job/go/1878435/",
-      "source": "WorkingNomads_Dev",
-      "salary": "$16M",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "years_experience": "10 years",
-      "description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qualified, vetted candidates within 24 hours without the grind. This is a pivotal moment: we’re transitioning from a services-driven marketplace to a technology-driven platform. We need an engineering leader who can drive that transformation. The Role You will own engineering at Lemon.io. You’ll lead a growing team of engineers, make critical architecture and prioritization decisions, and be directly accountable for the speed and quality of what we ship. This is not a management-layer role. You’ll be hands-on, deeply involved in product decisions, and working side by side with the founder. What You’ll Do: Own the technical roadmap and make sure every engineering effort maps directly to business impact. No features for features’ sake. Lead and grow an engineering team that ships fast, iterates constantly, and treats complexity as a cost. Tackle the hard, multi-layered problem: automated vet",
-      "matched_keywords": [
-        "architecture"
-      ]
-    },
-    {
-      "title": "Senior Java & React Developer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "Europe, LATAM, APAC, the U.S., Canada",
-      "link": "https://www.workingnomads.com/job/go/1844110/",
-      "source": "WorkingNomads_Dev",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "4+ years",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your location, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have different projects for Java &amp; React Developers from different locations, remote. Requirements: 4+ years of commercial software development experience; 3+ years of commercial experience with React (required); 3+ years of commercial experience with Java (required). Also, we have an urgent project fo",
-      "matched_keywords": [
-        "java"
-      ]
-    },
-    {
-      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
-      "company": "CodeForAI",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-      "source": "Remotive_Dev",
-      "salary": "N/A",
-      "salary_currency": "AUD",
+      "title": "Help Desk at Zenius Corporation",
+      "company": "Zenius Corporation",
+      "location": "Colorado, ",
+      "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
+      "source": "RemoteOK_AI",
+      "salary": "0",
+      "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Who Should Apply We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit: Software Engineers &amp; Computer Scientists specializing in algorithms, data structures, or system design. Full-Stack &amp; Web Developers working with modern front-end or back-end frameworks (JavaScript, TypeScript, React, Node.js, Python, PHP, Ruby, etc.). Backend &amp; Systems Developers experienced in languages such as C++, Java, Go, Rust, or Python. DevOps &amp; Database Engineers familiar with API design, SQL/NoSQL databases, or scripting. Role &amp; Responsibilities As an AI Code Trainer, you will evaluate model-generated code, author reference solutions, and stress-test AI reasoning across various engineering domains. Code Auditing &amp; Quality Analysis: Critique AI-generated solutions for logic, performance, security vulnerabilities, syntax, and coding best practices. Gold-Standard Solutions: Write clean, production-grade reference code and clear technical explanations for complex programming prompts. Test Design: Build unit tests and edge-case scenarios to evaluate model accuracy and expose edge-case failures. Technical Feedback: Write structured explanations detailing why an AI solution succeeds, fails, or produces bugs. Requirements Software Engineering Proficiency: Strong core fundamentals in at least one major programming language or web stack (e.g., Python, JavaScript/TypeScript, Jav",
+      "description": "Help Desk SpecialistLocation: RemotePosition SummaryWe are seeking a Help Desk Specialist to provide Tier 1/Tier 2 support for a Grants Management System (GMS). The selected candidate will serve as the primary point of contact for users, troubleshoot system issues, manage support tickets, assist with user access, and provide training and documentation support.Key ResponsibilitiesRespond to and resolve user support requests via phone, email, and ticketing systems.Troubleshoot application access, user account, workflow, reporting, and system-related issues.Create, modify, and maintain user accounts and permissions.Track, prioritize, and resolve tickets in accordance with service level requirements.Escalate complex technical issues as needed.Develop and maintain user guides, FAQs, and training materials.Conduct user onboarding and training sessions.Support system testing, updates, and ongoing maintenance activities.Required Qualifications2+ years of Help Desk, Application Support, or Customer Support experience.Experience supporting web-based applications or enterprise systems.Strong troubleshooting, communication, and customer service skills.Experience using ticketing systems and managing support requests.Ability to create documentation and train end users.Preferred QualificationsExperience supporting Grants Management Systems (GMS).Experience supporting state, local, or federal government clients.Knowledge of grants administration processes and compliance requirements.Experien",
       "matched_keywords": [
-        "java",
-        "backend",
-        "fullstack",
-        "full-stack",
-        "typescript",
-        "node"
+        "enterprise"
       ]
     },
     {
-      "title": "Senior back-end Engineer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "source": "Remotive_Dev",
-      "salary": "N/A",
-      "salary_currency": "EUR",
+      "title": "Junior Project Designer at Archinect",
+      "company": "Archinect",
+      "location": "Hoboken, ",
+      "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
+      "source": "RemoteOK_AI",
+      "salary": "0",
+      "salary_currency": "N/A",
       "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python &amp; LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, ",
+      "years_experience": "N/A",
+      "description": "MHS Architecture EmployerHoboken, NJ, US (remote possible)Location:Full-timeTypeWed, Jun 17 '26Posted on:MHS Architecture is an award-winning interdisciplinary design office with a rich 40-year history specializing in Architecture, Planning, Urban Design, and Interior Design. This legacy has established a strong foothold in the New Jersey mixed-use residential development market through a commitment to design excellence and project realization. Building on this foundation, MHS Architecture is on a path to expand its body of work to include more prominent and complex projects, boost the integration of emerging technologies into our design process, further grow our interior design services, and expand our presence in other urban regions.We are seeking highly motivated, dedicated, and creative individuals who are enthusiastic about being part of the expansion and upward trajectory of MHS Architecture and the career development opportunities this growth allows for. We offer an engaging work culture, competitive pay and benefits packages, and a dynamic work environment with opportunities for personal growth and development.Position SummaryThe Project Designer supports the design and development of architectural projects from early concepts through construction documentation. This role collaborates closely with other team members, and consultants to produce high-quality design solutions that meet client objectives, technical requirements, and firm standards. The ideal candidate pos",
       "matched_keywords": [
-        "java",
-        "backend",
         "architecture",
-        "ai agent"
+        "legacy"
+      ]
+    },
+    {
+      "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
+      "company": "Liquid AI",
+      "location": "Cambridge",
+      "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
+      "source": "RemoteOK_ML",
+      "salary": "0",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Liquid AISpun out of MIT CSAIL, we build general-purpose AI systems that run efficiently across deployment targets, from data center accelerators to on-device hardware, ensuring low latency, minimal memory usage, privacy, and reliability. We partner with enterprises across consumer electronics, automotive, life sciences, and financial services. We are scaling rapidly and need exceptional people to help us get there.The OpportunityThis is a rare chance to apply frontier sequential recommendation architectures to real enterprise problems at scale. You will own applied ML work end-to-end for recommendation system workloads, adapting Liquid Foundation Models for customers who need personalization and ranking capabilities that run efficiently under production constraints.Unlike most recommendation roles that are siloed into a single product surface, this role gives you full ownership over how large-scale recommendation models are adapted, evaluated, and deployed for enterprise customers. Between engagements, you will build reusable applied tooling and workflows that accelerate future delivery.If you care about data quality at scale, user behavior modeling, and making recommendation systems actually work in enterprise production environments, this is the role.What Weâre Looking ForWe need someone who:Takes ownership: Owns customer recommendation system engagements end-to-end, from requirements through delivery and evaluation.Thinks at scale: Can reason about user interactio",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Don't See Your Role Apply Here at Reflection",
+      "company": "Reflection",
+      "location": "London, ",
+      "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
+      "source": "RemoteOK_ML",
+      "salary": "0",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Our MissionReflectionâs mission is to build open superintelligence and make it accessible to all.Weâre developing open weight models for individuals, agents, enterprises, and even nation states. Our team of AI researchers and company builders come from DeepMind, OpenAI, Google Brain, Meta, Character.AI, Anthropic and beyond.We're always open to great people. If you're aligned with our mission but don't see the right role, we'd love to hear from you.What We OfferWe believe that to build superintelligence that is truly open, you need to start at the foundation. Joining Reflection means building from the ground up as part of a small talent-dense team. You will help define our future as a company, and help define the frontier of open foundational models.We want you to do the most impactful work of your career with the confidence that you and the people you care about most are supported.Top-tier compensation: Salary and equity structured to recognize and retain the best talent globally.Health &amp; wellness: Comprehensive medical, dental, vision, life, and disability insurance.Life &amp; family: Fully paid parental leave for all new parents, including adoptive and surrogate journeys. Financial support for family planning.Benefits &amp; balance: paid time off when you need it, relocation support, and more perks that optimize your time. Opportunities to connect with teammates: lunch and dinner are provided daily. We have regular off-sites and team celebrations.Please mention the",
+      "matched_keywords": [
+        "enterprise"
       ]
     }
   ]

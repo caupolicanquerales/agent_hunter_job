@@ -1,0 +1,140 @@
+[
+  {
+    "id": "chunk_16-1",
+    "title": "Senior Independent AI Engineer / Architect at A.Team",
+    "company": "A.Team",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+    "source": "Remotive_AI",
+    "salary": "$200M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior AI Engineer / Architect opening with invite-only builder network A.Team developing production AI systems for enterprises and global companies. Focuses on agent architectures, orchestration systems, enterprise AI deployments, and evaluation infrastructure. Remote for candidates located across the Americas, Europe, or Israel.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 86,
+    "recommendation": "APPLY",
+    "pros": [
+      "Outstanding fit for candidate's multi-agent platform and orchestration system development experience",
+      "Emphasizes enterprise-grade AI production deployments and architectural trade-offs",
+      "Senior architect scope working directly with leadership on high-impact projects"
+    ],
+    "cons": [
+      "Consulting/network model rather than a single in-house engineering team",
+      "Does not specifically mention Java/Spring Boot in the core summary"
+    ]
+  },
+  {
+    "id": "chunk_16-2",
+    "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
+    "company": "Mitre Media",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "source": "Remotive_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Tech Lead Full-Stack role at Mitre Media architecting LLM-powered financial web applications within a microservices-based Rails 8 platform. Powers fintech platforms like Dividend.com and MutualFunds.com serving asset managers like BlackRock. Remote role requiring timezone overlap within ±3 hours of Eastern Time.",
+    "matched_keywords": [
+      "microservices",
+      "fintech",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 66,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Strong fintech domain alignment serving institutional asset managers and individual investors",
+      "Senior Tech Lead scope covering microservices architecture and LLM integration into production workflows"
+    ],
+    "cons": [
+      "Core backend stack is Ruby on Rails 8 where candidate has no professional experience",
+      "Strict requirement for expert Rails development rather than Java/Spring Boot"
+    ]
+  },
+  {
+    "id": "chunk_16-3",
+    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925654/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Backend role at Proxify developing scalable web applications and APIs for client projects. Requires 5+ years with Node.js and 3+ years with Nest.js, alongside TypeScript, REST/GraphQL APIs, and SQL/NoSQL databases like PostgreSQL and MongoDB. Remote role aligned with CET (±3 hours) timezone.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "typescript",
+      "node"
+    ],
+    "score": 59,
+    "recommendation": "SKIP",
+    "pros": [
+      "Requires 5+ years backend engineering and strong TypeScript and MongoDB knowledge matching candidate skills",
+      "Remote CET timezone compatibility offering long-term full-time flexibility"
+    ],
+    "cons": [
+      "Strict core requirement of 5+ years Node.js and 3+ years Nest.js rather than Java/Spring Boot",
+      "Lacks enterprise modernization, banking/fintech domain, or applied AI focus"
+    ]
+  },
+  {
+    "id": "chunk_16-4",
+    "title": "Senior Cloud Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925640/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Cloud Engineer opening at Proxify dedicated to managing and automating enterprise Microsoft Azure infrastructure for client teams. Requires 5+ years hands-on experience with Azure networking (VNets, ExpressRoute), container orchestration, CI/CD pipelines, and zero-trust security compliance. Full-time remote within CET (±3 hours).",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 46,
+    "recommendation": "SKIP",
+    "pros": [
+      "Addresses enterprise infrastructure automation, container orchestration, and security governance",
+      "Full-time remote flexibility with CET timezone compatibility"
+    ],
+    "cons": [
+      "Pure DevOps and Azure cloud infrastructure role, categorized as weak fit in candidate profile",
+      "No software engineering, backend microservices, or Java development responsibilities"
+    ]
+  },
+  {
+    "id": "chunk_16-5",
+    "title": "Senior Data Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925636/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Data Engineer role at Proxify designing ETL pipelines, data integrations, and data warehouse architectures on Microsoft Azure. Requires 5+ years of data engineering experience with Azure SQL, Azure Data Factory, complex SQL optimization, and data governance. Full-time remote within CET (±3 hours).",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Values deep data architecture, pipeline orchestration, and advanced SQL performance tuning",
+      "Senior remote opportunity compatible with CET timezone"
+    ],
+    "cons": [
+      "Pure Data Engineering and Azure ETL focus outside candidate's backend software engineering core",
+      "Lacks Java/Spring Boot development, microservices, and applied AI systems"
+    ]
+  }
+]

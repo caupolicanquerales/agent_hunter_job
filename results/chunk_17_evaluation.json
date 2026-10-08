@@ -1,0 +1,132 @@
+[
+  {
+    "id": "chunk_17-1",
+    "title": "Twikey: Senior Java Developer",
+    "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior Java backend developer role at Twikey, a fast-evolving fintech company headquartered in Ghent, Belgium. The position involves designing scalable, secure backend systems, optimizing architecture, and core application development in a small collaborative engineering team. Remote friendly with Ghent HQ.",
+    "matched_keywords": [
+      "backend",
+      "architecture",
+      "fintech"
+    ],
+    "score": 92,
+    "recommendation": "APPLY",
+    "pros": [
+      "Senior Java backend role directly aligns with 7+ years Java/backend expertise",
+      "Fintech domain perfectly matches 6+ years banking/fintech background at Accenture (ICBC/BBVA)",
+      "Ownership over backend architecture, scalability, and secure data processing"
+    ],
+    "cons": []
+  },
+  {
+    "id": "chunk_17-2",
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Backend Developer position at Proxify focusing on Node.js and Nest.js frameworks for building scalable web applications and APIs. Requires 5+ years of Node.js, 3+ years of Nest.js, REST/GraphQL APIs, TypeScript, and database experience. Fully remote for candidates located in CET timezone (+/- 3 hours).",
+    "matched_keywords": [
+      "java",
+      "microservices",
+      "backend",
+      "architecture",
+      "typescript",
+      "node"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior backend scope with REST APIs, microservices, and Docker containerization",
+      "Matches candidate's TypeScript/Node and MongoDB/relational database experience",
+      "Requires CET timezone (+/- 3 hours) for full-time remote setup"
+    ],
+    "cons": [
+      "Primary requirement is 5+ years Node.js and 3+ years Nest.js rather than Java/Spring Boot",
+      "Lacks banking/fintech domain focus and applied AI elements"
+    ]
+  },
+  {
+    "id": "chunk_17-3",
+    "title": "Reddit: Backend Engineer, IAM",
+    "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Backend Engineer role in Identity and Access Management (IAM) at Reddit, supporting hundreds of millions of daily active users. Focuses on architecting performant, scalable identity, authentication, and authorization services. Remote-friendly role based in the United States.",
+    "matched_keywords": [
+      "backend",
+      "architecture"
+    ],
+    "score": 64,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Backend architecture focus on Identity & Access Management (IAM), authentication, and authorization",
+      "Enterprise-scale distributed backend systems with high scalability and performance demands"
+    ],
+    "cons": [
+      "Description does not specify Java or Spring Boot stack",
+      "Remote-friendly role based in US, potentially with US work authorization requirements"
+    ]
+  },
+  {
+    "id": "chunk_17-4",
+    "title": "Abnormal: Director of Security Engineering",
+    "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director of Security Engineering position at Abnormal AI reporting directly to the CISO. Responsibilities include building security engineering teams, leading FedRAMP/cloud authorization programs, and executive stakeholder engagement. Remote USA role requiring extensive people and security organization leadership.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 44,
+    "recommendation": "SKIP",
+    "pros": [
+      "Behavioral AI and cloud security architecture environment",
+      "Leadership scope valuing software engineering background"
+    ],
+    "cons": [
+      "Executive people leadership/Director role rather than individual contributor Senior Software Engineer",
+      "Requires building security teams from scratch and leading FedRAMP regulatory compliance",
+      "Mismatched with core Java/Spring Boot development focus"
+    ]
+  },
+  {
+    "id": "chunk_17-5",
+    "title": "Dremio: Software Engineer - Query Execution",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Software Engineer position at Dremio on the Query Execution team building runtime engines for lakehouses using Apache Iceberg and Apache Arrow. Focuses on query operators, expression evaluation, memory management, and execution scheduling at scale. Remote role based in Portugal.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Enterprise data platform powering analytics and AI lakehouses with open technologies",
+      "Complex systems architecture focusing on runtime execution, memory management, and performance",
+      "Remote opportunity based in Portugal (EU timezone)"
+    ],
+    "cons": [
+      "Focus is on low-level query engine runtime internals rather than enterprise microservices/REST APIs",
+      "Does not explicitly mention Java/Spring Boot framework requirements in the job description"
+    ]
+  }
+]

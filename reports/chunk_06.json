@@ -3,6 +3,19 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Fin: Solutions Architect -Spanish Speaking",
+      "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: NYC, Remote; San Francisco, California Fin, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce.What's the opportunity?&nbsp; Fin is looking for an exceptional Solutions Architect to join our vibrant Customer Solutions Team. In this role, you’ll engage directly with our customers as their trusted advisor, playing a pivotal part in defining and demonstrating value across the ent",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
       "title": "Toptal: Power Platform Solutions Architect",
       "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
       "source": "WeWorkRemotely_Fullstack",
@@ -59,21 +72,6 @@
         "backend",
         "node",
         "rest api"
-      ]
-    },
-    {
-      "title": "Sticker Mule: Software engineer",
-      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "$150,000–$250,000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "years_experience": "N/A",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from 40+ countries and collaborate using Asana and Slack. &nbsp; Requirements You are an exceptional full-stack software engineer. You use AI aggressively and write well in English. &nbsp; What you will work on You'll help build and scale&nbsp;Sticker Mule&nbsp;Pro&nbsp;— a suite of software tools for creators and businesses: Stores (Shopify alternative) AI tools (internal and customer-facing) Notify (Mailchimp alternative) Reply (Zendesk alternative) Hire Me (Contra alternative) Mobile apps &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engine",
-      "matched_keywords": [
-        "fullstack",
-        "full-stack",
-        "typescript"
       ]
     }
   ]

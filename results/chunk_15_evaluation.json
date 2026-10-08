@@ -1,0 +1,145 @@
+[
+  {
+    "id": "chunk_15-1",
+    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
+    "company": "CodeForAI",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+    "source": "Remotive_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote AI Code Trainer role evaluating model-generated solutions across algorithms, system design, and web stacks at CodeForAI. Involves reviewing AI code for security, logic, and performance, authoring reference implementations, and building edge-case unit tests. Open to backgrounds in Java, Python, and TypeScript.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "fullstack",
+      "full-stack",
+      "typescript",
+      "node"
+    ],
+    "score": 47,
+    "recommendation": "SKIP",
+    "pros": [
+      "Directly values Java, TypeScript, and algorithmic problem-solving capabilities",
+      "Applied AI evaluation work touches model code auditing and unit test validation"
+    ],
+    "cons": [
+      "Training/benchmarking role rather than hands-on senior software engineering or microservices development",
+      "Lacks enterprise architecture, modernization, and production system delivery"
+    ]
+  },
+  {
+    "id": "chunk_15-2",
+    "title": "Senior back-end Engineer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+    "source": "Remotive_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior remote backend opening connecting developers with an AI infrastructure company via Lemon.io talent network. Requires 5+ years of software experience, with primary needs in Golang, Python, Kubernetes, and AI agent development, while also placing React & Java roles. Remote across the US, UK, Canada, and Singapore.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "vue",
+      "node",
+      "ai agent"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Aligns with senior AI agent architecture and automation background",
+      "Senior backend scope requiring 5+ years of software engineering experience",
+      "Includes placement opportunities for React and Java ecosystems"
+    ],
+    "cons": [
+      "Primary featured openings emphasize Golang and Python rather than core Java/Spring Boot",
+      "Marketplace placement rather than direct enterprise team role"
+    ]
+  },
+  {
+    "id": "chunk_15-3",
+    "title": "Senior AI Engineer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+    "source": "Remotive_AI",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "3+ years",
+    "description_review": "Senior remote AI Engineer opening at Lemon.io focusing on AI Agent and AI Automation architecture for US and European startups. Requires 3+ years in AI solutions, Python, vector databases (Pinecone/Weaviate), LangChain, and LLM orchestration. Offers flexible hours and async remote work.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 73,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Directly matches applied AI agent architecture and LLM orchestration experience",
+      "Covers vector databases and modern AI engineering workflows",
+      "Offers flexible remote work with high autonomy"
+    ],
+    "cons": [
+      "Demands Python and LangChain rather than candidate's core Java/Spring Boot enterprise stack",
+      "Agency talent marketplace rather than direct enterprise engineering team"
+    ]
+  },
+  {
+    "id": "chunk_15-4",
+    "title": "Senior .NET Full-stack Developer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+    "source": "Remotive_AI",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "4+ years",
+    "description_review": "Senior remote full-stack role at Lemon.io with multiple openings across .NET & React, C# & .NET, and Angular & .NET. Requires 4+ years software development experience, 3+ years with .NET, along with React or Angular and TypeScript proficiency. Fully remote serving US and European startup clients.",
+    "matched_keywords": [
+      "angular",
+      "typescript"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Highlights Angular & .NET track where candidate has 6 years of Angular/TypeScript experience",
+      "Matches senior full-stack responsibilities delivering end-to-end features"
+    ],
+    "cons": [
+      "Primary backend requirement is .NET/C# rather than core Java/Spring Boot",
+      "Lacks enterprise banking/fintech domain and AI modernization elements"
+    ]
+  },
+  {
+    "id": "chunk_15-5",
+    "title": "Senior Data Scientist at Lemon.io",
+    "company": "Lemon.io",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+    "source": "Remotive_AI",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "4+ years",
+    "description_review": "Senior Data Scientist opening at Lemon.io for US/EU startups requiring 4+ years of data science and 3+ years of Python and Databricks. Core responsibilities include building RAG systems and LLM applications from scratch with robust architecture. Flexible remote schedule with async communication.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 53,
+    "recommendation": "SKIP",
+    "pros": [
+      "Focuses on RAG and LLM application architecture where candidate has practical applied AI skills",
+      "Senior level autonomous remote work environment"
+    ],
+    "cons": [
+      "Position is dedicated Data Science rather than Software Engineering or backend development",
+      "Requires Databricks and data science modeling outside candidate's core backend profile"
+    ]
+  }
+]

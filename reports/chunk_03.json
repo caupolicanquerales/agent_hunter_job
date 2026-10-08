@@ -3,6 +3,19 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Tailscale: Backend Engineer, Control Plane",
+      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the product fo",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
       "title": "Stripe: Abuse Research Engineer",
       "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
       "source": "WeWorkRemotely_Fullstack",
@@ -57,19 +70,6 @@
         "fintech",
         "banking",
         "legacy"
-      ]
-    },
-    {
-      "title": "ZoomInfo Technologies LLC: Director, Applied AI",
-      "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead. What You'll Do You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review. You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data. You will choose the right method for eac",
-      "matched_keywords": [
-        "ai agent"
       ]
     }
   ]

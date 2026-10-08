@@ -1,144 +1,134 @@
 [
   {
     "id": "chunk_09-1",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
-    "link": "https://www.workingnomads.com/job/go/1885527/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "EUR",
-    "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior remote back-end role at an AI infrastructure startup placed via Lemon.io, requiring 5+ years of experience plus Golang/Python, Kubernetes and 2+ years of AI agent development. Wide international remote coverage across EU, US and APAC; no salary stated. Backend and AI agent work matches part of the profile, but the core language stack is Go/Python rather than Java/Spring.",
+    "title": "Scrum Master at Blackstone Talent Group",
+    "company": "Blackstone Talent Group",
+    "location": "Dallas-Fort Worth Metroplex",
+    "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "3 years",
+    "description_review": "Scrum Master contractor role at Blackstone Talent Group facilitating Agile ceremonies, Jira boards, and delivery tracking. Matched 'spring' due to 'spring planning' typo in text; no software development or engineering responsibilities. Remote 6-month contract in Dallas, TX.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "architecture",
-      "vue",
-      "ai agent"
+      "spring"
     ],
-    "score": 51,
+    "score": 10,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend scope with 5+ years expectation fits experience level",
-      "AI agent development (2+ yrs required) aligns with multi-agent platform background"
+      "Agile/Scrum delivery experience in enterprise IT settings"
     ],
     "cons": [
-      "Core stack is Golang/Python/Kubernetes, not Java/Spring Boot",
-      "No banking, fintech or enterprise modernization domain"
+      "Non-engineering project management/Scrum Master role with no software development",
+      "False keyword match on 'spring planning' typo, zero Java/Spring Boot",
+      "6-month contract with strict US NO C2C requirement"
     ]
   },
   {
     "id": "chunk_09-2",
-    "title": "Head of Engineering at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, Latin America, USA",
-    "link": "https://www.workingnomads.com/job/go/1878435/",
-    "source": "WorkingNomads_Dev",
-    "salary": "$16M",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "10 years",
-    "description_review": "Hands-on Head of Engineering at Lemon.io, a 10-year-old talent marketplace, leading a growing team and owning architecture, technical roadmap and prioritization alongside the founder. Remote across Europe, Latin America and the USA, with a stated $16M annual GMV figure (not salary). Strong architecture and leadership scope, but no Java/Spring or banking context is described.",
+    "title": "Help Desk at Zenius Corporation",
+    "company": "Zenius Corporation",
+    "location": "Colorado, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Tier 1/2 Help Desk Specialist at Zenius Corporation supporting a Grants Management System (GMS). Involves user access management, ticketing, troubleshooting, and end-user onboarding. Remote support role requiring 2+ years customer/help desk experience.",
     "matched_keywords": [
-      "architecture"
+      "enterprise"
     ],
-    "score": 44,
+    "score": 5,
     "recommendation": "SKIP",
     "pros": [
-      "Hands-on architecture and prioritization decisions match senior architecture strengths",
-      "10-year requirement aligns with 7+ years of senior engineering experience"
+      "Experience with enterprise web applications support"
     ],
     "cons": [
-      "Engineering management/leadership role rather than senior individual-contributor Java work",
-      "No Java, Spring Boot, microservices stack or enterprise/banking domain mentioned"
+      "Tier 1/2 Help Desk support role, completely unrelated to software engineering",
+      "No Java, Spring Boot, microservices, or backend development",
+      "No architectural or coding responsibilities"
     ]
   },
   {
     "id": "chunk_09-3",
-    "title": "Senior Java & React Developer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, LATAM, APAC, the U.S., Canada",
-    "link": "https://www.workingnomads.com/job/go/1844110/",
-    "source": "WorkingNomads_Dev",
-    "salary": "$11M",
-    "salary_currency": "USD",
+    "title": "Junior Project Designer at Archinect",
+    "company": "Archinect",
+    "location": "Hoboken, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior remote Java and React developer placements through Lemon.io for startup clients, requiring 4+ years of commercial experience including 3+ years each of Java and React. Async-friendly, no micromanagement, rate depends on location and skills. The Java requirement matches the core stack, but it is a hands-on full-stack dev role with no architecture, enterprise or AI component.",
+    "years_experience": "N/A",
+    "description_review": "Architectural Project Designer position at MHS Architecture supporting physical building design, urban planning, and construction documentation. Matched 'architecture' and 'legacy' in a civil/building architecture context. Full-time position based in Hoboken, NJ with remote possibility.",
     "matched_keywords": [
-      "java"
+      "architecture",
+      "legacy"
     ],
-    "score": 55,
+    "score": 0,
     "recommendation": "SKIP",
-    "pros": [
-      "Java is a required primary language, matching the top core stack skill",
-      "Senior level with 4+ years commercial expectation fits 7+ years experience"
-    ],
+    "pros": [],
     "cons": [
-      "React is a required skill and there is no architecture or modernization scope",
-      "Startup project placements with no banking, fintech or enterprise domain"
+      "Civil/building architecture and interior design job, not software engineering",
+      "False keyword match for physical architecture and firm legacy",
+      "Requires architectural drafting and construction documentation, zero coding"
     ]
   },
   {
     "id": "chunk_09-4",
-    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
-    "company": "CodeForAI",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-    "source": "Remotive_Dev",
-    "salary": "N/A",
-    "salary_currency": "AUD",
+    "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
+    "company": "Liquid AI",
+    "location": "Cambridge",
+    "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote AI Code Trainer role evaluating model-generated code, writing reference solutions and designing tests for AI model evaluation. Open to developers from many backgrounds and languages including Java, Python and full-stack web. AI-adjacent work but it is model evaluation/training content work rather than software engineering on Java/Spring systems.",
+    "description_review": "Member of Technical Staff role at Liquid AI adapting foundation models for enterprise recommendation systems (RecSys) at scale. Focuses on low latency, efficient on-device/accelerator deployment, and end-to-end applied ML engineering. Based in Cambridge with enterprise customer engagements across financial services and consumer tech.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "fullstack",
-      "full-stack",
-      "typescript",
-      "node"
+      "architecture",
+      "enterprise"
     ],
-    "score": 43,
+    "score": 40,
     "recommendation": "SKIP",
     "pros": [
-      "Involves auditing code quality and writing production-grade reference solutions",
-      "Accepts Java among the qualifying languages"
+      "Applied AI / machine learning focus on low-latency enterprise systems and financial services domain",
+      "Requires end-to-end technical ownership and scalable systems architecture"
     ],
     "cons": [
-      "AI code training/evaluation task work, not engineering on product systems",
-      "No seniority, architecture, or enterprise/banking scope stated"
+      "Specialized ML/RecSys role focused on sequential recommendation models rather than Java/backend SWE",
+      "No Java, Spring Boot, or microservices mentioned; typical stack is Python/C++ ML infra",
+      "Mismatched with core 7+ year Java/Spring enterprise profile"
     ]
   },
   {
     "id": "chunk_09-5",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-    "source": "Remotive_Dev",
-    "salary": "N/A",
-    "salary_currency": "EUR",
-    "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior remote back-end engineer opening at an AI research company placed via Lemon.io, with Go/Python, Kubernetes and AI agent development requirements, plus other senior backend and platform roles. No location or salary detail given beyond broad EU/US coverage. Same Go/Python-centered vacancy that misses the Java/Spring and enterprise banking focus.",
+    "title": "Don't See Your Role Apply Here at Reflection",
+    "company": "Reflection",
+    "location": "London, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "General talent pool / open application posting at Reflection, an AI lab building open foundation models and agents. Open-ended role without defined technical requirements, responsibilities, or stack. Based in London offering equity and top-tier compensation.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "architecture",
-      "ai agent"
+      "enterprise"
     ],
-    "score": 51,
+    "score": 25,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend responsibility fits 7+ years of experience",
-      "AI agent development requirement aligns with multi-agent platform work"
+      "Focus on open-weight models, AI agents, and enterprise applications aligns with AI interest",
+      "Strong talent-dense team working on cutting-edge foundational systems"
     ],
     "cons": [
-      "Golang/Python/Kubernetes stack instead of Java/Spring Boot",
-      "No banking, fintech or legacy modernization context"
+      "Generic talent pool submission without specific job requirements or role definition",
+      "Core focus is foundation model research/pre-training rather than Java backend engineering",
+      "Location London / UK without clear remote or visa sponsorship details"
     ]
   }
 ]

@@ -3,6 +3,19 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+      "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead. What You'll Do You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review. You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data. You will choose the right method for eac",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
       "title": "Dremio: Software Engineer - Developer Experience",
       "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
       "source": "WeWorkRemotely_Fullstack",
@@ -56,20 +69,6 @@
       "matched_keywords": [
         "enterprise",
         "ai agent"
-      ]
-    },
-    {
-      "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-      "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Phoenix, Arizona URL: https://adventuretravel365.com/ Senior Full-Stack Developer - Marketplace Web &amp; Mobile Platform We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life. We’re building a new contractor referral and services marketplace, think Thumbtack or Angi, where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more. This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide. There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before and gets excited about taking a platform from an idea to a working product, then continuing to grow it with us. What You’ll Help Us Build The platform will have two main sides: clients looking for services and contractors/vendors looking for business. Some of the functionality we’re planning includes: Client and contractor/vendor accounts and profiles Contractor listings, categories, search, and filtering Service requests, inquiries, referrals, and lead management Job and project tracking Client and vendor dashboards Online payments and transaction tracking Reviews and ratings Notifications and communications Banner advertising and paid promotional opportunities Admin tools for managing ",
-      "matched_keywords": [
-        "fullstack",
-        "full-stack"
       ]
     }
   ]

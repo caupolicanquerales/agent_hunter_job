@@ -50,6 +50,19 @@
       ]
     },
     {
+      "title": "Abnormal: Director of Security Engineering",
+      "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement. Our Security Philosophy We run security the way the best engineering-led companies do: Security reduces toil. Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect. Paved paths, safe by default. We invest in guardrails, golden paths, and secure-by-default inf",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
       "title": "Dremio: Software Engineer - Query Execution",
       "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
       "source": "WeWorkRemotely_Fullstack",
@@ -61,21 +74,6 @@
       "matched_keywords": [
         "architecture",
         "enterprise"
-      ]
-    },
-    {
-      "title": "Lemon.io: Senior Angular Full-stack Developer",
-      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp; PHP, Angular &amp; .NET &amp; TypeScript, Angular &amp; Node, Angular &amp; TypeScript, React &amp; PHP,",
-      "matched_keywords": [
-        "angular",
-        "typescript",
-        "node"
       ]
     }
   ]

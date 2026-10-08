@@ -1,141 +1,138 @@
 [
   {
     "id": "chunk_06-1",
-    "title": "Toptal: Power Platform Solutions Architect",
-    "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "AUD",
+    "title": "Senior Software Engineer at Phaidra",
+    "company": "Phaidra",
+    "location": "Remote - United States",
+    "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "EUR",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Power Platform Solutions Architect for a global company, assessing and modernizing an existing Power Platform solution, defining target architecture and leading scalable, secure technical design. Requires deep Power Apps/Dataverse, Azure API and enterprise ERP integration skills; no salary figure disclosed.",
+    "description_review": "Senior software engineer position designing AI-powered control systems and autonomous reinforcement learning agents for industrial facilities. Focuses on converting sensor data into automated decisions and allowing domain experts to configure AI agents. Remote United States role with unstated salary.",
     "matched_keywords": [
-      "architecture",
-      "enterprise",
-      "modernization"
+      "ai agent"
     ],
-    "score": 57,
-    "recommendation": "SKIP",
+    "score": 61,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Modernization assessment and target-architecture definition are core priorities",
-      "Enterprise integration architecture across ERP systems fits the enterprise domain",
-      "Senior architecture leadership on a global company engagement"
+      "Autonomous AI agent design directly matches candidate's applied AI engineering focus",
+      "Senior engineering scope tackling complex industrial control systems and automation"
     ],
     "cons": [
-      "Microsoft Power Platform and Azure low-code stack, no Java or Spring Boot",
-      "No applied AI component in the description",
-      "No salary or years-of-experience data"
+      "Focused on reinforcement learning and industrial controls rather than enterprise Java/Spring microservices",
+      "Remote location specified as United States, which may restrict non-US residents"
     ]
   },
   {
     "id": "chunk_06-2",
-    "title": "Toggl: Senior Full Stack",
-    "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "€83,000",
-    "salary_currency": "EUR",
-    "salary_period": "year",
+    "title": "ML Engineer at Trunk Tools, Inc.",
+    "company": "Trunk Tools, Inc.",
+    "location": "",
+    "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+    "source": "RemoteOK_ML",
+    "salary": "183000",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior Full Stack Engineer owning end-to-end product areas for Toggl 2.0, from data model and API to interface, inside a cross-functional Product Tribe. Fully remote within UTC-4 to UTC+4 at €83,000 per year; specific stack not detailed in the description.",
+    "description_review": "Machine learning engineer role at a Series B construction-tech company leading core AI platform components, including search, retrieval, and multi-agent orchestration. Involves building and scaling production AI agents for field operational workflows. Offers $183,000 USD compensation.",
     "matched_keywords": [
-      "fullstack",
-      "full-stack"
+      "ai agent",
+      "multi-agent"
     ],
-    "score": 46,
-    "recommendation": "SKIP",
+    "score": 72,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Senior end-to-end ownership from data model and API to UI",
-      "Full-stack role with backend depth",
-      "Transparent €83,000 salary and fully remote work"
+      "Multi-agent orchestration and production AI agent platform directly matches candidate's multi-agent background",
+      "Search and retrieval (RAG) architecture aligns with candidate's AI tooling and agent harness expertise",
+      "Strong compensation ($183k USD) at a high-growth Series B company"
     ],
     "cons": [
-      "No Java, Spring Boot or microservices named in the description",
-      "SaaS product domain with no banking, fintech or modernization signals",
-      "No applied AI component"
+      "ML engineer profile emphasizing Python/ML pipelines rather than Java/Spring Boot enterprise backends",
+      "Domain is construction tech rather than banking, fintech, or enterprise modernization"
     ]
   },
   {
     "id": "chunk_06-3",
-    "title": "Edfinity: Senior Software Engineer, remote",
-    "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
-    "source": "WeWorkRemotely_Fullstack",
+    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925654/",
+    "source": "WorkingNomads_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior Software Engineer at Edfinity building AI-powered STEM courseware in a small remote senior team where AI agents produce most of the code and engineers direct the work. Stack is Ruby on Rails, MongoDB, Elasticsearch, ClickHouse, Redis and React; no salary stated.",
+    "years_experience": "5+ years",
+    "description_review": "Senior backend developer role requiring 5+ years of experience with Node.js and 3+ years with Nest.js to build scalable web applications and APIs. Key technologies include TypeScript, REST/GraphQL APIs, PostgreSQL, and MongoDB. Remote position operating in the CET (+/- 3 hours) time zone.",
     "matched_keywords": [
-      "fullstack",
-      "full-stack",
-      "ai agent"
+      "java",
+      "backend",
+      "typescript",
+      "node"
     ],
-    "score": 48,
+    "score": 52,
     "recommendation": "SKIP",
     "pros": [
-      "AI-driven engineering culture where agents write most code matches applied AI practice",
-      "Small collaborative team of senior engineers with broad ownership",
-      "Fully remote role"
+      "Senior backend API and microservice architecture scope with 5+ years requirement",
+      "TypeScript, PostgreSQL, and MongoDB align with candidate's secondary tech stack",
+      "Familiarity with authentication, authorization, and modular architectural design"
     ],
     "cons": [
-      "Ruby on Rails and React stack with no Java or Spring Boot",
-      "Higher-ed edtech domain rather than banking or enterprise modernization",
-      "No salary or years-of-experience data"
+      "Centered on Node.js and Nest.js without Java or Spring Boot",
+      "Staffing network client engagement without enterprise modernization or banking focus"
     ]
   },
   {
     "id": "chunk_06-4",
-    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-    "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-    "source": "WeWorkRemotely_Fullstack",
+    "title": "Senior Cloud Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925640/",
+    "source": "WorkingNomads_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "At least 7 years of experience",
-    "description_review": "Senior Software Engineer for a healthcare tech evolution, building and optimizing backend services with NestJS and Node.js, REST API endpoints, SQL and Prisma while working closely with the CTO and Chief Engineer. Requires at least 7 years of experience; no salary stated.",
+    "years_experience": "5+ years",
+    "description_review": "Senior cloud engineering role managing enterprise Microsoft Azure infrastructure, container orchestration, and CI/CD pipelines. Focuses on networking, security compliance, landing zones, and automated cloud operations. Remote position based in the CET (+/- 3 hours) time zone.",
     "matched_keywords": [
-      "backend",
-      "node",
-      "rest api"
+      "enterprise"
     ],
-    "score": 43,
+    "score": 38,
     "recommendation": "SKIP",
     "pros": [
-      "Backend services and REST API development at senior level",
-      "7+ years experience requirement matches seniority",
-      "Close collaboration with engineering leadership"
+      "Enterprise Azure infrastructure and container orchestration scope",
+      "Senior-level ownership of high-availability cloud environments and CI/CD automation"
     ],
     "cons": [
-      "NestJS/Node.js and React stack, no Java or Spring Boot",
-      "Healthcare domain with no banking, fintech or modernization signals",
-      "No applied AI component"
+      "Pure cloud/infrastructure and DevOps position rather than software engineering",
+      "No Java, Spring Boot, microservices application coding, or AI development"
     ]
   },
   {
     "id": "chunk_06-5",
-    "title": "Sticker Mule: Software engineer",
-    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$150,000–$250,000",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "N/A",
-    "description_review": "Full-stack software engineer at Sticker Mule shipping web and mobile products from one codebase with Go, TypeScript, React, Expo, GraphQL and Postgres on GCP, using AI aggressively. Autonomous small teams; salary $150,000–$250,000 USD per year, fully remote.",
+    "title": "Senior Data Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925636/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior data engineer position requiring 5+ years of experience in ETL development, SQL performance tuning, and Azure data pipelines. Involves designing data warehouse architectures, Azure SQL Databases, and enterprise data governance frameworks. Fully remote role aligned with CET (+/- 3 hours).",
     "matched_keywords": [
-      "fullstack",
-      "full-stack",
-      "typescript"
+      "architecture"
     ],
-    "score": 48,
+    "score": 38,
     "recommendation": "SKIP",
     "pros": [
-      "Aggressive AI usage in daily engineering matches applied AI focus",
-      "TypeScript and React full-stack work within the candidate stack",
-      "Disclosed salary of $150,000–$250,000 USD fully remote"
+      "Senior data modeling, pipeline orchestration, and advanced SQL tuning",
+      "Enterprise data governance and data warehouse architecture responsibilities"
     ],
     "cons": [
-      "Go and GCP-centric stack with no Java or Spring Boot",
-      "Commerce domain with no banking, fintech or enterprise modernization",
-      "No seniority tag or years-of-experience requirement"
+      "Specialized data engineering/ETL role outside candidate's core backend software engineering focus",
+      "No Java, Spring Boot, or full-stack application development"
     ]
   }
 ]

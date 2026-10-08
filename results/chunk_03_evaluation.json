@@ -1,6 +1,30 @@
 [
   {
     "id": "chunk_03-1",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote Canada backend engineer role on Tailscale's Control Plane team building secure network interconnection services and open-source clients. Engineers own the full lifecycle from product ideation to writing backend code and scaling distributed services. Focuses on networking infrastructure, control plane scalability, and distributed systems.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 64,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "High-reliability distributed backend services and control plane architecture",
+      "Full-lifecycle engineering ownership from system design to production deployment"
+    ],
+    "cons": [
+      "Listed as Remote (Canada), which may restrict non-Canadian applicants",
+      "Specialized networking/VPN infrastructure rather than enterprise Java/Spring microservices"
+    ]
+  },
+  {
+    "id": "chunk_03-2",
     "title": "Stripe: Abuse Research Engineer",
     "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
     "source": "WeWorkRemotely_Fullstack",
@@ -8,23 +32,24 @@
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote-from-US senior security research role at Stripe's Abuse Research Group, doing hypothesis-driven threat hunting, fraud path mapping and agentic automated testing across Stripe's payments ecosystem. No Java/Spring or backend platform stack is stated; the focus is adversary analysis, fraud engineering and product security rather than software architecture or modernization. Salary not disclosed.",
+    "description_review": "Remote US role in Stripe's Abuse Research Group conducting proactive threat hunting and fraud attack analysis across global payment infrastructure. Uses agentic automated testing and simulation tools to translate security research into strategic controls and regression tests. High-impact financial ecosystem security engineering requiring advanced adversary simulation.",
     "matched_keywords": [
       "enterprise"
     ],
-    "score": 41,
-    "recommendation": "SKIP",
+    "score": 72,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Fintech/payments domain matches 7+ years of banking experience",
-      "Uses agentic automated testing tools, touching applied AI automation"
+      "Leading financial infrastructure domain directly matches candidate's banking/fintech background",
+      "Applies agentic automated testing tools and security simulation, aligning with agentic systems knowledge",
+      "Enterprise-scale payment system integrity"
     ],
     "cons": [
-      "Security research/threat hunting role, not backend or architecture work",
-      "No Java, Spring Boot or modernization stack mentioned"
+      "Role is specialized cybersecurity / adversary abuse research rather than core software application engineering",
+      "Remote US designation may restrict international applicants"
     ]
   },
   {
-    "id": "chunk_03-2",
+    "id": "chunk_03-3",
     "title": "Lithic: Senior Risk Associate",
     "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
     "source": "WeWorkRemotely_Fullstack",
@@ -32,26 +57,25 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote senior risk associate at fintech card-issuing platform Lithic, running client risk, third-party risk and enterprise risk assessment programs including rubrics, questionnaires, registers and SOPs. This is a risk/operations function with no software engineering, architecture or tech stack involved. Salary not disclosed.",
+    "description_review": "Remote role at payments processor Lithic running client and third-party risk assessment programs, enterprise risk registers, and underwriting operations. The role oversees compliance rubrics, credit limits, reserve recommendations, and vendor assessments. Pure financial compliance and risk management operations role with no software development.",
     "matched_keywords": [
       "enterprise",
       "fintech",
       "banking",
       "legacy"
     ],
-    "score": 23,
+    "score": 20,
     "recommendation": "SKIP",
     "pros": [
-      "Fintech/payments and enterprise domain aligns with banking background",
-      "Exposure to legacy mainframe modernization narrative at Lithic"
+      "Fintech and banking card issuance ecosystem matches industry background"
     ],
     "cons": [
-      "Not a software engineering role; no coding, architecture or tech stack",
-      "Risk assessment and program ownership is outside SWE career track"
+      "Non-technical risk assessment and compliance operations position with zero software development",
+      "Total mismatch for a Senior Software Engineer profile"
     ]
   },
   {
-    "id": "chunk_03-3",
+    "id": "chunk_03-4",
     "title": "Salesloft: Principal Software Engineer, AI",
     "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
     "source": "WeWorkRemotely_Fullstack",
@@ -59,24 +83,24 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote-US principal IC role setting technical direction for AI at Salesloft, architecting production systems that combine LLMs, ML models and agentic workflows across an enterprise Predictive Revenue System. Most senior individual-contributor role on the AI engineering team with foundational architectural ownership. Salary not stated.",
+    "description_review": "Remote US Principal AI Engineer position at Salesloft leading technical direction for predictive revenue systems and LLM agentic workflows at enterprise scale. Sets architecture for serving models, agentic orchestration, and translating machine intelligence into production capabilities. Top-level individual contributor role driving AI system architecture.",
     "matched_keywords": [
       "enterprise"
     ],
-    "score": 67,
-    "recommendation": "CONSIDER",
+    "score": 84,
+    "recommendation": "APPLY",
     "pros": [
-      "Principal-level architecture ownership matches seniority and architecture fit",
-      "Hands-on agentic workflows and LLM production systems align with multi-agent platform experience",
-      "Enterprise product serving thousands of customers matches enterprise software focus"
+      "Architecting agentic workflows and LLM orchestration aligns directly with candidate's multi-agent platform and harness expertise",
+      "Enterprise-grade platform scale matches 7+ years enterprise software and architecture background",
+      "High-impact technical leadership in applied AI engineering"
     ],
     "cons": [
-      "No Java or Spring Boot named in the listing; AI/ML-centric stack",
-      "No banking, fintech or legacy modernization domain"
+      "Principal-level scope may expect previous dedicated staff/principal title",
+      "Listing indicates Remote - US location requirements"
     ]
   },
   {
-    "id": "chunk_03-4",
+    "id": "chunk_03-5",
     "title": "Lithic: Senior Software Engineer, Card Authorization",
     "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
     "source": "WeWorkRemotely_Fullstack",
@@ -84,48 +108,21 @@
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote senior backend engineer on Lithic's Card Authorization team, owning real-time card authorization decision systems, fraud tooling, Rules Engine and 3D Secure integration with end-to-end project ownership and distributed-systems problems at scale. Fintech card-issuing platform replacing legacy mainframe processors. Salary not disclosed.",
+    "description_review": "Remote senior software engineer role on Lithic's Card Authorization team building real-time transaction processing, rules engines, and 3D Secure integrations. Replaces legacy 30-year-old payment mainframes with modern distributed systems handling high-speed card authorization decisions. Core backend fintech engineering role focused on high reliability, scale, and low latency.",
     "matched_keywords": [
       "fintech",
       "banking",
       "legacy"
     ],
-    "score": 54,
-    "recommendation": "SKIP",
+    "score": 92,
+    "recommendation": "APPLY",
     "pros": [
-      "Senior backend ownership of high-impact projects end-to-end",
-      "Fintech/payments and legacy-mainframe-replacement domain fits banking background",
-      "Distributed systems at scale matches enterprise backend experience"
+      "Modernizing legacy payment mainframes into high-performance real-time distributed systems is an exceptional match for candidate's modernization background",
+      "Banking/fintech card transaction processing directly parallels 6+ years banking backend at ICBC and BBVA",
+      "Senior distributed systems engineering with high-reliability authorization and rules engine ownership"
     ],
     "cons": [
-      "No Java, Spring Boot or microservices stack stated in the description",
-      "No applied AI or modernization (version migration) component"
-    ]
-  },
-  {
-    "id": "chunk_03-5",
-    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
-    "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Remote-US director role owning ZoomInfo's B2B data graph strategy for AI agents, blending classical ML with LLM and agentic systems, shipping code alongside a team of senior engineers and setting standards for agentic coding tools. Management position with evaluation and inference-cost disciplines; US locations only (Bethesda/MA/MD/WA, Vancouver WA, Waltham MA). Salary not disclosed.",
-    "matched_keywords": [
-      "ai agent"
-    ],
-    "score": 55,
-    "recommendation": "SKIP",
-    "pros": [
-      "Deep applied AI work with LLM and agentic systems matches multi-agent platform background",
-      "Stays close to the code, reviewing and shipping alongside senior engineers",
-      "Enterprise-scale data platform with modernization of how agents reason over data"
-    ],
-    "cons": [
-      "Director/management scope rather than senior IC engineering",
-      "No Java, Spring Boot or banking/fintech domain; data/ML stack unspecified",
-      "US-location restricted remote role"
+      "Specific programming language not explicitly mentioned in the excerpt (Lithic typically uses Python/Go/Java)"
     ]
   }
 ]

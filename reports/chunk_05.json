@@ -3,6 +3,20 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+      "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Phoenix, Arizona URL: https://adventuretravel365.com/ Senior Full-Stack Developer - Marketplace Web &amp; Mobile Platform We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life. We’re building a new contractor referral and services marketplace, think Thumbtack or Angi, where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more. This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide. There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before and gets excited about taking a platform from an idea to a working product, then continuing to grow it with us. What You’ll Help Us Build The platform will have two main sides: clients looking for services and contractors/vendors looking for business. Some of the functionality we’re planning includes: Client and contractor/vendor accounts and profiles Contractor listings, categories, search, and filtering Service requests, inquiries, referrals, and lead management Job and project tracking Client and vendor dashboards Online payments and transaction tracking Reviews and ratings Notifications and communications Banner advertising and paid promotional opportunities Admin tools for managing ",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
       "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
       "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
       "source": "WeWorkRemotely_Fullstack",
@@ -58,19 +72,6 @@
         "fullstack",
         "full-stack",
         "node"
-      ]
-    },
-    {
-      "title": "Fin: Solutions Architect -Spanish Speaking",
-      "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: NYC, Remote; San Francisco, California Fin, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce.What's the opportunity?&nbsp; Fin is looking for an exceptional Solutions Architect to join our vibrant Customer Solutions Team. In this role, you’ll engage directly with our customers as their trusted advisor, playing a pivotal part in defining and demonstrating value across the ent",
-      "matched_keywords": [
-        "ai agent"
       ]
     }
   ]

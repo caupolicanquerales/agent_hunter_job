@@ -1,139 +1,144 @@
 [
   {
     "id": "chunk_10-1",
-    "title": "Senior AI Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-    "source": "Remotive_Dev",
-    "salary": "$11M",
-    "salary_currency": "USD",
+    "title": "Senior Software Engineer at Phaidra",
+    "company": "Phaidra",
+    "location": "Remote - United States",
+    "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "EUR",
     "salary_period": "N/A",
-    "years_experience": "3+ years",
-    "description_review": "Senior AI Engineer placements via Lemon.io covering AI Engineer, AI Agent Architect and AI Automation Architect roles for startup clients. Requires 3+ years applying AI commercially, Python, vector databases and 2+ years each of LangChain and LLM/vLLM work. Strong applied AI and agent architecture fit, but the stack is Python-centric with no Java/Spring and no salary rate stated.",
+    "years_experience": "N/A",
+    "description_review": "Senior Software Engineer role at Phaidra developing reinforcement learning and AI-powered control systems for industrial facilities. Platform transforms static heuristic-driven plant operations into autonomous learning agents. Remote US role working on production ML systems.",
     "matched_keywords": [
       "ai agent"
     ],
-    "score": 52,
-    "recommendation": "SKIP",
+    "score": 65,
+    "recommendation": "CONSIDER",
     "pros": [
-      "AI Agent Architect and automation roles align with multi-agent platform experience",
-      "Senior commercial AI experience requirement matches applied AI background"
+      "Senior engineering role centered on autonomous AI agents and production automation",
+      "Modern architecture tackling complex distributed control and sensor data pipelines",
+      "Proven production AI mission aligns with applied AI and agent engineering profile"
     ],
     "cons": [
-      "Python, LangChain and vector database stack with no Java/Spring Boot",
-      "Startup project placements with no banking, fintech or enterprise modernization"
+      "Industrial automation / RL domain rather than banking, fintech, or enterprise Java services",
+      "US remote location limitation stated in posting",
+      "Python/C++/RL control systems stack rather than Java/Spring Boot microservices"
     ]
   },
   {
     "id": "chunk_10-2",
-    "title": "Senior .NET Full-stack Developer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-    "source": "Remotive_Dev",
-    "salary": "$11M",
+    "title": "ML Engineer at Trunk Tools, Inc.",
+    "company": "Trunk Tools, Inc.",
+    "location": "",
+    "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+    "source": "RemoteOK_ML",
+    "salary": "183000",
     "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior .NET full-stack developer placements through Lemon.io across C#/.NET, .NET/React and Angular/.NET requests for startup clients. Requires 4+ years of commercial experience, 3+ years of .NET and React plus TypeScript. Seniority fits, but the role is .NET-centric, which is explicitly a weak fit for the Java/Spring profile.",
+    "years_experience": "N/A",
+    "description_review": "ML Engineer position at Trunk Tools building production-ready AI agents and multi-agent orchestration for construction operations. Series B funded ($70M total) with competitive $183k USD compensation. Role owns search, retrieval, and multi-agent coordination platform.",
     "matched_keywords": [
-      "angular",
-      "typescript"
+      "ai agent",
+      "multi-agent"
     ],
-    "score": 34,
-    "recommendation": "SKIP",
+    "score": 75,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Angular and TypeScript appear in requests, matching part of the frontend stack",
-      "Senior scope with expectation of building projects from scratch"
+      "Direct match with multi-agent orchestration, search, and retrieval agent systems",
+      "Strong compensation ($183,000 USD) at a high-growth Series B AI startup",
+      "Platform-level engineering ownership over multi-agent workflows and core AI platform"
     ],
     "cons": [
-      ".NET/C# centric stack, an explicitly weak fit versus Java/Spring Boot",
-      "No architecture, enterprise, banking or applied AI component"
+      "ML/Python heavy AI stack without Java or Spring Boot microservices",
+      "Construction tech industry rather than banking, fintech, or enterprise systems",
+      "Requires pure ML/search engineering focus rather than enterprise SWE modernization"
     ]
   },
   {
     "id": "chunk_10-3",
-    "title": "Senior Data Scientist at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-    "source": "Remotive_Dev",
-    "salary": "$11M",
-    "salary_currency": "USD",
+    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925654/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior remote Data Scientist placements via Lemon.io requiring 4+ years of commercial experience, Python, Databricks and mandatory RAG/LLM experience, with an expectation of understanding application architecture. Startup clients with no stated salary rate. AI-related but primarily a data science role outside the Java/Spring engineering core.",
+    "years_experience": "5+ years",
+    "description_review": "Senior Backend Developer role at Proxify network building scalable web applications with Node.js and Nest.js. Involves REST/GraphQL APIs, TypeScript, PostgreSQL/MongoDB, and auth systems. Remote position aligned with CET (+/- 3 hours) timezone.",
     "matched_keywords": [
-      "architecture"
+      "java",
+      "backend",
+      "typescript",
+      "node"
     ],
-    "score": 44,
-    "recommendation": "SKIP",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "RAG and LLM requirements touch the applied AI area of the profile",
-      "Expects understanding of application architecture at a senior level"
+      "Senior backend focus with 5+ years experience and compatible CET timezone",
+      "Strong TypeScript, REST APIs, and relational/NoSQL (PostgreSQL, MongoDB) match",
+      "Nest.js enterprise architecture mirrors Spring Boot patterns (DI, decorators, modularity)"
     ],
     "cons": [
-      "Data science role built on Python/Databricks rather than Java/Spring engineering",
-      "No microservices backend, enterprise or banking domain described"
+      "Requires 5+ years Node.js and 3+ years Nest.js as primary stack rather than Java/Spring",
+      "Matched 'java' falsely via 'javascript'",
+      "Freelance talent network model rather than direct enterprise employment"
     ]
   },
   {
     "id": "chunk_10-4",
-    "title": "Senior Independent AI Engineer / Architect at A.Team",
-    "company": "A.Team",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-    "source": "Remotive_Dev",
-    "salary": "$200M",
-    "salary_currency": "USD",
+    "title": "Senior Cloud Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925640/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Invite-only network role for senior independent AI Engineers and Architects building production AI systems, agent architectures and orchestration for startups and enterprises such as Lyft, Google X and Unilever. Remote across the Americas, Europe or Israel, with a $200M cumulative builder earnings figure (not salary). Directly matches the AI architecture, multi-agent orchestration and enterprise delivery strengths.",
+    "years_experience": "5+ years",
+    "description_review": "Senior Cloud Engineer role at Proxify managing enterprise Azure environments, container orchestration, and CI/CD pipelines. Requires 5+ years experience in VNets, ExpressRoute, and zero-trust security. Remote position in CET (+/- 3 hours) timezone.",
     "matched_keywords": [
-      "architecture",
       "enterprise"
     ],
-    "score": 66,
-    "recommendation": "CONSIDER",
+    "score": 35,
+    "recommendation": "SKIP",
     "pros": [
-      "Agent architectures and orchestration systems match the multi-agent platform built",
-      "Enterprise AI deployments align with enterprise software experience",
-      "Senior architect working directly with CTOs fits architecture-level scope"
+      "Senior role handling enterprise cloud infrastructure and container orchestration",
+      "Compatible CET (+/- 3 hours) timezone"
     ],
     "cons": [
-      "No Java/Spring Boot stack mentioned; roles are AI-stack dependent",
-      "Independent contracting network rather than a permanent engineering role"
+      "Pure DevOps/Cloud infrastructure role, weak fit per candidate profile guidance",
+      "No backend application development, Java, Spring Boot, or microservices coding",
+      "Specialized in Azure network engineering and landing zones rather than software development"
     ]
   },
   {
     "id": "chunk_10-5",
-    "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
-    "company": "Mitre Media",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "source": "Remotive_Dev",
+    "title": "Senior Data Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925636/",
+    "source": "WorkingNomads_Dev",
     "salary": "N/A",
-    "salary_currency": "EUR",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Tech Lead full-stack role at fintech firm Mitre Media architecting and implementing LLM-powered web applications on a microservices-based Rails 8 platform, reporting directly to the CTO. Serves investors and asset managers like BlackRock and Vanguard, remote within ±3 hours of Eastern Time with no stated salary. Fintech domain, microservices architecture and LLM usage are strong matches despite the Ruby on Rails stack.",
+    "years_experience": "5+ years",
+    "description_review": "Senior Data Engineer role at Proxify focusing on Azure SQL Database, Data Factory, ETL development, and pipeline orchestration. Requires 5+ years in data engineering and advanced SQL tuning. Remote contract role matching CET (+/- 3 hours).",
     "matched_keywords": [
-      "microservices",
-      "fintech",
-      "fullstack",
-      "full-stack"
+      "architecture"
     ],
-    "score": 69,
-    "recommendation": "CONSIDER",
+    "score": 35,
+    "recommendation": "SKIP",
     "pros": [
-      "Fintech domain serving major financial firms matches banking/fintech background",
-      "Microservices-based platform and tech lead architecting duties fit architecture strengths",
-      "LLM-powered product work aligns with applied AI experience"
+      "Senior role involving data modeling, complex SQL, and data pipeline architecture",
+      "Compatible CET (+/- 3 hours) timezone"
     ],
     "cons": [
-      "Ruby on Rails full-stack instead of the Java/Spring Boot core stack",
-      "No salary information stated for the role"
+      "Pure Data Engineering / ETL / Data Warehousing role rather than software engineering",
+      "No Java, Spring Boot, microservices, or API development",
+      "Focus is dedicated to Azure Data Factory, governance, and reporting pipelines"
     ]
   }
 ]

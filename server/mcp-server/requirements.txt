@@ -1,0 +1,7 @@
+# mcp 2.x renamed FastMCP to MCPServer; this server uses the v1 API.
+mcp[cli]>=1.8.0,<2
+asyncpg>=0.29.0,<1
+pydantic>=2.11,<3
+sentence-transformers>=3.0.0,<6
+# apify-client >= 3 returns Run models (attribute access) from actor().call().
+apify-client>=3.0.0,<4
