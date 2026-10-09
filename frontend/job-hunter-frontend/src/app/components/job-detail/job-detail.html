@@ -1,0 +1,262 @@
+@if (job(); as currentJob) {
+  <div class="detail-container">
+    <!-- Mobile Back Navigation Button -->
+    <div class="mobile-back-bar">
+      <button type="button" class="mobile-back-btn" (click)="backToList.emit()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <polyline points="15 18 9 12 15 6" />
+        </svg>
+        <span>Back to listings</span>
+      </button>
+    </div>
+
+    <!-- Top Action / Sticky Meta Ribbon with Fast Actions -->
+    <div class="detail-ribbon">
+      <div class="ribbon-left">
+        <span class="portal-badge" [title]="'Source: ' + (currentJob.source_portal || 'Crawler')">
+          <svg class="portal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+          </svg>
+          {{ currentJob.source_portal || 'Scraped Posting' }}
+        </span>
+        <span class="scraped-date">Indexed: {{ formattedDate() }}</span>
+      </div>
+
+      <div class="ribbon-right">
+        <!-- Quick access to Raw Payload debugger without scrolling -->
+        <button
+          type="button"
+          class="inspect-payload-btn"
+          (click)="jumpToRawPayload()"
+          title="Jump to and expand raw JSONB database payload"
+        >
+          <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="16 18 22 12 16 6" />
+            <polyline points="8 6 2 12 8 18" />
+          </svg>
+          <span>Raw Payload</span>
+        </button>
+
+        @if (externalUrl()) {
+          <a
+            [href]="externalUrl()"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="external-apply-btn"
+            title="Open original posting: {{ externalUrl() }}"
+          >
+            <span>Original Listing</span>
+            <svg class="external-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+              <polyline points="15 3 21 3 21 9" />
+              <line x1="10" y1="14" x2="21" y2="3" />
+            </svg>
+          </a>
+        }
+      </div>
+    </div>
+
+    <!-- 1. Header: Large Title, Company, Location & Circular Match Score Gauge -->
+    <header class="detail-header">
+      <div class="header-main-row">
+        <div class="header-info-col">
+          <div class="company-row">
+            <span class="company-name">{{ currentJob.company }}</span>
+            @if (formattedSalary()) {
+              <span class="salary-tag">{{ formattedSalary() }}</span>
+            }
+          </div>
+
+          <h1 class="job-title">{{ currentJob.title }}</h1>
+
+          <div class="badges-row">
+            <!-- Location badge -->
+            <span class="info-badge location-badge">
+              <svg class="badge-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                <circle cx="12" cy="10" r="3" />
+              </svg>
+              {{ currentJob.location }}
+            </span>
+
+            <!-- Remote status badge -->
+            @if (currentJob.is_remote) {
+              <span class="info-badge remote-status-badge">
+                <svg class="badge-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="12" cy="12" r="10" />
+                  <line x1="2" y1="12" x2="22" y2="12" />
+                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z" />
+                </svg>
+                100% Fully Remote
+              </span>
+            } @else {
+              <span class="info-badge onsite-status-badge">
+                <svg class="badge-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="4" y="2" width="16" height="20" rx="2" ry="2" />
+                  <line x1="9" y1="22" x2="9" y2="2" />
+                  <line x1="8" y1="6" x2="10" y2="6" />
+                  <line x1="8" y1="10" x2="10" y2="10" />
+                  <line x1="8" y1="14" x2="10" y2="14" />
+                  <line x1="8" y1="18" x2="10" y2="18" />
+                </svg>
+                On-site / Hybrid Office
+              </span>
+            }
+          </div>
+        </div>
+
+        <!-- Semantic Vector Match: Circular Gauge (Score/Probability representation) -->
+        @if (currentJob.match_score != null) {
+          <div class="vector-score-gauge" [title]="'Semantic vector cosine similarity: ' + matchPercentage() + '%'">
+            <div class="gauge-circle-wrap">
+              <svg class="gauge-svg" viewBox="0 0 36 36">
+                <path
+                  class="gauge-track"
+                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                />
+                <path
+                  class="gauge-value"
+                  [style.stroke-dasharray]="matchPercentage() + ', 100'"
+                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                />
+              </svg>
+              <div class="gauge-center-content">
+                <span class="gauge-center-num">{{ matchPercentage() }}</span>
+                <span class="gauge-center-unit">%</span>
+              </div>
+            </div>
+            <div class="gauge-meta">
+              <div class="gauge-title-row">
+                <span class="gauge-title">Vector Match</span>
+                <span class="confidence-tag" [ngClass]="getScoreConfidenceClass(currentJob.match_score)">
+                  {{ getScoreConfidenceLabel(currentJob.match_score) }}
+                </span>
+              </div>
+              <span class="gauge-sub">HNSW Cosine Score</span>
+            </div>
+          </div>
+        }
+      </div>
+    </header>
+
+    <!-- 2. Skills Section: Visual Pill Tags -->
+    @if (currentJob.required_skills && currentJob.required_skills.length > 0) {
+      <section class="skills-section">
+        <div class="section-title-wrap">
+          <h2 class="section-title">Required Skills & Technologies</h2>
+          <span class="skills-count-pill">{{ currentJob.required_skills.length }} detected</span>
+        </div>
+        <div class="skills-pill-group">
+          @for (skill of currentJob.required_skills; track skill) {
+            <button
+              type="button"
+              class="skill-pill"
+              [class.active-filter]="isSkillActiveInFilter(skill)"
+              (click)="onSkillClick(skill)"
+              title="Click to toggle filter for {{ skill }}"
+            >
+              <span class="skill-dot">#</span>
+              <span class="skill-label">{{ skill }}</span>
+              @if (isSkillActiveInFilter(skill)) {
+                <span class="filter-indicator">✓</span>
+              }
+            </button>
+          }
+        </div>
+      </section>
+    }
+
+    <!-- 3. Description Body: Clean Typography Container -->
+    <section class="description-section">
+      <h2 class="section-title">Role Overview & Opportunity Breakdown</h2>
+      <article
+        class="description-body typography-container"
+        [innerHTML]="formattedDescriptionHtml()"
+      ></article>
+    </section>
+
+    <!-- 4. The Raw Payload Debugger: Collapsible Accordion -->
+    <section class="payload-section" id="raw-payload-section">
+      <app-raw-payload-viewer [payload]="currentJob.raw_payload"></app-raw-payload-viewer>
+    </section>
+  </div>
+} @else {
+  <!-- Inviting Initial / Empty State Placeholder -->
+  <div class="empty-detail-placeholder">
+    <div class="placeholder-hero-card">
+      <div class="hero-icon-cluster">
+        <div class="icon-ring outer"></div>
+        <div class="icon-ring inner"></div>
+        <div class="center-badge">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8" />
+            <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            <path d="M11 8v6M8 11h6" />
+          </svg>
+        </div>
+      </div>
+
+      <h3 class="placeholder-title">
+        Select an opportunity from the list to inspect vector embeddings and role breakdown
+      </h3>
+
+      <p class="placeholder-description">
+        Choose any job card on the left panel to instantly review semantic match scores, required skills, parsed descriptions, and raw scraper JSONB payloads without leaving this view.
+      </p>
+
+      <div class="feature-highlights">
+        <div class="feature-item">
+          <div class="feature-icon pgvector-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
+            </svg>
+          </div>
+          <div class="feature-text">
+            <strong>pgvector 384d Cosine Score</strong>
+            <span>Evaluated against your candidate profile</span>
+          </div>
+        </div>
+
+        <div class="feature-item">
+          <div class="feature-icon parse-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="8" y1="6" x2="21" y2="6" />
+              <line x1="8" y1="12" x2="21" y2="12" />
+              <line x1="8" y1="18" x2="21" y2="18" />
+              <line x1="3" y1="6" x2="3.01" y2="6" />
+              <line x1="3" y1="12" x2="3.01" y2="12" />
+              <line x1="3" y1="18" x2="3.01" y2="18" />
+            </svg>
+          </div>
+          <div class="feature-text">
+            <strong>Normalized Markdown</strong>
+            <span>Clean typography formatted for fast reading</span>
+          </div>
+        </div>
+
+        <div class="feature-item">
+          <div class="feature-icon json-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="16 18 22 12 16 6" />
+              <polyline points="8 6 2 12 8 18" />
+            </svg>
+          </div>
+          <div class="feature-text">
+            <strong>Raw Scraper Debugger</strong>
+            <span>Instant inspection of original attributes</span>
+          </div>
+        </div>
+      </div>
+
+      @if (filteredCount() === 0 && totalAvailableJobs() > 0) {
+        <div class="filter-reset-box">
+          <p>Active filters returned zero matching opportunities.</p>
+          <button type="button" class="btn-clear-filters" (click)="resetFilters()">
+            Clear all active filters
+          </button>
+        </div>
+      }
+    </div>
+  </div>
+}

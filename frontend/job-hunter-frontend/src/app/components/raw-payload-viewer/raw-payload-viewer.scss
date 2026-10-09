@@ -1,0 +1,242 @@
+.raw-payload-accordion {
+  width: 100%;
+  margin-top: 2rem;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+
+  &[open] {
+    border-color: #374151;
+
+    .accordion-header .chevron-icon {
+      transform: rotate(90deg);
+    }
+  }
+
+  .accordion-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    background-color: rgba(31, 41, 55, 0.7);
+    cursor: pointer;
+    user-select: none;
+    list-style: none;
+    transition: background-color 0.15s;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:hover {
+      background-color: var(--bg-surface-hover);
+    }
+  }
+
+  .summary-left {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+
+    .chevron-icon {
+      width: 16px;
+      height: 16px;
+      color: var(--text-muted);
+      transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .summary-title-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+
+      .debugger-icon {
+        width: 16px;
+        height: 16px;
+        color: var(--accent-cyan);
+      }
+
+      .summary-title {
+        font-size: 0.825rem;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        color: var(--text-main);
+      }
+
+      .summary-badge {
+        font-size: 0.65rem;
+        font-weight: 700;
+        font-family: var(--font-mono);
+        padding: 0.1rem 0.4rem;
+        border-radius: 4px;
+        background-color: rgba(6, 182, 212, 0.15);
+        color: #22d3ee;
+        border: 1px solid rgba(6, 182, 212, 0.25);
+      }
+    }
+  }
+
+  .summary-right {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+
+    .payload-stat {
+      font-size: 0.725rem;
+      font-family: var(--font-mono);
+      color: var(--text-subtle);
+    }
+
+    .copy-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.3rem 0.6rem;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      background-color: var(--bg-primary);
+      border: 1px solid var(--border-subtle);
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.15s;
+
+      &:hover {
+        color: var(--text-main);
+        border-color: #4b5563;
+      }
+
+      .btn-icon {
+        width: 13px;
+        height: 13px;
+      }
+
+      .copied-text {
+        color: #34d399;
+        font-weight: 600;
+      }
+    }
+  }
+
+  .accordion-content {
+    border-top: 1px solid var(--border-subtle);
+    background-color: #0d1117;
+  }
+
+  .code-container {
+    display: flex;
+    flex-direction: column;
+
+    .code-terminal-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.45rem 1rem;
+      background-color: #161b22;
+      border-bottom: 1px solid #21262d;
+
+      .terminal-dots {
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+
+        .dot {
+          width: 9px;
+          height: 9px;
+          border-radius: 50%;
+
+          &.red { background-color: #ff5f56; }
+          &.yellow { background-color: #ffbd2e; }
+          &.green { background-color: #27c93f; }
+        }
+      }
+
+      .terminal-label {
+        font-size: 0.7rem;
+        font-family: var(--font-mono);
+        color: #8b949e;
+      }
+    }
+
+    .json-pre {
+      margin: 0;
+      padding: 1rem;
+      max-height: 400px;
+      overflow: auto;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      line-height: 1.6;
+      background-color: transparent;
+      color: #e6edf3;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+  }
+}
+
+/* Syntax Highlighting Colors */
+:host ::ng-deep {
+  .json-key {
+    color: #7ee787; /* Green for keys */
+  }
+  .json-string {
+    color: #a5d6ff; /* Soft blue for strings */
+  }
+  .json-number {
+    color: #ff7b72; /* Orange-red for numbers */
+  }
+  .json-boolean {
+    color: #d2a8ff; /* Purple for booleans */
+    font-weight: 600;
+  }
+  .json-null {
+    color: #8b949e; /* Gray for null */
+    font-style: italic;
+  }
+}
+
+/* ----------------------------------------------------
+   Responsive Adjustments for RawPayloadViewer
+---------------------------------------------------- */
+@media screen and (max-width: 640px) {
+  .raw-payload-accordion {
+    margin-top: 1.5rem;
+
+    .accordion-header {
+      padding: 0.65rem 0.75rem;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .summary-left {
+      gap: 0.5rem;
+
+      .summary-title {
+        font-size: 0.775rem;
+      }
+
+      .summary-badge {
+        font-size: 0.6rem;
+      }
+    }
+
+    .summary-right {
+      width: 100%;
+      justify-content: space-between;
+
+      .payload-stat {
+        font-size: 0.675rem;
+      }
+    }
+
+    .code-container {
+      .json-pre {
+        padding: 0.75rem 0.5rem;
+        font-size: 0.725rem;
+        max-height: 320px;
+      }
+    }
+  }
+}

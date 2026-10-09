@@ -1,0 +1,351 @@
+.job-list-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background-color: var(--bg-primary);
+  overflow: hidden;
+}
+
+.list-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 1.25rem;
+  border-bottom: 1px solid var(--border-subtle);
+  background-color: rgba(17, 24, 39, 0.4);
+  flex-shrink: 0;
+
+  .header-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    .header-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+    }
+
+    .header-count {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.1rem 0.5rem;
+      border-radius: 9999px;
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      font-size: 0.725rem;
+      font-weight: 600;
+      color: var(--text-main);
+    }
+  }
+
+  .header-hint {
+    font-size: 0.725rem;
+    color: var(--text-subtle);
+  }
+}
+
+.cards-scroll-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.75rem 1rem;
+}
+
+.cards-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* ----------------------------------------------------
+   Compact Job Card with Active Highlighting
+---------------------------------------------------- */
+.job-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.9rem 1rem;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  outline: none;
+
+  &:hover {
+    background-color: var(--bg-surface-hover);
+    border-color: #374151;
+    transform: translateY(-1px);
+  }
+
+  &:focus-visible {
+    box-shadow: 0 0 0 2px var(--border-focus);
+  }
+
+  /* Distinct Active Highlight */
+  &.active {
+    background-color: rgba(99, 102, 241, 0.12);
+    border-color: rgba(99, 102, 241, 0.55);
+    border-left: 3px solid var(--accent-primary);
+    box-shadow: 0 4px 14px rgba(99, 102, 241, 0.12);
+
+    .card-title {
+      color: #ffffff;
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+
+    .card-company {
+      color: #cbd5e1;
+
+      .company-icon {
+        color: #818cf8;
+      }
+    }
+  }
+
+  .card-meta-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+
+  /* Softer, secondary hierarchy for the company name */
+  .card-company {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.775rem;
+    font-weight: 500;
+    color: #94a3b8;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    letter-spacing: 0.01em;
+
+    .company-icon {
+      width: 12px;
+      height: 12px;
+      color: #64748b;
+      flex-shrink: 0;
+    }
+  }
+
+  /* Semantic match percentage badge */
+  .match-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 9999px;
+    font-size: 0.725rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+
+    .match-sparkle {
+      width: 12px;
+      height: 12px;
+    }
+
+    &.score-excellent {
+      background-color: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    &.score-great {
+      background-color: rgba(6, 182, 212, 0.15);
+      color: #22d3ee;
+      border: 1px solid rgba(6, 182, 212, 0.3);
+    }
+
+    &.score-good {
+      background-color: rgba(245, 158, 11, 0.15);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+
+    &.score-neutral {
+      background-color: rgba(156, 163, 175, 0.15);
+      color: #d1d5db;
+      border: 1px solid rgba(156, 163, 175, 0.3);
+    }
+  }
+
+  /* Primary focus: Job title stands out prominently */
+  .card-title {
+    font-size: 1.025rem;
+    font-weight: 700;
+    line-height: 1.35;
+    letter-spacing: -0.015em;
+    color: #f1f5f9;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-meta-bottom {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.25rem;
+  }
+
+  .meta-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+
+    .meta-icon {
+      width: 13px;
+      height: 13px;
+      color: var(--text-subtle);
+      flex-shrink: 0;
+    }
+
+    .location-text {
+      max-width: 140px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.15rem 0.45rem;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 600;
+
+    .meta-icon {
+      width: 12px;
+      height: 12px;
+    }
+
+    &.remote-badge {
+      background-color: var(--badge-remote-bg);
+      color: var(--badge-remote-text);
+      border: 1px solid rgba(34, 211, 238, 0.25);
+    }
+
+    &.onsite-badge {
+      background-color: var(--badge-onsite-bg);
+      color: var(--badge-onsite-text);
+      border: 1px solid rgba(156, 163, 175, 0.2);
+    }
+  }
+
+  .source-tag {
+    margin-left: auto;
+    font-size: 0.675rem;
+    color: var(--text-subtle);
+    font-family: var(--font-mono);
+  }
+}
+
+/* Empty State */
+.empty-list-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem 1.5rem;
+  color: var(--text-muted);
+
+  .empty-icon-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background-color: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    margin-bottom: 1rem;
+    color: var(--text-subtle);
+
+    svg {
+      width: 24px;
+      height: 24px;
+    }
+  }
+
+  h4 {
+    font-size: 0.95rem;
+    color: var(--text-main);
+    margin-bottom: 0.35rem;
+  }
+
+  p {
+    font-size: 0.8rem;
+    color: var(--text-subtle);
+    max-width: 240px;
+    margin-bottom: 1rem;
+  }
+
+  .empty-reset-btn {
+    padding: 0.45rem 1rem;
+    background-color: var(--accent-primary);
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+
+    &:hover {
+      background-color: var(--accent-primary-hover);
+    }
+  }
+}
+
+/* ----------------------------------------------------
+   Responsive Adjustments for JobList
+---------------------------------------------------- */
+@media screen and (max-width: 640px) {
+  .list-header {
+    padding: 0.65rem 0.85rem;
+
+    .header-hint {
+      display: none; // Save vertical space on narrow phones
+    }
+  }
+
+  .cards-scroll-area {
+    padding: 0.5rem 0.65rem;
+  }
+
+  .job-card {
+    padding: 0.75rem 0.85rem;
+    gap: 0.4rem;
+
+    .card-title {
+      font-size: 0.95rem;
+      line-height: 1.3;
+    }
+
+    .card-meta-bottom {
+      gap: 0.35rem;
+
+      .meta-item .location-text {
+        max-width: 110px;
+      }
+    }
+  }
+}

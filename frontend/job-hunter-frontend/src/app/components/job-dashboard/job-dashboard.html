@@ -1,0 +1,249 @@
+<div class="dashboard-root">
+  <!-- Top Navigation / Fixed Sticky Filter Bar -->
+  <header class="top-nav-bar">
+    <div class="nav-brand">
+      <div class="brand-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
+          <polyline points="3.27 6.96 12 12.01 20.73 6.96" />
+          <line x1="12" y1="22.08" x2="12" y2="12" />
+        </svg>
+      </div>
+      <div class="brand-text">
+        <span class="brand-title">Agent Hunter</span>
+        <span class="brand-subtitle">Vector DB Job Stream</span>
+      </div>
+      <span class="pgvector-badge" title="Connected to PostgreSQL pgvector HNSW index">
+        <span class="pulse-dot"></span>
+        pgvector live
+      </span>
+    </div>
+
+    <!-- Filter Bar Controls -->
+    <div class="filter-controls" [class.mobile-open]="mobileFiltersOpen()">
+      <!-- Keyword search bar -->
+      <div class="search-box">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8" />
+          <line x1="21" y1="21" x2="16.65" y2="16.65" />
+        </svg>
+        <input
+          type="text"
+          placeholder="Search roles, companies, skills..."
+          [ngModel]="filters().keyword"
+          (ngModelChange)="onKeywordChange($event)"
+          aria-label="Keyword search"
+        />
+        @if (filters().keyword) {
+          <button
+            type="button"
+            class="clear-btn"
+            (click)="onKeywordChange('')"
+            aria-label="Clear search"
+          >
+            ×
+          </button>
+        }
+      </div>
+
+      <!-- Remote toggle switch -->
+      <div class="filter-item remote-toggle">
+        <label class="switch-label" (click)="onRemoteToggle()">
+          <span class="switch-box" [class.active]="filters().remoteOnly">
+            <span class="switch-knob"></span>
+          </span>
+          <span class="switch-text">
+            <svg class="toggle-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10" />
+              <line x1="2" y1="12" x2="22" y2="12" />
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+            </svg>
+            Remote only
+          </span>
+        </label>
+      </div>
+
+      <!-- Multi-select dropdown for required_skills -->
+      <div class="filter-item skills-dropdown-container">
+        <button
+          type="button"
+          class="dropdown-trigger-btn"
+          [class.has-selection]="filters().selectedSkills.length > 0"
+          (click)="toggleSkillsDropdown()"
+          aria-haspopup="true"
+          [attr.aria-expanded]="skillsDropdownOpen()"
+        >
+          <svg class="skill-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
+          </svg>
+          <span>
+            Skills
+            @if (filters().selectedSkills.length > 0) {
+              <span class="skill-count-badge">{{ filters().selectedSkills.length }}</span>
+            }
+          </span>
+          <svg class="caret-icon" [class.rotated]="skillsDropdownOpen()" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </button>
+
+        @if (skillsDropdownOpen()) {
+          <div class="skills-dropdown-menu">
+            <div class="menu-header">
+              <span>Filter by Skill ({{ availableSkills().length }})</span>
+              @if (filters().selectedSkills.length > 0) {
+                <button type="button" class="link-btn" (click)="clearAllSkills()">Clear all</button>
+              }
+            </div>
+            <div class="skills-list-options">
+              @for (skill of availableSkills(); track skill) {
+                <label class="skill-option-label" (click)="onSkillToggle(skill)">
+                  <input
+                    type="checkbox"
+                    [checked]="isSkillSelected(skill)"
+                    readonly
+                  />
+                  <span class="skill-text">{{ skill }}</span>
+                </label>
+              }
+            </div>
+          </div>
+        }
+      </div>
+
+      <!-- Sorting dropdown -->
+      <div class="filter-item sort-dropdown">
+        <label for="sort-select" class="sort-label">Sort:</label>
+        <div class="select-wrapper">
+          <select
+            id="sort-select"
+            [value]="filters().sortBy"
+            (change)="onSortChange($event)"
+            aria-label="Sort jobs"
+          >
+            <option value="match_score_desc">Highest Vector Match</option>
+            <option value="match_score_asc">Lowest Vector Match</option>
+            <option value="date_desc">Most Recent</option>
+            <option value="title_asc">Title (A-Z)</option>
+          </select>
+          <svg class="select-caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right-aligned action / stats group -->
+    <div class="nav-right-actions">
+      <!-- Mobile filter toggle button -->
+      <button
+        type="button"
+        class="mobile-filter-toggle-btn"
+        [class.active]="mobileFiltersOpen()"
+        (click)="toggleMobileFilters()"
+        aria-label="Toggle search filters"
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3" />
+        </svg>
+        <span>Filters</span>
+        @if (filters().keyword || filters().remoteOnly || filters().selectedSkills.length > 0) {
+          <span class="filter-active-dot"></span>
+        }
+      </button>
+
+      <!-- Metrics overview -->
+      <div class="metrics-pill">
+        <span class="metric-count"><strong>{{ totalMatches() }}</strong> jobs</span>
+        <span class="metric-divider">•</span>
+        <span class="metric-avg">Avg: <strong>{{ averageMatchPercentage() }}%</strong></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Active filter tags banner (if any filter is applied) -->
+  @if (filters().keyword || filters().remoteOnly || filters().selectedSkills.length > 0) {
+    <div class="active-filters-bar">
+      <span class="active-filters-label">Active filters:</span>
+      @if (filters().keyword) {
+        <span class="filter-chip">
+          Keyword: "{{ filters().keyword }}"
+          <button type="button" (click)="onKeywordChange('')">×</button>
+        </span>
+      }
+      @if (filters().remoteOnly) {
+        <span class="filter-chip">
+          Remote Only
+          <button type="button" (click)="onRemoteToggle()">×</button>
+        </span>
+      }
+      @for (skill of filters().selectedSkills; track skill) {
+        <span class="filter-chip skill-chip">
+          {{ skill }}
+          <button type="button" (click)="removeSkill(skill)">×</button>
+        </span>
+      }
+      <button type="button" class="reset-all-btn" (click)="resetFilters()">
+        Reset all filters
+      </button>
+    </div>
+  }
+
+  <!-- Mobile View Switcher Tab Bar (visible only on small viewports) -->
+  <div class="mobile-tab-nav" role="tablist">
+    <button
+      type="button"
+      role="tab"
+      class="mobile-tab-btn"
+      [class.active]="activeMobileTab() === 'list'"
+      [attr.aria-selected]="activeMobileTab() === 'list'"
+      (click)="switchMobileTab('list')"
+    >
+      <svg class="tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="8" y1="6" x2="21" y2="6" />
+        <line x1="8" y1="12" x2="21" y2="12" />
+        <line x1="8" y1="18" x2="21" y2="18" />
+        <line x1="3" y1="6" x2="3.01" y2="6" />
+        <line x1="3" y1="12" x2="3.01" y2="12" />
+        <line x1="3" y1="18" x2="3.01" y2="18" />
+      </svg>
+      <span>List ({{ totalMatches() }})</span>
+    </button>
+    <button
+      type="button"
+      role="tab"
+      class="mobile-tab-btn"
+      [class.active]="activeMobileTab() === 'detail'"
+      [attr.aria-selected]="activeMobileTab() === 'detail'"
+      (click)="switchMobileTab('detail')"
+    >
+      <svg class="tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+        <polyline points="14 2 14 8 20 8" />
+        <line x1="16" y1="13" x2="8" y2="13" />
+        <line x1="16" y1="17" x2="8" y2="17" />
+        <polyline points="10 9 9 9 8 9" />
+      </svg>
+      <span>
+        Detail
+        @if (selectedJob(); as job) {
+          <span class="selected-indicator">•</span>
+        }
+      </span>
+    </button>
+  </div>
+
+  <!-- Master-Detail Two-Column Layout -->
+  <main class="dashboard-body" [attr.data-mobile-active]="activeMobileTab()">
+    <!-- Left Panel (Master List): roughly 35% screen width -->
+    <aside class="master-list-panel" [class.mobile-hidden]="activeMobileTab() !== 'list'">
+      <app-job-list (jobSelected)="onJobSelectedFromList()"></app-job-list>
+    </aside>
+
+    <!-- Right Panel (Detail View): remaining 65% screen width -->
+    <section class="detail-view-panel" [class.mobile-hidden]="activeMobileTab() !== 'detail'">
+      <app-job-detail (backToList)="switchMobileTab('list')"></app-job-detail>
+    </section>
+  </main>
+</div>
+

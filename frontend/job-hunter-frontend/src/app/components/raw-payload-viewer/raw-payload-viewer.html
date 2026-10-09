@@ -1,0 +1,56 @@
+<details class="raw-payload-accordion" id="raw-payload-accordion" [open]="isOpen()" (toggle)="onDetailsToggle($event)">
+  <summary class="accordion-header">
+    <div class="summary-left">
+      <svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="9 18 15 12 9 6" />
+      </svg>
+      <div class="summary-title-group">
+        <svg class="debugger-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="16 18 22 12 16 6" />
+          <polyline points="8 6 2 12 8 18" />
+        </svg>
+        <span class="summary-title">Raw Payload Debugger</span>
+        <span class="summary-badge">JSONB</span>
+      </div>
+    </div>
+
+    <div class="summary-right" (click)="$event.stopPropagation()">
+      <span class="payload-stat">{{ keyCount() }} keys</span>
+      <span class="payload-stat">{{ payloadSizeKb() }} KB</span>
+      <button
+        type="button"
+        class="copy-btn"
+        (click)="copyToClipboard()"
+        title="Copy raw JSON payload to clipboard"
+      >
+        @if (copied()) {
+          <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2">
+            <polyline points="20 6 9 17 4 12" />
+          </svg>
+          <span class="copied-text">Copied!</span>
+        } @else {
+          <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+          </svg>
+          <span>Copy JSON</span>
+        }
+      </button>
+    </div>
+  </summary>
+
+  <div class="accordion-content">
+    <div class="code-container">
+      <div class="code-terminal-bar">
+        <div class="terminal-dots">
+          <span class="dot red"></span>
+          <span class="dot yellow"></span>
+          <span class="dot green"></span>
+        </div>
+        <span class="terminal-label">raw_payload.json</span>
+      </div>
+      <pre class="json-pre"><code class="json-code" [innerHTML]="highlightedJsonHtml()"></code></pre>
+    </div>
+  </div>
+</details>
+
