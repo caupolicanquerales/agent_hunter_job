@@ -1,6 +1,33 @@
 [
   {
     "id": "chunk_09-1",
+    "title": "AI agent engineer at Sticker Mule",
+    "company": "Sticker Mule",
+    "location": "",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "source": "RemoteOK_AI",
+    "salary": "150000",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Remote AI agent engineer role building and managing AI agents for internal departments at an e-commerce platform. Stack centers on TypeScript, Go, GraphQL, Postgres and GCP. Salary $150k to $250k USD plus signing bonus; seniority implied by agent-building experience.",
+    "matched_keywords": [
+      "typescript",
+      "ai agent"
+    ],
+    "score": 72,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Hands-on agent building matches applied AI and multi-agent experience",
+      "TypeScript and Postgres overlap with the stated stack"
+    ],
+    "cons": [
+      "Primary stack is Go and GCP, not Java or Spring Boot",
+      "Not a banking or fintech domain"
+    ]
+  },
+  {
+    "id": "chunk_09-2",
     "title": "Scrum Master at Blackstone Talent Group",
     "company": "Blackstone Talent Group",
     "location": "Dallas-Fort Worth Metroplex",
@@ -10,23 +37,22 @@
     "salary_currency": "N/A",
     "salary_period": "day",
     "years_experience": "3 years",
-    "description_review": "Scrum Master contractor role at Blackstone Talent Group facilitating Agile ceremonies, Jira boards, and delivery tracking. Matched 'spring' due to 'spring planning' typo in text; no software development or engineering responsibilities. Remote 6-month contract in Dallas, TX.",
+    "description_review": "Six-month contract Scrum Master role supporting agile delivery for a team. Requires 1-3 years in an agile delivery role and Jira/Confluence tooling. Process-focused, with no software engineering content.",
     "matched_keywords": [
       "spring"
     ],
     "score": 10,
     "recommendation": "SKIP",
     "pros": [
-      "Agile/Scrum delivery experience in enterprise IT settings"
+      "Enterprise IT delivery context"
     ],
     "cons": [
-      "Non-engineering project management/Scrum Master role with no software development",
-      "False keyword match on 'spring planning' typo, zero Java/Spring Boot",
-      "6-month contract with strict US NO C2C requirement"
+      "Process role, not software engineering",
+      "Matched only on the word spring, not Spring Boot"
     ]
   },
   {
-    "id": "chunk_09-2",
+    "id": "chunk_09-3",
     "title": "Help Desk at Zenius Corporation",
     "company": "Zenius Corporation",
     "location": "Colorado, ",
@@ -36,23 +62,22 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Tier 1/2 Help Desk Specialist at Zenius Corporation supporting a Grants Management System (GMS). Involves user access management, ticketing, troubleshooting, and end-user onboarding. Remote support role requiring 2+ years customer/help desk experience.",
+    "description_review": "Remote Tier 1/Tier 2 help desk role supporting a grants management system. Requires 2+ years of support experience, ticketing tools and user training. Support function with no development component.",
     "matched_keywords": [
       "enterprise"
     ],
     "score": 5,
     "recommendation": "SKIP",
     "pros": [
-      "Experience with enterprise web applications support"
+      "Exposure to enterprise web systems"
     ],
     "cons": [
-      "Tier 1/2 Help Desk support role, completely unrelated to software engineering",
-      "No Java, Spring Boot, microservices, or backend development",
-      "No architectural or coding responsibilities"
+      "Support role, not engineering",
+      "Junior-level scope relative to the senior profile"
     ]
   },
   {
-    "id": "chunk_09-3",
+    "id": "chunk_09-4",
     "title": "Junior Project Designer at Archinect",
     "company": "Archinect",
     "location": "Hoboken, ",
@@ -62,22 +87,21 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Architectural Project Designer position at MHS Architecture supporting physical building design, urban planning, and construction documentation. Matched 'architecture' and 'legacy' in a civil/building architecture context. Full-time position based in Hoboken, NJ with remote possibility.",
+    "description_review": "Junior architectural project designer role at an architecture firm in Hoboken, NJ, with remote possible. Full-time, focused on architecture and interior design deliverables. Not a software role.",
     "matched_keywords": [
       "architecture",
       "legacy"
     ],
-    "score": 0,
+    "score": 3,
     "recommendation": "SKIP",
     "pros": [],
     "cons": [
-      "Civil/building architecture and interior design job, not software engineering",
-      "False keyword match for physical architecture and firm legacy",
-      "Requires architectural drafting and construction documentation, zero coding"
+      "Architectural design, not software architecture",
+      "Junior level and unrelated domain"
     ]
   },
   {
-    "id": "chunk_09-4",
+    "id": "chunk_09-5",
     "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
     "company": "Liquid AI",
     "location": "Cambridge",
@@ -87,48 +111,20 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Member of Technical Staff role at Liquid AI adapting foundation models for enterprise recommendation systems (RecSys) at scale. Focuses on low latency, efficient on-device/accelerator deployment, and end-to-end applied ML engineering. Based in Cambridge with enterprise customer engagements across financial services and consumer tech.",
+    "description_review": "Applied ML role owning recommendation system work end-to-end for enterprise customers, adapting foundation models for ranking and personalization. Serves consumer electronics, automotive, life sciences and financial services clients. Seniority and stack are not stated in the available text.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 40,
+    "score": 58,
     "recommendation": "SKIP",
     "pros": [
-      "Applied AI / machine learning focus on low-latency enterprise systems and financial services domain",
-      "Requires end-to-end technical ownership and scalable systems architecture"
+      "Enterprise customer delivery and production ML ownership",
+      "Applied AI and model adaptation experience fits the AI criterion"
     ],
     "cons": [
-      "Specialized ML/RecSys role focused on sequential recommendation models rather than Java/backend SWE",
-      "No Java, Spring Boot, or microservices mentioned; typical stack is Python/C++ ML infra",
-      "Mismatched with core 7+ year Java/Spring enterprise profile"
-    ]
-  },
-  {
-    "id": "chunk_09-5",
-    "title": "Don't See Your Role Apply Here at Reflection",
-    "company": "Reflection",
-    "location": "London, ",
-    "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
-    "source": "RemoteOK_ML",
-    "salary": "0",
-    "salary_currency": "N/A",
-    "salary_period": "day",
-    "years_experience": "N/A",
-    "description_review": "General talent pool / open application posting at Reflection, an AI lab building open foundation models and agents. Open-ended role without defined technical requirements, responsibilities, or stack. Based in London offering equity and top-tier compensation.",
-    "matched_keywords": [
-      "enterprise"
-    ],
-    "score": 25,
-    "recommendation": "SKIP",
-    "pros": [
-      "Focus on open-weight models, AI agents, and enterprise applications aligns with AI interest",
-      "Strong talent-dense team working on cutting-edge foundational systems"
-    ],
-    "cons": [
-      "Generic talent pool submission without specific job requirements or role definition",
-      "Core focus is foundation model research/pre-training rather than Java backend engineering",
-      "Location London / UK without clear remote or visa sponsorship details"
+      "Recommendation and ML focus, not Java or backend engineering",
+      "Stack and seniority not stated in the data"
     ]
   }
 ]

@@ -3,6 +3,21 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Senior Data Engineer (Azure) at Proxify",
+      "company": "Proxify",
+      "location": "CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925636/",
+      "source": "WorkingNomads_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Data Engineer with deep expertise in Microsoft Azure to join our fast-growing Network. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: 5+ years in Data Engineering roles. Advanced SQL knowledge: complex queries, performance tuning, stored procedures. Strong understanding of Azure technologies: Azure SQL Database, Data Factory, etc. Proven experience in ETL development, data integration, and pipeline orchestration. Deep understanding of data modeling principles and data warehouse architectures. Knowledge of data governance principles, data quality management, and data security best practices. Located in",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer (Azure) at Proxify",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -67,23 +82,6 @@
       "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Django Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: 5+ years of web development experience, with at least 4 years specialising in Django. Strong understanding of the Django ORM, Django REST framework, and Python. Able to integrate multiple data sources and databases into one system. Understanding of the threading limitations of Python, and multi-process architecture. Good understanding of server-side templating languages (such as Jinja 2, Mako). Familiarity with event-driven programming in Python. Understanding of accessibility and security compliance. Knowledge of user",
       "matched_keywords": [
         "architecture"
-      ]
-    },
-    {
-      "title": "Senior Fullstack Developer (.NET) at Proxify",
-      "company": "Proxify",
-      "location": "CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925599/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Fullstack .NET Developer to join our fast-growing Network. In this role, you’ll own the design and implementation of backend services and APIs using .NET (C# / ASP.NET Core), while delivering polished, performant user interfaces using modern frontend technologies and .NET-driven UI frameworks. You will collaborate with product managers, designers, and other engineers to deliver end-to-end features, make architectural decisions, and mentor more junior engineers. This is a long-term, full-time remote engagement. You’ll have the opportunity to work with modern cloud platforms, CI/CD pipelines, and deliver impactful features in real products used by customers around the world. What we are looking for: 5+ years of professional ",
-      "matched_keywords": [
-        "backend",
-        "fullstack",
-        "full-stack"
       ]
     }
   ]

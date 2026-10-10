@@ -225,7 +225,7 @@ def fetch_remoteok(url, source_name="RemoteOK"):
 
 
 def fetch_json_jobs(url, source_name="GenericJSON"):
-    """Fetch jobs from a JSON endpoint returning a list or a {"jobs": [...]} object."""
+    """Fetch jobs from a JSON endpoint returning a list, or an object with a 'jobs' or 'data' key."""
     jobs = []
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -233,9 +233,9 @@ def fetch_json_jobs(url, source_name="GenericJSON"):
             data = json.loads(response.read().decode())
 
         if isinstance(data, dict):
-            data = data.get("jobs")
+            data = data.get("jobs") or data.get("data")
         if not isinstance(data, list):
-            print(f"Error fetching {source_name}: expected JSON list or 'jobs' key, got {type(data).__name__}")
+            print(f"Error fetching {source_name}: expected JSON list or 'jobs'/'data' key, got {type(data).__name__}")
             return []
 
         for item in data:
@@ -244,25 +244,40 @@ def fetch_json_jobs(url, source_name="GenericJSON"):
             category = str(item.get("category_name", "")).lower()
             if category and "development" not in category:
                 continue
-            title = item.get("title") or item.get("position") or "N/A"
-            company = item.get("company_name") or item.get("company") or "N/A"
-            link = item.get("url") or item.get("link") or item.get("job_url") or "N/A"
-            desc = item.get("description") or ""
-            location = item.get("location") or "N/A"
+            title = item.get("title") or item.get("position") or item.get("jobTitle") or "N/A"
+            company = (item.get("company_name") or item.get("company")
+                       or item.get("companyName") or "N/A")
+            link = (item.get("url") or item.get("link") or item.get("job_url")
+                    or item.get("applicationLink") or "N/A")
+            desc = item.get("description") or item.get("jobDescription") or item.get("jobExcerpt") or ""
+            location = item.get("location") or item.get("jobGeo") or "N/A"
+            if isinstance(location, list):
+                location = ", ".join(str(part) for part in location)
             cleaned_desc = clean_html(desc)[:1500]
             salary_text = f"{title} {cleaned_desc}"
             if not any(kw in salary_text.lower() for kw in KEYWORDS):
                 continue
             salary_info = normalize_salary_details(salary_text)
+            salary_min = item.get("minSalary") or item.get("salaryMin")
+            salary_max = item.get("maxSalary") or item.get("salaryMax")
+            salary_currency = item.get("currency") or item.get("salaryCurrency") or salary_info["salary_currency"]
+            if salary_min or salary_max:
+                salary_value = " - ".join(str(part) for part in (salary_min, salary_max) if part is not None)
+                salary_period = item.get("salaryPeriod") or salary_info["salary_period"]
+                if salary_currency not in ("N/A", ""):
+                    salary_value = f"{salary_value} {salary_currency}".strip()
+            else:
+                salary_value = salary_info["salary"]
+                salary_period = salary_info["salary_period"]
             jobs.append({
                 "title": f"{title} at {company}",
                 "company": company,
                 "location": location,
                 "link": link,
                 "source": source_name,
-                "salary": salary_info["salary"],
-                "salary_currency": salary_info["salary_currency"],
-                "salary_period": salary_info["salary_period"],
+                "salary": salary_value,
+                "salary_currency": salary_currency,
+                "salary_period": salary_period,
                 "years_experience": extract_years_experience(salary_text),
                 "description": cleaned_desc
             })

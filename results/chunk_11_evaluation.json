@@ -1,6 +1,31 @@
 [
   {
     "id": "chunk_11-1",
+    "title": "Senior Data Engineer (Azure) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925636/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior remote data engineering role on Azure covering SQL performance tuning, ETL pipelines and data warehouse architecture. Requires 5+ years in data engineering and Azure SQL and Data Factory. CET time zone plus or minus 3 hours.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Data architecture and warehouse design knowledge overlaps with the architecture criterion"
+    ],
+    "cons": [
+      "Data engineering focus, not backend Java or Spring",
+      "Azure-centric stack outside the profile"
+    ]
+  },
+  {
+    "id": "chunk_11-2",
     "title": "Senior DevOps Engineer (Azure) at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
@@ -10,24 +35,22 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior Azure DevOps Engineer role at Proxify focusing on Azure infrastructure reliability, security, and scalability. Involves Docker, Kubernetes/AKS, IaC, and scripting (PowerShell, Bash). Fully remote position for CET (+/- 3 hours) timezone.",
+    "description_review": "Senior Azure DevOps role focused on reliability, security and scalability of Azure systems, with containers, Kubernetes and infrastructure as code. Requires 5+ years of DevOps experience with a strong Azure focus. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 35,
+    "score": 20,
     "recommendation": "SKIP",
     "pros": [
-      "Senior role handling cloud architecture and container orchestration (Docker/Kubernetes)",
-      "Timezone alignment in CET (+/- 3 hours)"
+      "Automation and scripting experience overlaps with the modernization criterion"
     ],
     "cons": [
-      "Pure DevOps and cloud infrastructure engineering role, weak fit per candidate guidelines",
-      "No Java, Spring Boot, microservices backend development, or application code ownership",
-      "Requires dedicated focus on Azure VMs, App Services, and infrastructure automation"
+      "Pure DevOps role, a weak fit for the profile",
+      "Azure and Kubernetes focus outside the core stack"
     ]
   },
   {
-    "id": "chunk_11-2",
+    "id": "chunk_11-3",
     "title": "Senior Fullstack Developer (React.js / Node.js) at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
@@ -37,7 +60,7 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior Fullstack Developer role at Proxify designing low-latency systems and reusable libraries with Node.js and React.js. Stack covers microservices architecture, SQL, and MongoDB. Remote engagement requiring CET (+/- 3 hours) availability.",
+    "description_review": "Senior fullstack role pairing React.js frontend with Node.js microservices backend and SQL or MongoDB databases. Requires 5+ years as a fullstack developer and intermediate-advanced English. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "microservices",
       "backend",
@@ -46,21 +69,19 @@
       "full-stack",
       "node"
     ],
-    "score": 65,
+    "score": 62,
     "recommendation": "CONSIDER",
     "pros": [
-      "Senior fullstack scope (5+ years) with strong emphasis on microservices architecture and backend systems",
-      "Experience matches with SQL, MongoDB, and TypeScript/frontend ecosystem",
-      "CET (+/- 3 hours) timezone fit"
+      "Full-stack role with microservices backend depth matches the profile",
+      "Architecture and reusable library design fit the senior criterion"
     ],
     "cons": [
-      "Node.js and React.js stack rather than Java and Spring Boot backend",
-      "No enterprise legacy modernization or AI agent components mentioned",
-      "Contractor talent-network model rather than core product engineering role"
+      "Node.js and React stack, not Java or Spring Boot",
+      "Frontend-heavy emphasis compared with Java backend focus"
     ]
   },
   {
-    "id": "chunk_11-3",
+    "id": "chunk_11-4",
     "title": "Senior Python Developer (Fullstack, BE-Heavy) at Proxify",
     "company": "Proxify",
     "location": "CET (+/- 3 hours)",
@@ -70,26 +91,24 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior Backend-Heavy Python Fullstack Developer role at Proxify acting as core software architect. Responsibilities include high-throughput backend scaling, asynchronous API design, and client-side UI delivery. Full-time remote within CET (+/- 3 hours).",
+    "description_review": "Senior Python role, backend-heavy fullstack, designing high-throughput async APIs and background task orchestration as a core software architect. Requires 5+ years of production Python. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "backend",
       "fullstack",
       "full-stack"
     ],
-    "score": 55,
+    "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Senior software architect scope with 5+ years building high-throughput backend systems and APIs",
-      "Timezone alignment in CET (+/- 3 hours)"
+      "Backend architecture and async API design fit the senior backend criterion"
     ],
     "cons": [
-      "Python-heavy role without AI/agent focus, weak fit per candidate profile guidance",
-      "No Java, Spring Boot, or microservices architecture in the core description",
-      "Client-matching network engagement rather than direct product team"
+      "Python-focused stack, not Java or Spring Boot",
+      "No AI or banking focus stated"
     ]
   },
   {
-    "id": "chunk_11-4",
+    "id": "chunk_11-5",
     "title": "Senior Django Developer at Proxify",
     "company": "Proxify",
     "location": "CET (+/- 3 hours)",
@@ -99,50 +118,18 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior Django Developer role at Proxify requiring 4+ years specializing in Django, Django ORM, and Django REST framework. Involves event-driven programming, multi-process architecture, and multi-database integration. Fully remote in CET (+/- 3 hours).",
+    "description_review": "Senior Django role requiring 5+ years of web development with at least 4 years in Django, covering the ORM, Django REST framework and multi-database integration. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 45,
+    "score": 40,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend architectural experience with REST APIs and event-driven patterns",
-      "CET (+/- 3 hours) timezone match"
+      "Multi-source data integration and REST API work match part of the backend criterion"
     ],
     "cons": [
-      "Strict specialization in Python/Django and Jinja/Mako templating",
-      "No Java, Spring Boot, or enterprise microservices stack",
-      "Python-only stack without AI/agent augmentation"
-    ]
-  },
-  {
-    "id": "chunk_11-5",
-    "title": "Senior Fullstack Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925599/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior Fullstack .NET Developer role at Proxify owning backend services and APIs in C# / ASP.NET Core along with modern UI frameworks. Involves architectural decisions, cloud platforms, and mentoring engineers. Remote full-time within CET (+/- 3 hours).",
-    "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack"
-    ],
-    "score": 58,
-    "recommendation": "SKIP",
-    "pros": [
-      "Senior full-stack architectural scope owning backend services and APIs",
-      "Candidate has C# exposure in stack along with strong backend and architectural skills",
-      "Timezone alignment in CET (+/- 3 hours)"
-    ],
-    "cons": [
-      "Primary focus on C# / ASP.NET Core and .NET-driven UIs rather than Java/Spring Boot",
-      "Profile guidance marks .NET-only roles as weak fit unless AI-focused",
-      "No AI agents or legacy enterprise modernization scope mentioned"
+      "Python and Django only, outside the Java and Spring focus",
+      "No AI or banking focus stated"
     ]
   }
 ]

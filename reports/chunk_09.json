@@ -3,6 +3,22 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "AI agent engineer at Sticker Mule",
+      "company": "Sticker Mule",
+      "location": "",
+      "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "source": "RemoteOK_AI",
+      "salary": "150000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.Work performedIdentify where agents can help and build them accordingly.Work with department leads to assess AI needs.Help connect agents to appropriate third-party and internal tools.Measure results and remove agents that don't deliver.Test new tools and models as they ship and adopt what works.Advise others on AI capabilities to help them perform.RequirementsExperience building agents that run on their own and do meaningful workStrong with Grok, Claude, OpenAI, and open sourceComfortable in Go, TypeScript, GraphQL, Postgres, GCPWrites clearly in EnglishCompensationSalary: $150,000â$250,000 USD$20,000 signing bonus4 weeks vacation + country-specific holidaysFully remotePlease mention the word **HUMOUR** and tag RMTgxLjg2LjQwLjE4OQ== when applying to show you read the job post completely (#RMTgxLjg2LjQwLjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "matched_keywords": [
+        "typescript",
+        "ai agent"
+      ]
+    },
+    {
       "title": "Scrum Master at Blackstone Talent Group",
       "company": "Blackstone Talent Group",
       "location": "Dallas-Fort Worth Metroplex",
@@ -61,21 +77,6 @@
       "description": "About Liquid AISpun out of MIT CSAIL, we build general-purpose AI systems that run efficiently across deployment targets, from data center accelerators to on-device hardware, ensuring low latency, minimal memory usage, privacy, and reliability. We partner with enterprises across consumer electronics, automotive, life sciences, and financial services. We are scaling rapidly and need exceptional people to help us get there.The OpportunityThis is a rare chance to apply frontier sequential recommendation architectures to real enterprise problems at scale. You will own applied ML work end-to-end for recommendation system workloads, adapting Liquid Foundation Models for customers who need personalization and ranking capabilities that run efficiently under production constraints.Unlike most recommendation roles that are siloed into a single product surface, this role gives you full ownership over how large-scale recommendation models are adapted, evaluated, and deployed for enterprise customers. Between engagements, you will build reusable applied tooling and workflows that accelerate future delivery.If you care about data quality at scale, user behavior modeling, and making recommendation systems actually work in enterprise production environments, this is the role.What Weâre Looking ForWe need someone who:Takes ownership: Owns customer recommendation system engagements end-to-end, from requirements through delivery and evaluation.Thinks at scale: Can reason about user interactio",
       "matched_keywords": [
         "architecture",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Don't See Your Role Apply Here at Reflection",
-      "company": "Reflection",
-      "location": "London, ",
-      "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
-      "source": "RemoteOK_ML",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "day",
-      "years_experience": "N/A",
-      "description": "Our MissionReflectionâs mission is to build open superintelligence and make it accessible to all.Weâre developing open weight models for individuals, agents, enterprises, and even nation states. Our team of AI researchers and company builders come from DeepMind, OpenAI, Google Brain, Meta, Character.AI, Anthropic and beyond.We're always open to great people. If you're aligned with our mission but don't see the right role, we'd love to hear from you.What We OfferWe believe that to build superintelligence that is truly open, you need to start at the foundation. Joining Reflection means building from the ground up as part of a small talent-dense team. You will help define our future as a company, and help define the frontier of open foundational models.We want you to do the most impactful work of your career with the confidence that you and the people you care about most are supported.Top-tier compensation: Salary and equity structured to recognize and retain the best talent globally.Health &amp; wellness: Comprehensive medical, dental, vision, life, and disability insurance.Life &amp; family: Fully paid parental leave for all new parents, including adoptive and surrogate journeys. Financial support for family planning.Benefits &amp; balance: paid time off when you need it, relocation support, and more perks that optimize your time. Opportunities to connect with teammates: lunch and dinner are provided daily. We have regular off-sites and team celebrations.Please mention the",
-      "matched_keywords": [
         "enterprise"
       ]
     }

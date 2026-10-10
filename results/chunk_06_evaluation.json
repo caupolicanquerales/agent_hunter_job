@@ -1,138 +1,140 @@
 [
   {
     "id": "chunk_06-1",
-    "title": "Senior Software Engineer at Phaidra",
-    "company": "Phaidra",
-    "location": "Remote - United States",
-    "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
-    "source": "RemoteOK_ML",
-    "salary": "0",
-    "salary_currency": "EUR",
+    "title": "Senior Fullstack Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925599/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior software engineer position designing AI-powered control systems and autonomous reinforcement learning agents for industrial facilities. Focuses on converting sensor data into automated decisions and allowing domain experts to configure AI agents. Remote United States role with unstated salary.",
+    "years_experience": "5+ years",
+    "description_review": "Senior full-stack role building backend APIs in C# / ASP.NET Core with modern frontend frameworks, on a long-term remote contract. Requires 5+ years of professional experience.",
     "matched_keywords": [
-      "ai agent"
+      "backend",
+      "fullstack",
+      "full-stack"
     ],
-    "score": 61,
-    "recommendation": "CONSIDER",
+    "score": 35,
+    "recommendation": "SKIP",
     "pros": [
-      "Autonomous AI agent design directly matches candidate's applied AI engineering focus",
-      "Senior engineering scope tackling complex industrial control systems and automation"
+      "Senior backend and API ownership with architectural decisions",
+      "Full-stack scope with mentoring"
     ],
     "cons": [
-      "Focused on reinforcement learning and industrial controls rather than enterprise Java/Spring microservices",
-      "Remote location specified as United States, which may restrict non-US residents"
+      ".NET-centric stack, not Java/Spring",
+      "Salary not disclosed"
     ]
   },
   {
     "id": "chunk_06-2",
-    "title": "ML Engineer at Trunk Tools, Inc.",
-    "company": "Trunk Tools, Inc.",
-    "location": "",
-    "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
-    "source": "RemoteOK_ML",
-    "salary": "183000",
-    "salary_currency": "USD",
+    "title": "Senior Backend Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925598/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Machine learning engineer role at a Series B construction-tech company leading core AI platform components, including search, retrieval, and multi-agent orchestration. Involves building and scaling production AI agents for field operational workflows. Offers $183,000 USD compensation.",
+    "years_experience": "6+ years",
+    "description_review": "Senior core backend architect role for enterprise-level, high-throughput distributed systems on .NET. Requires 6+ years of backend experience and cloud-native direction.",
     "matched_keywords": [
-      "ai agent",
-      "multi-agent"
+      "backend",
+      "enterprise"
     ],
-    "score": 72,
-    "recommendation": "CONSIDER",
+    "score": 45,
+    "recommendation": "SKIP",
     "pros": [
-      "Multi-agent orchestration and production AI agent platform directly matches candidate's multi-agent background",
-      "Search and retrieval (RAG) architecture aligns with candidate's AI tooling and agent harness expertise",
-      "Strong compensation ($183k USD) at a high-growth Series B company"
+      "Enterprise distributed systems and architecture leadership",
+      "Strong seniority level"
     ],
     "cons": [
-      "ML engineer profile emphasizing Python/ML pipelines rather than Java/Spring Boot enterprise backends",
-      "Domain is construction tech rather than banking, fintech, or enterprise modernization"
+      ".NET stack instead of Java/Spring",
+      "Salary not disclosed"
     ]
   },
   {
     "id": "chunk_06-3",
-    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925654/",
-    "source": "WorkingNomads_Dev",
+    "link": "https://www.workingnomads.com/job/go/1925596/",
+    "source": "WorkingNomads_AI",
     "salary": "N/A",
-    "salary_currency": "N/A",
+    "salary_currency": "AUD",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior backend developer role requiring 5+ years of experience with Node.js and 3+ years with Nest.js to build scalable web applications and APIs. Key technologies include TypeScript, REST/GraphQL APIs, PostgreSQL, and MongoDB. Remote position operating in the CET (+/- 3 hours) time zone.",
+    "years_experience": "N/A",
+    "description_review": "Backend-heavy senior role architecting agentic AI workflows that reason, use tools and run coding tasks autonomously, using the Claude ecosystem. Language-agnostic, with production backend focus.",
     "matched_keywords": [
-      "java",
       "backend",
-      "typescript",
-      "node"
+      "fullstack",
+      "full-stack",
+      "ai agent"
     ],
-    "score": 52,
-    "recommendation": "SKIP",
+    "score": 70,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Senior backend API and microservice architecture scope with 5+ years requirement",
-      "TypeScript, PostgreSQL, and MongoDB align with candidate's secondary tech stack",
-      "Familiarity with authentication, authorization, and modular architectural design"
+      "Agentic workflow architecture matches the multi-agent and Spring AI experience",
+      "Backend-heavy production focus aligns with the profile"
     ],
     "cons": [
-      "Centered on Node.js and Nest.js without Java or Spring Boot",
-      "Staffing network client engagement without enterprise modernization or banking focus"
+      "Language-agnostic role; Java/Spring not named",
+      "Not banking/fintech domain"
     ]
   },
   {
     "id": "chunk_06-4",
-    "title": "Senior Cloud Engineer (Azure) at Proxify",
+    "title": "Senior Salesforce Developer at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925640/",
-    "source": "WorkingNomads_Dev",
+    "link": "https://www.workingnomads.com/job/go/1925592/",
+    "source": "WorkingNomads_AI",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior cloud engineering role managing enterprise Microsoft Azure infrastructure, container orchestration, and CI/CD pipelines. Focuses on networking, security compliance, landing zones, and automated cloud operations. Remote position based in the CET (+/- 3 hours) time zone.",
+    "years_experience": "4 years",
+    "description_review": "Senior Salesforce developer role using Apex, LWC, SOQL and REST/SOAP integrations across Salesforce clouds. Requires at least 4 years of Salesforce experience.",
     "matched_keywords": [
-      "enterprise"
+      "architecture"
     ],
-    "score": 38,
+    "score": 12,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise Azure infrastructure and container orchestration scope",
-      "Senior-level ownership of high-availability cloud environments and CI/CD automation"
+      "Enterprise integrations via REST and SOAP APIs"
     ],
     "cons": [
-      "Pure cloud/infrastructure and DevOps position rather than software engineering",
-      "No Java, Spring Boot, microservices application coding, or AI development"
+      "Platform-specific Salesforce stack, not Java/Spring",
+      "No banking/fintech domain"
     ]
   },
   {
     "id": "chunk_06-5",
-    "title": "Senior Data Engineer (Azure) at Proxify",
+    "title": "Senior SAP S/4HANA Developer at Proxify",
     "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925636/",
-    "source": "WorkingNomads_Dev",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925590/",
+    "source": "WorkingNomads_AI",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior data engineer position requiring 5+ years of experience in ETL development, SQL performance tuning, and Azure data pipelines. Involves designing data warehouse architectures, Azure SQL Databases, and enterprise data governance frameworks. Fully remote role aligned with CET (+/- 3 hours).",
+    "years_experience": "N/A",
+    "description_review": "Senior SAP S/4HANA role on mission-critical enterprise systems using ABAP RAP, CDS and SAP BTP side-by-side extensions under clean core rules. Seniority and salary not specified.",
     "matched_keywords": [
-      "architecture"
+      "backend",
+      "enterprise",
+      "fullstack",
+      "full-stack",
+      "legacy"
     ],
-    "score": 38,
+    "score": 25,
     "recommendation": "SKIP",
     "pros": [
-      "Senior data modeling, pipeline orchestration, and advanced SQL tuning",
-      "Enterprise data governance and data warehouse architecture responsibilities"
+      "Enterprise modernization under clean core principles"
     ],
     "cons": [
-      "Specialized data engineering/ETL role outside candidate's core backend software engineering focus",
-      "No Java, Spring Boot, or full-stack application development"
+      "ABAP/SAP stack, not Java/Spring",
+      "Seniority and salary not specified"
     ]
   }
 ]

@@ -10,6 +10,19 @@
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
+      "description": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the pro",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Tailscale: Backend Engineer, Control Plane",
+      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
       "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the product fo",
       "matched_keywords": [
         "backend"
@@ -55,21 +68,6 @@
       "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location: Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future. THE OPPORTUNITY At Salesloft, our Principal Engineer for AI sets the technical direction for how machine intelligence works across our Predictive Revenue System. This is the most senior individual-contributor role on our AI engineering team: you will architect the systems that turn LLMs, machine learning models, and agentic workflows into production capabilities that thousands of enterprise revenue teams depend on. This is deep, ambiguous, frontier work. You will make the foundational architectural decisions for AI at Salesloft — how we serve models at scale, how we bui",
       "matched_keywords": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "Lithic: Senior Software Engineer, Card Authorization",
-      "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "AUD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp; We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;We are hiring a Senior Software Engineer for Lithic’s Card Authorization team, which owns the real-time systems that make every card authorization decision correct, reliable, and fast. The team also owns related fraud tooling, including Lithic’s Rules Engine and 3D Secure integration. You’ll own high-impact projects end-to-end, solve distributed-systems problems at scale, and help build the tools customers use to control fraud and payment risk. What you'll do: Write reliable, secure, scalable code for",
-      "matched_keywords": [
-        "fintech",
-        "banking",
-        "legacy"
       ]
     }
   ]

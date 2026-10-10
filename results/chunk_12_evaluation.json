@@ -1,6 +1,33 @@
 [
   {
     "id": "chunk_12-1",
+    "title": "Senior Fullstack Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925599/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior fullstack .NET role owning C# and ASP.NET Core backend services and APIs, with modern frontend UIs and mentoring. Requires 5+ years of professional experience. Long-term remote, CET time zone plus or minus 3 hours.",
+    "matched_keywords": [
+      "backend",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend API ownership and architectural decisions match the senior criterion"
+    ],
+    "cons": [
+      ".NET-only stack, outside the Java and Spring focus",
+      "Fullstack UI emphasis"
+    ]
+  },
+  {
+    "id": "chunk_12-2",
     "title": "Senior Backend Developer (.NET) at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
@@ -10,26 +37,23 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "6+ years",
-    "description_review": "Senior .NET Backend Developer role at Proxify acting as core backend architect for high-growth client systems. Focuses on enterprise-level distributed architectures, high-throughput backend infrastructure, and cloud-native systems. Full-time remote in CET (+/- 3 hours).",
+    "description_review": "Senior .NET backend architect role designing enterprise-level, high-throughput distributed systems and cloud-native backends. Requires 6+ years of backend development. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "backend",
       "enterprise"
     ],
-    "score": 60,
-    "recommendation": "CONSIDER",
+    "score": 45,
+    "recommendation": "SKIP",
     "pros": [
-      "Senior backend architect scope with 6+ years experience in enterprise distributed systems",
-      "Focus on high throughput, robust security, and cloud-native architectural patterns",
-      "Timezone alignment in CET (+/- 3 hours)"
+      "Distributed systems and enterprise architecture match the senior architecture criterion"
     ],
     "cons": [
-      "Core technology requirement is deep .NET / C# rather than Java and Spring Boot",
-      ".NET-only role without AI focus is flagged as weak fit in candidate profile",
-      "Freelance talent network engagement model"
+      ".NET-only stack, outside the Java and Spring focus",
+      "No AI or banking focus stated"
     ]
   },
   {
-    "id": "chunk_12-2",
+    "id": "chunk_12-3",
     "title": "Senior AI Engineer (Backend-Focused) at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
@@ -39,27 +63,26 @@
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior Backend-Focused AI Engineer role at Proxify architecting autonomous agentic workflows and tool-calling systems. Requires language-agnostic engineering connecting LLMs to scalable backend production systems. Fully remote for CET (+/- 3 hours) timezone.",
+    "description_review": "Senior backend-heavy fullstack AI role architecting agentic workflows where AI agents reason, use tools and execute coding tasks autonomously. Focused on Claude ecosystem and production backend environments. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "backend",
       "fullstack",
       "full-stack",
       "ai agent"
     ],
-    "score": 85,
-    "recommendation": "APPLY",
+    "score": 70,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Direct alignment with candidate's applied multi-agent architecture and autonomous tool-using workflows",
-      "Language-agnostic backend engineer profile bridging LLM capabilities with scalable production systems",
-      "CET (+/- 3 hours) timezone match for remote delivery",
-      "Senior architecture scope moving beyond basic prompt engineering into robust AI backend infrastructure"
+      "Agentic workflow architecture matches the applied AI and multi-agent criterion",
+      "Backend-heavy production role fits the backend and architecture focus"
     ],
     "cons": [
-      "Talent network marketplace (Proxify) rather than direct in-house product team"
+      "Language-agnostic stack not confirmed as Java or Spring Boot",
+      "Salary currency listed as AUD with no amount"
     ]
   },
   {
-    "id": "chunk_12-3",
+    "id": "chunk_12-4",
     "title": "Senior Salesforce Developer at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
@@ -69,24 +92,22 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "4 years",
-    "description_review": "Senior Salesforce Developer role at Proxify building enterprise integrations and custom apps with Apex, Visualforce, and Lightning Web Components (LWC). Involves Sales/Service/Experience Cloud and REST/SOAP APIs. Remote within CET (+/- 3 hours).",
+    "description_review": "Senior Salesforce developer role building custom applications with Apex, LWC and SOQL, plus REST and SOAP integrations. Requires 4+ years of Salesforce development. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 30,
+    "score": 15,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise systems integrations using REST/SOAP APIs",
-      "Timezone alignment in CET (+/- 3 hours)"
+      "Enterprise integration via REST and SOAP APIs"
     ],
     "cons": [
-      "Proprietary CRM platform role (Salesforce Apex, SOQL, LWC) outside general SWE",
-      "No Java, Spring Boot, microservices, or standard open enterprise tech stack",
-      "Requires deep Salesforce platform-specific certifications and administrative tooling"
+      "Salesforce platform stack, outside the profile",
+      "No Java or Spring Boot focus"
     ]
   },
   {
-    "id": "chunk_12-4",
+    "id": "chunk_12-5",
     "title": "Senior SAP S/4HANA Developer at Proxify",
     "company": "Proxify",
     "location": "Time zone: CET (+/- 3 hours)",
@@ -96,7 +117,7 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior SAP S/4HANA Developer role at Proxify building clean-core backend and full-stack enterprise solutions on SAP BTP. Utilizes ABAP RESTful Application Programming Model (RAP), Core Data Services (CDS), and OData services. Remote position matching CET (+/- 3 hours).",
+    "description_review": "Senior SAP S/4HANA backend and fullstack role modernizing enterprise landscapes via RAP, CDS and side-by-side extensions on SAP BTP. Emphasizes clean-core architecture and removing legacy ABAP patterns. CET time zone plus or minus 3 hours.",
     "matched_keywords": [
       "backend",
       "enterprise",
@@ -104,46 +125,14 @@
       "full-stack",
       "legacy"
     ],
-    "score": 35,
+    "score": 42,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise backend modernization following clean-core architectural guidelines",
-      "Timezone match in CET (+/- 3 hours)"
+      "Enterprise legacy modernization and clean-core architecture match the modernization criterion"
     ],
     "cons": [
-      "Proprietary SAP ecosystem (ABAP RAP, CDS, SAP BTP, SAP HANA) rather than Java/Spring Boot microservices",
-      "Requires specialized SAP ERP modernization background rather than open-source cloud SWE",
-      "Zero Java or modern web tech stack match"
-    ]
-  },
-  {
-    "id": "chunk_12-5",
-    "title": "Senior Vue Developer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, LATAM, APAC, the U.S., Canada",
-    "link": "https://www.workingnomads.com/job/go/1923073/",
-    "source": "WorkingNomads_Dev",
-    "salary": "$11M",
-    "salary_currency": "USD",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior Vue.js / Nuxt.js Developer role through Lemon.io marketplace connecting engineers with US and European startups. Offers frontend and full-stack opportunities with flexible asynchronous schedules. Global remote coverage including Europe and LATAM.",
-    "matched_keywords": [
-      "fullstack",
-      "full-stack",
-      "vue"
-    ],
-    "score": 68,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Direct match with candidate's Vue.js / TypeScript production experience (e.g. BBVA engagement)",
-      "Senior fullstack options and flexible async remote setup matching LATAM/Europe",
-      "Autonomous working environment with direct client interaction"
-    ],
-    "cons": [
-      "Frontend-heavy focus (Vue.js/Nuxt.js) rather than Java/Spring enterprise backend core",
-      "Contractor talent marketplace matching platform rather than a single dedicated product position",
-      "No applied AI or microservices architecture emphasis in the posting"
+      "SAP ABAP stack, outside the profile",
+      "Years of experience not stated"
     ]
   }
 ]

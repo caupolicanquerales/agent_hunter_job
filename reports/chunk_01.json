@@ -50,6 +50,21 @@
       ]
     },
     {
+      "title": "Typeform: Full Stack Developer",
+      "link": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The NetherlandsAbout the team Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data. This team sits at the center of how Typeform builds product experiences, creating the shared foundations, tooling, and infrastructure that support scalable and consistent development across the platform. About the role We’re looking for a Mid level Full Stack Engineer with a stronger backend focus to help evolve the internal systems and infrastructure that support our product development ecosystem. This role is ideal for someone who enjoys building scalable internal platforms and developer tooling, while still being comfortable contributing across the frontend when needed. You’ll work on APIs, automation, release pipelines, and engineering infrastructure that improve h",
+      "matched_keywords": [
+        "backend",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
       "title": "Abnormal: Director of Security Engineering",
       "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
       "source": "WeWorkRemotely_Fullstack",
@@ -60,20 +75,6 @@
       "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement. Our Security Philosophy We run security the way the best engineering-led companies do: Security reduces toil. Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect. Paved paths, safe by default. We invest in guardrails, golden paths, and secure-by-default inf",
       "matched_keywords": [
         "architecture"
-      ]
-    },
-    {
-      "title": "Dremio: Software Engineer - Query Execution",
-      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the roleDremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution. As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.What you’ll be doing Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management. Develop reliable software: Write clear, maintainab",
-      "matched_keywords": [
-        "architecture",
-        "enterprise"
       ]
     }
   ]

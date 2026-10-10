@@ -5,31 +5,21 @@ description: Executes delete_all_files_in_folder.py to clean generated files (ch
 
 # Job Delete All Files
 
-Empties stale generated files from one project folder so a new run starts clean. Deletes **files only** (never subdirectories), non-recursive, and only inside the project.
+Empties stale generated files from one project folder so a new run starts clean. Files only, non-recursive, inside the project — never subdirectories or source code.
 
 **Trigger** (EN/ES): "clean/empty the folder", "delete the generated files", "limpiar la carpeta", "borrar los archivos generados", "resetear resultados".
 
 ## Run
 
-From the project root (`agent_hunter_job`):
-
 ```bash
 python3 .opencode/skills/job-delete-all-files/scripts/delete_all_files_in_folder.py <folder> [--pattern <glob>] [--exclude <glob>]
 ```
 
-- `<folder>` relative to the project root (`reports`, `results`) or an absolute path inside the project.
-- `--pattern` repeatable → only matching file names are deleted (e.g. `chunk_*.json`); omit it to delete every file.
-- `--exclude` repeatable → matching file names are always kept.
-
-```bash
-python3 .opencode/skills/job-delete-all-files/scripts/delete_all_files_in_folder.py reports --pattern "chunk_*.json"
-python3 .opencode/skills/job-delete-all-files/scripts/delete_all_files_in_folder.py results
-```
+`<folder>` = `reports`/`results` (or absolute, inside the project); run from the project root (`agent_hunter_job`). `--pattern` repeatable → deletes matching names only (omit → all; e.g. `chunk_*.json`); `--exclude` repeatable → always kept. E.g. `... results` · `... reports --pattern "chunk_*.json"`.
 
 ## Output
 
-- `Removed N files from <path>` plus a `Removed: <names>` line (only when something was removed); a missing folder prints `Folder not found (nothing to remove): <path>` and exits `0`.
-- Exit codes: `0` done / nothing to remove · `1` protected folder (project root, home, `/`) or path outside the project · `2` bad usage.
-- Never clean `reports/` without `--pattern "chunk_*.json"` (or `--exclude job_opportunities.js`): that file is the input of `job-search-filter`.
-- `results/` is shared by parallel `job-evaluator` instances: the orchestrator cleans it once before fan-out, instances only clean their own `<chunk>_evaluation.json`.
-- Report the `Removed N files` line; on exit `1`/`2` report the error and stop. No trigger for deleting folders, files outside the project, or source code.
+`Removed N files from <path>` (+ `Removed: <names>` if any); missing folder → `Folder not found (nothing to remove): <path>` exit `0`; protected/outside path exit `1`; bad usage exit `2`. Report the line; on `1`/`2` report the error and stop.
+
+- Clean `reports/` only right before a fetch (`job-search-web` recreates `job_opportunities.js`); never clean it while reusing the existing report, or the prefilter loses its input.
+- `results/` is shared by parallel `job-evaluator` instances: the orchestrator cleans it once at the start (step 3); each instance only writes its own `<chunk>_evaluation.json`.

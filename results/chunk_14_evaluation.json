@@ -1,139 +1,130 @@
 [
   {
     "id": "chunk_14-1",
+    "title": "Senior back-end Engineer at Lemon.io",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+    "source": "Remotive_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior back-end engineering role (Golang and/or Python, Kubernetes) for an AI infrastructure company, remote across UK, Singapore, US and Canada. Requires 5+ years and 2+ years of AI agent development.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "vue",
+      "node",
+      "ai agent"
+    ],
+    "score": 52,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend and infrastructure scope",
+      "AI agent development experience requested"
+    ],
+    "cons": [
+      "Golang/Python stack, no Java or Spring Boot",
+      "Matched on generic terms only, not a Java role"
+    ]
+  },
+  {
+    "id": "chunk_14-2",
     "title": "Senior AI Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
     "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
     "source": "Remotive_Dev",
     "salary": "$11M",
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "3+ years",
-    "description_review": "Senior remote AI Engineer opening at Lemon.io focusing on AI Agent and AI Automation architecture for US and European startups. Requires 3+ years in AI solutions, Python, vector databases (Pinecone/Weaviate), LangChain, and LLM orchestration. Offers flexible hours and async remote work.",
+    "description_review": "Senior AI engineering contract role via a freelance marketplace, applying LLMs, LangChain and vector databases in Python to startup projects. Requires 3+ years of applied AI experience.",
     "matched_keywords": [
       "ai agent"
     ],
-    "score": 73,
+    "score": 60,
     "recommendation": "CONSIDER",
     "pros": [
-      "Directly matches applied AI agent architecture and LLM orchestration experience",
-      "Covers vector databases and modern AI engineering workflows",
-      "Offers flexible remote work with high autonomy"
+      "LLM and LangChain applied AI matches AI criterion",
+      "Senior-level applied AI scope"
     ],
     "cons": [
-      "Demands Python and LangChain rather than candidate's core Java/Spring Boot enterprise stack",
-      "Agency talent marketplace rather than direct enterprise engineering team"
+      "Python-centric, no Java or Spring Boot",
+      "Freelance marketplace model, not an architecture role",
+      "$11M is the marketplace payout total, not a salary"
     ]
   },
   {
-    "id": "chunk_14-2",
+    "id": "chunk_14-3",
     "title": "Senior .NET Full-stack Developer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
     "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
     "source": "Remotive_Dev",
     "salary": "$11M",
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "4+ years",
-    "description_review": "Senior remote full-stack role at Lemon.io with multiple openings across .NET & React, C# & .NET, and Angular & .NET. Requires 4+ years software development experience, 3+ years with .NET, along with React or Angular and TypeScript proficiency. Fully remote serving US and European startup clients.",
+    "description_review": "Senior .NET and React full-stack contract role with TypeScript required, via a freelance marketplace. Requires 4+ years commercial experience.",
     "matched_keywords": [
       "angular",
       "typescript"
     ],
-    "score": 55,
+    "score": 35,
     "recommendation": "SKIP",
     "pros": [
-      "Highlights Angular & .NET track where candidate has 6 years of Angular/TypeScript experience",
-      "Matches senior full-stack responsibilities delivering end-to-end features"
+      "Senior full-stack scope with TypeScript"
     ],
     "cons": [
-      "Primary backend requirement is .NET/C# rather than core Java/Spring Boot",
-      "Lacks enterprise banking/fintech domain and AI modernization elements"
+      ".NET and React stack, no Java or Spring Boot",
+      "$11M is the marketplace payout total, not a salary"
     ]
   },
   {
-    "id": "chunk_14-3",
+    "id": "chunk_14-4",
     "title": "Senior Data Scientist at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
     "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
     "source": "Remotive_Dev",
     "salary": "$11M",
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "4+ years",
-    "description_review": "Senior Data Scientist opening at Lemon.io for US/EU startups requiring 4+ years of data science and 3+ years of Python and Databricks. Core responsibilities include building RAG systems and LLM applications from scratch with robust architecture. Flexible remote schedule with async communication.",
+    "description_review": "Senior data scientist contract role requiring Python, Databricks and RAG/LLM experience, via a freelance marketplace. Requires 4+ years as a data scientist.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 53,
+    "score": 45,
     "recommendation": "SKIP",
     "pros": [
-      "Focuses on RAG and LLM application architecture where candidate has practical applied AI skills",
-      "Senior level autonomous remote work environment"
+      "Application architecture understanding is requested"
     ],
     "cons": [
-      "Position is dedicated Data Science rather than Software Engineering or backend development",
-      "Requires Databricks and data science modeling outside candidate's core backend profile"
+      "Data science focus, not backend engineering",
+      "$11M is the marketplace payout total, not a salary"
     ]
   },
   {
-    "id": "chunk_14-4",
+    "id": "chunk_14-5",
     "title": "Senior Independent AI Engineer / Architect at A.Team",
-    "company": "A.Team",
-    "location": "N/A",
     "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
     "source": "Remotive_Dev",
     "salary": "$200M",
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior AI Engineer / Architect role with invite-only builder network A.Team developing production AI systems for enterprises and global companies. Focuses on agent architectures, orchestration systems, enterprise AI deployments, and evaluation infrastructure. Remote for candidates located across the Americas, Europe, or Israel.",
+    "description_review": "Senior AI engineer and architect for an invite-only network building production agent architectures, orchestration and enterprise AI deployments, remote in the Americas, Europe or Israel. Seniority is senior with a track record of shipping.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 86,
+    "score": 82,
     "recommendation": "APPLY",
     "pros": [
-      "Outstanding fit for candidate's multi-agent platform and orchestration system development experience",
-      "Emphasizes enterprise-grade AI production deployments and architectural trade-offs",
-      "Senior architect scope working directly with leadership on high-impact projects"
+      "Agent architecture and orchestration match multi-agent experience",
+      "Enterprise AI deployments and production shipping match the profile",
+      "Architect-level scope matches software architecture focus"
     ],
     "cons": [
-      "Consulting/network model rather than a single in-house engineering team",
-      "Does not specifically mention Java/Spring Boot in the core summary"
-    ]
-  },
-  {
-    "id": "chunk_14-5",
-    "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
-    "company": "Mitre Media",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "source": "Remotive_Dev",
-    "salary": "N/A",
-    "salary_currency": "EUR",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Tech Lead Full-Stack role at Mitre Media architecting LLM-powered financial web applications within a microservices-based Rails 8 platform. Powers fintech platforms like Dividend.com and MutualFunds.com serving asset managers like BlackRock. Remote role requiring timezone overlap within ±3 hours of Eastern Time.",
-    "matched_keywords": [
-      "microservices",
-      "fintech",
-      "fullstack",
-      "full-stack"
-    ],
-    "score": 66,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Strong fintech domain alignment serving institutional asset managers and individual investors",
-      "Senior Tech Lead scope covering microservices architecture and LLM integration into production workflows"
-    ],
-    "cons": [
-      "Core backend stack is Ruby on Rails 8 where candidate has no professional experience",
-      "Strict requirement for expert Rails development rather than Java/Spring Boot"
+      "Stack not specified, Java/Spring not mentioned",
+      "Independent contractor model, not a permanent role",
+      "$200M is the network total earnings, not a salary"
     ]
   }
 ]

@@ -3,6 +3,24 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
+      "company": "Mitre Media",
+      "location": "N/A",
+      "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive_Dev",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a re",
+      "matched_keywords": [
+        "microservices",
+        "fintech",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
       "company": "CodeForAI",
       "location": "N/A",
@@ -71,21 +89,6 @@
       "matched_keywords": [
         "angular",
         "typescript"
-      ]
-    },
-    {
-      "title": "Senior Data Scientist at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-      "source": "Remotive_AI",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "4+ years",
-      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements — Data Scientist: 4+ years of commercial experience as a Data Scientist 3+ years of commercial experience with Python is a must 3+ years of commercial experience with Databricks Experience with RAG and LLM is a must Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Stro",
-      "matched_keywords": [
-        "architecture"
       ]
     }
   ]

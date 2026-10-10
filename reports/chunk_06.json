@@ -3,6 +3,24 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+      "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "month",
+      "years_experience": "5+ years",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. &nbsp; What we offer: &nbsp; Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exc",
+      "matched_keywords": [
+        "microservices",
+        "backend",
+        "architecture",
+        "fullstack",
+        "full-stack",
+        "node"
+      ]
+    },
+    {
       "title": "Fin: Solutions Architect -Spanish Speaking",
       "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
       "source": "WeWorkRemotely_Fullstack",
@@ -57,21 +75,6 @@
         "fullstack",
         "full-stack",
         "ai agent"
-      ]
-    },
-    {
-      "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-      "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "At least 7 years of experience",
-      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js, ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance. Ensure the scalability, security, and responsiveness of backend services. Uphold rigorous data protection standards and implement industry-leading security measures. Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team. &nbsp; What Youll Bring: Essential Skills &amp; Experience: At least 7 years of experience with: React React Vite REST API development Strong knowledge and hands-on experience with SQL. Proficiency in Prisma for database management. A minimum of 5 years of experience in REST API development using the NestJS framework. Expertise in backend development, specifically with NestJ",
-      "matched_keywords": [
-        "backend",
-        "node",
-        "rest api"
       ]
     }
   ]

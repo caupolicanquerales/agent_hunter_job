@@ -3,6 +3,21 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Lithic: Senior Software Engineer, Card Authorization",
+      "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp; We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;We are hiring a Senior Software Engineer for Lithic’s Card Authorization team, which owns the real-time systems that make every card authorization decision correct, reliable, and fast. The team also owns related fraud tooling, including Lithic’s Rules Engine and 3D Secure integration. You’ll own high-impact projects end-to-end, solve distributed-systems problems at scale, and help build the tools customers use to control fraud and payment risk. What you'll do: Write reliable, secure, scalable code for",
+      "matched_keywords": [
+        "fintech",
+        "banking",
+        "legacy"
+      ]
+    },
+    {
       "title": "ZoomInfo Technologies LLC: Director, Applied AI",
       "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
       "source": "WeWorkRemotely_Fullstack",
@@ -55,20 +70,6 @@
       "matched_keywords": [
         "java",
         "typescript"
-      ]
-    },
-    {
-      "title": "Glean: Application Security Engineer",
-      "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. &nbsp; At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level. &nbsp; Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its glo",
-      "matched_keywords": [
-        "enterprise",
-        "ai agent"
       ]
     }
   ]

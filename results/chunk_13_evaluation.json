@@ -1,153 +1,133 @@
 [
   {
     "id": "chunk_13-1",
-    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
-    "company": "CloudGeometry",
-    "location": "Brazil",
-    "link": "https://www.workingnomads.com/job/go/1889808/",
+    "title": "Senior Fullstack Developer (.NET) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925599/",
     "source": "WorkingNomads_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "At least 6 years of experience",
-    "description_review": "Senior remote .NET backend role at CloudGeometry focused on healthcare drug cost transparency microservices. Requires 6+ years of experience with C#/.NET Core 8+, Entity Framework, and algorithm design. Remote role based in Brazil with some React frontend collaboration.",
+    "years_experience": "5+ years",
+    "description_review": "Senior fullstack role on .NET (C# / ASP.NET Core) with modern frontend, remote full-time, CET timezone. Seniority is senior with architecture decisions and mentoring.",
     "matched_keywords": [
-      "microservices",
       "backend",
-      "architecture",
       "fullstack",
       "full-stack"
     ],
-    "score": 52,
+    "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Requires 6+ years of backend microservices experience aligned with senior engineering background",
-      "Covers C# and API design where candidate possesses secondary backend familiarity"
+      "Senior backend ownership and architecture decisions match seniority",
+      "Fullstack scope with backend depth"
     ],
     "cons": [
-      "Primary stack requires .NET Core 8+ and React rather than core Java/Spring Boot ecosystem",
-      "Role location is targeted to Brazil and healthcare domain rather than enterprise/fintech"
+      ".NET-centric stack, no Java/Spring mentioned",
+      "Timezone restricted to CET +/- 3 hours"
     ]
   },
   {
     "id": "chunk_13-2",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
-    "link": "https://www.workingnomads.com/job/go/1885527/",
+    "title": "Senior Backend Developer (.NET) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925598/",
     "source": "WorkingNomads_Dev",
     "salary": "N/A",
-    "salary_currency": "EUR",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior remote backend opening connecting developers with an AI infrastructure startup via Lemon.io talent network. Requires 5+ years of software experience, with primary needs in Golang, Python, Kubernetes, and AI agent development, while also placing React & Java roles. Remote across EU, US, Canada, UK, and Mexico.",
+    "years_experience": "6+ years",
+    "description_review": "Senior backend architect role on .NET for enterprise and distributed systems, remote, CET timezone. Seniority is senior, 6+ years.",
     "matched_keywords": [
-      "java",
       "backend",
-      "architecture",
-      "vue",
-      "node",
-      "ai agent"
+      "enterprise"
     ],
-    "score": 70,
-    "recommendation": "CONSIDER",
+    "score": 55,
+    "recommendation": "SKIP",
     "pros": [
-      "Strong emphasis on AI agent development and AI automation architecture where candidate built multi-agent platforms",
-      "Senior backend role (5+ years) with remote flexibility across EU and Americas",
-      "Network also actively places React & Java backend engineers"
+      "Enterprise distributed-systems scope matches architecture focus",
+      "Senior level with architect responsibilities"
     ],
     "cons": [
-      "Specific open roles primarily demand Golang and Python rather than core Java/Spring Boot stack",
-      "Agency/marketplace placement model rather than direct enterprise/fintech engineering hire"
+      ".NET-only stack, no Java/Spring",
+      "Timezone restricted to CET +/- 3 hours"
     ]
   },
   {
     "id": "chunk_13-3",
-    "title": "Head of Engineering at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, Latin America, USA",
-    "link": "https://www.workingnomads.com/job/go/1878435/",
+    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925596/",
     "source": "WorkingNomads_Dev",
-    "salary": "$16M",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "10 years",
-    "description_review": "Executive Head of Engineering role at Lemon.io leading technical roadmap and engineering teams for a $16M GMV talent platform. Requires 10 years of experience driving transformation from a services marketplace to a technology-driven automated platform. Remote across Europe, Latin America, and USA.",
-    "matched_keywords": [
-      "architecture"
-    ],
-    "score": 51,
-    "recommendation": "SKIP",
-    "pros": [
-      "Emphasizes technical roadmap ownership, architectural transformation, and platform modernization",
-      "Accommodates remote candidates in Latin America and Europe"
-    ],
-    "cons": [
-      "Head of Engineering executive scope exceeds Senior SWE target role",
-      "Lacks alignment with Java/Spring Boot enterprise stack"
-    ]
-  },
-  {
-    "id": "chunk_13-4",
-    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
-    "company": "CodeForAI",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-    "source": "Remotive_Dev",
     "salary": "N/A",
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote AI Code Trainer role at CodeForAI evaluating and stress-testing model-generated code across algorithms, web stacks, and system design. Welcomes engineers with Python, JavaScript/TypeScript, Java, or backend systems experience. Focuses on code auditing, writing reference solutions, and test design.",
+    "description_review": "Backend-heavy fullstack role building agentic AI workflows (tool use, autonomous coding tasks) on the Claude ecosystem, language-agnostic, remote, CET timezone. Senior level implied.",
     "matched_keywords": [
-      "java",
       "backend",
       "fullstack",
       "full-stack",
-      "typescript",
-      "node"
+      "ai agent"
     ],
-    "score": 47,
-    "recommendation": "SKIP",
+    "score": 75,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Directly values Java, TypeScript, and algorithmic problem-solving capabilities",
-      "Applied AI evaluation work touches model code auditing and unit test validation"
+      "Agentic workflow architecture matches multi-agent and orchestration experience",
+      "Backend-heavy production work matches Java/Spring backend profile",
+      "Language-agnostic role leaves room for Java"
     ],
     "cons": [
-      "Training/benchmarking role rather than hands-on senior software engineering or microservices development",
-      "Lacks enterprise architecture, modernization, and production system delivery"
+      "Claude ecosystem focus, no Java/Spring named",
+      "Timezone restricted to CET +/- 3 hours",
+      "Salary currency listed as AUD with no amount"
+    ]
+  },
+  {
+    "id": "chunk_13-4",
+    "title": "Senior Salesforce Developer at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925592/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "4 years",
+    "description_review": "Senior Salesforce platform developer (Apex, LWC, SOQL) for customer-facing apps and integrations, remote, CET timezone. Four years minimum.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Integration experience via REST and SOAP APIs"
+    ],
+    "cons": [
+      "Platform-specific Salesforce stack, not Java/Spring",
+      "Not backend microservices focused",
+      "Timezone restricted to CET +/- 3 hours"
     ]
   },
   {
     "id": "chunk_13-5",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-    "source": "Remotive_Dev",
+    "title": "Senior SAP S/4HANA Developer at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925590/",
+    "source": "WorkingNomads_Dev",
     "salary": "N/A",
-    "salary_currency": "EUR",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior remote backend opportunity placed through Lemon.io for an AI infrastructure company building hardware and models. Requires 5+ years software experience with focus on Golang/Python, Kubernetes, and AI agent development, while also placing React & Java roles. Fully remote position targeting candidates across US, UK, Canada, and Singapore.",
+    "years_experience": "N/A",
+    "description_review": "Senior SAP S/4HANA developer (ABAP RAP, CDS, SAP BTP) on enterprise landscapes with a clean-core approach, remote, CET timezone. Seniority is senior.",
     "matched_keywords": [
-      "java",
       "backend",
-      "architecture",
-      "vue",
-      "node",
-      "ai agent"
+      "enterprise",
+      "fullstack",
+      "full-stack",
+      "legacy"
     ],
-    "score": 70,
-    "recommendation": "CONSIDER",
+    "score": 30,
+    "recommendation": "SKIP",
     "pros": [
-      "Aligns with senior AI agent architecture and automation background",
-      "Senior backend scope requiring 5+ years of software engineering experience",
-      "Includes placement opportunities for React and Java ecosystems"
+      "Enterprise modernization and clean-core approach partly relate to legacy modernization"
     ],
     "cons": [
-      "Primary featured openings emphasize Golang and Python rather than core Java/Spring Boot",
-      "Marketplace placement rather than direct enterprise team role"
+      "ABAP/SAP stack, unrelated to Java/Spring",
+      "Timezone restricted to CET +/- 3 hours"
     ]
   }
 ]

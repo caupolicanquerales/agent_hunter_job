@@ -3,6 +3,23 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Senior Vue Developer at Lemon.io",
+      "company": "Lemon.io",
+      "location": "Europe, LATAM, APAC, the U.S., Canada",
+      "link": "https://www.workingnomads.com/job/go/1923073/",
+      "source": "WorkingNomads_Dev",
+      "salary": "$11M",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have different positions for Senior Vue Developers, including front-end and full-stack roles. Please check the requirements for each option in the topic below. We also have many other positions available—please check the job listings below. Requirements for Senior Vue.js &amp; Nuxt.js Developer: 4+ ",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "vue"
+      ]
+    },
+    {
       "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
       "company": "CloudGeometry",
       "location": "Brazil",
@@ -74,26 +91,6 @@
         "full-stack",
         "typescript",
         "node"
-      ]
-    },
-    {
-      "title": "Senior back-end Engineer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "source": "Remotive_Dev",
-      "salary": "N/A",
-      "salary_currency": "EUR",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python &amp; LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: the UK, Singapore, the US, and Canada. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.",
-      "matched_keywords": [
-        "java",
-        "backend",
-        "architecture",
-        "vue",
-        "node",
-        "ai agent"
       ]
     }
   ]

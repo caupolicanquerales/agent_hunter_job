@@ -3,6 +3,23 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Senior Fullstack Developer (.NET) at Proxify",
+      "company": "Proxify",
+      "location": "CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925599/",
+      "source": "WorkingNomads_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Fullstack .NET Developer to join our fast-growing Network. In this role, you’ll own the design and implementation of backend services and APIs using .NET (C# / ASP.NET Core), while delivering polished, performant user interfaces using modern frontend technologies and .NET-driven UI frameworks. You will collaborate with product managers, designers, and other engineers to deliver end-to-end features, make architectural decisions, and mentor more junior engineers. This is a long-term, full-time remote engagement. You’ll have the opportunity to work with modern cloud platforms, CI/CD pipelines, and deliver impactful features in real products used by customers around the world. What we are looking for: 5+ years of professional ",
+      "matched_keywords": [
+        "backend",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
       "title": "Senior Backend Developer (.NET) at Proxify",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -68,23 +85,6 @@
         "fullstack",
         "full-stack",
         "legacy"
-      ]
-    },
-    {
-      "title": "Senior Vue Developer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "Europe, LATAM, APAC, the U.S., Canada",
-      "link": "https://www.workingnomads.com/job/go/1923073/",
-      "source": "WorkingNomads_Dev",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have different positions for Senior Vue Developers, including front-end and full-stack roles. Please check the requirements for each option in the topic below. We also have many other positions available—please check the job listings below. Requirements for Senior Vue.js &amp; Nuxt.js Developer: 4+ ",
-      "matched_keywords": [
-        "fullstack",
-        "full-stack",
-        "vue"
       ]
     }
   ]

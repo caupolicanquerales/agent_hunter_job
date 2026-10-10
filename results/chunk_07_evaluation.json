@@ -1,6 +1,32 @@
 [
   {
     "id": "chunk_07-1",
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "At least 7 years of experience",
+    "description_review": "Senior backend role building NestJS/Node.js REST APIs and SQL/Prisma data layers for a healthcare company in Australia. Requires 7+ years overall, 5+ in NestJS.",
+    "matched_keywords": [
+      "backend",
+      "node",
+      "rest api"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend REST API ownership matches the profile",
+      "Healthcare domain with data protection focus"
+    ],
+    "cons": [
+      "Node/NestJS stack instead of Java/Spring Boot",
+      "Salary not disclosed"
+    ]
+  },
+  {
+    "id": "chunk_07-2",
     "title": "Sticker Mule: Software engineer",
     "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
     "source": "WeWorkRemotely_Fullstack",
@@ -8,26 +34,25 @@
     "salary_currency": "USD",
     "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote full-stack software engineer position building customer and creator tools (Stores, AI tools, Notify, Reply) for an e-commerce platform. Stack features Go, TypeScript, React, GraphQL, PostgreSQL, and GCP with aggressive AI integration. Offers $150,000–$250,000 USD annual salary with a $20,000 signing bonus.",
+    "description_review": "Fully remote full-stack engineer role across Go, TypeScript, React, Expo and GraphQL on GCP, building commerce tools with AI. Pay is $150k-$250k USD; seniority is not stated.",
     "matched_keywords": [
       "fullstack",
       "full-stack",
       "typescript"
     ],
-    "score": 63,
-    "recommendation": "CONSIDER",
+    "score": 54,
+    "recommendation": "SKIP",
     "pros": [
-      "End-to-end product ownership in small autonomous teams matches senior engineering profile",
-      "Strong transparent compensation ($150k–$250k USD) and remote-first setup",
-      "TypeScript and PostgreSQL match candidate's stack capabilities"
+      "Full-stack scope with AI-augmented engineering",
+      "Fully remote with strong USD pay"
     ],
     "cons": [
-      "Primary backend stack is Go rather than Java/Spring Boot",
-      "Frontend relies on React rather than Angular or Vue.js"
+      "Go/TypeScript stack, not Java/Spring",
+      "Commerce domain, not banking/fintech"
     ]
   },
   {
-    "id": "chunk_07-2",
+    "id": "chunk_07-3",
     "title": "A.Team: Senior Independent AI Engineer / Architect",
     "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
     "source": "WeWorkRemotely_Fullstack",
@@ -35,24 +60,24 @@
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "High-impact independent senior AI engineer and architect network working on production AI deployments for startups and enterprises. Scope focuses on agent architectures, multi-agent orchestration, retrieval systems, and enterprise LLM infrastructure. Remote role open to the Americas, Europe, and Israel.",
+    "description_review": "Independent senior AI engineer and architect role on production systems, covering LLM products, agent architectures and enterprise AI deployments. Remote across the Americas, Europe or Israel; hourly rate not stated.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 83,
-    "recommendation": "APPLY",
+    "score": 75,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Direct focus on agent architectures and orchestration systems matches candidate's multi-agent platform work",
-      "Enterprise AI deployments and reliability infrastructure align with candidate's enterprise modernization focus",
-      "Senior architectural scope working with founders and technical leaders on production-grade systems"
+      "Agent architecture and orchestration work matches the multi-agent profile",
+      "Enterprise AI deployments and architect scope match seniority"
     ],
     "cons": [
-      "Invite-only contract and fractional network rather than a single full-time direct corporate role"
+      "Stack and languages not specified",
+      "Freelance network model, not a banking/fintech employer"
     ]
   },
   {
-    "id": "chunk_07-3",
+    "id": "chunk_07-4",
     "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
     "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
     "source": "WeWorkRemotely_Fullstack",
@@ -60,75 +85,42 @@
     "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior independent software developer role in an invite-only network delivering greenfield and modernization projects for enterprise clients and top-tier startups. Engineers work in small teams of 3–4 builders with full project autonomy and client guidance. Compensation ranges from $90 to $170 USD per hour.",
+    "description_review": "Independent senior software developer role in 3-4 person teams for startups and enterprises, paid $90-$170 per hour. Stack and detailed requirements are not stated in the excerpt.",
     "matched_keywords": [
       "enterprise"
     ],
-    "score": 70,
-    "recommendation": "CONSIDER",
+    "score": 50,
+    "recommendation": "SKIP",
     "pros": [
-      "High hourly compensation ($90–$170/hr) with full autonomy over project selection",
-      "Senior scope leading architecture, scoping, and execution for enterprise clients",
-      "Matches senior software engineering and enterprise consulting background"
+      "Senior independent scope with enterprise clients"
     ],
     "cons": [
-      "Client-dependent project stack without guaranteed Java or Spring Boot focus",
-      "Independent contractor model rather than stable permanent employment"
+      "Stack not specified, no Java/Spring evidence",
+      "Project-based contract work, less architecture ownership"
     ]
   },
   {
-    "id": "chunk_07-4",
-    "title": "Frontend Engineer at Bjak ",
-    "company": "Bjak ",
-    "location": "Ireland",
+    "id": "chunk_07-5",
+    "title": "Frontend Engineer at Bjak",
     "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "source": "RemoteOK_Java",
     "salary": "0",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Web frontend engineer position building productivity application surfaces (Chat, Notes, Docs, Sheets) with native AI capabilities for ActAI. Involves real-time messaging, collaborative editing, streaming AI responses, and reusable UI components. Position located in Ireland with unstated salary.",
+    "description_review": "Pure web frontend role building chat, notes, calendar, docs and spreadsheet experiences for an AI-native app in Ireland. Frontend-focused with real-time and rich-text work; salary not listed.",
     "matched_keywords": [
       "backend",
       "architecture"
     ],
-    "score": 45,
+    "score": 25,
     "recommendation": "SKIP",
     "pros": [
-      "Involves streaming AI responses and model-driven UI workflows",
-      "Focuses on complex interactive UI architecture and state management"
+      "Frontend architecture ownership and AI-integrated streaming UX"
     ],
     "cons": [
-      "Pure frontend engineering role misaligned with candidate's backend and architecture strengths",
-      "No Java, Spring Boot, microservices, or enterprise backend development"
-    ]
-  },
-  {
-    "id": "chunk_07-5",
-    "title": "AI agent engineer at Sticker Mule",
-    "company": "Sticker Mule",
-    "location": "",
-    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-    "source": "RemoteOK_Java",
-    "salary": "150000",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "N/A",
-    "description_review": "Remote AI agent engineer position responsible for building, operating, and managing autonomous teams of AI agents. Requires experience building independent agents using Claude, OpenAI, Grok, Go, TypeScript, GraphQL, and PostgreSQL. Compensation is $150,000–$250,000 USD per year with a $20,000 signing bonus.",
-    "matched_keywords": [
-      "typescript",
-      "ai agent"
-    ],
-    "score": 70,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Direct alignment with candidate's experience building multi-agent platforms and agent harnesses",
-      "Includes TypeScript, GraphQL, and PostgreSQL from candidate's technical profile",
-      "Strong compensation package ($150k–$250k USD) and fully remote environment"
-    ],
-    "cons": [
-      "Backend relies primarily on Go instead of Java and Spring Boot",
-      "Domain focuses on commerce and manufacturing rather than financial services or enterprise systems"
+      "Pure frontend role, weak fit per profile",
+      "No Java or Spring Boot stack evidence"
     ]
   }
 ]

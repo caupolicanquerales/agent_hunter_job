@@ -1,134 +1,140 @@
 [
   {
     "id": "chunk_02-1",
-    "title": "Sticker Mule: Software engineer",
-    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$150,000–$250,000",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "N/A",
-    "description_review": "Fully remote full-stack role at Sticker Mule offering $150k-$250k USD plus $20k signing bonus across 40+ countries. The tech stack uses Go, TypeScript, React, Expo, GraphQL, and Postgres on GCP, shipping web and mobile apps. Requires aggressive AI usage in daily workflows to build internal and consumer-facing tools.",
+    "title": "Senior Fullstack Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925599/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior full-stack .NET role owning ASP.NET Core backend services and APIs plus modern frontend work, with architecture decisions and mentoring. Long-term remote, CET +/- 3 hours. Salary not stated.",
     "matched_keywords": [
+      "backend",
       "fullstack",
-      "full-stack",
-      "typescript"
+      "full-stack"
     ],
-    "score": 65,
-    "recommendation": "CONSIDER",
+    "score": 55,
+    "recommendation": "SKIP",
     "pros": [
-      "High compensation ($150k-$250k USD) and fully remote international availability",
-      "Agile product ownership and strong emphasis on applied AI usage align with candidate profile",
-      "TypeScript and PostgreSQL match secondary technical stack"
+      "Owns backend services, APIs and architecture decisions",
+      "Mentoring and end-to-end feature delivery match senior profile"
     ],
     "cons": [
-      "Core stack is Go and React/Expo rather than Java and Spring Boot",
-      "E-commerce creator tooling domain differs from banking, fintech, and enterprise modernization"
+      ".NET/C# is not the candidate's core stack; .NET-only is a weak fit",
+      "Restricted to CET time zone"
     ]
   },
   {
     "id": "chunk_02-2",
-    "title": "A.Team: Senior Independent AI Engineer / Architect",
-    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$200M",
-    "salary_currency": "USD",
+    "title": "Senior Backend Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925598/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Remote contract network role (Americas, Europe, Israel) with A.Team for senior AI architects and engineers building production systems. Focuses on agent architectures, orchestration frameworks, enterprise AI deployments, and LLM reliability infrastructure. Engagements involve working directly with startup founders and enterprise CTOs to ship production AI solutions.",
+    "years_experience": "6+ years",
+    "description_review": "Senior .NET backend architect role designing enterprise-level, high-throughput distributed systems and cloud-native infrastructure for a client team. Remote, CET +/- 3 hours. Salary not stated.",
     "matched_keywords": [
-      "architecture",
+      "backend",
       "enterprise"
     ],
-    "score": 83,
-    "recommendation": "APPLY",
+    "score": 58,
+    "recommendation": "SKIP",
     "pros": [
-      "Agent architectures and orchestration systems directly match candidate's multi-agent platform and modernization harness work",
-      "Enterprise AI deployment scope leverages candidate's senior software architecture and enterprise background",
-      "Remote availability across Americas and Europe accommodates candidate location"
+      "Enterprise-scale distributed architecture matches the profile's architecture focus",
+      "6+ years backend experience"
     ],
     "cons": [
-      "Talent network marketplace / freelance contract structure rather than permanent full-time employment"
+      ".NET is not the candidate's core stack",
+      "Restricted to CET time zone"
     ]
   },
   {
     "id": "chunk_02-3",
-    "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$90-$170",
-    "salary_currency": "USD",
+    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925596/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote invite-only network role with A.Team offering $90-$170/hr for senior software developers on high-impact projects. Small autonomous teams build ambitious greenfield software and scale enterprise platforms for venture-backed startups and enterprises. Designed for senior engineers from large corporate backgrounds seeking autonomous mission-based work.",
-    "matched_keywords": [
-      "enterprise"
-    ],
-    "score": 76,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Competitive hourly rate ($90-$170/hr) with full autonomy on project selection",
-      "Targeting senior developers exiting large enterprises matches 7+ years corporate banking background",
-      "High-impact distributed system and product architecture opportunities"
-    ],
-    "cons": [
-      "Marketplace/contract-based model without guaranteed ongoing salary",
-      "No specific mention of Java, Spring Boot, or core AI agent toolsets in the overview listing"
-    ]
-  },
-  {
-    "id": "chunk_02-4",
-    "title": "Frontend Engineer at Bjak ",
-    "company": "Bjak ",
-    "location": "Ireland",
-    "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-    "source": "RemoteOK_Java",
-    "salary": "0",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Remote frontend engineer role at Bjak (ActAI) based in Ireland building AI-native productivity apps such as chat, notes, calendar, and sheets. Focuses heavily on frontend UI architecture, real-time messaging, streaming AI responses, and rich text editors. Heavy web client specialization collaborating with backend and AI engineers.",
+    "description_review": "Backend-heavy senior AI role architecting agentic workflows where AI systems reason, use tools and execute coding tasks, integrated with production backends. Remote, CET +/- 3 hours. Salary not stated in USD.",
     "matched_keywords": [
       "backend",
-      "architecture"
-    ],
-    "score": 48,
-    "recommendation": "SKIP",
-    "pros": [
-      "Work with streaming AI responses and proactive agent workflows aligns with applied AI interests",
-      "Candidate possesses frontend experience in TypeScript and Angular/Vue"
-    ],
-    "cons": [
-      "Pure frontend engineering role mismatches the candidate's core backend/Java/Spring strengths",
-      "Location listed in Ireland with unclear global remote eligibility"
-    ]
-  },
-  {
-    "id": "chunk_02-5",
-    "title": "AI agent engineer at Sticker Mule",
-    "company": "Sticker Mule",
-    "location": "",
-    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-    "source": "RemoteOK_Java",
-    "salary": "150000",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "N/A",
-    "description_review": "Fully remote AI agent engineer role at Sticker Mule offering $150k-$250k USD plus a $20k signing bonus. Entails building, managing, and connecting autonomous AI agent teams to third-party and internal systems using Claude, OpenAI, Grok, and open-source models. The technical environment leverages Go, TypeScript, GraphQL, Postgres, and GCP.",
-    "matched_keywords": [
-      "typescript",
+      "fullstack",
+      "full-stack",
       "ai agent"
     ],
     "score": 82,
     "recommendation": "APPLY",
     "pros": [
-      "Autonomous AI agent engineering and orchestration directly maps to candidate's multi-agent platform and harness development",
-      "Excellent compensation ($150k-$250k USD + $20k bonus) and global remote structure",
-      "Strong hands-on application of modern LLMs and agent tool use"
+      "Architecting agentic workflows matches the profile's multi-agent and Spring AI experience",
+      "Backend-heavy production systems fit the strong backend signal"
     ],
     "cons": [
-      "Codebase uses Go, TypeScript, and GraphQL rather than Java/Spring Boot core backend",
-      "E-commerce manufacturing domain rather than banking or financial services"
+      "Claude ecosystem focus is not in the profile",
+      "Language-agnostic role, but the posting names no Java or Spring stack"
+    ]
+  },
+  {
+    "id": "chunk_02-4",
+    "title": "Senior Salesforce Developer at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925592/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "4 years",
+    "description_review": "Senior Salesforce developer with Apex, Visualforce, LWC and SOQL, building custom integrations via REST and SOAP. Remote, CET +/- 3 hours. Salary not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "REST API integration experience overlaps with the profile"
+    ],
+    "cons": [
+      "Salesforce platform development is outside the candidate's stack",
+      "Restricted to CET time zone"
+    ]
+  },
+  {
+    "id": "chunk_02-5",
+    "title": "Senior SAP S/4HANA Developer at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925590/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior SAP S/4HANA developer leading backend and full-stack work with ABAP RAP, CDS and SAP BTP side-by-side extensions for enterprise landscapes. Remote, CET +/- 3 hours. Salary not stated.",
+    "matched_keywords": [
+      "backend",
+      "enterprise",
+      "fullstack",
+      "full-stack",
+      "legacy"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise modernization and clean-core architecture overlap with the profile"
+    ],
+    "cons": [
+      "ABAP and SAP platform are outside the candidate's stack",
+      "Restricted to CET time zone"
     ]
   }
 ]

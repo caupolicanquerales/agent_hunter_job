@@ -1,7 +1,36 @@
 [
   {
     "id": "chunk_19-1",
-    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
+    "title": "Senior Vue Developer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, LATAM, APAC, the U.S., Canada",
+    "link": "https://www.workingnomads.com/job/go/1923073/",
+    "source": "WorkingNomads_AI",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior Vue.js marketplace role for front-end or full-stack positions with startups in the US and Europe, requiring 4+ years with Vue.js and Nuxt.js. Remote with flexible schedule; $11M is the marketplace's total payout to engineers, not a salary.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack",
+      "vue"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Vue.js experience matches the candidate's BBVA background",
+      "Full-stack option includes backend depth"
+    ],
+    "cons": [
+      "Front-end-leaning role, weak fit for pure frontend",
+      "Nuxt.js-specific requirements, no Java/Spring Boot",
+      "Salary not stated for the role"
+    ]
+  },
+  {
+    "id": "chunk_19-2",
+    "title": "Stack .NET Developer / Algorithm Engineer at CloudGeometry",
     "company": "CloudGeometry",
     "location": "Brazil",
     "link": "https://www.workingnomads.com/job/go/1889808/",
@@ -10,7 +39,7 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "At least 6 years of experience",
-    "description_review": "Full Stack .NET Developer / Algorithm Engineer with backend focus at CloudGeometry, developing healthcare cost reduction systems. Requires 6+ years experience in C#/.NET Core 8+, Entity Framework, microservices, REST APIs, and strong data structures/algorithms. Remote position based in Brazil.",
+    "description_review": "Backend-focused .NET role (C#/.NET Core 8+, Entity Framework) with strong data structures and algorithms focus, plus microservices and some React front-end work. Remote role; salary not stated.",
     "matched_keywords": [
       "microservices",
       "backend",
@@ -18,21 +47,19 @@
       "fullstack",
       "full-stack"
     ],
-    "score": 59,
+    "score": 42,
     "recommendation": "SKIP",
     "pros": [
-      "Requires 6+ years experience, microservices architecture, and RESTful APIs",
-      "Matches candidate's C# experience and strong OOP design patterns background",
-      "Focuses on complex data-driven architecture and clean, high-quality code"
+      "Microservices and REST API experience is relevant",
+      "Backend focus with architecture exposure"
     ],
     "cons": [
-      "Primary tech stack is .NET/C# rather than core Java/Spring Boot",
-      "Weak fit per profile guidelines for non-AI .NET-only roles",
-      "Role location specified for Brazil"
+      ".NET-only stack, a weak fit for the profile",
+      "Algorithm-heavy emphasis outside the candidate's core strengths"
     ]
   },
   {
-    "id": "chunk_19-2",
+    "id": "chunk_19-3",
     "title": "Senior back-end Engineer at Lemon.io",
     "company": "Lemon.io",
     "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
@@ -42,7 +69,7 @@
     "salary_currency": "EUR",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior Back-end Engineer role via Lemon.io for a research-driven open-source AI infrastructure company. Involves building next-generation AI platforms, requiring 5+ years backend development and 2+ years AI agent development alongside Python, Golang, and Kubernetes. Remote across EU, US, Canada, UK, and Mexico.",
+    "description_review": "Senior back-end role building AI infrastructure for a research-driven AI company, requiring Golang and/or Python, Kubernetes and AI agent development experience. Remote across multiple regions; salary not stated.",
     "matched_keywords": [
       "java",
       "backend",
@@ -51,20 +78,20 @@
       "node",
       "ai agent"
     ],
-    "score": 85,
-    "recommendation": "APPLY",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Explicit requirement for 2+ years AI agent development directly aligns with candidate's multi-agent platform and harness development",
-      "Senior backend role with extensive remote eligibility (EU, US, Mexico, etc.)",
-      "High alignment with candidate's applied GenAI and software architecture priorities"
+      "Senior back-end scope with infrastructure and AI agent development",
+      "Applied AI experience aligns with the profile"
     ],
     "cons": [
-      "Specific opening mentions Golang/Python as primary languages rather than Java/Spring Boot",
-      "Staffing/matchmaking network model via Lemon.io rather than direct hire"
+      "Go and Python primary, not Java/Spring Boot",
+      "Kubernetes requirement outside the core stack",
+      "Role specifics beyond the listed requirements are not provided"
     ]
   },
   {
-    "id": "chunk_19-3",
+    "id": "chunk_19-4",
     "title": "Head of Engineering at Lemon.io",
     "company": "Lemon.io",
     "location": "Europe, Latin America, USA",
@@ -74,20 +101,20 @@
     "salary_currency": "USD",
     "salary_period": "year",
     "years_experience": "10 years",
-    "description_review": "Head of Engineering position at Lemon.io to lead platform transformation from services-driven marketplace to technology-driven platform. Requires 10 years experience to own technical roadmap, lead and grow the engineering team, and make core architecture decisions alongside the founder. Remote in Europe, Latin America, or USA.",
+    "description_review": "Engineering leadership role owning the technical roadmap and architecture for a talent marketplace transitioning to a technology platform, leading a growing team while staying hands-on. Remote across Europe, Latin America and USA; $16M is annual GMV, not a salary.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 58,
-    "recommendation": "SKIP",
+    "score": 65,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Hands-on engineering leadership and architecture ownership for platform transformation",
-      "Remote eligibility across Europe and Latin America"
+      "Senior architecture and roadmap ownership matches the profile",
+      "Hands-on leadership with a modernization-style platform transition"
     ],
     "cons": [
-      "Executive Head of Engineering role requiring 10+ years experience, beyond candidate's 7+ years Senior SWE focus",
-      "Salary field falsely captured marketplace annual GMV ($16M) instead of actual compensation",
-      "Does not focus on hands-on Java/Spring Boot microservices development"
+      "Requires 10 years of experience, above the candidate's 7+ years",
+      "Marketplace domain, not banking or fintech",
+      "Leadership-heavy scope may dilute hands-on Java development"
     ]
   }
 ]

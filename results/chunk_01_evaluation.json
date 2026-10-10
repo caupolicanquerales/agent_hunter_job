@@ -1,130 +1,123 @@
 [
   {
     "id": "chunk_01-1",
-    "title": "Twikey: Senior Java Developer",
-    "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
-    "source": "WeWorkRemotely_Backend",
+    "title": "Glean: Application Security Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+    "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior remote backend developer role at Ghent-based fintech Twikey focusing on core platform development, architecture optimization, and scalable backend systems. The role involves close collaboration with the CTO and development team to build secure, high-performance systems. Direct ownership of platform evolution in a fast-paced fintech environment.",
+    "description_review": "Application security engineering role at Glean, an enterprise AI work platform. US remote headquarters. Security-focused, seniority and salary not stated in the excerpt.",
     "matched_keywords": [
-      "backend",
-      "architecture",
-      "fintech"
+      "enterprise",
+      "ai agent"
     ],
-    "score": 86,
-    "recommendation": "APPLY",
+    "score": 35,
+    "recommendation": "SKIP",
     "pros": [
-      "Direct match for core Senior Java backend profile with architecture focus",
-      "Fintech domain aligns with 7+ years banking experience at ICBC and BBVA",
-      "Platform ownership and scalable backend design match senior engineering capabilities"
+      "Enterprise AI platform context"
     ],
     "cons": [
-      "Does not explicitly specify Spring Boot version or applied AI/orchestration technologies"
+      "Application security focus, not backend or architecture development",
+      "Stack not described"
     ]
   },
   {
     "id": "chunk_01-2",
-    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
-    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
-    "source": "WeWorkRemotely_Backend",
+    "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+    "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+    "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior backend developer position requiring 5+ years of Node.js and 3+ years of Nest.js for building modern scalable web APIs and microservices. Long-term full-time remote role restricted to candidates located in CET timezone (+/- 3 hours). Requires strong TypeScript, REST/GraphQL, relational and NoSQL databases, and event-driven architecture.",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack role building a contractor marketplace with web and mobile apps, fully remote, full-time, open worldwide. Requires someone who has built similar platforms from idea to product. Stack not listed in the excerpt.",
     "matched_keywords": [
-      "java",
-      "microservices",
-      "backend",
-      "architecture",
-      "typescript",
-      "node"
+      "fullstack",
+      "full-stack"
     ],
-    "score": 56,
-    "recommendation": "SKIP",
+    "score": 60,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Senior backend scope involving microservices, REST APIs, and event-driven architecture",
-      "Matches secondary skills in TypeScript, Docker, and relational/NoSQL databases"
+      "Senior full-stack ownership from idea to production, matching the profile's full-stack and architecture signals",
+      "Marketplace features (accounts, payments, admin tools) involve backend services"
     ],
     "cons": [
-      "Primary requirement of 5+ years Node.js and Nest.js conflicts with Java/Spring core focus",
-      "Strict CET (+/- 3 hours) timezone restriction may limit location eligibility"
+      "Stack and Java/Spring usage not stated in the excerpt",
+      "Consumer marketplace rather than banking or enterprise"
     ]
   },
   {
     "id": "chunk_01-3",
-    "title": "Reddit: Backend Engineer, IAM",
-    "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
-    "source": "WeWorkRemotely_Backend",
+    "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+    "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "day",
     "years_experience": "N/A",
-    "description_review": "Remote US-based backend engineer position on Reddit's Identity and Access Management team. The role focuses on designing and building mission-critical, high-scale authentication and authorization systems serving millions of daily users. Involves high-leverage architectural execution and cross-functional collaboration across engineering.",
+    "description_review": "Senior integration engineer building MuleSoft/API integrations across Salesforce, SAP and a carrier data lake, with production ownership. Expects explicit AI-assisted engineering. Daily rate, remote via Toptal.",
     "matched_keywords": [
-      "backend",
-      "architecture"
+      "enterprise"
     ],
-    "score": 66,
+    "score": 72,
     "recommendation": "CONSIDER",
     "pros": [
-      "Authentication, authorization, and IAM domain aligns with OAuth2, JWT, and security experience",
-      "High-throughput distributed backend architecture fits senior systems engineering profile"
+      "API design and contract ownership matches the profile's REST and enterprise integration experience",
+      "Explicit AI copilot and agent workflow expectation aligns with applied AI"
     ],
     "cons": [
-      "Specific backend programming language stack is not detailed in the description",
-      "Remote eligibility indicates US workforce focus"
+      "MuleSoft and Salesforce/SAP integration are not in the profile stack",
+      "Integration-platform focus rather than core Java/Spring development"
     ]
   },
   {
     "id": "chunk_01-4",
-    "title": "Abnormal: Director of Security Engineering",
-    "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
+    "title": "Sticker Mule: AI agent engineer",
+    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
     "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "AUD",
-    "salary_period": "N/A",
+    "salary": "$150,000–$250,000",
+    "salary_currency": "USD",
+    "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote US director-level engineering leadership role reporting directly to the CISO at AI cybersecurity firm Abnormal. The position entails leading and growing security engineering teams, managing FedRAMP cloud environments, and representing security to executive leaders and auditors. Demands people management and governance over hands-on application development.",
+    "description_review": "Engineer to build, run and manage a team of autonomous AI agents for an e-commerce manufacturing platform. Fully remote, US-based company, USD 150k to 250k per year. Stack includes Go, TypeScript, GraphQL, Postgres and GCP.",
     "matched_keywords": [
-      "architecture"
+      "typescript",
+      "ai agent"
     ],
-    "score": 38,
-    "recommendation": "SKIP",
+    "score": 78,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise architecture scope within an AI-driven cybersecurity platform"
+      "Building autonomous agents that do real work matches the profile's multi-agent platform experience",
+      "TypeScript and Postgres appear in the profile stack"
     ],
     "cons": [
-      "Executive Director/people-management role is a mismatch for a hands-on Senior SWE profile",
-      "Requires extensive CISO-level security governance and FedRAMP compliance expertise rather than software engineering"
+      "Go and GCP are not in the profile stack; no Java or Spring Boot mentioned",
+      "Role leans toward internal tooling and operations rather than enterprise architecture"
     ]
   },
   {
     "id": "chunk_01-5",
-    "title": "Dremio: Software Engineer - Query Execution",
-    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote Portugal software engineering role on Dremio's Query Execution team building the core engine for lakehouse analytics. Involves developing query operators, expression evaluation, memory management, and runtime scheduling at scale using Apache Iceberg and Apache Arrow. Focuses on low-level analytical systems performance for enterprise customers.",
+    "description_review": "Senior data engineer on a Data Intelligence Platform with AWS data lakes, pipelines, SQL modeling and database operations. Remote via Toptal. Salary and seniority details are partly truncated.",
     "matched_keywords": [
-      "architecture",
-      "enterprise"
+      "architecture"
     ],
-    "score": 62,
-    "recommendation": "CONSIDER",
+    "score": 45,
+    "recommendation": "SKIP",
     "pros": [
-      "Enterprise data lakehouse platform handling large-scale distributed performance and architecture",
-      "Deep technical focus on software quality, performance optimization, and reliable system components"
+      "Data architecture and pipeline design show some overlap with architecture work"
     ],
     "cons": [
-      "Focuses on internal query runtime and database engine mechanics rather than enterprise business microservices/REST APIs",
-      "Listed as remote within Portugal, which may impose regional residency constraints"
+      "Data engineering and database administration focus, not backend Java or Spring",
+      "No application development stack matching the profile"
     ]
   }
 ]

@@ -1,131 +1,133 @@
 [
   {
     "id": "chunk_05-1",
-    "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-    "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior remote full-stack developer role building a contractor referral and services marketplace platform across web and mobile. Scope covers user accounts, job tracking, payments, dashboards, and admin tools worldwide. No specific tech stack or salary is disclosed.",
-    "matched_keywords": [
-      "fullstack",
-      "full-stack"
-    ],
-    "score": 30,
-    "recommendation": "SKIP",
-    "pros": [
-      "Senior full-stack ownership scope fits senior engineering experience",
-      "End-to-end platform delivery from scratch aligns with general software engineering background"
-    ],
-    "cons": [
-      "No Java, Spring Boot, or enterprise backend stack specified",
-      "Domain is consumer/contractor marketplace rather than enterprise, banking, or fintech"
-    ]
-  },
-  {
-    "id": "chunk_05-2",
-    "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
-    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "day",
-    "years_experience": "N/A",
-    "description_review": "Senior integration engineer role focused on designing and operating enterprise API integrations across MuleSoft, SAP, Salesforce, and carrier data lakes. Emphasizes end-to-end production ownership, API design, contract management, and daily AI-assisted engineering workflows. Remote engagement with day-rate compensation structure.",
-    "matched_keywords": [
-      "enterprise"
-    ],
-    "score": 73,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Explicit daily AI-assisted engineering and agent workflow matches applied AI background",
-      "Enterprise integration, API contracts, and architecture align with senior enterprise background",
-      "Senior scope with end-to-end production ownership and operational resilience"
-    ],
-    "cons": [
-      "Centered on MuleSoft, SAP, and Salesforce rather than core Java and Spring Boot development"
-    ]
-  },
-  {
-    "id": "chunk_05-3",
-    "title": "Sticker Mule: AI agent engineer",
-    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$150,000–$250,000",
+    "title": "AI agent engineer at Sticker Mule",
+    "company": "Sticker Mule",
+    "location": "",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "source": "RemoteOK_AI",
+    "salary": "150000",
     "salary_currency": "USD",
     "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote AI agent engineer role building and managing autonomous multi-agent systems integrated with internal and third-party tools. Stack spans Go, TypeScript, GraphQL, Postgres, and GCP with frontier LLMs such as Claude, OpenAI, and Grok. Offers $150,000–$250,000 USD annual salary with a $20,000 signing bonus.",
+    "description_review": "Fully remote role to build and run AI agents for commerce operations. Stack is Go, TypeScript, GraphQL, Postgres and GCP, with pay of $150k-$250k USD.",
     "matched_keywords": [
       "typescript",
       "ai agent"
     ],
-    "score": 70,
-    "recommendation": "CONSIDER",
+    "score": 55,
+    "recommendation": "SKIP",
     "pros": [
-      "Core focus on autonomous multi-agent systems directly matches candidate's multi-agent platform experience",
-      "Stack includes TypeScript and Postgres which fit candidate's complementary skills",
-      "Attractive transparent compensation ($150k–$250k USD) with full remote flexibility"
+      "Hands-on AI agent building matches the applied AI profile",
+      "Fully remote with USD salary range"
     ],
     "cons": [
-      "Requires Go rather than candidate's primary Java and Spring Boot stack",
-      "Commerce and manufacturing focus rather than banking, fintech, or legacy modernization"
+      "Stack is Go/TypeScript, not Java/Spring",
+      "Commerce domain, not banking/fintech"
+    ]
+  },
+  {
+    "id": "chunk_05-2",
+    "title": "Scrum Master at Blackstone Talent Group",
+    "company": "Blackstone Talent Group",
+    "location": "Dallas-Fort Worth Metroplex",
+    "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "3 years",
+    "description_review": "6-month contract Scrum Master role supporting team-level Agile delivery under a senior lead. Requires 1-3 years in an Agile delivery role; no engineering stack.",
+    "matched_keywords": [
+      "spring"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "Agile process knowledge transfers from senior engineering background"
+    ],
+    "cons": [
+      "Non-engineering role",
+      "Keyword match on Spring is unrelated to Spring Boot",
+      "Junior-level Agile delivery requirement"
+    ]
+  },
+  {
+    "id": "chunk_05-3",
+    "title": "Help Desk at Zenius Corporation",
+    "company": "Zenius Corporation",
+    "location": "Colorado, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote Tier 1/2 help desk specialist for a grants management system. Focus is ticket handling, user accounts and training, with 2+ years of support experience required.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise web application exposure"
+    ],
+    "cons": [
+      "Support role, not software engineering",
+      "No Java, Spring or architecture scope"
     ]
   },
   {
     "id": "chunk_05-4",
-    "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
-    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
+    "title": "Junior Project Designer at Archinect",
+    "company": "Archinect",
+    "location": "Hoboken, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
+    "source": "RemoteOK_AI",
+    "salary": "0",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior data engineering position architecting and implementing AWS data lake solutions, SQL data models, and automated data pipelines. Supports data intelligence platforms, web services, and analytics infrastructure for internal business units. Remote contractor position with unstated compensation.",
+    "description_review": "Full-time junior architectural project designer role at an architecture firm in New Jersey, with remote possible. Focus is design and construction documentation.",
     "matched_keywords": [
-      "architecture"
+      "architecture",
+      "legacy"
     ],
-    "score": 38,
+    "score": 3,
     "recommendation": "SKIP",
-    "pros": [
-      "Senior architectural scope covering pipeline automation and scalable data solutions",
-      "Involves web services and relational database optimization"
-    ],
+    "pros": [],
     "cons": [
-      "Pure data engineering and AWS data pipeline role rather than backend software engineering",
-      "No Java, Spring Boot, or microservices application development"
+      "Architectural design, not software architecture",
+      "Junior level",
+      "Unrelated domain"
     ]
   },
   {
     "id": "chunk_05-5",
-    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
+    "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
+    "company": "Liquid AI",
+    "location": "Cambridge",
+    "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
+    "source": "RemoteOK_ML",
+    "salary": "0",
     "salary_currency": "N/A",
-    "salary_period": "month",
-    "years_experience": "5+ years",
-    "description_review": "Senior remote full-stack developer role requiring 5+ years of experience with Node.js microservices, React.js, SQL, and MongoDB. Focuses on building reusable libraries, low-latency applications, and data storage solutions for global clients. CET (+/- 3 hours) preferred with monthly compensation.",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Applied ML role adapting recommendation foundation models for enterprise customers, owning engagements end-to-end. Enterprise delivery is relevant, but ML research and recommender focus is not the candidate's core stack; salary not listed.",
     "matched_keywords": [
-      "microservices",
-      "backend",
       "architecture",
-      "fullstack",
-      "full-stack",
-      "node"
+      "enterprise"
     ],
-    "score": 50,
+    "score": 35,
     "recommendation": "SKIP",
     "pros": [
-      "Senior microservices architecture and API design scope",
-      "Database experience with SQL and MongoDB aligns with candidate's stack",
-      "5+ years senior requirements match candidate's 7+ years of experience"
+      "Enterprise AI delivery ownership",
+      "Applied AI and production deployment focus"
     ],
     "cons": [
-      "Stack centered on React.js and Node.js with no Java or Spring Boot",
-      "General client staffing engagement lacking fintech or enterprise modernization context"
+      "ML/recommender focus, not Java backend",
+      "Stack and seniority not specified in the job data",
+      "Salary not disclosed"
     ]
   }
 ]

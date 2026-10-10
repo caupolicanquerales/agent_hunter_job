@@ -135,12 +135,13 @@ sequenceDiagram
 
     U->>O: "Find remote Java jobs"
     O->>O: Classify intent (EN/ES)
+    O->>O: Clean reports/ + results/
     O->>W: Inject skill + run fetch_jobs.py
     W-->>O: reports/job_opportunities.js
     O-->>U: Notify: N jobs fetched (before filtering)
     O->>F: Inject skill + run prefilter
     F-->>O: reports/chunk_01..N.json
-    O->>O: Clean results/, K = min(N, 5)
+    O->>O: K = min(N, 5)
     par Parallel fan-out
         O->>E: chunk_01.json
         O->>E: chunk_02.json
@@ -157,9 +158,10 @@ sequenceDiagram
 
 - Skills are injected **on demand**, never preloaded.
 - The user is **notified before** the filter runs (overwrites are part of the flow).
-- `results/` is cleaned **once** by the orchestrator; sub-agents only delete their
-  own `<chunk>_evaluation.json` (a full clean would wipe siblings and break the
-  fan-in count).
+- `reports/` (every stale file) and `results/` are both cleaned **once** by the
+  orchestrator at the start, before the fetch (step 3) — the filter skill and
+  sub-agents never delete anything; evaluators only write their own
+  `<chunk>_evaluation.json` (a full clean would wipe siblings and break the fan-in count).
 - Fan-in verifies `N` result files via a **file count**, never by opening them.
 - Max **5** concurrent evaluators to stay within rate limits.
 

@@ -3,6 +3,20 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Glean: Application Security Engineer",
+      "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. &nbsp; At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level. &nbsp; Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its glo",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
       "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
       "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
       "source": "WeWorkRemotely_Fullstack",
@@ -54,24 +68,6 @@
       "description": "Headquarters: SummaryWe are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science.General informationThis Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform.The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infrastructure and a mix of structured and unstructured data sources.Tasks and Deliverables- Participate in the architecture design and implementation of high-performance, scalable, and optimized data solutions.- Create data models from scratch using strong SQL fundamentals.- Write and optimize in-application SQL statements.- Ensure the performance, security, and availability of databases.- Prepare documentation and technical specifications.- Handle database procedures such as upgrades, backups, recovery, and migration.- Profile server resource usage and optimize configurations as necessary.- Design, build, and automate the deployment of data pipelines and applications.- Integrate data from on-premise",
       "matched_keywords": [
         "architecture"
-      ]
-    },
-    {
-      "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-      "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "month",
-      "years_experience": "5+ years",
-      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. &nbsp; What we offer: &nbsp; Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exc",
-      "matched_keywords": [
-        "microservices",
-        "backend",
-        "architecture",
-        "fullstack",
-        "full-stack",
-        "node"
       ]
     }
   ]

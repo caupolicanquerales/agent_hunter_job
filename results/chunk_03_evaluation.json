@@ -8,23 +8,45 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote Canada backend engineer role on Tailscale's Control Plane team building secure network interconnection services and open-source clients. Engineers own the full lifecycle from product ideation to writing backend code and scaling distributed services. Focuses on networking infrastructure, control plane scalability, and distributed systems.",
+    "description_review": "Full-time backend engineer on the Control Plane team, building open source client code and backend services for a fully distributed company. US remote headquarters. Seniority and stack are not stated in the excerpt.",
     "matched_keywords": [
       "backend"
     ],
-    "score": 64,
+    "score": 62,
     "recommendation": "CONSIDER",
     "pros": [
-      "High-reliability distributed backend services and control plane architecture",
-      "Full-lifecycle engineering ownership from system design to production deployment"
+      "Backend services and end-to-end product ownership match the profile's backend and architecture signals"
     ],
     "cons": [
-      "Listed as Remote (Canada), which may restrict non-Canadian applicants",
-      "Specialized networking/VPN infrastructure rather than enterprise Java/Spring microservices"
+      "Language and stack not stated in the excerpt",
+      "Networking/infrastructure product rather than banking or enterprise Java"
     ]
   },
   {
     "id": "chunk_03-2",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Same Tailscale Control Plane backend role listed with Canada remote headquarters. Full-time, fully distributed, backend services plus open source client code. Seniority and stack not stated in the excerpt.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Backend services and product ownership match the profile's backend and architecture signals"
+    ],
+    "cons": [
+      "Duplicate of the US-listed posting; stack not stated in the excerpt",
+      "Networking/infrastructure product rather than banking or enterprise Java"
+    ]
+  },
+  {
+    "id": "chunk_03-3",
     "title": "Stripe: Abuse Research Engineer",
     "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
     "source": "WeWorkRemotely_Fullstack",
@@ -32,24 +54,22 @@
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote US role in Stripe's Abuse Research Group conducting proactive threat hunting and fraud attack analysis across global payment infrastructure. Uses agentic automated testing and simulation tools to translate security research into strategic controls and regression tests. High-impact financial ecosystem security engineering requiring advanced adversary simulation.",
+    "description_review": "Abuse research engineer in Stripe's Abuse Research Group doing threat hunting, fraud path analysis and agentic automated testing. Remote from the US. Salary not stated in USD.",
     "matched_keywords": [
       "enterprise"
     ],
-    "score": 72,
-    "recommendation": "CONSIDER",
+    "score": 40,
+    "recommendation": "SKIP",
     "pros": [
-      "Leading financial infrastructure domain directly matches candidate's banking/fintech background",
-      "Applies agentic automated testing tools and security simulation, aligning with agentic systems knowledge",
-      "Enterprise-scale payment system integrity"
+      "Fintech and financial infrastructure domain matches the profile's banking background"
     ],
     "cons": [
-      "Role is specialized cybersecurity / adversary abuse research rather than core software application engineering",
-      "Remote US designation may restrict international applicants"
+      "Threat hunting and fraud research rather than backend or architecture engineering",
+      "Security analysis focus is far from the candidate's stack"
     ]
   },
   {
-    "id": "chunk_03-3",
+    "id": "chunk_03-4",
     "title": "Lithic: Senior Risk Associate",
     "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
     "source": "WeWorkRemotely_Fullstack",
@@ -57,25 +77,25 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote role at payments processor Lithic running client and third-party risk assessment programs, enterprise risk registers, and underwriting operations. The role oversees compliance rubrics, credit limits, reserve recommendations, and vendor assessments. Pure financial compliance and risk management operations role with no software development.",
+    "description_review": "Senior risk associate running client, third-party and enterprise risk assessments and underwriting for a card issuing platform. Remote, with a risk operations focus rather than engineering.",
     "matched_keywords": [
       "enterprise",
       "fintech",
       "banking",
       "legacy"
     ],
-    "score": 20,
+    "score": 15,
     "recommendation": "SKIP",
     "pros": [
-      "Fintech and banking card issuance ecosystem matches industry background"
+      "Fintech and card-issuing domain matches the banking background"
     ],
     "cons": [
-      "Non-technical risk assessment and compliance operations position with zero software development",
-      "Total mismatch for a Senior Software Engineer profile"
+      "Risk operations role, not software engineering",
+      "No development stack in the role"
     ]
   },
   {
-    "id": "chunk_03-4",
+    "id": "chunk_03-5",
     "title": "Salesloft: Principal Software Engineer, AI",
     "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
     "source": "WeWorkRemotely_Fullstack",
@@ -83,46 +103,19 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote US Principal AI Engineer position at Salesloft leading technical direction for predictive revenue systems and LLM agentic workflows at enterprise scale. Sets architecture for serving models, agentic orchestration, and translating machine intelligence into production capabilities. Top-level individual contributor role driving AI system architecture.",
+    "description_review": "Principal individual-contributor engineer architecting LLM, ML and agentic workflow systems in production for an enterprise revenue platform. Remote US. Salary and stack not stated in the excerpt.",
     "matched_keywords": [
       "enterprise"
     ],
-    "score": 84,
+    "score": 80,
     "recommendation": "APPLY",
     "pros": [
-      "Architecting agentic workflows and LLM orchestration aligns directly with candidate's multi-agent platform and harness expertise",
-      "Enterprise-grade platform scale matches 7+ years enterprise software and architecture background",
-      "High-impact technical leadership in applied AI engineering"
+      "Architecting AI and agentic systems at scale matches the profile's applied AI and architecture focus",
+      "Principal-level scope aligns with senior architecture and enterprise software priorities"
     ],
     "cons": [
-      "Principal-level scope may expect previous dedicated staff/principal title",
-      "Listing indicates Remote - US location requirements"
-    ]
-  },
-  {
-    "id": "chunk_03-5",
-    "title": "Lithic: Senior Software Engineer, Card Authorization",
-    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "AUD",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Remote senior software engineer role on Lithic's Card Authorization team building real-time transaction processing, rules engines, and 3D Secure integrations. Replaces legacy 30-year-old payment mainframes with modern distributed systems handling high-speed card authorization decisions. Core backend fintech engineering role focused on high reliability, scale, and low latency.",
-    "matched_keywords": [
-      "fintech",
-      "banking",
-      "legacy"
-    ],
-    "score": 92,
-    "recommendation": "APPLY",
-    "pros": [
-      "Modernizing legacy payment mainframes into high-performance real-time distributed systems is an exceptional match for candidate's modernization background",
-      "Banking/fintech card transaction processing directly parallels 6+ years banking backend at ICBC and BBVA",
-      "Senior distributed systems engineering with high-reliability authorization and rules engine ownership"
-    ],
-    "cons": [
-      "Specific programming language not explicitly mentioned in the excerpt (Lithic typically uses Python/Go/Java)"
+      "Stack and Java/Spring usage not stated in the excerpt",
+      "Deep ML expertise may be required beyond the profile"
     ]
   }
 ]

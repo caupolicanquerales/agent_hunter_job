@@ -1,0 +1,10 @@
+{
+  "chat.tools.global.autoApprove": true,
+  "chat.permissions.default": "autoApprove",
+  "chat.tools.terminal.enableAutoApprove": true,
+  "github.copilot.chat.skillTool.enabled": true,
+  "chat.tools.terminal.autoApprove": {
+    "python3": true,
+    "/reader_chunk_opportunities|final_chunk_reporter|delete_all_files_in_folder/": true
+  }
+}

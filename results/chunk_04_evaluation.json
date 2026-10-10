@@ -1,6 +1,32 @@
 [
   {
     "id": "chunk_04-1",
+    "title": "Lithic: Senior Software Engineer, Card Authorization",
+    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior software engineer on the card authorization team building real-time, distributed payment systems, fraud tooling and 3D Secure integration for a card issuing platform. Remote, US-headquartered. Salary not stated in USD.",
+    "matched_keywords": [
+      "fintech",
+      "banking",
+      "legacy"
+    ],
+    "score": 78,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Real-time distributed systems at scale match the profile's microservices and architecture signals",
+      "Card issuing and payments domain matches the 7+ years banking/fintech background"
+    ],
+    "cons": [
+      "Language and stack not stated in the excerpt",
+      "Requires end-to-end ownership of high-impact payment systems, which must be verified against experience"
+    ]
+  },
+  {
+    "id": "chunk_04-2",
     "title": "ZoomInfo Technologies LLC: Director, Applied AI",
     "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
     "source": "WeWorkRemotely_Fullstack",
@@ -8,23 +34,23 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote US Director of Applied AI position at ZoomInfo leading the engineering team that builds intelligence for ZoomInfo AI agents. The role owns the B2B data graph strategy, combining classical ML, LLMs, agentic memory systems, and evaluation benchmarks. Hands-on leadership role requiring shipping code alongside the team and guiding agentic software practices.",
+    "description_review": "Director leading the team that builds the B2B data graph behind ZoomInfo AI agents, combining ML, LLM and agentic systems with hands-on coding. Remote US or on-site in several US cities. Salary not stated.",
     "matched_keywords": [
       "ai agent"
     ],
-    "score": 74,
+    "score": 72,
     "recommendation": "CONSIDER",
     "pros": [
-      "Core focus on agentic systems, memory for agents, and AI evaluation closely matches candidate's multi-agent platform and harness expertise",
-      "Requires hands-on engineering, code prototyping, and deep architectural guidance"
+      "LLM and agentic systems in production match the profile's applied AI and multi-agent experience",
+      "Owns architecture and delivery end-to-end while staying hands-on"
     ],
     "cons": [
-      "Director-level people leadership role with extensive corporate management expectations",
-      "US remote listing with specific US regional location constraints"
+      "Director title implies people management beyond the profile's IC-focused experience",
+      "Data science and ML graph focus is not in the profile"
     ]
   },
   {
-    "id": "chunk_04-2",
+    "id": "chunk_04-3",
     "title": "Dremio: Software Engineer - Developer Experience",
     "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
     "source": "WeWorkRemotely_Fullstack",
@@ -32,23 +58,23 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote Portugal software engineering role on Dremio's Developer Experience team maintaining CI/CD systems, build tooling, and developer productivity pipelines. Involves break-fix support, pipeline automation, tooling playbooks, and engineering infrastructure optimization. Focused entirely on internal developer tooling rather than customer-facing applications.",
+    "description_review": "Engineer maintaining Dremio's CI/CD systems and developer productivity tooling, including break-fix work. Remote from Portugal. Seniority and stack not stated in the excerpt.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 45,
+    "score": 40,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise infrastructure and automation focus"
+      "Enterprise lakehouse platform and tooling automation are relevant to the profile's enterprise work"
     ],
     "cons": [
-      "Internal developer tooling / CI/CD operations role rather than core software engineering / backend architecture",
-      "Location listed for Portugal remote"
+      "CI/CD and developer productivity focus is close to the DevOps area rated as a weak fit",
+      "No Java or Spring stack mentioned"
     ]
   },
   {
-    "id": "chunk_04-3",
+    "id": "chunk_04-4",
     "title": "Dremio: Senior Staff Software Engineer - Query Execution",
     "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
     "source": "WeWorkRemotely_Fullstack",
@@ -56,24 +82,24 @@
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote Portugal Senior Staff Software Engineer role leading Dremio's Query Execution runtime engine for analytical lakehouses. Involves designing and optimizing query operators, expression evaluation, memory management, and vectorized concurrency at extreme scale. Deep systems software architecture role on open-source Apache Iceberg/Arrow data foundations.",
+    "description_review": "Senior staff engineer on the query execution runtime for a lakehouse platform, covering operators, memory management, scheduling and performance optimization. Remote from Portugal. Stack not stated in the excerpt.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 68,
-    "recommendation": "CONSIDER",
+    "score": 50,
+    "recommendation": "SKIP",
     "pros": [
-      "Senior Staff architectural scope tackling distributed system scalability, performance optimization, and memory management",
-      "Enterprise data lakehouse platform serving major global organizations"
+      "Senior staff scope with performance and architecture ownership",
+      "Enterprise-scale data platform"
     ],
     "cons": [
-      "Niche database engine runtime / vectorized processing internals rather than enterprise microservices and application services",
-      "Remote Portugal restriction may limit non-European applicants"
+      "Database query-engine internals are far from the profile's backend and banking focus",
+      "Stack not stated in the excerpt"
     ]
   },
   {
-    "id": "chunk_04-4",
+    "id": "chunk_04-5",
     "title": "STEUART NUTRITION: Software Developer AI Coding",
     "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
     "source": "WeWorkRemotely_Fullstack",
@@ -81,45 +107,20 @@
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "3+ years",
-    "description_review": "Remote software developer position at Steuart Nutrition customizing internal onboarding and training applications using AI coding tools (Claude, Cursor, Copilot). Requires 3+ years experience building web apps and API integrations with JavaScript/TypeScript or Python. Focused on rapid customization of internal business tools and plant automations.",
+    "description_review": "Remote developer customizing an internal training app and building integrations and automations with AI coding tools. Requires 3+ years of professional experience and JavaScript/TypeScript or Python preferred. Minnesota headquarters. Salary not stated in USD.",
     "matched_keywords": [
       "java",
       "typescript"
     ],
-    "score": 55,
+    "score": 58,
     "recommendation": "SKIP",
     "pros": [
-      "High emphasis on AI-assisted development (Cursor, Copilot, Claude) and API integrations",
-      "Matches TypeScript and general full-stack skills"
+      "AI-assisted coding workflow matches the profile's AI-augmented engineering focus",
+      "TypeScript and API integration experience overlap with the profile"
     ],
     "cons": [
-      "Low seniority scope (3+ years, internal training app tweaks) compared to candidate's 7+ years senior architecture profile",
-      "Contract manufacturing domain far removed from enterprise banking and fintech platforms"
-    ]
-  },
-  {
-    "id": "chunk_04-5",
-    "title": "Glean: Application Security Engineer",
-    "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Remote US Application Security Engineer position at enterprise Work AI platform Glean. The role secures enterprise knowledge graphs, SaaS connectors, LLM integrations, and autonomous AI agents across the product lifecycle. Focuses on security architecture, vulnerability management, and secure software development for generative AI systems.",
-    "matched_keywords": [
-      "enterprise",
-      "ai agent"
-    ],
-    "score": 63,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Cutting-edge enterprise Work AI ecosystem with extensive agentic AI capabilities",
-      "Application security and secure system architecture align with enterprise banking standards"
-    ],
-    "cons": [
-      "Specialized application security / InfoSec focus rather than software engineering and backend development",
-      "United States remote listing"
+      "Internal tooling role below the senior architecture level the profile targets",
+      "Not banking, enterprise or Java/Spring focused"
     ]
   }
 ]

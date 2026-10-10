@@ -3,6 +3,20 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Dremio: Software Engineer - Query Execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the roleDremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution. As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.What you’ll be doing Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management. Develop reliable software: Write clear, maintainab",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
       "title": "Lemon.io: Senior Angular Full-stack Developer",
       "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
       "source": "WeWorkRemotely_Fullstack",
@@ -56,19 +70,6 @@
       "matched_keywords": [
         "architecture",
         "enterprise"
-      ]
-    },
-    {
-      "title": "Tailscale: Backend Engineer, Control Plane",
-      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the pro",
-      "matched_keywords": [
-        "backend"
       ]
     }
   ]

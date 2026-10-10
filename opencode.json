@@ -4,7 +4,8 @@
     "external_directory": {
       "*agent_hunter_job*": "allow",
       "*reports/*": "allow",
-      "*results/*": "allow"
+      "*results/*": "allow",
+      "/tmp/opencode/*": "allow"
     },
     "edit": {
       "*reports/*": "allow",

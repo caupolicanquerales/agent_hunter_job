@@ -3,6 +3,21 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+      "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "At least 7 years of experience",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. &nbsp; Your Role: Develop and maintain robust backend services using NestJS and Node.js, ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance. Ensure the scalability, security, and responsiveness of backend services. Uphold rigorous data protection standards and implement industry-leading security measures. Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team. &nbsp; What Youll Bring: Essential Skills &amp; Experience: At least 7 years of experience with: React React Vite REST API development Strong knowledge and hands-on experience with SQL. Proficiency in Prisma for database management. A minimum of 5 years of experience in REST API development using the NestJS framework. Expertise in backend development, specifically with NestJ",
+      "matched_keywords": [
+        "backend",
+        "node",
+        "rest api"
+      ]
+    },
+    {
       "title": "Sticker Mule: Software engineer",
       "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
       "source": "WeWorkRemotely_Fullstack",
@@ -58,22 +73,6 @@
       "matched_keywords": [
         "backend",
         "architecture"
-      ]
-    },
-    {
-      "title": "AI agent engineer at Sticker Mule",
-      "company": "Sticker Mule",
-      "location": "",
-      "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-      "source": "RemoteOK_Java",
-      "salary": "150000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "years_experience": "N/A",
-      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.Work performedIdentify where agents can help and build them accordingly.Work with department leads to assess AI needs.Help connect agents to appropriate third-party and internal tools.Measure results and remove agents that don't deliver.Test new tools and models as they ship and adopt what works.Advise others on AI capabilities to help them perform.RequirementsExperience building agents that run on their own and do meaningful workStrong with Grok, Claude, OpenAI, and open sourceComfortable in Go, TypeScript, GraphQL, Postgres, GCPWrites clearly in EnglishCompensationSalary: $150,000â$250,000 USD$20,000 signing bonus4 weeks vacation + country-specific holidaysFully remotePlease mention the word **HUMOUR** and tag RMTgxLjg2LjQwLjE4OQ== when applying to show you read the job post completely (#RMTgxLjg2LjQwLjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "matched_keywords": [
-        "typescript",
-        "ai agent"
       ]
     }
   ]

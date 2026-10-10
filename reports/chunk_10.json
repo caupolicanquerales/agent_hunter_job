@@ -3,6 +3,21 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Don't See Your Role Apply Here at Reflection",
+      "company": "Reflection",
+      "location": "London, ",
+      "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
+      "source": "RemoteOK_ML",
+      "salary": "0",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Our MissionReflectionâs mission is to build open superintelligence and make it accessible to all.Weâre developing open weight models for individuals, agents, enterprises, and even nation states. Our team of AI researchers and company builders come from DeepMind, OpenAI, Google Brain, Meta, Character.AI, Anthropic and beyond.We're always open to great people. If you're aligned with our mission but don't see the right role, we'd love to hear from you.What We OfferWe believe that to build superintelligence that is truly open, you need to start at the foundation. Joining Reflection means building from the ground up as part of a small talent-dense team. You will help define our future as a company, and help define the frontier of open foundational models.We want you to do the most impactful work of your career with the confidence that you and the people you care about most are supported.Top-tier compensation: Salary and equity structured to recognize and retain the best talent globally.Health &amp; wellness: Comprehensive medical, dental, vision, life, and disability insurance.Life &amp; family: Fully paid parental leave for all new parents, including adoptive and surrogate journeys. Financial support for family planning.Benefits &amp; balance: paid time off when you need it, relocation support, and more perks that optimize your time. Opportunities to connect with teammates: lunch and dinner are provided daily. We have regular off-sites and team celebrations.Please mention the",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "Senior Software Engineer at Phaidra",
       "company": "Phaidra",
       "location": "Remote - United States",
@@ -64,21 +79,6 @@
       "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfil their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Cloud Engineer specializing in Microsoft Azure on behalf of our client to design, automate, and maintain high-availability cloud infrastructure. In this role, you will take operational ownership of enterprise Azure landing zones, container orchestration, and CI/CD pipeline automation—ensuring high reliability, cost efficiency, and zero-trust security compliance. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of hands-on cloud engineering experience managing enterprise Microsoft Azure environments, spanning compute, networking (VNets, ExpressRoute, Application Gateways), and storage tiers. Advance",
       "matched_keywords": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "Senior Data Engineer (Azure) at Proxify",
-      "company": "Proxify",
-      "location": "CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925636/",
-      "source": "WorkingNomads_Dev",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Data Engineer with deep expertise in Microsoft Azure to join our fast-growing Network. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: 5+ years in Data Engineering roles. Advanced SQL knowledge: complex queries, performance tuning, stored procedures. Strong understanding of Azure technologies: Azure SQL Database, Data Factory, etc. Proven experience in ETL development, data integration, and pipeline orchestration. Deep understanding of data modeling principles and data warehouse architectures. Knowledge of data governance principles, data quality management, and data security best practices. Located in",
-      "matched_keywords": [
-        "architecture"
       ]
     }
   ]
