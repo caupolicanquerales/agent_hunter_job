@@ -1,13 +1,14 @@
 # Agent Hunter Job
 
 > A multi-agent platform that searches job boards, scores every posting against a
-> candidate profile, persists the results in a vector database, and visualizes the
-> ranked opportunities in a dashboard.
+> candidate profile, persists the ranked results as embeddings in a vector
+> database, and serves them to a filterable dashboard.
 
 `agent_hunter_job` is an end-to-end job-hunting pipeline orchestrated by AI agents.
-It combines a **skill-driven multi-agent orchestrator**, a **Python ingestion gateway
-that exposes an MCP server over a pgvector store**, and an **Angular 22 dashboard**
-that turns the raw offers into a filterable, scored shortlist.
+It combines a **skill-driven multi-agent orchestrator**, deterministic **Python
+stdlib scripts**, a **FastMCP gateway that upserts and semantically searches
+postings in pgvector**, a **stdlib HTTP backend**, and an **Angular 22 dashboard**
+that turns the scored offers into a filterable shortlist.
 
 ---
 
@@ -17,13 +18,15 @@ that turns the raw offers into a filterable, scored shortlist.
 - [Features](#features)
 - [High-level architecture](#high-level-architecture)
 - [Multi-agent orchestration](#multi-agent-orchestration)
-- [Ingestion pipeline (MCP + pgvector)](#ingestion-pipeline-mcp--pgvector)
+- [Persistence & search (MCP + pgvector)](#persistence--search-mcp--pgvector)
+- [HTTP backend](#http-backend)
 - [Frontend architecture](#frontend-architecture)
 - [Repository structure](#repository-structure)
 - [Data model](#data-model)
 - [Scoring rubric](#scoring-rubric)
 - [Tech stack](#tech-stack)
 - [Getting started](#getting-started)
+- [Configuration reference](#configuration-reference)
 - [Design decisions](#design-decisions)
 - [Roadmap](#roadmap)
 
@@ -35,11 +38,12 @@ Job hunting at senior level is a **filtering problem**: hundreds of postings,
 most irrelevant, across dozens of boards. Doing this manually is slow and
 inconsistent. Agent Hunter Job automates the loop:
 
-1. **Discover** — fetch live offers from public feeds and APIs.
+1. **Discover** — fetch live offers from public RSS feeds and JSON APIs.
 2. **Reduce** — keyword-prefilter to remove noise before spending LLM tokens.
 3. **Judge** — score each remaining candidate against a structured profile.
-4. **Persist** — embed and store postings for semantic search.
-5. **Visualize** — present a ranked, filterable dashboard to the user.
+4. **Persist** — embed and upsert the scored postings into pgvector.
+5. **Serve & visualize** — expose semantic search over HTTP and render a ranked,
+   filterable dashboard.
 
 The design goal is **cheap, parallel, auditable**: deterministic scripts do the
 heavy lifting, and LLM agents are reserved for the judgement step, running in
@@ -51,17 +55,25 @@ bounded parallel fan-out with a strict fan-in contract.
 
 - **Skill-driven orchestration** — the primary agent classifies intent and injects
   only the skills it needs, on demand (never preloaded).
-- **Parallel evaluation** — up to 5 `job-evaluator` sub-agents run concurrently,
-  each owning a disjoint set of chunk files.
-- **Deterministic ETL scripts** — Python scripts parse, normalize, chunk, read and
-  write intermediate artifacts with well-defined exit codes.
-- **MCP ingestion gateway** — a FastMCP server triggers Apify scrapers, embeds
-  postings locally, and upserts them into Postgres + pgvector.
+- **Parallel, isolated evaluation** — up to 5 `job-evaluator` sub-agents run
+  concurrently, each owning a disjoint set of chunk files. Every instance redirects
+  command output to its own per-chunk log files, so concurrent shells never
+  interleave.
+- **Deterministic stdlib scripts** — parsing, normalization, chunking, reading and
+  writing of intermediate artifacts use only the Python standard library, with
+  well-defined exit codes.
+- **Atomic, concurrency-safe persistence** — the reporter writes each evaluation
+  file atomically (temp file + `fsync` + `os.replace`) and serializes database
+  ingestion across parallel processes with an advisory file lock + bounded retries.
+- **MCP gateway** — a FastMCP server exposes `store_job_postings` (embed + upsert)
+  and `search_job_postings` (cosine-similarity search) over SSE.
 - **Local embeddings** — `sentence-transformers/all-MiniLM-L6-v2` (384 dims),
   CPU-only Torch, model baked into the image for offline startup.
 - **HNSW vector index** — fast approximate cosine-similarity search over postings.
+- **Stdlib HTTP backend** — a dependency-free controller that fronts the MCP
+  search tool with a CORS-enabled REST endpoint for the browser.
 - **Angular 22 + SSR dashboard** — signals-based state, standalone components,
-  responsive master/detail UI with keyword, skill, remote and sort filters.
+  responsive master/detail UI wired to the backend search endpoint.
 
 ---
 
@@ -71,21 +83,21 @@ bounded parallel fan-out with a strict fan-in contract.
 flowchart TB
     User([User])
 
-    subgraph Orchestration["Orchestration layer — opencode"]
+    subgraph Orchestration["Orchestration layer — opencode / VS Code Copilot"]
         Orch["job-orchestrator (primary agent)"]
         Eval["job-evaluator (sub-agent, x N)"]
-        Skills[["Skills (on-demand)<br/>search · filter · read · write · profile · launch"]]
+        Skills[["Skills (on-demand)<br/>search · filter · read · write · profile · launch · clean"]]
     end
 
-    subgraph Acquisition["Data acquisition — Python"]
-        Fetch["fetch_jobs.py<br/>(RSS · JSON APIs)"]
+    subgraph Acquisition["Data acquisition — Python stdlib"]
+        Fetch["fetch_jobs.py<br/>(RSS + JSON APIs)"]
     end
 
-    subgraph Storage["Ingestion service — Docker"]
-        MCP["FastMCP server<br/>trigger_job_sync"]
-        Apify["Apify actors"]
+    subgraph Services["Docker stack — server/mcp_server_postgres_vector.yml"]
+        MCP["FastMCP server<br/>store_job_postings · search_job_postings"]
         Embed["sentence-transformers<br/>(all-MiniLM-L6-v2, 384d)"]
         DB[("Postgres + pgvector<br/>scraped_job_postings")]
+        Backend["backend-server<br/>/api/jobs/search :3100"]
     end
 
     subgraph Files["Artifacts"]
@@ -106,13 +118,13 @@ flowchart TB
     Orch -->|"fan-out"| Eval
     Eval -->|"read chunk"| Chunks
     Eval -->|"score + write"| Results
+    Results -->|"reporter: store_job_postings"| MCP
     Orch -->|"launch stack"| MCP
-    MCP --> Apify
     MCP --> Embed
     Embed --> DB
-    Results --> Dashboard
-    DB --> Dashboard
-    Dashboard --> User
+    Backend -->|"search_job_postings"| MCP
+    DB --> Backend
+    Dashboard -->|"GET /api/jobs/search"| Backend
 ```
 
 ---
@@ -141,16 +153,16 @@ sequenceDiagram
     O-->>U: Notify: N jobs fetched (before filtering)
     O->>F: Inject skill + run prefilter
     F-->>O: reports/chunk_01..N.json
+    O->>M: Inject job-launch-mcp-server (before fan-out)
+    M-->>O: Containers Up + /sse = 200
     O->>O: K = min(N, 5)
-    par Parallel fan-out
+    par Parallel fan-out (isolated shells)
         O->>E: chunk_01.json
         O->>E: chunk_02.json
         O->>E: chunk_0N.json
     end
-    E-->>O: results/chunk_XX_evaluation.json
+    E-->>O: results/chunk_XX_evaluation.json (files) + store_job_postings
     O->>O: Fan-in: count N results, retry misses
-    O->>M: Inject job-launch-mcp-server
-    M-->>O: Containers Up + /sse = 200
     O-->>U: Evaluations saved: N
 ```
 
@@ -164,12 +176,19 @@ sequenceDiagram
   `<chunk>_evaluation.json` (a full clean would wipe siblings and break the fan-in count).
 - Fan-in verifies `N` result files via a **file count**, never by opening them.
 - Max **5** concurrent evaluators to stay within rate limits.
+- **Shell isolation.** The K evaluators share one terminal, so no instance prints
+  command output to it: each redirects stdout/stderr to its own `<chunk>`-named
+  files (e.g. `reports/.chunk_01.reader.json`, `results/.chunk_01.writer.log`) and
+  reads them back. The orchestrator runs no command while evaluators run.
+- **Explicit, non-shared I/O.** The evaluator passes the report as an explicit file
+  argument (`reports/<chunk>_report.json`) — never via stdin/heredoc — so parallel
+  instances cannot corrupt each other's input.
 
 ### Roles
 
 | Agent | Mode | Responsibility |
 |-------|------|----------------|
-| `job-orchestrator` | primary | Classify intent, run scripts, fan-out/fan-in, launch MCP stack |
+| `job-orchestrator` | primary | Classify intent, run scripts, fan-out/fan-in, launch the Docker stack |
 | `job-evaluator` | sub-agent | Score each candidate in one chunk against the profile, write the report |
 
 ### Skills
@@ -179,51 +198,89 @@ Skills are the composable capabilities the agents inject as needed.
 | Skill | Script / input | Output |
 |-------|----------------|--------|
 | `job-search-commands` | intent rules (EN/ES) | routing decision |
-| `job-search-web` | `fetch_jobs.py` | `reports/job_opportunities.js`, `raw_jobs_DATE.json` |
+| `job-search-web` | `fetch_jobs.py` | `reports/job_opportunities.js`, `.opencode/opportunities/raw_jobs_DATE.json` |
 | `job-search-filter` | `prefilter_job_opportunities.py` | `reports/chunk_XX.json` (5 jobs each) |
-| `job-read-chunk-files` | `reader_chunk_opportunities.py` | parsed chunk object on stdout |
-| `job-write-chunk-final` | `final_chunk_reporter.py` | `results/chunk_XX_evaluation.json` |
+| `job-read-chunk-files` | `reader_chunk_opportunities.py` | parsed chunk object (redirected to `reports/.<chunk>.reader.json`) |
+| `job-write-chunk-final` | `final_chunk_reporter.py <chunk> <report>` | `results/chunk_XX_evaluation.json` + pgvector upsert |
 | `job-delete-all-files` | `delete_all_files_in_folder.py` | clean folders (files only, non-recursive) |
 | `job-launch-mcp-server` | Docker Compose checks | DB + MCP containers Up, probe `200` |
 | `user-profile` | candidate profile | fit guidance for scoring |
 
 ---
 
-## Ingestion pipeline (MCP + pgvector)
+## Persistence & search (MCP + pgvector)
 
-The second half of the system persists postings for semantic search. It is exposed
-as an **MCP tool** (`trigger_job_sync`) so the same orchestrator can call it.
+The FastMCP server (`server/mcp-server/server.py`) exposes two tools over the
+**SSE transport** (default `http://127.0.0.1:3000/sse`):
+
+| Tool | Arguments | Purpose |
+|------|-----------|---------|
+| `store_job_postings` | `postings: list[dict]` | Embed each evaluated job and upsert it into `scraped_job_postings`; returns ingestion metadata (`new_jobs_stored`, `jobs_updated`) |
+| `search_job_postings` | `query: str`, `limit: int = 5`, `source: str \| None` | Embed the query and rank stored jobs by cosine similarity via the HNSW index |
 
 ```mermaid
 flowchart LR
-    A["trigger_job_sync<br/>(search_term, portal, max_results)"] --> B["Apify actor<br/>runs portal scraper"]
-    B --> C["Normalize items<br/>external_job_id = SHA-256"]
-    C --> D["Sanitize HTML<br/>extract skills by regex"]
-    D --> E["Build embedding text<br/>title + skills + description"]
-    E --> F["sentence-transformers<br/>384-dim vectors"]
-    F --> G[("UPSERT into<br/>scraped_job_postings")]
-    G --> H{"Row existed before upsert?"}
-    H -->|no| I["new_jobs_stored++"]
-    H -->|yes| J["jobs_updated++"]
-    G --> K["HNSW index<br/>vector_cosine_ops"]
+    subgraph Store["store_job_postings"]
+        A["Evaluated job objects<br/>(evaluation JSON array)"] --> B["Build embedding text<br/>title + source + keywords + review + pros/cons"]
+        B --> C["sentence-transformers<br/>384-dim vectors"]
+        C --> D[("UPSERT into<br/>scraped_job_postings")]
+        D --> E{"Row existed before upsert?"}
+        E -->|no| F["new_jobs_stored++"]
+        E -->|yes| G["jobs_updated++"]
+    end
+
+    subgraph Search["search_job_postings"]
+        Q["query text"] --> QE["embed query"]
+        QE --> S["ORDER BY embedding <=> query<br/>LIMIT n"]
+        S --> SR["rows + similarity"]
+    end
 ```
 
 **Design highlights**
 
-- **Deterministic IDs** — `SHA-256` of the source id/url, so re-scrapes upsert
-  instead of duplicating.
-- **Skill extraction** — regex word-boundary matching against the same keyword
-  list the prefilter uses, keeping ingestion and filtering in sync.
+- **Deterministic IDs** — `external_job_id` is `SHA-256` of the job link (falling
+  back to `title|source|link`), so re-runs upsert instead of duplicating, keyed by
+  the `UNIQUE (external_job_id, source)` constraint.
+- **Text that is actually searchable** — the embedding is built from the scored
+  fields (title, source, matched keywords, review, pros, cons), so similarity
+  ranks against the evaluation, not raw HTML.
 - **Connection pool** — a lazily-created `asyncpg.Pool` guarded by an
   `asyncio.Lock`, closed on lifespan shutdown.
 - **Offline model** — the embedding model is downloaded at build time
   (`HF_HUB_OFFLINE=1`) so container start has no network dependency.
+- **Shared stdlib client** — `server/mcp-server/mcp_sse_client.py` is a
+  dependency-free JSON-RPC-over-SSE client, imported by both the host reporter
+  script and the backend server (via `sys.path` / the Docker build context).
+
+---
+
+## HTTP backend
+
+`server/backend-server/` is a **stdlib-only** HTTP controller (`ThreadingHTTPServer`,
+no Flask/FastAPI) that fronts the MCP search tool for the browser. It is split into
+focused modules: routing (`backend_server.py`), request handling
+(`handle_search.py`), response/CORS headers (`handle_header.py`) and MCP access
+(`load_mcp_client.py`). Default port **3100**.
+
+| Method | Path | Description |
+|--------|------|-------------|
+| `GET` | `/health` | Liveness probe → `{"status": "ok"}` |
+| `GET` | `/api/jobs/search?query=&limit=&source=` | Search jobs (query params) |
+| `POST` | `/api/jobs/search` | Search jobs (JSON body `{query, limit, source}`) |
+| `OPTIONS` | `/api/jobs/search` | CORS preflight → `204` |
+
+- `400` — missing `query`, non-integer `limit`, or invalid JSON body.
+- `404` — unknown path. `502` — the MCP search call failed.
+- `limit` defaults to `20` and is clamped to `100`.
+- CORS is allow-listed to the Angular dev origins by default
+  (`http://localhost:4200`, `http://127.0.0.1:4200`).
 
 ---
 
 ## Frontend architecture
 
-An **Angular 22** standalone, signals-first, SSR-enabled dashboard.
+An **Angular 22** standalone, signals-first, SSR-enabled dashboard wired to the
+backend search endpoint.
 
 ```mermaid
 flowchart TB
@@ -232,7 +289,7 @@ flowchart TB
         Routes["app.routes.ts<br/>'' -> JobDashboard"]
         Dashboard["JobDashboard<br/>filters · metrics · layout"]
         List["JobList<br/>ranked cards"]
-        Detail["JobDetail<br/>description · score · salary"]
+        Detail["JobDetail<br/>description · score · salary · pros/cons"]
         Viewer["RawPayloadViewer<br/>JSON inspection"]
     end
 
@@ -241,8 +298,15 @@ flowchart TB
         Filtered["computed: filteredJobs"]
         Selected["computed: selectedJob"]
         SkillList["computed: availableSkills"]
-        Metrics["computed: totalMatches / avgMatch"]
+        Metrics["computed: totalMatches / averageMatchPercentage"]
     end
+
+    subgraph HTTP["Backend access"]
+        SSE["SseService.getJobs()"]
+        SSEGet["SseGetService (HttpClient GET)"]
+    end
+
+    Backend["backend-server :3100<br/>/api/jobs/search"]
 
     Root --> Routes --> Dashboard
     Dashboard --> List
@@ -255,19 +319,24 @@ flowchart TB
     Dashboard --> Service
     List --> Service
     Detail --> Service
+    Service --> SSE --> SSEGet --> Backend
 ```
 
 **State model** — `JobService` is the single source of truth:
 
 - `_jobs`, `_selectedJobId`, `_filters` are private `signal`s.
 - Exposed as `asReadonly()`; mutations go through intent methods
-  (`setKeyword`, `toggleSkill`, `setSortBy`, `loadJobs`, ...).
+  (`setKeyword`, `toggleSkill`, `setSortBy`, `requestJobs`, ...).
 - Derived views (`filteredJobs`, `selectedJob`, `availableSkills`,
   `averageMatchPercentage`) are `computed()` — no manual subscriptions, no stale UI.
+- Keyword searches are **debounced** (`300 ms`) and fire a fresh backend request.
+- The REST response (`JobSearchResponse.results: ScrapedJobPosting[]`) is mapped to
+  the dashboard model by `toJobModel()`: the cosine `similarity` becomes
+  `match_score`, `matched_keywords` → `required_skills`, `description_review` →
+  `clean_description`, and `evaluated_at` → `scraped_at`.
 
-The dashboard ships with seeded demo data (`INITIAL_JOBS`) and exposes a
-`loadJobs()` entry point so the results/evaluation reports and pgvector queries can
-be wired in without touching the components.
+> Note: `SseService`/`SseGetService` are named for their eventual streaming role,
+> but currently perform a plain HTTP `GET` through Angular's `HttpClient`.
 
 ---
 
@@ -276,7 +345,7 @@ be wired in without touching the components.
 ```text
 agent_hunter_job/
 ├── .opencode/
-│   ├── agents/                  # Agent definitions (orchestrator + evaluator)
+│   ├── agents/                  # opencode agent definitions (orchestrator + evaluator)
 │   ├── skills/                  # Composable capabilities, each self-contained
 │   │   ├── job-search-commands/ # Intent classification rules (EN/ES)
 │   │   ├── job-search-web/      # fetch_jobs.py + portal constants
@@ -287,26 +356,35 @@ agent_hunter_job/
 │   │   ├── job-launch-mcp-server/# Docker/Compose health checks
 │   │   └── user-profile/        # Candidate profile + fit guidance
 │   └── opportunities/           # Raw fetched jobs (raw_jobs_YYYY-MM-DD.json)
-├── .github/agents/              # Mirror of the agent definitions for GitHub
+├── .github/agents/              # Mirror of the agent definitions for VS Code Copilot
+├── .vscode/settings.json        # Copilot tool/terminal auto-approval
 ├── frontend/
 │   └── job-hunter-frontend/     # Angular 22 standalone + SSR dashboard
 │       └── src/app/
-│           ├── models/          # JobModel, filter criteria, sort options
-│           ├── services/        # JobService (signals state + computed views)
+│           ├── models/          # JobModel, ScrapedJobPosting, filters, sort options
+│           ├── services/        # JobService (signals) · SseService · SseGetService
 │           └── components/      # dashboard, list, detail, raw-payload viewer
 ├── reports/                     # Pipeline artifacts
 │   ├── job_opportunities.js     # Portal-grouped fetched offers
 │   └── chunk_XX.json            # Prefiltered candidate chunks (5 per file)
 ├── results/                     # Per-chunk evaluation reports
-│   └── chunk_XX_evaluation.json
+│   ├── chunk_XX_evaluation.json
+│   └── .reporter.lock           # Cross-process ingestion lock
 ├── server/
-│   ├── mcp-server/              # FastMCP ingestion gateway (Python)
-│   │   ├── server.py            # MCP tool: trigger_job_sync
-│   │   ├── job_ingestion.py     # Scrape, embed, upsert logic
+│   ├── backend-server/          # Stdlib HTTP controller (:3100)
+│   │   ├── backend_server.py    # Routing only
+│   │   ├── handle_search.py     # GET/POST /api/jobs/search
+│   │   ├── handle_header.py     # JSON + CORS headers
+│   │   ├── load_mcp_client.py   # Imports the shared SSE client, calls the tool
+│   │   └── Dockerfile
+│   ├── mcp-server/              # FastMCP gateway (Python)
+│   │   ├── server.py            # MCP tools: store_job_postings, search_job_postings
+│   │   ├── job_ingestion.py     # Embed, upsert, similarity search
+│   │   ├── mcp_sse_client.py    # Stdlib MCP-over-SSE client (host + backend)
 │   │   ├── config.py            # Env-driven configuration
 │   │   ├── Dockerfile           # CPU-only Torch + baked model
 │   │   └── requirements.txt
-│   ├── mcp_server_postgres_vector.yml  # Compose: jobs-db + jobs-mcp-server
+│   ├── mcp_server_postgres_vector.yml  # Compose: jobs-db + jobs-mcp-server + backend-server
 │   └── init.sql                 # pgvector schema + HNSW index
 ├── opencode.json                # Permissions for scripts and folders
 └── README.md
@@ -321,22 +399,28 @@ agent_hunter_job/
 | Column | Type | Notes |
 |--------|------|-------|
 | `id` | `UUID` | PK, `gen_random_uuid()` |
-| `external_job_id` | `VARCHAR(255)` | SHA-256 of source id/url |
-| `source_portal` | `VARCHAR(50)` | e.g. `linkedin`, `WeWorkRemotely_Backend` |
-| `title`, `company`, `location` | `VARCHAR` | |
-| `is_remote` | `BOOLEAN` | inferred from location when absent |
-| `salary_min`, `salary_max`, `currency` | `NUMERIC` / `VARCHAR` | |
-| `clean_description` | `TEXT` | HTML stripped, whitespace collapsed |
-| `required_skills` | `TEXT[]` | regex-extracted keywords |
-| `raw_payload` | `JSONB` | original posting, retained verbatim |
+| `eval_id` | `VARCHAR(50)` | Evaluator id (`{chunk}-{position}`) |
+| `external_job_id` | `VARCHAR(255)` | SHA-256 of the link (or `title\|source\|link`) |
+| `title` | `VARCHAR(500)` | |
+| `link` | `TEXT` | Original posting URL |
+| `source` | `VARCHAR(255)` | e.g. `WeWorkRemotely_Backend`, `RemoteOK_Java` |
+| `salary`, `salary_currency`, `salary_period` | `VARCHAR` | As parsed by the fetcher |
+| `years_experience` | `VARCHAR(64)` | e.g. `5+ years` |
+| `description_review` | `TEXT` | Evaluator's 2–3 sentence review |
+| `matched_keywords` | `TEXT[]` | Prefilter keywords that matched |
+| `score` | `SMALLINT` | `0–100`, `CHECK` constraint |
+| `recommendation` | `VARCHAR(20)` | `APPLY` / `CONSIDER` / `SKIP` |
+| `pros`, `cons` | `TEXT[]` | Evidence-backed matches / mismatches |
+| `raw_payload` | `JSONB` | Original evaluated object, retained verbatim |
 | `embedding` | `vector(384)` | all-MiniLM-L6-v2 |
-| `scraped_at` | `TIMESTAMPTZ` | refresh timestamp |
+| `evaluated_at` | `TIMESTAMPTZ` | Updated on every upsert |
 
 **Constraints & indexes**
 
-- `UNIQUE (external_job_id, source_portal)` → idempotent upserts.
-- `idx_jobs_embedding_hnsw` — HNSW index over `embedding vector_cosine_ops`
-  for fast approximate nearest-neighbour search.
+- `UNIQUE (external_job_id, source)` → idempotent upserts.
+- `idx_jobs_embedding_hnsw` — HNSW index over `embedding vector_cosine_ops` for
+  fast approximate nearest-neighbour search.
+- `idx_jobs_recommendation`, `idx_jobs_score` — supporting filters/ranking.
 
 ### Pipeline artifacts
 
@@ -344,7 +428,8 @@ agent_hunter_job/
 |------|----------|----------|
 | `reports/job_opportunities.js` | `job-search-web` | `job-search-filter` |
 | `reports/chunk_XX.json` | `job-search-filter` | `job-evaluator` (via reader) |
-| `results/chunk_XX_evaluation.json` | `job-evaluator` | frontend / fan-in |
+| `results/chunk_XX_evaluation.json` | `job-evaluator` (via reporter) | pgvector / frontend |
+| `results/.chunk_XX.writer.log` | reporter (redirected) | `job-evaluator` (read-back) |
 
 ---
 
@@ -367,7 +452,8 @@ Each candidate is scored `0–100` and labelled `APPLY` / `CONSIDER` / `SKIP`.
 
 Every report entry keeps the candidate's original fields (verbatim) and adds
 `id`, `score`, `recommendation`, `pros` and `cons` — `pros` are evidence-backed
-matches, `cons` are honest mismatches (empty when there are none).
+matches, `cons` are honest mismatches (empty when there are none). The dashboard
+additionally surfaces the vector `similarity` as a match percentage.
 
 ---
 
@@ -375,11 +461,12 @@ matches, `cons` are honest mismatches (empty when there are none).
 
 | Layer | Technology |
 |-------|------------|
-| Orchestration | opencode agents + skills (Markdown-driven) |
-| Acquisition scripts | Python 3.12 (`urllib`, `xml.etree`, `asyncio`) |
-| Ingestion service | FastMCP (`mcp`), `asyncpg`, `apify-client` |
+| Orchestration | opencode agents + skills / VS Code Copilot agents (Markdown-driven) |
+| Acquisition & ETL scripts | Python 3 stdlib (`urllib`, `xml.etree`, `json`, `fcntl`) |
+| MCP gateway | FastMCP (`mcp[cli]` v1), `asyncpg`, `pydantic` |
 | Embeddings | `sentence-transformers` (`all-MiniLM-L6-v2`, 384d), CPU Torch |
 | Storage | PostgreSQL 16 + `pgvector` (HNSW, cosine) |
+| HTTP backend | Python 3 stdlib (`http.server`, `json`, `http.client`) |
 | Containerization | Docker Compose |
 | Frontend | Angular 22, standalone components, signals, SSR, Vitest |
 
@@ -392,46 +479,81 @@ matches, `cons` are honest mismatches (empty when there are none).
 - Docker + Docker Compose
 - Python 3.11+
 - Node.js (Angular 22 requires a modern Node) + npm
-- An [Apify](https://apify.com/) token
+- Optional: [opencode](https://opencode.ai) or VS Code with GitHub Copilot to run
+  the agent pipeline
 
-### 1. Run the agent pipeline
+### 1. Launch the Docker stack (database + MCP + backend)
 
-Open the project in an opencode session and simply ask for jobs:
+`server/.env` only holds non-secret settings (e.g. `MCP_TRANSPORT=sse`). Build and
+start all three services:
+
+```bash
+docker compose -f server/mcp_server_postgres_vector.yml up -d --build
+```
+
+Health checks:
+
+```bash
+curl -s -m 3 -o /dev/null -w "%{http_code}\n" http://127.0.0.1:3000/sse    # MCP  -> 200
+curl -s http://127.0.0.1:3100/health                                       # REST -> {"status":"ok"}
+```
+
+> Schema changes only apply to a fresh database volume: run
+> `docker compose -f server/mcp_server_postgres_vector.yml down -v` before
+> `up -d --build` if you edit `init.sql`.
+
+### 2. Run the agent pipeline
+
+Open the project in an opencode session (or use the mirrored VS Code Copilot
+agents in `.github/agents/`) and ask for jobs:
 
 ```text
 Find remote Java / Spring Boot job opportunities
 ```
 
-The orchestrator will fetch, prefilter, fan out to the evaluators and write the
-results into `results/`.
-
-### 2. Launch the MCP ingestion stack
-
-Create `server/.env` with a real token, then start the stack:
-
-```bash
-echo "APIFY_TOKEN=apify_api_xxx" > server/.env
-docker compose -f server/mcp_server_postgres_vector.yml up -d --build
-```
-
-Health check:
-
-```bash
-curl -s -m 3 -o /dev/null -w "%{http_code}\n" http://127.0.0.1:3000/sse   # -> 200
-```
-
-The MCP tool `trigger_job_sync(search_term, location, portal, max_results, skills, actor_ids)`
-scrapes, embeds and upserts postings into `scraped_job_postings`.
+The orchestrator fetches, prefilters, fans out to the evaluators and writes the
+scored results into `results/`, then upserts each chunk into pgvector through the
+MCP `store_job_postings` tool.
 
 ### 3. Run the frontend
 
 ```bash
 cd frontend/job-hunter-frontend
 npm install
-npm start          # http://localhost:4200
+npm start          # http://localhost:4200 (expects the backend on :3100)
 npm test           # Vitest
 npm run build      # production + SSR bundle
 ```
+
+---
+
+## Configuration reference
+
+**MCP server** (`server/mcp-server/config.py`)
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `MCP_TRANSPORT` | `sse` | `sse` / `streamable-http` / `stdio` |
+| `MCP_HOST` / `MCP_PORT` | `0.0.0.0` / `3000` | Bind address |
+| `DATABASE_URL` | `postgresql://postgres:secretpassword@localhost:5432/jobs_db` | asyncpg DSN |
+
+**Backend server** (`server/backend-server/`)
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `MCP_SERVER_URL` | `http://127.0.0.1:3000/sse` | MCP SSE endpoint |
+| `BACKEND_HOST` / `BACKEND_PORT` | `0.0.0.0` / `3100` | Bind address |
+| `CORS_ALLOWED_ORIGINS` | `http://localhost:4200,http://127.0.0.1:4200` | Allowed browser origins |
+| `SEARCH_DEFAULT_LIMIT` / `SEARCH_MAX_LIMIT` | `20` / `100` | Result bounds |
+
+**Reporter script** (`final_chunk_reporter.py`)
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `MCP_SERVER_URL` | `http://127.0.0.1:3000/sse` | MCP SSE endpoint |
+| `MCP_TIMEOUT_SECONDS` | `30` | SSE handshake/response timeout |
+| `REPORTER_DB_LOCK_TIMEOUT_SECONDS` | `180` | Max wait for the ingestion lock |
+| `REPORTER_DB_RETRIES` | `3` | Ingestion retry attempts |
 
 ---
 
@@ -446,27 +568,32 @@ npm run build      # production + SSR bundle
 - **Shared filesystem contract.** Sub-agents never return bulky payloads in prose;
   they read from `reports/` and write to `results/` through validated scripts with
   explicit exit codes. This makes the fan-in a simple, verifiable file count.
-- **Bounded parallelism.** A hard cap of 5 concurrent evaluators respects provider
-  rate limits while still collapsing N chunks of work.
-- **Idempotent ingestion.** Content-addressed `external_job_id` + `ON CONFLICT`
-  upserts mean re-running the pipeline is safe and cheap.
+- **Bounded parallelism with isolated shells.** A hard cap of 5 concurrent
+  evaluators respects provider rate limits, and each instance redirects its output
+  to per-chunk log files so a shared terminal never interleaves their streams.
+- **Crash-safe, concurrency-safe writes.** Evaluations are written with
+  temp-file + `os.replace`; database ingestion is serialized with an advisory
+  `flock` and retried. A failed DB sync degrades to a `Warning:` — the file stays
+  the source of truth.
+- **Stdlib at the edges.** Both the acquisition scripts and the HTTP backend avoid
+  third-party runtimes, so they run anywhere Python does (and Docker images stay
+  small).
+- **Idempotent, evaluation-aware ingestion.** Content-addressed `external_job_id` +
+  `ON CONFLICT` upserts make re-runs safe, and embeddings are built from the scored
+  fields so semantic search ranks against the evaluation.
 - **Reactive, typed frontend state.** Angular signals provide derived state with
   zero manual subscription management and full type-safety over `JobModel`.
-- **Local embeddings.** No embedding API dependency: the model ships in the image,
-  runs on CPU, and the vectors live next to the data in pgvector.
 
 ---
 
 ## Roadmap
 
-- [ ] Wire the frontend to real data (`loadJobs()` from `results/` / a REST read
-      endpoint backed by pgvector similarity queries).
-- [ ] Add a query endpoint that ranks postings by cosine similarity to a profile
-      embedding directly in the dashboard.
-- [ ] Expose the evaluation pipeline as a callable endpoint so the dashboard can
-      trigger a fresh run.
+- [x] Wire the frontend to real data (backend `/api/jobs/search` → pgvector).
 - [ ] Persist evaluation reports into Postgres for history and trend tracking.
-- [ ] Add CI (lint + tests for Python scripts and the Angular app).
+- [ ] Expose a profile-embedding endpoint so the dashboard ranks against the
+      candidate profile directly.
+- [ ] Trigger a fresh pipeline run from the dashboard.
+- [ ] Add CI (lint + tests for the Python scripts and the Angular app).
 
 ---
 
