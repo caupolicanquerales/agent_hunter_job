@@ -1,0 +1,138 @@
+[
+  {
+    "id": "chunk_51-1",
+    "title": "Office Manager CDD at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/office-manager-cdd-paris-64661",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Office manager role in Paris covering daily facilities, building management and office operations for an industrial AI company. It is an administrative position, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 1,
+    "recommendation": "SKIP",
+    "pros": [
+      "None relevant to the software profile"
+    ],
+    "cons": [
+      "Administrative office role with no engineering content",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_51-2",
+    "title": "Staff Software Engineer at Hexa",
+    "company": "Hexa",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/hexa/staff-software-engineer-paris-484740",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Very senior staff software engineer role in Paris at a European defence technology company, owning the software platform for data ingestion, ML workloads and operational applications. The role covers architecture, data infrastructure and DevOps, with self-hosted and on-premises deployments, and no salary is disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 68,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Very senior architecture ownership of core services and APIs, matching the architecture and seniority strengths",
+      "Bridges embedded systems and AI teams, matching the applied AI profile",
+      "Designs for robustness, operability and cybersecurity from the outset"
+    ],
+    "cons": [
+      "Defence and maritime domain, not banking or fintech",
+      "Data and ML infrastructure emphasis rather than a Java or Spring Boot stack",
+      "No salary or language stack stated in the visible description"
+    ]
+  },
+  {
+    "id": "chunk_51-3",
+    "title": "Investment Associate @Hexa Scale at Hexa",
+    "company": "Hexa",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/hexa/investment-associate-at-hexa-scale-paris-293366",
+    "source": "Arbeitnow_API",
+    "salary": "$5",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Investment associate role in Paris at a startup studio's private equity programme that takes majority stakes in software companies. It is a finance and investment position, and the salary field shows a small value without a period.",
+    "matched_keywords": [
+      "fintech"
+    ],
+    "score": 2,
+    "recommendation": "SKIP",
+    "pros": [
+      "Software and fintech portfolio context"
+    ],
+    "cons": [
+      "Investment role with no engineering content",
+      "Salary field is ambiguous and not usable as compensation data"
+    ]
+  },
+  {
+    "id": "chunk_51-4",
+    "title": "Backend Engineer - Internship (6 months) at Qonto",
+    "company": "Qonto",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/qonto/backend-engineer-internship-6-months-paris-261641",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Six-month backend engineering internship in Paris building financial features for SME banking products, working in a squad with senior engineers. It is an end-of-studies internship, and the salary field is not disclosed.",
+    "matched_keywords": [
+      "backend",
+      "banking"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend engineering on banking and financial products, matching the banking domain"
+    ],
+    "cons": [
+      "Internship level, well below the senior profile",
+      "No stack or architecture ownership described in the visible text"
+    ]
+  },
+  {
+    "id": "chunk_51-5",
+    "title": "Full-stack Software Engineer (Contract) at Lemrock",
+    "company": "Lemrock",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/lemrock/full-stack-software-engineer-contract-paris-129905",
+    "source": "Arbeitnow_API",
+    "salary": "€7M",
+    "salary_currency": "USD",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Full-stack contract engineer role in Paris building production systems for an agentic commerce infrastructure platform, covering APIs, data models and backend scaling. The team emphasises clean architecture and ownership, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "backend",
+      "architecture",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Full-stack role with backend and API design depth, matching the full-stack with backend fit",
+      "Clean architecture and scaling focus with production ownership",
+      "Applied AI in agentic commerce matches the AI profile"
+    ],
+    "cons": [
+      "Contract role with no seniority level stated",
+      "Specific backend stack is not confirmed in the visible description",
+      "Salary field contains funding data, not compensation"
+    ]
+  }
+]

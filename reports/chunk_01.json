@@ -50,31 +50,29 @@
       ]
     },
     {
-      "title": "Typeform: Full Stack Developer",
-      "link": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+      "title": "Melio: Senior Talent Acquisition Partner (Contract)",
+      "link": "https://weworkremotely.com/remote-jobs/melio-senior-talent-acquisition-partner-contract",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "month",
+      "years_experience": "8+ years",
+      "description": "Headquarters: Remote, US Senior Talent Acquisition Partner (Contract) Location: Remote (required to live in one of the following states: AZ, CA, CO, FL, GA, IL, MI, MN, NY, NC, TX, UT, VT) Duration: 6 month contract Qualifications: 5-8+ years of experience as a Talent Acquisition Partner, ideally in-house at a fintech or payments technology company, is your foundation. Hiring across departments and levels, from individual contributors to senior leadership, is part of your track record. You love Sourcing, infusing dedicated structured blocks of time each week to proactively source and headhunt passive candidates through channels like LinkedIn Recruiter, Boolean search, and networking, building strong pipelines independent of inbound applicant flow. Proven track record of managing multiple full-cycle searches simultaneously while maintaining a high-touch, responsive candidate experience at every stage of the process. Clear, persuasive communication helps you build trust quickly with candidates, hiring managers, and stakeholders alike. Structured and detail-oriented by nature, you follow processes while always looking for ways to improve it. A genuine drive to build diverse talent pipelines shapes how you think strategically about long-term team composition, not just filling seats. Bonus points: Experience recruiting within a B2B payments company Experience partnering with and recruiting for a global team (especially across US and Israel time zones) Experience working with Green",
+      "matched_keywords": [
+        "fintech"
+      ]
+    },
+    {
+      "title": "Toptal: Applied AI Engineers for telecommunications company",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The NetherlandsAbout the team Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data. This team sits at the center of how Typeform builds product experiences, creating the shared foundations, tooling, and infrastructure that support scalable and consistent development across the platform. About the role We’re looking for a Mid level Full Stack Engineer with a stronger backend focus to help evolve the internal systems and infrastructure that support our product development ecosystem. This role is ideal for someone who enjoys building scalable internal platforms and developer tooling, while still being comfortable contributing across the frontend when needed. You’ll work on APIs, automation, release pipelines, and engineering infrastructure that improve h",
+      "description": "Headquarters: SummaryThe Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI concepts into reliable, scalable software rather than purely research-oriented work.General informationThis engagement requires deep hands-on expertise in machine learning and applied AI, with a strong emphasis on prompt optimization, model behavior, agent orchestration, and evaluation. The work will involve collaborating with platform engineers, product teams, and business stakeholders to improve AI quality, reliability, and performance in production environments.Tasks and DeliverablesDesign, develop, and optimize production-grade agentic AI solutions.Run meaningful evaluations to improve prompts, model behavior, orchestration, reliability, and performance in production.Required experienceDeep expertise in machine learning and applied AI.Experience building and deploying production-level AI/ML services.Strong software engineering and coding skills.Experience developing or optimizing LLM- and agent-based applications.Strong knowledge of prompt engineering and optimization.Strong knowledge of model evaluation and benchmarking.Strong knowledge of AI quality, reliability, and performance measurement.Strong knowledge of agent behavior and orchestration.Ability to design and run meaningful evaluations and interpret results.Experience with APIs, data pipelines, backend sys",
       "matched_keywords": [
-        "backend",
-        "fullstack",
-        "full-stack"
-      ]
-    },
-    {
-      "title": "Abnormal: Director of Security Engineering",
-      "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "AUD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement. Our Security Philosophy We run security the way the best engineering-led companies do: Security reduces toil. Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect. Paved paths, safe by default. We invest in guardrails, golden paths, and secure-by-default inf",
-      "matched_keywords": [
-        "architecture"
+        "backend"
       ]
     }
   ]

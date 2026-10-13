@@ -1,0 +1,134 @@
+[
+  {
+    "id": "chunk_55-1",
+    "title": "ML Engineering Intern - LLM Research & Development at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/ml-engineering-intern-llm-research-development-amsterdam-266755",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Intern ML engineering role on LLM training and serving at Prosus, Amsterdam. Python and open-source LLM focus; no Java or backend emphasis. Intern level, well below the candidate's seniority.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied LLM work matches the GenAI interest"
+    ],
+    "cons": [
+      "Intern level versus 7+ years senior experience",
+      "Python/ML-centric, no Java/Spring signal",
+      "Research-oriented rather than architecture"
+    ]
+  },
+  {
+    "id": "chunk_55-2",
+    "title": "(MSc/PhD) AI Research Intern - LLMs, Causal Inference & Decision Making at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/msc-phd-ai-research-intern-llms-causal-inference-decision-making-amsterdam-18993",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Research internship at Prosus, Amsterdam, requiring MSc/PhD. Focus on causal inference, uplift and experimentation with LLMs. Academic profile, no engineering or Java emphasis.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 18,
+    "recommendation": "SKIP",
+    "pros": [
+      "Some LLM exposure aligns with applied AI interest"
+    ],
+    "cons": [
+      "Requires MSc/PhD and research profile",
+      "Intern level, not senior engineering",
+      "No Java/Spring or backend signal"
+    ]
+  },
+  {
+    "id": "chunk_55-3",
+    "title": "Senior Machine Learning Engineer – LLMs at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/senior-machine-learning-engineer-llms-amsterdam-22288",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior ML engineering role training domain-specific LLMs at Prosus, Amsterdam, with technical leadership and mentoring. Strong ML infrastructure focus; description truncated in the source data.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level with technical leadership and mentoring",
+      "Applied LLM and production deployment match the AI focus",
+      "Fintech/ecommerce enterprise context"
+    ],
+    "cons": [
+      "ML-specialist role; Java/Spring not evident",
+      "Training-infrastructure depth exceeds the backend/architecture profile"
+    ]
+  },
+  {
+    "id": "chunk_55-4",
+    "title": "Channel Manager (EMEA) at 98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C",
+    "company": "98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C",
+    "location": "Netherlands - Remote",
+    "link": "https://www.arbeitnow.nl/jobs/companies/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/channel-manager-emea-amsterdam-377545",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Regional partner manager role for EMEA channel partners at a security platform company, remote from the Netherlands. Sales and partner-enablement focus. Company field in the source is an unresolved identifier.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Exposure to AI-driven security products"
+    ],
+    "cons": [
+      "Sales/partner management, not engineering",
+      "No Java, Spring or architecture requirement",
+      "Company name unresolved in source data"
+    ]
+  },
+  {
+    "id": "chunk_55-5",
+    "title": "Account Executive (Mid-Market) (Fluent In German) (Position located in Utrecht, Netherlands) at knowbe4",
+    "company": "knowbe4",
+    "location": "Utrecht",
+    "link": "https://www.arbeitnow.nl/jobs/companies/knowbe4/account-executive-mid-market-fluent-in-german-position-located-in-utrecht-netherlands-431637",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Mid-market Account Executive sales role in Utrecht requiring fluent German. Security awareness platform company. Sales function with no engineering content.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Sales role, no engineering content",
+      "Requires fluent German",
+      "No Java/Spring or architecture signal"
+    ]
+  }
+]

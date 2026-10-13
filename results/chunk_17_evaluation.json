@@ -1,142 +1,125 @@
 [
   {
     "id": "chunk_17-1",
-    "title": "Senior Data Engineer (Azure) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925636/",
-    "source": "WorkingNomads_AI",
+    "title": "Frontend Developer (React) at Codekeeper",
+    "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/frontend-developer-react-870857",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior data engineering role centred on Azure SQL, Data Factory and ETL pipelines, remote within CET +/- 3 hours. Seniority is senior with 5+ years in data engineering; salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Frontend React developer role for a software escrow product, focused on UI components with JavaScript, TypeScript and CSS. Experienced level implied; salary and location not stated.",
     "matched_keywords": [
-      "architecture"
+      "java",
+      "architecture",
+      "typescript"
     ],
-    "score": 35,
+    "score": 22,
     "recommendation": "SKIP",
     "pros": [
-      "Senior-level remote role with architecture-related responsibilities"
+      "Uses TypeScript, which is in the profile stack"
     ],
     "cons": [
-      "Data engineering focus, not backend Java/Spring or software architecture",
-      "Azure data stack outside the candidate's core stack",
-      "Restricted to CET time zone"
+      "Pure frontend role, a weak fit for the profile",
+      "No Java or Spring Boot backend scope"
     ]
   },
   {
     "id": "chunk_17-2",
-    "title": "Senior DevOps Engineer (Azure) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925634/",
-    "source": "WorkingNomads_AI",
+    "title": "Full Stack Developer (Javascript) at Codekeeper",
+    "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/full-stack-developer-javascript-870856",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior Azure DevOps role covering reliability, security and scalability of Azure systems, with IaC, containers and Kubernetes/AKS. Remote within CET +/- 3 hours; salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Full-stack JavaScript developer role for a remote-first software escrow startup with a central office in The Hague. Seniority, salary and detailed stack are not stated in the excerpt.",
     "matched_keywords": [
-      "architecture"
+      "java",
+      "fullstack",
+      "full-stack"
     ],
-    "score": 25,
+    "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Senior-level remote role with containerization experience in scope"
+      "Full-stack scope with backend work, which matches the profile's good-fit category"
     ],
     "cons": [
-      "Pure DevOps/cloud role, listed as weak fit in the profile",
-      "No Java/Spring or application development focus",
-      "Restricted to CET time zone"
+      "JavaScript-centric stack, no Java or Spring Boot mentioned",
+      "Startup environment with no architecture or modernization signal"
     ]
   },
   {
     "id": "chunk_17-3",
-    "title": "Senior Fullstack Developer (React.js / Node.js) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925629/",
-    "source": "WorkingNomads_AI",
+    "title": "Senior GenAI Engineer at Taboola",
+    "link": "https://remotefirstjobs.com/companies/taboola/jobs/senior-genai-engineer-870834",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior full-stack role with React.js frontend and Node.js backend, microservices architecture, and SQL/MongoDB databases. Remote within CET +/- 3 hours, intermediate-advanced English required; salary not stated.",
+    "years_experience": "2+ years",
+    "description_review": "Senior GenAI engineer role in the Tel Aviv office building generative AI products for advertising and content discovery. Requires Python, SQL, Spark and LLM evaluation experience; the posting is data-science heavy.",
     "matched_keywords": [
-      "microservices",
-      "backend",
-      "architecture",
-      "fullstack",
-      "full-stack",
-      "node"
+      "java",
+      "generative ai"
     ],
-    "score": 68,
-    "recommendation": "CONSIDER",
+    "score": 55,
+    "recommendation": "SKIP",
     "pros": [
-      "Full-stack role with backend depth and microservices, matching the good-fit profile",
-      "Requires SQL and MongoDB, matching the candidate's database experience",
-      "Senior-level scope with architecture responsibilities"
+      "Applied GenAI work: RAG, LLM evaluation, fine-tuning",
+      "Java is listed as a bonus skill"
     ],
     "cons": [
-      "Node.js and React centric, not Java/Spring Boot",
-      "Restricted to CET time zone",
-      "Description is truncated, so the backend depth cannot be fully verified"
+      "Python and Spark primary stack, not Java or Spring Boot",
+      "Data science and ML emphasis rather than backend architecture",
+      "On-site in Tel Aviv"
     ]
   },
   {
     "id": "chunk_17-4",
-    "title": "Senior Python Developer (Fullstack, BE-Heavy) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925623/",
-    "source": "WorkingNomads_AI",
+    "title": "Staff Android Engineer, Android Platform at Reddit, Inc.",
+    "link": "https://remotefirstjobs.com/companies/reddit/jobs/staff-android-engineer-android-platform-870828",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior backend-heavy full-stack role in Python, with high-throughput async APIs, background task orchestration and client-side state management. Remote within CET +/- 3 hours; salary not stated.",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Staff Android engineer leading the Android platform team at Reddit, covering client health, developer experience and app architecture. Staff-level scope but mobile-native, with no backend stack described.",
     "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack"
+      "architecture"
     ],
-    "score": 58,
+    "score": 15,
     "recommendation": "SKIP",
     "pros": [
-      "Backend-heavy senior role with architecture ownership",
-      "Async API design and task orchestration align with backend experience"
+      "Staff-level technical leadership and architecture ownership"
     ],
     "cons": [
-      "Python-centric, which is a weak fit unless AI-focused",
-      "Java/Spring Boot not required",
-      "Restricted to CET time zone"
+      "Native Android mobile role, outside the profile stack",
+      "No Java backend, Spring Boot or microservices scope"
     ]
   },
   {
     "id": "chunk_17-5",
-    "title": "Senior Django Developer at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925616/",
-    "source": "WorkingNomads_AI",
+    "title": "Forward Deployment Engineer-Viewer at DeepHealth",
+    "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineerviewer-870822",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior Django role requiring 4+ years of Django, Django REST framework and Python, with multi-source data integration. Remote within CET +/- 3 hours; salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Individual contributor forward deployment engineer for an enterprise diagnostic imaging viewer, combining customer configuration, technical discovery and clinical workflow knowledge. Customer-facing implementation role with AI-enabled imaging workflows.",
     "matched_keywords": [
-      "architecture"
+      "enterprise"
     ],
-    "score": 45,
+    "score": 35,
     "recommendation": "SKIP",
     "pros": [
-      "Senior-level role with integration of multiple data sources"
+      "Enterprise software with AI-enabled workflows",
+      "Technical solution design and discovery work"
     ],
     "cons": [
-      "Python/Django-only stack, a weak fit for the candidate's Java focus",
-      "No AI or Java/Spring Boot requirement",
-      "Restricted to CET time zone"
+      "Clinical imaging domain, outside banking/fintech",
+      "Customer-facing implementation focus rather than Java backend engineering"
     ]
   }
 ]

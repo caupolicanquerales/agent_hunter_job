@@ -1,0 +1,129 @@
+[
+  {
+    "id": "chunk_52-1",
+    "title": "Member of Technical Staff (m/f/d) at Sereact GmbH",
+    "company": "Sereact GmbH",
+    "location": "Zurich",
+    "link": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-473361",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Robotics research role in Zurich developing Vision-Language-Action models and foundation model inference for embodied AI. Research-oriented ML position with publication focus; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Foundation model architecture work loosely relates to applied AI"
+    ],
+    "cons": [
+      "Robotics ML research, far from Java/Spring backend and enterprise profile",
+      "Requires publication-level research background"
+    ]
+  },
+  {
+    "id": "chunk_52-2",
+    "title": "Account Executive at Jobgether",
+    "company": "Jobgether",
+    "location": "Switzerland",
+    "link": "https://www.arbeitnow.ch/jobs/companies/jobgether/account-executive-switzerland-364816",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Fully remote sales role in Switzerland selling cloud infrastructure to enterprise customers, owning the full sales cycle. Commercial position with uncapped commission; salary not disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise cloud and AI platform market is adjacent to the profile"
+    ],
+    "cons": [
+      "Sales role with no engineering responsibilities",
+      "Outside the Java/Spring and architecture scope"
+    ]
+  },
+  {
+    "id": "chunk_52-3",
+    "title": "German-Speaking Project Architect with Swiss Project Experience – 100% at Oppenheim Architecture",
+    "company": "Oppenheim Architecture",
+    "location": "Basel",
+    "link": "https://www.arbeitnow.ch/jobs/companies/oppenheim-architecture/german-speaking-project-architect-with-swiss-project-experience-100-basel-58918",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "3 years",
+    "description_review": "Building architecture project role in Basel producing technical drawings and documentation in ArchiCAD for Swiss construction projects. Requires about 3 years of Swiss project experience and native German; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Structured documentation and coordination work is transferable in principle"
+    ],
+    "cons": [
+      "Physical building architecture, not software architecture",
+      "Requires ArchiCAD and Swiss construction regulation expertise"
+    ]
+  },
+  {
+    "id": "chunk_52-4",
+    "title": "Senior Data Governance / Data Management Spezialist at Callista Group AG",
+    "company": "Callista Group AG",
+    "location": "Luzern, Luzern, Switzerland",
+    "link": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/senior-data-governance-data-management-spezialist-luzern-202268",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Hands-on data governance and MDM role in Luzern for an insurance company, building governance structures, data architecture models and data quality rules during a data transformation. Requires several years of operational data management experience in a regulated environment; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Data architecture and enterprise-scale transformation experience is relevant",
+      "Regulated financial-services context is adjacent to banking"
+    ],
+    "cons": [
+      "Data management and governance focus rather than software engineering",
+      "Requires German and Swiss regulatory knowledge"
+    ]
+  },
+  {
+    "id": "chunk_52-5",
+    "title": "Product Designer (temporary) at Assai Software",
+    "company": "Assai Software",
+    "location": "Culemborg, Gelderland, Netherlands",
+    "link": "https://www.arbeitnow.nl/jobs/companies/assai-software/product-designer-temporary-culemborg-409472",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Temporary product design role in Culemborg (about 6 months) covering UX research, journeys, prototypes and design systems for enterprise products. Design-centric rather than engineering; salary not disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Works on enterprise products with engineering collaboration"
+    ],
+    "cons": [
+      "UX and UI design focus, not engineering",
+      "No backend or Java/Spring responsibilities"
+    ]
+  }
+]

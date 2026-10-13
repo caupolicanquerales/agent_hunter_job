@@ -27,46 +27,54 @@ export class JobDetail {
     return Math.round(current.match_score * 100);
   });
 
-  // External link / Apply URL if extracted in payload or attributes
+  // External link: scraped link first, then payload fallbacks
   protected readonly externalUrl = computed(() => {
     const current = this.job();
     if (!current) return null;
     return (
+      current.link ||
       current.raw_payload?.attributes?.apply_url ||
       current.raw_payload?.url ||
       null
     );
   });
 
-  // Format salary display if present
+  // Salary from the scraped row: salary, salary_currency, salary_period
   protected readonly formattedSalary = computed(() => {
     const current = this.job();
-    if (!current || (!current.salary_min && !current.salary_max)) return null;
+    if (!current?.salary) return null;
 
-    const currencySymbol = current.currency === 'EUR' ? '€' : '$';
-    const min = current.salary_min ? `${currencySymbol}${current.salary_min.toLocaleString()}` : '';
-    const max = current.salary_max ? `${currencySymbol}${current.salary_max.toLocaleString()}` : '';
-
-    if (min && max) return `${min} - ${max} / year`;
-    if (min) return `From ${min} / year`;
-    if (max) return `Up to ${max} / year`;
-    return null;
+    const currency = current.salary_currency ? `${current.salary_currency} ` : '';
+    const period = current.salary_period ? ` / ${current.salary_period}` : '';
+    return `${currency}${current.salary}${period}`;
   });
+
+  protected readonly hasPros = computed(() => (this.job()?.pros?.length ?? 0) > 0);
+  protected readonly hasCons = computed(() => (this.job()?.cons?.length ?? 0) > 0);
 
   // Relative or formatted scraped date
   protected readonly formattedDate = computed(() => {
     const current = this.job();
-    if (!current?.scraped_at) return '';
+    const dateValue = current?.evaluated_at || current?.scraped_at;
+    if (!dateValue) return '';
     try {
-      const date = new Date(current.scraped_at);
+      const date = new Date(dateValue);
       return date.toLocaleDateString(undefined, {
         month: 'short',
         day: 'numeric',
-        year: 'numeric'
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
       });
     } catch {
-      return current.scraped_at;
+      return dateValue;
     }
+  });
+
+  protected readonly formattedSimilarity = computed(() => {
+    const current = this.job();
+    if (current?.similarity == null) return null;
+    return (current.similarity * 100).toFixed(1);
   });
 
   // Typography-focused HTML renderer for clean_description

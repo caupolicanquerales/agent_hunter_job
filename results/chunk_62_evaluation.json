@@ -1,0 +1,132 @@
+[
+  {
+    "id": "chunk_62-1",
+    "title": "Research Scientist - Personalization at Spotify",
+    "company": "Spotify",
+    "location": "UK",
+    "link": "https://jobicy.com/jobs/155216-research-scientist-personalization",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Research scientist role in Spotify's personalization team in the UK, focused on large-scale foundation models, generative AI and reinforcement learning. Research and publication oriented.",
+    "matched_keywords": [
+      "generative ai"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied AI and foundation model work"
+    ],
+    "cons": [
+      "Research-focused, not production backend engineering",
+      "Music recommendation domain, no Java or Spring stack"
+    ]
+  },
+  {
+    "id": "chunk_62-2",
+    "title": "Performance Creative Manager at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155204-performance-creative-manager",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Marketing creative management role at a US healthcare navigation startup, leading creative pods for paid media.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "None relevant to the profile"
+    ],
+    "cons": [
+      "Marketing and creative role, no engineering",
+      "Healthcare startup marketing, outside the profile"
+    ]
+  },
+  {
+    "id": "chunk_62-3",
+    "title": "Senior Backend Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155200-senior-backend-engineer-10",
+    "source": "Jobicy_Dev",
+    "salary": "150000 - 200000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Senior backend engineer at a US healthcare startup, owning product workflows from design to deployment and architecting solutions. Salary of 150k to 200k USD.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior backend ownership and architecture",
+      "Competitive US salary range"
+    ],
+    "cons": [
+      "Language and framework stack not stated",
+      "Healthcare startup, outside banking/fintech",
+      "US-based, no remote or geo details"
+    ]
+  },
+  {
+    "id": "chunk_62-4",
+    "title": "Staff Software Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155199-staff-software-engineer-8",
+    "source": "Jobicy_Dev",
+    "salary": "180000 - 250000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Staff hands-on technical leader at a US healthcare startup, driving architecture across frontend and backend and mentoring engineers. Salary of 180k to 250k USD.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 65,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Staff-level architecture and technical leadership",
+      "Hands-on across frontend and backend"
+    ],
+    "cons": [
+      "Stack not stated in the posting",
+      "Healthcare startup, outside banking/fintech",
+      "Startup pace with less enterprise process"
+    ]
+  },
+  {
+    "id": "chunk_62-5",
+    "title": "Senior Platform Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
+    "source": "Jobicy_Dev",
+    "salary": "150000 - 200000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Senior platform engineer building infrastructure, deployment and self-recovery systems at a US healthcare startup.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior architecture responsibilities"
+    ],
+    "cons": [
+      "Infrastructure and platform focus, closer to DevOps",
+      "Healthcare startup, outside banking/fintech"
+    ]
+  }
+]

@@ -359,6 +359,233 @@
 }
 
 /* ----------------------------------------------------
+   2a. Key Facts & Metadata Section
+---------------------------------------------------- */
+.facts-section {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  background-color: rgba(31, 41, 55, 0.45);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+
+  .facts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem 1.25rem;
+
+    .fact-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+
+      &.full-width-fact {
+        grid-column: 1 / -1;
+        padding-top: 0.5rem;
+        border-top: 1px dashed var(--border-subtle);
+      }
+
+      .fact-label {
+        font-size: 0.725rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--text-subtle);
+      }
+
+      .fact-value {
+        font-size: 0.875rem;
+        font-weight: 600;
+        color: var(--text-main);
+        word-break: break-word;
+
+        &.highlight {
+          color: #fbbf24;
+
+          &.recommended {
+            color: #34d399;
+          }
+        }
+
+        &.mono-val {
+          font-family: var(--font-mono);
+          font-size: 0.8rem;
+          color: #93c5fd;
+        }
+
+        .link-anchor {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.35rem;
+          color: #38bdf8;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+          transition: color 0.15s ease;
+
+          &:hover {
+            color: #7dd3fc;
+          }
+
+          .mini-icon {
+            width: 14px;
+            height: 14px;
+            flex-shrink: 0;
+          }
+        }
+
+        .text-muted-inline {
+          color: var(--text-subtle);
+          font-style: italic;
+          font-weight: normal;
+        }
+      }
+    }
+  }
+}
+
+/* ----------------------------------------------------
+   2b. Matched Keywords Section
+---------------------------------------------------- */
+.matched-keywords-section {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  background-color: rgba(31, 41, 55, 0.4);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+
+  .section-title-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.85rem;
+
+    .section-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #93c5fd;
+    }
+
+    .keywords-count-pill {
+      font-size: 0.725rem;
+      color: var(--text-subtle);
+      font-family: var(--font-mono);
+    }
+  }
+
+  .matched-pills-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+
+  .matched-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.3rem 0.65rem;
+    border-radius: 6px;
+    background-color: rgba(59, 130, 246, 0.12);
+    border: 1px solid rgba(59, 130, 246, 0.3);
+    color: #bfdbfe;
+    font-size: 0.8rem;
+    font-weight: 500;
+
+    .check-icon {
+      width: 13px;
+      height: 13px;
+      color: #60a5fa;
+    }
+  }
+}
+
+/* ----------------------------------------------------
+   2c. Pros and Cons Section
+---------------------------------------------------- */
+.pros-cons-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .pros-block,
+  .cons-block {
+    padding: 1.25rem 1.5rem;
+    border-radius: 12px;
+    border: 1px solid var(--border-subtle);
+  }
+
+  .pros-block {
+    background-color: rgba(16, 185, 129, 0.08);
+    border-color: rgba(16, 185, 129, 0.25);
+  }
+
+  .cons-block {
+    background-color: rgba(239, 68, 68, 0.08);
+    border-color: rgba(239, 68, 68, 0.25);
+  }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.85rem;
+
+    &.pros-title {
+      color: #34d399;
+    }
+
+    &.cons-title {
+      color: #f87171;
+    }
+
+    .pro-con-icon {
+      width: 16px;
+      height: 16px;
+
+      &.pro-icon {
+        color: #10b981;
+      }
+
+      &.con-icon {
+        color: #ef4444;
+      }
+    }
+  }
+
+  .pros-list,
+  .cons-list {
+    margin: 0;
+    padding-left: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+
+  .pro-item,
+  .con-item {
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+
+  .pro-item {
+    color: #d1fae5;
+  }
+
+  .con-item {
+    color: #fee2e2;
+  }
+}
+
+/* ----------------------------------------------------
    2. Skills Section: Visual Pill Tags
 ---------------------------------------------------- */
 .skills-section {

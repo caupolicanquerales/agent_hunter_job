@@ -1,0 +1,119 @@
+[
+  {
+    "id": "chunk_28-1",
+    "title": "App Growth Consultant, Mid-Level (AMER) at AppTweak",
+    "link": "https://remotefirstjobs.com/companies/apptweak/jobs/app-growth-consultant-midlevel-amer-870467",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Mid-level app growth consultant on ASO audits and Apple Ads strategy for enterprise clients in the Americas. Non-engineering marketing position; salary in AUD is not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 6,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise client advisory experience"
+    ],
+    "cons": [
+      "ASO and marketing consulting, not software engineering",
+      "No Java, Spring or architecture requirements"
+    ]
+  },
+  {
+    "id": "chunk_28-2",
+    "title": "Sales Engineer - DACH at GreyNoise Intelligence",
+    "link": "https://remotefirstjobs.com/companies/greynoise-intelligence/jobs/sales-engineer-dach-870452",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Sales engineer supporting proof-of-value and technical sales for enterprise and government accounts in DACH, for a security intelligence startup. Pre-sales role; salary is not stated and US work authorization is required for US positions.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise account technical advisory"
+    ],
+    "cons": [
+      "Pre-sales role rather than software engineering",
+      "Security intelligence domain, no Java or Spring stack"
+    ]
+  },
+  {
+    "id": "chunk_28-3",
+    "title": "Manager, Embedded Platform Engineering at Scout Motors Inc.",
+    "link": "https://remotefirstjobs.com/companies/scout-motors-inc/jobs/manager-embedded-platform-engineering-870445",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Engineering management role for embedded platform work at an electric vehicle company. Salary in EUR is not confirmed and no location is stated in the data.",
+    "matched_keywords": [
+      "legacy"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Engineering leadership role"
+    ],
+    "cons": [
+      "Embedded automotive platform, outside the backend Java and banking profile",
+      "No software stack or domain match in the data"
+    ]
+  },
+  {
+    "id": "chunk_28-4",
+    "title": "Sr. Staff Data Scientist - IAA at The Job Sauce",
+    "link": "https://remotefirstjobs.com/companies/the-job-sauce/jobs/sr-staff-data-scientist-iaa-870424",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior staff engineer for data science leading ML systems and agentic AI applications for a global vehicle marketplace. Technical leadership role; salary and location are not stated.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior technical leadership and architecture of ML systems",
+      "Agentic AI application work aligns with applied AI interests"
+    ],
+    "cons": [
+      "Data science and ML focus rather than Java/Spring backend",
+      "Automotive marketplace domain outside banking/fintech"
+    ]
+  },
+  {
+    "id": "chunk_28-5",
+    "title": "Full-Stack Web Developer at Ivanti",
+    "link": "https://remotefirstjobs.com/companies/ivanti/jobs/fullstack-web-developer-870410",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Full-stack web developer role focused on front-end marketing experiences on ivanti.com, with C#/.NET, CMS, SQL Server and APIs. Salary in EUR is not confirmed and no location is stated.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 32,
+    "recommendation": "SKIP",
+    "pros": [
+      "Full-stack work with APIs and SQL Server"
+    ],
+    "cons": [
+      "Marketing web and front-end focus, weaker match than backend Java/Spring",
+      "C#/.NET stack rather than Java"
+    ]
+  }
+]

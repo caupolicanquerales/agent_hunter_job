@@ -3,71 +3,72 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Glean: Application Security Engineer",
-      "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+      "title": "Salesloft: Principal Software Engineer, AI",
+      "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. &nbsp; At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level. &nbsp; Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its glo",
-      "matched_keywords": [
-        "enterprise",
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-      "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Phoenix, Arizona URL: https://adventuretravel365.com/ Senior Full-Stack Developer - Marketplace Web &amp; Mobile Platform We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life. We’re building a new contractor referral and services marketplace, think Thumbtack or Angi, where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more. This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide. There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before and gets excited about taking a platform from an idea to a working product, then continuing to grow it with us. What You’ll Help Us Build The platform will have two main sides: clients looking for services and contractors/vendors looking for business. Some of the functionality we’re planning includes: Client and contractor/vendor accounts and profiles Contractor listings, categories, search, and filtering Service requests, inquiries, referrals, and lead management Job and project tracking Client and vendor dashboards Online payments and transaction tracking Reviews and ratings Notifications and communications Banner advertising and paid promotional opportunities Admin tools for managing ",
-      "matched_keywords": [
-        "fullstack",
-        "full-stack"
-      ]
-    },
-    {
-      "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
-      "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "day",
-      "years_experience": "N/A",
-      "description": "Headquarters: SummaryWe are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery.General informationThis role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement.Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns.AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions.Tasks and DeliverablesDesign and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake.Define and maintain API contracts, field mappings, transformations, and automated tests.Use Data Modeler to develop and maintain accurat",
+      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location: Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future. THE OPPORTUNITY At Salesloft, our Principal Engineer for AI sets the technical direction for how machine intelligence works across our Predictive Revenue System. This is the most senior individual-contributor role on our AI engineering team: you will architect the systems that turn LLMs, machine learning models, and agentic workflows into production capabilities that thousands of enterprise revenue teams depend on. This is deep, ambiguous, frontier work. You will make the foundational architectural decisions for AI at Salesloft — how we serve models at scale, how we bui",
       "matched_keywords": [
         "enterprise"
       ]
     },
     {
-      "title": "Sticker Mule: AI agent engineer",
-      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "title": "Lithic: Senior Software Engineer, Card Authorization",
+      "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
       "source": "WeWorkRemotely_Fullstack",
-      "salary": "$150,000–$250,000",
-      "salary_currency": "USD",
-      "salary_period": "year",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp; We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;We are hiring a Senior Software Engineer for Lithic’s Card Authorization team, which owns the real-time systems that make every card authorization decision correct, reliable, and fast. The team also owns related fraud tooling, including Lithic’s Rules Engine and 3D Secure integration. You’ll own high-impact projects end-to-end, solve distributed-systems problems at scale, and help build the tools customers use to control fraud and payment risk. What you'll do: Write reliable, secure, scalable code for",
       "matched_keywords": [
-        "typescript",
-        "ai agent"
+        "fintech",
+        "banking",
+        "legacy"
       ]
     },
     {
-      "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
-      "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+      "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+      "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: SummaryWe are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science.General informationThis Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform.The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infrastructure and a mix of structured and unstructured data sources.Tasks and Deliverables- Participate in the architecture design and implementation of high-performance, scalable, and optimized data solutions.- Create data models from scratch using strong SQL fundamentals.- Write and optimize in-application SQL statements.- Ensure the performance, security, and availability of databases.- Prepare documentation and technical specifications.- Handle database procedures such as upgrades, backups, recovery, and migration.- Profile server resource usage and optimize configurations as necessary.- Design, build, and automate the deployment of data pipelines and applications.- Integrate data from on-premise",
+      "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead. What You'll Do You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review. You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data. You will choose the right method for eac",
       "matched_keywords": [
-        "architecture"
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Dremio: Software Engineer - Developer Experience",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutions. You will be responsible for both regularly scheduled work as well as on-demand break-fix work to support Dremio’s CI/CD system, identifying areas of improvement, and implementing changes to increase efficiency and effectiveness of those systems. Bring your industry experience to improve the efficiency and scale of Dremio’s infrastructure via innovation on tooling and methodologies. You should have empathy for developers and a passion for engineering productivity.&nbsp; &nbsp; What you’ll be doing Solve problems for fellow Dremio engineers by: Leveraging and contributing to playbooks to implement solutions to unblock them Identifying short term workarounds and documenting them Automatin",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution. As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform. &nbsp; What you’ll be doing Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management. Improve runtime performance: Optimize vectorized processing, concurrency, parallel",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
       ]
     }
   ]

@@ -1,0 +1,139 @@
+[
+  {
+    "id": "chunk_60-1",
+    "title": "Strategic Account Manager at Trend Micro",
+    "company": "Trend Micro",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/trend-micro/jobs/strategic-account-manager-1349487838",
+    "source": "Himalayas_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Sales-focused strategic account manager for enterprise accounts in Germany at a security company. Relationship and pipeline ownership, no engineering.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customer exposure"
+    ],
+    "cons": [
+      "Sales role, no engineering work",
+      "Germany-based, outside the profile stack"
+    ]
+  },
+  {
+    "id": "chunk_60-2",
+    "title": "Manager (Security Consulting) - Texas at Templar Shield Inc",
+    "company": "Templar Shield Inc",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/templar-shield-inc/jobs/manager-security-consulting-texas",
+    "source": "Himalayas_API",
+    "salary": "N/A",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Consulting delivery manager leading ServiceNow security operations engagements for enterprise clients, with AI-enabled security capabilities. Management and client-facing focus.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise consulting and AI-enabled capabilities"
+    ],
+    "cons": [
+      "ServiceNow and security domain, not Java/Spring",
+      "Management and client-facing, not hands-on development"
+    ]
+  },
+  {
+    "id": "chunk_60-3",
+    "title": "Software Engineer – Forward Deployed Engineer (AI Integration) at Modus Create",
+    "company": "Modus Create",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/modus-create/jobs/software-engineer-forward-deployed-engineer-ai-integration-9446228241",
+    "source": "Himalayas_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Fully remote forward deployed engineer role combining full-stack development, AI product integration and customer enablement. Builds prototypes and integrations directly with customers.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 65,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Applied AI integration matches the AI and modernization focus",
+      "Full-stack engineering with hands-on prototyping",
+      "Fully remote, digital product engineering"
+    ],
+    "cons": [
+      "Customer-facing forward deployed role",
+      "Stack not stated in the posting",
+      "Seniority level not specified"
+    ]
+  },
+  {
+    "id": "chunk_60-4",
+    "title": "Senior DevOps and Infrastructure Engineer at Smartcat",
+    "company": "Smartcat",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3704361111",
+    "source": "Himalayas_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Leadership role managing DevOps and infrastructure teams at an agentic AI platform company. Focus on infrastructure supporting development and operations.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent",
+      "generative ai"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior leadership in an agentic AI company"
+    ],
+    "cons": [
+      "Pure DevOps and infrastructure focus",
+      "Team management over application development"
+    ]
+  },
+  {
+    "id": "chunk_60-5",
+    "title": "Full Stack Web Developer at Carisol Group",
+    "company": "Carisol Group",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/carisol-group/jobs/full-stack-web-developer",
+    "source": "Himalayas_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Remote full-stack web developer role on HTML, CSS, JavaScript, React, Angular and Node.js. Generic posting with a bachelor's degree requirement and no seniority stated.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "fullstack",
+      "full-stack",
+      "angular",
+      "node"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Full-stack with Angular and Node.js overlap"
+    ],
+    "cons": [
+      "Junior-leaning generic posting, no seniority stated",
+      "Web-agency scope, no enterprise or banking context",
+      "No Java or Spring stack"
+    ]
+  }
+]

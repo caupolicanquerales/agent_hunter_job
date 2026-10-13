@@ -1,123 +1,132 @@
 [
   {
     "id": "chunk_01-1",
-    "title": "Glean: Application Security Engineer",
-    "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
-    "source": "WeWorkRemotely_Fullstack",
+    "title": "Twikey: Senior Java Developer",
+    "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+    "source": "WeWorkRemotely_Backend",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Application security engineering role at Glean, an enterprise AI work platform. US remote headquarters. Security-focused, seniority and salary not stated in the excerpt.",
+    "description_review": "Senior back-end developer role on the core platform of a Ghent fintech, owning architecture, data processing and security with a small team. Java-titled senior position; salary and years not stated, Belgium-based.",
     "matched_keywords": [
-      "enterprise",
-      "ai agent"
+      "backend",
+      "architecture",
+      "fintech"
     ],
-    "score": 35,
-    "recommendation": "SKIP",
+    "score": 85,
+    "recommendation": "APPLY",
     "pros": [
-      "Enterprise AI platform context"
+      "Senior Java back-end role matches the Java/Spring backend core",
+      "Fintech domain with architecture and scalability ownership",
+      "Small team with high ownership fits senior architecture profile"
     ],
     "cons": [
-      "Application security focus, not backend or architecture development",
-      "Stack not described"
+      "Location is Ghent, Belgium; relocation or remote terms not confirmed in the excerpt",
+      "Salary and years of experience not stated"
     ]
   },
   {
     "id": "chunk_01-2",
-    "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-    "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-    "source": "WeWorkRemotely_Fullstack",
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+    "source": "WeWorkRemotely_Backend",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior full-stack role building a contractor marketplace with web and mobile apps, fully remote, full-time, open worldwide. Requires someone who has built similar platforms from idea to product. Stack not listed in the excerpt.",
+    "years_experience": "5+ years",
+    "description_review": "Senior remote full-time backend role centered on Node.js and Nest.js with REST/GraphQL APIs and microservices as nice-to-have. Requires 5+ years Node.js and CET timezone (+/- 3 hours); salary not stated.",
     "matched_keywords": [
-      "fullstack",
-      "full-stack"
-    ],
-    "score": 60,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Senior full-stack ownership from idea to production, matching the profile's full-stack and architecture signals",
-      "Marketplace features (accounts, payments, admin tools) involve backend services"
-    ],
-    "cons": [
-      "Stack and Java/Spring usage not stated in the excerpt",
-      "Consumer marketplace rather than banking or enterprise"
-    ]
-  },
-  {
-    "id": "chunk_01-3",
-    "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
-    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "day",
-    "years_experience": "N/A",
-    "description_review": "Senior integration engineer building MuleSoft/API integrations across Salesforce, SAP and a carrier data lake, with production ownership. Expects explicit AI-assisted engineering. Daily rate, remote via Toptal.",
-    "matched_keywords": [
-      "enterprise"
-    ],
-    "score": 72,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "API design and contract ownership matches the profile's REST and enterprise integration experience",
-      "Explicit AI copilot and agent workflow expectation aligns with applied AI"
-    ],
-    "cons": [
-      "MuleSoft and Salesforce/SAP integration are not in the profile stack",
-      "Integration-platform focus rather than core Java/Spring development"
-    ]
-  },
-  {
-    "id": "chunk_01-4",
-    "title": "Sticker Mule: AI agent engineer",
-    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "$150,000–$250,000",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "N/A",
-    "description_review": "Engineer to build, run and manage a team of autonomous AI agents for an e-commerce manufacturing platform. Fully remote, US-based company, USD 150k to 250k per year. Stack includes Go, TypeScript, GraphQL, Postgres and GCP.",
-    "matched_keywords": [
+      "java",
+      "microservices",
+      "backend",
+      "architecture",
       "typescript",
-      "ai agent"
-    ],
-    "score": 78,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Building autonomous agents that do real work matches the profile's multi-agent platform experience",
-      "TypeScript and Postgres appear in the profile stack"
-    ],
-    "cons": [
-      "Go and GCP are not in the profile stack; no Java or Spring Boot mentioned",
-      "Role leans toward internal tooling and operations rather than enterprise architecture"
-    ]
-  },
-  {
-    "id": "chunk_01-5",
-    "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture",
-    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior data engineer on a Data Intelligence Platform with AWS data lakes, pipelines, SQL modeling and database operations. Remote via Toptal. Salary and seniority details are partly truncated.",
-    "matched_keywords": [
-      "architecture"
+      "node"
     ],
     "score": 45,
     "recommendation": "SKIP",
     "pros": [
-      "Data architecture and pipeline design show some overlap with architecture work"
+      "Senior backend scope with APIs and microservices nice-to-have",
+      "TypeScript knowledge overlaps with profile stack"
     ],
     "cons": [
-      "Data engineering and database administration focus, not backend Java or Spring",
-      "No application development stack matching the profile"
+      "Node.js/Nest.js primary stack, not Java/Spring",
+      "Requires CET timezone, which the profile does not confirm",
+      "Java not in the requirements"
+    ]
+  },
+  {
+    "id": "chunk_01-3",
+    "title": "Reddit: Backend Engineer, IAM",
+    "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "source": "WeWorkRemotely_Backend",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Remote-friendly backend engineering role in Reddit's Identity and Access Management team, building scalable authentication and authorization systems and shaping the IAM architecture. Based in the US; salary given per day and years not stated.",
+    "matched_keywords": [
+      "backend",
+      "architecture"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Backend services and architecture ownership at large scale",
+      "Authentication and authorization systems match enterprise security work"
+    ],
+    "cons": [
+      "Stack not stated in the excerpt; Java/Spring not confirmed",
+      "Large consumer-scale product rather than banking/fintech",
+      "US-based location"
+    ]
+  },
+  {
+    "id": "chunk_01-4",
+    "title": "Melio: Senior Talent Acquisition Partner (Contract)",
+    "link": "https://weworkremotely.com/remote-jobs/melio-senior-talent-acquisition-partner-contract",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "month",
+    "years_experience": "8+ years",
+    "description_review": "Six-month remote contract for a senior talent acquisition partner at a US fintech/payments company, focused on sourcing and full-cycle recruiting. Limited to specific US states; salary not stated.",
+    "matched_keywords": [
+      "fintech"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Recruiting role, not software engineering",
+      "No engineering stack overlap with the profile",
+      "Restricted to specific US states"
+    ]
+  },
+  {
+    "id": "chunk_01-5",
+    "title": "Toptal: Applied AI Engineers for telecommunications company",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior applied AI engineering engagement for a telecom client, building production agentic AI solutions with prompt optimization, orchestration and evaluation, plus APIs and backend systems. Contract engagement; salary and years not stated.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 68,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Agentic AI and agent orchestration match the applied AI/multi-agent experience",
+      "Production backend, APIs and data pipelines alongside AI work"
+    ],
+    "cons": [
+      "Focus is ML/prompt evaluation more than Java/Spring backend",
+      "Telecom sector outside core banking/fintech domain",
+      "Contract engagement terms not stated"
     ]
   }
 ]

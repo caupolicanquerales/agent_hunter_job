@@ -1,0 +1,138 @@
+[
+  {
+    "id": "chunk_65-1",
+    "title": "Conversational Designer, APAC at Cresta",
+    "company": "Cresta",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155177-conversational-designer-apac",
+    "source": "Jobicy_Dev",
+    "salary": "$270 m",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Founding conversational designer for APAC at a conversational AI company, designing AI conversation models and virtual agents for contact centers. Customer-facing and strategic.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Conversational AI domain"
+    ],
+    "cons": [
+      "Design role, not software engineering",
+      "Australia-based, no Java stack"
+    ]
+  },
+  {
+    "id": "chunk_65-2",
+    "title": "Strategic Solutions Engineer at ClickUp",
+    "company": "ClickUp",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155176-strategic-solutions-engineer-2",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Pre-sales and partner enablement solutions engineer for APAC at a productivity software company, supporting enterprise resellers and AI workflows.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Solution architecture elements",
+      "Enterprise and AI agent context"
+    ],
+    "cons": [
+      "Pre-sales and enablement focus, not hands-on engineering",
+      "Australia-based"
+    ]
+  },
+  {
+    "id": "chunk_65-3",
+    "title": "Senior Customer Support Engineer at Collibra",
+    "company": "Collibra",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155175-senior-customer-support-engineer-4",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5 years",
+    "description_review": "Senior technical support engineer at a data governance SaaS company, resolving customer tickets, replicating bugs and mentoring junior engineers. Requires 3 to 5 years and Java and REST API experience.",
+    "matched_keywords": [
+      "java",
+      "rest api"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java and REST API experience required",
+      "Mentoring junior engineers"
+    ],
+    "cons": [
+      "Support role rather than software development",
+      "Ticket-driven, not architecture or building products",
+      "Australia-based"
+    ]
+  },
+  {
+    "id": "chunk_65-4",
+    "title": "Director, Solutions Architecture EMEA at Nebius",
+    "company": "Nebius",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/155174-director-solutions-architecture-emea",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director-level leadership of the EMEA solutions architecture organization at an AI cloud infrastructure company, partnering with sales leadership.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture and enterprise customer scope"
+    ],
+    "cons": [
+      "Management and sales-facing leadership, not hands-on engineering",
+      "Cloud infrastructure and GPU domain, no Java focus"
+    ]
+  },
+  {
+    "id": "chunk_65-5",
+    "title": "Detection & Response Engineer at Nebius",
+    "company": "Nebius",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/155169-detection-response-engineer",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Detection and response engineer building security monitoring and incident response for Nebius Cloud, based in Europe.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Engineering role in a cloud company"
+    ],
+    "cons": [
+      "Security operations domain, not backend Java",
+      "Not architecture or product development"
+    ]
+  }
+]

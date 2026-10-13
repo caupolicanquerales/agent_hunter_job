@@ -1,0 +1,121 @@
+[
+  {
+    "id": "chunk_30-1",
+    "title": "Sr Solutions Architect at ExtraHop",
+    "link": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote post-sales Solutions Architect at a network security and observability vendor. Focus is customer outcomes through GUI, trigger-script and REST API development rather than architecture ownership. Seniority is senior, salary not stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "rest api"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior architecture role in an enterprise setting",
+      "REST API scripting experience applies"
+    ],
+    "cons": [
+      "Post-sales, script-centric work rather than Java/Spring backend development",
+      "Not a clear fit for the Java microservices focus"
+    ]
+  },
+  {
+    "id": "chunk_30-2",
+    "title": "Java Developer at Clera",
+    "link": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Java developer role at an early-stage AI infrastructure company building Kubernetes-based GPU platforms in Los Angeles. Backend services and distributed systems work, with collaborative architecture discussions. Mid to senior level, salary not stated.",
+    "matched_keywords": [
+      "java",
+      "backend"
+    ],
+    "score": 72,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Required Java and JVM backend development matches the core stack",
+      "Distributed systems and Docker exposure align with microservices experience"
+    ],
+    "cons": [
+      "Kubernetes and GitOps tooling are not in the stated profile",
+      "Early-stage company; location is not explicitly remote"
+    ]
+  },
+  {
+    "id": "chunk_30-3",
+    "title": "AI Intern at CertifyOS",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Six-month remote internship for an ML engineer at a healthcare provider-data platform on GCP. Focus on ML services and evaluation pipelines. Intern level, monthly pay not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Some ML services and software engineering overlap with applied AI interests"
+    ],
+    "cons": [
+      "Intern level, well below senior profile",
+      "ML-engineering focus rather than Java or architecture"
+    ]
+  },
+  {
+    "id": "chunk_30-4",
+    "title": "Junior Digital Assets Operations Analyst at Omega Enterprises",
+    "link": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+    "source": "RemoteOK_AI",
+    "salary": "60000",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Entry-level remote operations analyst role at a crypto market-data company. Daily market tracking, reporting and routine analysis. Junior level, currency and pay basis unclear.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Junior operations analyst, no software engineering component",
+      "Crypto market analysis is outside the profile"
+    ]
+  },
+  {
+    "id": "chunk_30-5",
+    "title": "SI agent engineer at Sticker Mule",
+    "link": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
+    "source": "RemoteOK_AI",
+    "salary": "150000",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Fully remote engineer role to build and manage a team of AI agents for a commerce platform. Requires agent-building experience with Go, TypeScript, GraphQL, Postgres and GCP. Salary range USD 150k to 250k plus signing bonus.",
+    "matched_keywords": [
+      "typescript"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Hands-on applied AI agent building matches the multi-agent experience",
+      "TypeScript and Postgres overlap with the stack"
+    ],
+    "cons": [
+      "Go and GraphQL are not in the stated profile",
+      "Leadership and seniority expectations are not clearly defined"
+    ]
+  }
+]

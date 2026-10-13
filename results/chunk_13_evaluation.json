@@ -1,133 +1,128 @@
 [
   {
     "id": "chunk_13-1",
-    "title": "Senior Fullstack Developer (.NET) at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925599/",
-    "source": "WorkingNomads_Dev",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "source": "Remotive_SoftwareDev_RSS",
     "salary": "N/A",
-    "salary_currency": "N/A",
+    "salary_currency": "EUR",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior fullstack role on .NET (C# / ASP.NET Core) with modern frontend, remote full-time, CET timezone. Seniority is senior with architecture decisions and mentoring.",
+    "years_experience": "N/A",
+    "description_review": "Tech lead role at a fintech investing-content company, architecting LLM-powered web apps on a microservices-based Rails 8 platform and reporting to the CTO. Works within about 3 hours of Eastern Time; salary not stated.",
     "matched_keywords": [
-      "backend",
+      "microservices",
+      "fintech",
       "fullstack",
       "full-stack"
     ],
     "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend ownership and architecture decisions match seniority",
-      "Fullstack scope with backend depth"
+      "Tech lead scope with architecture and LLM integration",
+      "Fintech domain and microservices platform"
     ],
     "cons": [
-      ".NET-centric stack, no Java/Spring mentioned",
-      "Timezone restricted to CET +/- 3 hours"
+      "Ruby on Rails primary stack, not Java/Spring",
+      "Full-stack emphasis rather than backend",
+      "Salary not stated"
     ]
   },
   {
     "id": "chunk_13-2",
-    "title": "Senior Backend Developer (.NET) at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925598/",
-    "source": "WorkingNomads_Dev",
+    "title": "Senior Software Engineer (Ukraine Remote) at Turnitin",
+    "link": "https://remotefirstjobs.com/companies/turnitin/jobs/senior-software-engineer-ukraine-remote-870946",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "N/A",
+    "salary_currency": "CAD",
     "salary_period": "N/A",
-    "years_experience": "6+ years",
-    "description_review": "Senior backend architect role on .NET for enterprise and distributed systems, remote, CET timezone. Seniority is senior, 6+ years.",
+    "years_experience": "25 years",
+    "description_review": "Senior backend engineer role at an education-technology company, focused on Java and serverless architectures with solid frontend skills, building scalable distributed systems. Remote from Ukraine; salary not stated, years figure looks like the company age.",
     "matched_keywords": [
+      "java",
       "backend",
-      "enterprise"
+      "architecture"
     ],
-    "score": 55,
-    "recommendation": "SKIP",
+    "score": 78,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise distributed-systems scope matches architecture focus",
-      "Senior level with architect responsibilities"
+      "Senior backend role with Java as primary language",
+      "Scalable distributed systems and data modeling match architecture focus",
+      "Frontend experience adds full-stack breadth"
     ],
     "cons": [
-      ".NET-only stack, no Java/Spring",
-      "Timezone restricted to CET +/- 3 hours"
+      "Education domain rather than banking/fintech",
+      "Serverless emphasis is not in the profile",
+      "Salary not stated and years listed as 25, which is not a requirement"
     ]
   },
   {
     "id": "chunk_13-3",
-    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925596/",
-    "source": "WorkingNomads_Dev",
+    "title": "Practice Lead, Privilege Access Management (PAM) at GuidePoint Security",
+    "link": "https://remotefirstjobs.com/companies/guidepoint-security/jobs/practice-lead-privilege-access-management-pam-870923",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "AUD",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Backend-heavy fullstack role building agentic AI workflows (tool use, autonomous coding tasks) on the Claude ecosystem, language-agnostic, remote, CET timezone. Senior level implied.",
+    "description_review": "Practice lead role in cybersecurity consulting, leading a Privilege Access Management team with solution architecture and delivery management for enterprise clients. Salary and location not stated.",
     "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack",
-      "ai agent"
+      "architecture"
     ],
-    "score": 75,
-    "recommendation": "CONSIDER",
+    "score": 20,
+    "recommendation": "SKIP",
     "pros": [
-      "Agentic workflow architecture matches multi-agent and orchestration experience",
-      "Backend-heavy production work matches Java/Spring backend profile",
-      "Language-agnostic role leaves room for Java"
+      "Solution architecture and enterprise client work"
     ],
     "cons": [
-      "Claude ecosystem focus, no Java/Spring named",
-      "Timezone restricted to CET +/- 3 hours",
-      "Salary currency listed as AUD with no amount"
+      "Cybersecurity practice leadership, not software engineering",
+      "No Java/Spring or development stack in scope",
+      "Salary and location not stated"
     ]
   },
   {
     "id": "chunk_13-4",
-    "title": "Senior Salesforce Developer at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925592/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "4 years",
-    "description_review": "Senior Salesforce platform developer (Apex, LWC, SOQL) for customer-facing apps and integrations, remote, CET timezone. Four years minimum.",
-    "matched_keywords": [
-      "architecture"
-    ],
-    "score": 25,
-    "recommendation": "SKIP",
-    "pros": [
-      "Integration experience via REST and SOAP APIs"
-    ],
-    "cons": [
-      "Platform-specific Salesforce stack, not Java/Spring",
-      "Not backend microservices focused",
-      "Timezone restricted to CET +/- 3 hours"
-    ]
-  },
-  {
-    "id": "chunk_13-5",
-    "title": "Senior SAP S/4HANA Developer at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925590/",
-    "source": "WorkingNomads_Dev",
+    "title": "Security Analyst, NHI (Non-Human Identity) at GuidePoint Security",
+    "link": "https://remotefirstjobs.com/companies/guidepoint-security/jobs/security-analyst-nhi-nonhuman-identity-870922",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior SAP S/4HANA developer (ABAP RAP, CDS, SAP BTP) on enterprise landscapes with a clean-core approach, remote, CET timezone. Seniority is senior.",
+    "description_review": "Security analyst role focused on discovering and governing non-human identities such as service accounts, secrets and certificates across enterprise and cloud environments. Salary and location not stated.",
     "matched_keywords": [
-      "backend",
-      "enterprise",
-      "fullstack",
-      "full-stack",
-      "legacy"
+      "enterprise"
     ],
-    "score": 30,
+    "score": 15,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise modernization and clean-core approach partly relate to legacy modernization"
+      "Enterprise and cloud environment exposure"
     ],
     "cons": [
-      "ABAP/SAP stack, unrelated to Java/Spring",
-      "Timezone restricted to CET +/- 3 hours"
+      "Security analyst role, not software engineering",
+      "No development stack required",
+      "Salary and location not stated"
+    ]
+  },
+  {
+    "id": "chunk_13-5",
+    "title": "Director of Implementation (Remote, US) at GoCanvas",
+    "link": "https://remotefirstjobs.com/companies/gocanvas/jobs/director-of-implementation-remote-us-870918",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director-level customer implementation leadership role for a safety software company, owning time-to-value and adoption strategy. Listed for applicants in Canada; salary not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Customer implementation management, not engineering",
+      "No technical stack overlap",
+      "Location restricted to Canada per description"
     ]
   }
 ]

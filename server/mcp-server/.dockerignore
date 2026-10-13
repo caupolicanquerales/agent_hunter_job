@@ -1,0 +1,6 @@
+# Host-side MCP client: used by .opencode/skills scripts, not by the server.
+mcp_sse_client.py
+
+# Python bytecode
+__pycache__/
+*.pyc

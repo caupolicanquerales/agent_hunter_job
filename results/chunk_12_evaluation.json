@@ -1,138 +1,131 @@
 [
   {
     "id": "chunk_12-1",
-    "title": "Senior Fullstack Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925599/",
-    "source": "WorkingNomads_Dev",
+    "title": "Senior back-end Engineer",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+    "source": "Remotive_SoftwareDev_RSS",
     "salary": "N/A",
-    "salary_currency": "N/A",
+    "salary_currency": "EUR",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior fullstack .NET role owning C# and ASP.NET Core backend services and APIs, with modern frontend UIs and mentoring. Requires 5+ years of professional experience. Long-term remote, CET time zone plus or minus 3 hours.",
+    "description_review": "Senior back-end engineering role via a talent marketplace for an AI infrastructure company, primarily Golang or Python with Kubernetes and AI agent experience. Remote in UK, Singapore, US or Canada; salary not stated.",
     "matched_keywords": [
+      "java",
       "backend",
-      "fullstack",
-      "full-stack"
+      "architecture",
+      "ai agent"
     ],
-    "score": 40,
+    "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Backend API ownership and architectural decisions match the senior criterion"
+      "Senior back-end scope on AI infrastructure",
+      "AI agent development experience requested"
     ],
     "cons": [
-      ".NET-only stack, outside the Java and Spring focus",
-      "Fullstack UI emphasis"
+      "Primary stack is Golang/Python, not Java/Spring",
+      "Java appears only in a generic list of React stacks",
+      "Location limited to UK, Singapore, US and Canada"
     ]
   },
   {
     "id": "chunk_12-2",
-    "title": "Senior Backend Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925598/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
+    "title": "Senior AI Engineer",
+    "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+    "source": "Remotive_SoftwareDev_RSS",
+    "salary": "$11M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "6+ years",
-    "description_review": "Senior .NET backend architect role designing enterprise-level, high-throughput distributed systems and cloud-native backends. Requires 6+ years of backend development. CET time zone plus or minus 3 hours.",
+    "years_experience": "3+ years",
+    "description_review": "Remote senior AI engineering role via a talent marketplace, applying LLMs with Python, LangChain and vector databases (Pinecone or Weaviate). Requires 3+ years of applied AI; the $11M figure is a marketplace payout claim, not a salary.",
     "matched_keywords": [
-      "backend",
-      "enterprise"
+      "ai agent"
     ],
-    "score": 45,
-    "recommendation": "SKIP",
+    "score": 60,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Distributed systems and enterprise architecture match the senior architecture criterion"
+      "Applied AI and LLM work matches the GenAI profile",
+      "Remote startup projects with senior seniority"
     ],
     "cons": [
-      ".NET-only stack, outside the Java and Spring focus",
-      "No AI or banking focus stated"
+      "Python and LangChain focus rather than Java/Spring",
+      "Marketplace model with no defined salary",
+      "Not an architecture or enterprise banking role"
     ]
   },
   {
     "id": "chunk_12-3",
-    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925596/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "AUD",
+    "title": "Senior .NET Full-stack Developer",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+    "source": "Remotive_SoftwareDev_RSS",
+    "salary": "$11M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Senior backend-heavy fullstack AI role architecting agentic workflows where AI agents reason, use tools and execute coding tasks autonomously. Focused on Claude ecosystem and production backend environments. CET time zone plus or minus 3 hours.",
+    "years_experience": "4+ years",
+    "description_review": "Senior full-stack role via a talent marketplace, requiring .NET with React or Angular and TypeScript for remote startup projects. The $11M figure is a marketplace payout claim, not a salary.",
     "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack",
-      "ai agent"
+      "angular",
+      "typescript"
     ],
-    "score": 70,
-    "recommendation": "CONSIDER",
+    "score": 30,
+    "recommendation": "SKIP",
     "pros": [
-      "Agentic workflow architecture matches the applied AI and multi-agent criterion",
-      "Backend-heavy production role fits the backend and architecture focus"
+      "Senior full-stack scope with TypeScript and Angular overlap"
     ],
     "cons": [
-      "Language-agnostic stack not confirmed as Java or Spring Boot",
-      "Salary currency listed as AUD with no amount"
+      ".NET-focused stack, not Java/Spring",
+      "Pure full-stack rather than backend or architecture",
+      "No salary stated"
     ]
   },
   {
     "id": "chunk_12-4",
-    "title": "Senior Salesforce Developer at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925592/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
+    "title": "Senior Data Scientist",
+    "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+    "source": "Remotive_SoftwareDev_RSS",
+    "salary": "$11M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "4 years",
-    "description_review": "Senior Salesforce developer role building custom applications with Apex, LWC and SOQL, plus REST and SOAP integrations. Requires 4+ years of Salesforce development. CET time zone plus or minus 3 hours.",
+    "years_experience": "4+ years",
+    "description_review": "Senior data scientist role via a talent marketplace requiring Python, Databricks, RAG and LLM experience with some application architecture expectations. The $11M figure is a marketplace payout claim, not a salary.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 15,
+    "score": 25,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise integration via REST and SOAP APIs"
+      "RAG and LLM experience overlaps with applied AI"
     ],
     "cons": [
-      "Salesforce platform stack, outside the profile",
-      "No Java or Spring Boot focus"
+      "Data science focus rather than software engineering",
+      "Databricks and Python primary stack",
+      "No salary stated"
     ]
   },
   {
     "id": "chunk_12-5",
-    "title": "Senior SAP S/4HANA Developer at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925590/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
+    "title": "Senior Independent AI Engineer / Architect",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+    "source": "Remotive_SoftwareDev_RSS",
+    "salary": "$200M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior SAP S/4HANA backend and fullstack role modernizing enterprise landscapes via RAP, CDS and side-by-side extensions on SAP BTP. Emphasizes clean-core architecture and removing legacy ABAP patterns. CET time zone plus or minus 3 hours.",
+    "description_review": "Remote senior AI engineer and architect role in an invite-only network building production agent architectures, orchestration and enterprise AI deployments for startups and global companies. Americas, Europe or Israel; salary not stated, the $200M figure is a network earnings claim.",
     "matched_keywords": [
-      "backend",
-      "enterprise",
-      "fullstack",
-      "full-stack",
-      "legacy"
+      "architecture",
+      "enterprise"
     ],
-    "score": 42,
-    "recommendation": "SKIP",
+    "score": 82,
+    "recommendation": "APPLY",
     "pros": [
-      "Enterprise legacy modernization and clean-core architecture match the modernization criterion"
+      "Agent architectures and orchestration match the multi-agent experience",
+      "Enterprise AI deployments and production systems align with modernization background",
+      "Senior architect scope with remote Americas/Europe availability"
     ],
     "cons": [
-      "SAP ABAP stack, outside the profile",
-      "Years of experience not stated"
+      "Startup-oriented work, less banking/fintech focus",
+      "Java/Spring stack not mentioned",
+      "Salary not stated"
     ]
   }
 ]

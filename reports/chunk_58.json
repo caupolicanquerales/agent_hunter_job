@@ -1,0 +1,83 @@
+{
+  "chunk": 58,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer at Tavily",
+      "company": "Tavily",
+      "location": "N/A",
+      "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-software-engineer-agentic-search-web-access-engineer-258171",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "&lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;heading 2&quot;&gt;About &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;heading 2&quot;&gt;Tavily&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134245418&amp;quot;:true,&amp;quot;134245529&amp;quot;:true,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:160,&amp;quot;335559739&amp;quot;:80}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;We&#39;re&amp;nbsp;building the infrastructure layer for agentic web interaction at scale. Our API is designed from the ground up to power Retrieval-Augmented Generation (RAG) and real-time reasoning in AI systems. By connecting LLMs to high-quality, trustworthy web content, we help developers build agents that are not only intelligent — but also informed.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;We work with some of the most innovative teams in AI — from small startups shaping the ecosystem to the largest enterprises deploying AI at scale. Whether&amp;nbsp;it&#39;s&amp;nbsp;powering sales assistants, research copilots, or internal knowledge tools,&amp;nbsp;we&#39;re&amp;nbsp;the missing link between LLMs and the real world.&lt;/span&gt;&lt;span data-ccp-props",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior Product Manager, Vertical Search at Tavily",
+      "company": "Tavily",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-product-manager-vertical-search-amsterdam-145146",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "&lt;h3&gt;&lt;strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;The role&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Tavily, part of Nebius, is the web access layer for AI agents. Over two million developers use us, and our customers include Fortune 500 companies running agents in production.&lt;/p&gt; &lt;p&gt;Vertical search is where we combine public sources with premium vertical data and shape the result into a product for a specific use case. This role owns that layer end to end. You decide which industries and use cases we productize. With the data team, you find and evaluate the public and premium data providers behind each one. You shape the product surface that sits on top.&lt;/p&gt; &lt;p&gt;You will sit with customers in these industries, learn how they actually work, and turn their needs and pain points into clear specs. You will build with engineering, ship it, and make sure go-to-market knows how to sell it. You own the outcome, not just the handoff: from the first market call through to adoption and revenue.&lt;/p&gt; &lt;p&gt;The hard part is choosing. There are more verticals worth building than we can build, and the difference between a good year and a wasted one is knowing which ones to invest in and which to walk away from, even when a large customer is asking for another.&lt;/p&gt; &lt;p&gt;In your first year, we expect you to know our top use cases better than anyone here, ship a product built for one of them that customers will pay more for, and h",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Senior Product Manager, Search Infrastructure at Tavily",
+      "company": "Tavily",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-product-manager-search-infrastructure-amsterdam-207609",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "&lt;h3&gt;&lt;strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;The role&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Tavily, part of Nebius, is the web access layer for AI agents. Over two million developers use us, and our customers include Fortune 500 companies running agents in production.&lt;/p&gt; &lt;p&gt;We build and run our own index. That means we own the hard problems directly: crawl coverage at scale, freshness, cost per query, and the quality of what comes back. This role owns that infrastructure as a product.&lt;/p&gt; &lt;p&gt;When an agent asks a question, the answer has to be relevant, fresh, fast, and affordable. Those four things pull against each other, and someone has to decide which one gives. That is you. You will set what good means for each use case we serve and the bar a change has to clear before it ships, working closely with our evaluation team, who own how we measure it. You will also shape where our index goes next: what it needs to cover, how fresh it needs to be, and what it has to be good at.&lt;/p&gt; &lt;p&gt;The most open part of the job is what comes next. Search is being rebuilt for a consumer that is not a person. Agents do not want one result page, they want to break a problem apart, run many retrievals, and decide what to do next. That changes what search infrastructure should look like, and part of your job is to have a view on where ours should go.&lt;/p&gt; &lt;p&gt;The hard part is deciding what good enough means. Perfect cov",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Principal Infrastructure Engineer at Sezzle",
+      "company": "Sezzle",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.nl/jobs/companies/sezzle/remote-principal-infrastructure-engineer-393692",
+      "source": "Arbeitnow_API",
+      "salary": "$12,500 - $20,800",
+      "salary_currency": "USD",
+      "salary_period": "month",
+      "years_experience": "with 12+ years of experience",
+      "description": "&lt;p&gt;&lt;strong&gt;About Sezzle:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We’re not just transforming payments; we’re redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, we’re building an innovative, dynamic team passionate about creating more than just a transaction but a truly unique shopping journey. If you’re excited about pushing boundaries in tech and delivering a game-changing experience for consumers and merchants alike, come join us at Sezzle and help create the future of shopping!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;:&lt;/p&gt; &lt;p&gt;For this principal development role, with 12+ years of experience, the compensation range is &lt;strong&gt;&amp;nbsp;$12,500 - $20,800 USD based on location and experience level &lt;/strong&gt;per month and in gross amount. This range acknowledges the extensive expertise, leadership capabilities, and significant contributions expected at this level, offering a competitive salary to reflect the value of advanced skills and experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Role:&amp;nb",
+      "matched_keywords": [
+        "fintech"
+      ]
+    },
+    {
+      "title": "Senior Java Developer at Globaldevgroup",
+      "company": "Globaldevgroup",
+      "location": "Groningen, Netherlands",
+      "link": "https://www.arbeitnow.nl/jobs/companies/globaldevgroup/senior-java-developer-groningen-80634",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "We are looking for a Senior Java Developer to join our team and play an important role in designing, developing, and delivering high-quality software solutions. You will work on challenging backend projects, collaborate with experienced engineers and stakeholders, and contribute to building scalable and reliable solutions using modern technologies. This is a great opportunity for a strong technical professional who enjoys working in a consultancy environment and is looking for a role where their expertise can make a real impact.Requirements- 5+ years of professional software development experience;- Strong hands-on experience with Java, Spring Boot, Kotlin, and Kubernetes, as well as a similar backend and cloud technology stack;- Fluency in Dutch is required;- Previous experience working in a consultancy environment is a strong plus, as this position is offered on a consultancy basis.Find more English Speaking Jobs in Netherlands on Arbeitnow",
+      "matched_keywords": [
+        "java",
+        "spring",
+        "backend"
+      ]
+    }
+  ]
+}

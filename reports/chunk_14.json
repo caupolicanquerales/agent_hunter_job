@@ -3,85 +3,69 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Senior back-end Engineer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "source": "Remotive_Dev",
+      "title": "Manager, Implementation (Remote, Canada) at GoCanvas",
+      "link": "https://remotefirstjobs.com/companies/gocanvas/jobs/manager-implementation-remote-canada-870917",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
       "salary_currency": "EUR",
       "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python &amp; LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: the UK, Singapore, the US, and Canada. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.",
-      "matched_keywords": [
-        "java",
-        "backend",
-        "architecture",
-        "vue",
-        "node",
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Senior AI Engineer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-      "source": "Remotive_Dev",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "3+ years",
-      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several AI-related roles: AI Engineer, AI Agent Architect, AI Automation Architect. Requirements - AI Engineer: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with LangChain is mandatory 2+ years of experience with large language models (LLMs) or vLLMs is mandatory",
-      "matched_keywords": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Senior .NET Full-stack Developer at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-      "source": "Remotive_Dev",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "4+ years",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. Currently, we have multiple requests for Senior .NET Developers, including C# &amp; .NET, .NET &amp; React, and Angular &amp; .NET. Requirements - .NET &amp; React: 4+ years of commercial experience in software development 3+ years of commercial experience with .NET 3+ years of commercial experience with React Expertise in TypeScript is required You should also have: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a ",
-      "matched_keywords": [
-        "angular",
-        "typescript"
-      ]
-    },
-    {
-      "title": "Senior Data Scientist at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-      "source": "Remotive_Dev",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "4+ years",
-      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements — Data Scientist: 4+ years of commercial experience as a Data Scientist 3+ years of commercial experience with Python is a must 3+ years of commercial experience with Databricks Experience with RAG and LLM is a must Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Stro",
+      "years_experience": "N/A",
+      "description": "The Role, Manager, Implementation - this role is based for applicants located in Canada SiteDocs, a GoCanvas company, is a leading provider of digital safety management software, trusted by thousands of teams to modernize and simplify workplace health and safety across construction, engineering, infrastructure, logistics, and beyond. We’re the highest-rated EHS platform on Gartner-owned Capterra, empowering field teams and safety leaders to replace paperwork, boost compliance, and drive real-time visibility where it matters most. SiteDocs is part of the Nemetschek Group — a publicly traded European software company with a multi-billion-euro market capitalisation. The group brings together more than 15 specialised brands, including GoCanvas, Bluebeam, FirmusAI, Nevaris, AllPlan, VectorWorks, and SpaceWell, serving customers across the full AECO (Architecture, Engineering, Construction &amp; Operations) spectrum. Together, we’re shaping a smarter, safer, and more sustainable built world. Position Overview: The Manager, Implementation leads the GoCanvas/SiteDocs Implementation team, owning team performance, development, and process. This role holds 1:1s and career development conversations for a team of 3–8, proactively monitors dashboards, KPIs, and quality metrics to identify coaching opportunities and process gaps, and partners with the Director of Implementation to build and continuously improve playbooks, methodologies, and the end-to-end customer journey. The Manager works",
       "matched_keywords": [
         "architecture"
       ]
     },
     {
-      "title": "Senior Independent AI Engineer / Architect at A.Team",
-      "company": "A.Team",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive_Dev",
-      "salary": "$200M",
+      "title": "VP of Product | REMOTE at Distru",
+      "link": "https://remotefirstjobs.com/companies/distru/jobs/vp-of-product-remote-870916",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "$15",
       "salary_currency": "USD",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures and orchestration systems Enterprise AI deployments Retrieval, evaluation, and reliability infrastructure LLM-powered workflows and products Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution. Why Builders Join The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No race to the bottom. Just ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value. What matters is a track record of building and shipping. The",
+      "description": "Transforming into a Headless First AI ERP Distru is the #1 ERP in the Cannabis Industry with $15B in sales processed through our platform. We’ve built a battle-tested ERP and B2B eCommerce platform that powers inventory, manufacturing, sales, and logistics. We are expanding on our robust ERP foundation and building AI infrastructure to provide commercial businesses their all in one AI stack. We are growing, profitable, and in a strong position to invest in the AI transformation of our product, GTM motion, and internal way of working. We’re investing heavily in resources including company wide AI classes + workshops, AI demo days, AI hackathons, and access to the best in class models/tools. We take a tremendous amount of pride in our culture and have 5&frasl;5 stars on Glassdoor because we truly care about our people. Our investors include Felicis Ventures, Global Founders Capital, Poseidon Asset Management, and Village Global who have funded companies such as Shopify, Cruise, HelloFresh, Facebook, Slack, and Opendoor. The Opportunity We are looking for our first VP of Product to lead our product department! This is an exciting leadership role that will be working directly with the executive team to navigate Product Market Fit in the new AI era. You’ll be taking ownership over our AI product suite, keeping our AI infrastructure ahead of the curve, and navigating market opportunities. AI is at an inflection point in model capability for the enterprise use case and AI assistants",
       "matched_keywords": [
-        "architecture",
         "enterprise"
+      ]
+    },
+    {
+      "title": "ASIC & FPGA Design Engineer at IntelliPro",
+      "link": "https://remotefirstjobs.com/companies/intellipro/jobs/asic-fpga-design-engineer-870914",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "$100",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "7+ years",
+      "description": "Job Title: Sr. ASIC &amp; FPGA Design Engineer Position Type: Contracted - 10/12/2026 - 06/30/2027 Job Type: 100% Remote (If Converted to full time, you will have to relocate to one of the client location, Southern California or Austin, TX) Pay rate: $100/-hr to $110/-hr on W2 Key Responsibilities: Design and develop digital ASICs and FPGAs, and/or mixed-signal ASICs Implement designs using HDL (VHDL, Verilog, and/or SystemVerilog) Develop verification methodologies and test benches for block and system-level verification Create and execute test plans, develop test harnesses, and implement coverage models Conduct timing analysis, noise analysis, and other signoff checks Collaborate with cross-functional teams including systems, firmware, architecture, and product engineering Support lab integration and troubleshooting activities Resolve design issues and drive solutions for timing, congestion, and other implementation challenges Basic Qualifications: 7+ years of experience in ASIC design and implementation Bachelor&rsquo;s degree in Electrical Engineering, Computer Engineering, or related technical discipline Experience with FPGA &amp; ASIC design Proficiency in HDL programming (VHDL, Verilog, and/or SystemVerilog) Experience with Linux development environment Experience with design verification and test bench development Preferred Skills and Experience: Advanced degree (MS/PhD) in Electrical Engineering, Computer Engineering, or related field Experience in full ASIC/FPGA lif",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Senior Solutions Consultant at Legion",
+      "link": "https://remotefirstjobs.com/companies/legion/jobs/senior-solutions-consultant-870901",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "Senior Solutions Consultant Remote - US ROLE AND RESPONSIBILITY The mission of the Senior Solutions Consultant is to configure and demonstrate the value of Legion’s next-generation workforce management technology to prospective customers. The Solutions Consultant will pair their functional expertise, presentation skills, and keen interest in diagnosing an organization&rsquo;s labor management challenges to showcase Legion’s cutting-edge products in a tailored manner. We seek a Senior Solutions Consultant with expertise in pre-sales discovery meetings, demo environment setup and maintenance, and superior presentation skills to partner with our Enterprise Sales team to demonstrate the business value of Legion’s workforce management platform. RESPONSIBILITIES AND DUTIES Become an expert for all Legion products Support the Enterprise Sales team with opportunities across discovery, demonstrations, Proof of Concept engagements, RFP responses, and business justification in a presales capacity Define and present how Legion’s platform addresses the critical business and operational issues that a prospect faces; form a deep understanding of a prospect’s business as well as their technical environment Identify potential risks/gaps and eliminate obstacles through creative and adaptive approaches As needed, travel to various field events such as meetings, conferences, etc. Participation in competitive landscape and differentiation discussions REQUIRED SKILLS AND QUALIFICATIONS 5+ years of",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Principal Product Manager, Agentic AI at Legion",
+      "link": "https://remotefirstjobs.com/companies/legion/jobs/principal-product-manager-agentic-ai-870900",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Principal Product Manager, Agentic AI REMOTE - US JOB OVERVIEW Legion is building AI agents that carry out workforce management work, not agents that describe it. Much of what is presented as AI in workforce management today is a conversational layer over an existing scheduling screen. The more substantial problem — software that reasons over demand, labor regulation, and employee preferences, then acts, with a person in the loop wherever the stakes require one — remains unsolved across the category. Legion intends to solve it, and this role leads the product work to get there. You will take an agent surface from operational research through specification, prototype, evaluation, and enterprise deployment, working hands-on throughout. You will work closely with Legion&rsquo;s AI Lab engineers and with our CEO, who is engaged in this work daily. RESPONSIBILITIES AND DUTIES Agent definition. Determine what an agent is responsible for, which tools it may call, what it must escalate, what it must never do, and what a manager sees when it acts. These decisions affect employee pay and legal compliance. Much of this work is pre-launch, so you will shape the direction rather than inherit it. Problem selection. The hardest judgment in agentic product work is identifying which workflows suit an agent and which do not. You will spend substantial time inside customer operations — district managers, store managers, labor operations, frontline employees — and return with a ranked, defensibl",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
       ]
     }
   ]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "chunk_34-1",
+    "title": "Senior Fullstack Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925599/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior fullstack .NET developer for ASP.NET Core backend services and modern frontends, remote within CET. Requires 5+ years of professional experience; salary not disclosed.",
+    "matched_keywords": [
+      "backend",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend API ownership and architecture decisions match the profile"
+    ],
+    "cons": [
+      ".NET C# stack, not Java or Spring",
+      "Time zone restricted to CET",
+      "Salary not disclosed"
+    ]
+  },
+  {
+    "id": "chunk_34-2",
+    "title": "Senior Backend Developer (.NET) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925598/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "6+ years",
+    "description_review": "Senior .NET backend architect for enterprise-level distributed, high-throughput systems, remote within CET. Requires 6+ years of backend experience; salary not disclosed.",
+    "matched_keywords": [
+      "backend",
+      "enterprise"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Distributed systems and architect scope match the profile",
+      "Enterprise-level backend focus"
+    ],
+    "cons": [
+      ".NET-only stack, not Java or Spring",
+      "Time zone restricted to CET",
+      "Salary not disclosed"
+    ]
+  },
+  {
+    "id": "chunk_34-3",
+    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925596/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior backend-heavy AI engineer building agentic workflows with tool use and autonomous coding agents, language-agnostic, remote within CET. Senior level; salary not disclosed.",
+    "matched_keywords": [
+      "backend",
+      "fullstack",
+      "full-stack",
+      "ai agent"
+    ],
+    "score": 72,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Agentic workflows and tool-using agents match the applied AI focus",
+      "Backend-heavy production architecture aligns with the profile",
+      "Language-agnostic role allows Java usage"
+    ],
+    "cons": [
+      "Claude ecosystem preference is not in the profile",
+      "Time zone restricted to CET",
+      "Salary not disclosed"
+    ]
+  },
+  {
+    "id": "chunk_34-4",
+    "title": "Senior Salesforce Developer at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925592/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "4 years",
+    "description_review": "Senior Salesforce developer for Apex, LWC and SOQL integrations across Salesforce clouds, remote within CET. Requires 4+ years of Salesforce development; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise integration via REST and SOAP APIs"
+    ],
+    "cons": [
+      "Salesforce platform stack, not Java or Spring",
+      "No microservices or AI scope",
+      "Time zone restricted to CET"
+    ]
+  },
+  {
+    "id": "chunk_34-5",
+    "title": "Senior SAP S/4HANA Developer at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925590/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior SAP S/4HANA developer using ABAP RAP, CDS and SAP BTP for clean-core enterprise extensions, remote within CET. Salary and years of experience are not stated.",
+    "matched_keywords": [
+      "backend",
+      "enterprise",
+      "fullstack",
+      "full-stack",
+      "legacy"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise modernization away from legacy patterns aligns with the profile"
+    ],
+    "cons": [
+      "ABAP and SAP stack, not Java or Spring",
+      "Time zone restricted to CET",
+      "Salary and experience not stated"
+    ]
+  }
+]

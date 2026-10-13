@@ -202,9 +202,9 @@ flowchart LR
     D --> E["Build embedding text<br/>title + skills + description"]
     E --> F["sentence-transformers<br/>384-dim vectors"]
     F --> G[("UPSERT into<br/>scraped_job_postings")]
-    G --> H{"xmax = 0?"}
-    H -->|yes| I["new_jobs_stored++"]
-    H -->|no| J["jobs_updated++"]
+    G --> H{"Row existed before upsert?"}
+    H -->|no| I["new_jobs_stored++"]
+    H -->|yes| J["jobs_updated++"]
     G --> K["HNSW index<br/>vector_cosine_ops"]
 ```
 

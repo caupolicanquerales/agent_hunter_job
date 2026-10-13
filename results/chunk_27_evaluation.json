@@ -1,0 +1,120 @@
+[
+  {
+    "id": "chunk_27-1",
+    "title": "App Growth Consultant, Senior (AMER) at AppTweak",
+    "link": "https://remotefirstjobs.com/companies/apptweak/jobs/app-growth-consultant-senior-amer-870486",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior customer-facing consultant for app store optimization and user acquisition strategy, serving enterprise clients in the Americas. Non-engineering role; salary in AUD is not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 6,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise client advisory experience"
+    ],
+    "cons": [
+      "ASO and marketing consulting, not software engineering",
+      "No Java, Spring or architecture requirements"
+    ]
+  },
+  {
+    "id": "chunk_27-2",
+    "title": "App Growth Consultant, Junior (AMER) at AppTweak",
+    "link": "https://remotefirstjobs.com/companies/apptweak/jobs/app-growth-consultant-junior-amer-870481",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Junior app growth consultant role on ASO audits and Apple Ads strategy for enterprise clients in the Americas. Entry-level marketing position; salary in AUD is not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 4,
+    "recommendation": "SKIP",
+    "pros": [
+      "Client-facing analytical work"
+    ],
+    "cons": [
+      "Junior marketing role, not software engineering",
+      "No technical stack required"
+    ]
+  },
+  {
+    "id": "chunk_27-3",
+    "title": "Senior Data Scientist - Growth at Mercury",
+    "link": "https://remotefirstjobs.com/companies/mercury/jobs/senior-data-scientist-growth-870478",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior growth data scientist at a business banking company, partnering with product and engineering on acquisition, activation and retention analytics. Described as a full-stack data scientist role; salary and location are not stated.",
+    "matched_keywords": [
+      "banking",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Banking and fintech domain",
+      "Senior, product-facing ownership of projects end to end"
+    ],
+    "cons": [
+      "Data science and growth analytics, not backend Java/Spring engineering",
+      "No architecture or software engineering responsibilities stated"
+    ]
+  },
+  {
+    "id": "chunk_27-4",
+    "title": "App Growth Consultant, Mid-level (EMEA) at AppTweak",
+    "link": "https://remotefirstjobs.com/companies/apptweak/jobs/app-growth-consultant-midlevel-emea-870470",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Mid-level app growth consultant role on ASO strategy and Apple Ads for enterprise clients in EMEA. Non-engineering marketing position; salary in AUD is not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 6,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise client advisory experience"
+    ],
+    "cons": [
+      "ASO and marketing consulting, not software engineering",
+      "No Java, Spring or architecture requirements"
+    ]
+  },
+  {
+    "id": "chunk_27-5",
+    "title": "App Growth Consultant, Senior (EMEA) at AppTweak",
+    "link": "https://remotefirstjobs.com/companies/apptweak/jobs/app-growth-consultant-senior-emea-870468",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior app growth consultant role on ASO audits, keyword optimization and Apple Ads strategy for enterprise clients in EMEA. Non-engineering marketing position; salary in AUD is not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 6,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior client advisory experience"
+    ],
+    "cons": [
+      "ASO and marketing consulting, not software engineering",
+      "No Java, Spring or architecture requirements"
+    ]
+  }
+]

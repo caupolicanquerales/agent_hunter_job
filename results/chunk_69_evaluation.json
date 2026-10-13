@@ -1,0 +1,133 @@
+[
+  {
+    "id": "chunk_69-1",
+    "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West at Zscaler",
+    "company": "Zscaler",
+    "location": "Mexico, USA",
+    "link": "https://jobicy.com/jobs/155190-principal-specialist-sales-engineer-zero-trust-branch-majors-west",
+    "source": "Jobicy_AI",
+    "salary": "175875 - 251250 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Principal sales engineer role for the Zero Trust branch, remote in Mexico and USA, supporting enterprise customers with security solutions. Salary 175k to 251k USD.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 4,
+    "recommendation": "SKIP",
+    "pros": [
+      "Principal-level technical role"
+    ],
+    "cons": [
+      "Pre-sales and customer-facing, not software engineering",
+      "Security product domain"
+    ]
+  },
+  {
+    "id": "chunk_69-2",
+    "title": "Senior Software Engineer (Full-Stack, JavaScript) at Able",
+    "company": "Able",
+    "location": "LATAM",
+    "link": "https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack role, 100% remote in LatAm, building products with Next.js, Node.js and TypeScript. Owns architecture, APIs and data models in an AI-native organization. Salary not stated.",
+    "matched_keywords": [
+      "backend",
+      "architecture",
+      "typescript",
+      "node"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior role with architecture and API design ownership",
+      "Applied AI and modernization focus in the company"
+    ],
+    "cons": [
+      "JavaScript, Next.js and TypeScript stack, not Java/Spring",
+      "Salary and geographic constraints not clearly matched",
+      "Startup-style product building rather than banking or enterprise"
+    ]
+  },
+  {
+    "id": "chunk_69-3",
+    "title": "Senior Forward Deployed Engineer (AI Agent) at Cresta",
+    "company": "Cresta",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
+    "source": "Jobicy_AI",
+    "salary": "$270 m",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior forward deployed engineer building AI agents for contact center customers in Australia, working with LLMs and agent systems.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Hands-on applied AI and LLM agent work"
+    ],
+    "cons": [
+      "Customer-facing deployment role, stack not stated",
+      "Contact center domain, not banking or fintech",
+      "Salary not clearly stated"
+    ]
+  },
+  {
+    "id": "chunk_69-4",
+    "title": "CX Operations Analyst at ClickUp",
+    "company": "ClickUp",
+    "location": "Philippines",
+    "link": "https://jobicy.com/jobs/155181-cx-operations-analyst",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Operations analyst role in the Philippines owning partner services processes, data analysis and workflow automation for a CX operations team.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Process automation and AI builds"
+    ],
+    "cons": [
+      "Operations role, not software engineering",
+      "Location in Philippines"
+    ]
+  },
+  {
+    "id": "chunk_69-5",
+    "title": "Conversational Designer, APAC at Cresta",
+    "company": "Cresta",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155177-conversational-designer-apac",
+    "source": "Jobicy_AI",
+    "salary": "$270 m",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Founding conversational designer role for APAC in Australia, designing conversational AI models for contact center agents and virtual agents.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Conversational AI domain overlap"
+    ],
+    "cons": [
+      "Design role, not software engineering",
+      "Contact center domain, Australia-based"
+    ]
+  }
+]

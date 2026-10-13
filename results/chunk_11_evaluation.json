@@ -1,66 +1,68 @@
 [
   {
     "id": "chunk_11-1",
-    "title": "Senior Data Engineer (Azure) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925636/",
-    "source": "WorkingNomads_Dev",
+    "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+    "source": "WeWorkRemotely_AI",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior remote data engineering role on Azure covering SQL performance tuning, ETL pipelines and data warehouse architecture. Requires 5+ years in data engineering and Azure SQL and Data Factory. CET time zone plus or minus 3 hours.",
+    "years_experience": "N/A",
+    "description_review": "Senior data engineering role on an AWS-based Data Intelligence Platform, covering data modeling, SQL, pipelines and database operations, with some architecture design. Salary and years not stated.",
     "matched_keywords": [
       "architecture"
     ],
-    "score": 30,
+    "score": 40,
     "recommendation": "SKIP",
     "pros": [
-      "Data architecture and warehouse design knowledge overlaps with the architecture criterion"
+      "Architecture design of scalable data solutions"
     ],
     "cons": [
-      "Data engineering focus, not backend Java or Spring",
-      "Azure-centric stack outside the profile"
+      "Data engineering and database operations focus, not Java/Spring backend",
+      "Heavy SQL and DBA duties outside the profile core",
+      "Salary and years not stated"
     ]
   },
   {
     "id": "chunk_11-2",
-    "title": "Senior DevOps Engineer (Azure) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925634/",
-    "source": "WorkingNomads_Dev",
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+    "source": "WeWorkRemotely_AI",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "5+ years",
-    "description_review": "Senior Azure DevOps role focused on reliability, security and scalability of Azure systems, with containers, Kubernetes and infrastructure as code. Requires 5+ years of DevOps experience with a strong Azure focus. CET time zone plus or minus 3 hours.",
+    "description_review": "Senior remote full-time backend role centered on Node.js and Nest.js with REST/GraphQL APIs and microservices as nice-to-have. Requires 5+ years Node.js and CET timezone (+/- 3 hours); salary not stated.",
     "matched_keywords": [
-      "architecture"
+      "java",
+      "microservices",
+      "backend",
+      "architecture",
+      "typescript",
+      "node"
     ],
-    "score": 20,
+    "score": 45,
     "recommendation": "SKIP",
     "pros": [
-      "Automation and scripting experience overlaps with the modernization criterion"
+      "Senior backend scope with APIs and microservices nice-to-have",
+      "TypeScript knowledge overlaps with profile stack"
     ],
     "cons": [
-      "Pure DevOps role, a weak fit for the profile",
-      "Azure and Kubernetes focus outside the core stack"
+      "Node.js/Nest.js primary stack, not Java/Spring",
+      "Requires CET timezone, which the profile does not confirm",
+      "Java not in the requirements"
     ]
   },
   {
     "id": "chunk_11-3",
-    "title": "Senior Fullstack Developer (React.js / Node.js) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925629/",
-    "source": "WorkingNomads_Dev",
+    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+    "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+    "source": "WeWorkRemotely_AI",
     "salary": "N/A",
     "salary_currency": "N/A",
-    "salary_period": "N/A",
+    "salary_period": "month",
     "years_experience": "5+ years",
-    "description_review": "Senior fullstack role pairing React.js frontend with Node.js microservices backend and SQL or MongoDB databases. Requires 5+ years as a fullstack developer and intermediate-advanced English. CET time zone plus or minus 3 hours.",
+    "description_review": "Senior full-stack role with React.js and Node.js, backend on Node with microservices and SQL/MongoDB, for a client via Proxify. Requires 5+ years and CET timezone (+/- 3 hours); salary not stated.",
     "matched_keywords": [
       "microservices",
       "backend",
@@ -69,67 +71,72 @@
       "full-stack",
       "node"
     ],
-    "score": 62,
-    "recommendation": "CONSIDER",
+    "score": 42,
+    "recommendation": "SKIP",
     "pros": [
-      "Full-stack role with microservices backend depth matches the profile",
-      "Architecture and reusable library design fit the senior criterion"
+      "Full-stack scope with microservices and database work",
+      "Senior level with 5+ years"
     ],
     "cons": [
-      "Node.js and React stack, not Java or Spring Boot",
-      "Frontend-heavy emphasis compared with Java backend focus"
+      "React/Node stack rather than Java/Spring",
+      "CET timezone requirement unconfirmed",
+      "Architecture is a nice-to-have, not a core focus"
     ]
   },
   {
     "id": "chunk_11-4",
-    "title": "Senior Python Developer (Fullstack, BE-Heavy) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925623/",
-    "source": "WorkingNomads_Dev",
+    "title": "Reddit: Backend Engineer, IAM",
+    "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "source": "WeWorkRemotely_AI",
     "salary": "N/A",
     "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior Python role, backend-heavy fullstack, designing high-throughput async APIs and background task orchestration as a core software architect. Requires 5+ years of production Python. CET time zone plus or minus 3 hours.",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Remote-friendly backend engineering role in Reddit's Identity and Access Management team, building scalable authentication and authorization systems and shaping the IAM architecture. Based in the US; salary given per day and years not stated.",
     "matched_keywords": [
       "backend",
-      "fullstack",
-      "full-stack"
+      "architecture"
     ],
-    "score": 50,
-    "recommendation": "SKIP",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Backend architecture and async API design fit the senior backend criterion"
+      "Backend services and architecture ownership at large scale",
+      "Authentication and authorization systems match enterprise security work"
     ],
     "cons": [
-      "Python-focused stack, not Java or Spring Boot",
-      "No AI or banking focus stated"
+      "Stack not stated in the excerpt; Java/Spring not confirmed",
+      "Large consumer-scale product rather than banking/fintech",
+      "US-based location"
     ]
   },
   {
     "id": "chunk_11-5",
-    "title": "Senior Django Developer at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925616/",
-    "source": "WorkingNomads_Dev",
+    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+    "source": "Remotive_SoftwareDev_RSS",
     "salary": "N/A",
-    "salary_currency": "N/A",
+    "salary_currency": "AUD",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior Django role requiring 5+ years of web development with at least 4 years in Django, covering the ORM, Django REST framework and multi-database integration. CET time zone plus or minus 3 hours.",
+    "years_experience": "N/A",
+    "description_review": "Contract-style AI code trainer role evaluating model-generated code and writing reference solutions across Python, web and back-end stacks. Salary currency listed as AUD but amount not stated; seniority not specified.",
     "matched_keywords": [
-      "architecture"
+      "java",
+      "backend",
+      "fullstack",
+      "full-stack",
+      "typescript",
+      "node"
     ],
-    "score": 40,
+    "score": 50,
     "recommendation": "SKIP",
     "pros": [
-      "Multi-source data integration and REST API work match part of the backend criterion"
+      "Applied AI and code-quality evaluation overlap with AI-augmented engineering",
+      "Covers Java and backend languages among accepted stacks"
     ],
     "cons": [
-      "Python and Django only, outside the Java and Spring focus",
-      "No AI or banking focus stated"
+      "Annotation/training work rather than software architecture or delivery",
+      "No seniority or enterprise/banking context",
+      "Salary not stated"
     ]
   }
 ]

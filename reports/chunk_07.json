@@ -3,6 +3,66 @@
   "candidate_count": 5,
   "candidates": [
     {
+      "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: SummaryWe are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science.General informationThis Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform.The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infrastructure and a mix of structured and unstructured data sources.Tasks and Deliverables- Participate in the architecture design and implementation of high-performance, scalable, and optimized data solutions.- Create data models from scratch using strong SQL fundamentals.- Write and optimize in-application SQL statements.- Ensure the performance, security, and availability of databases.- Prepare documentation and technical specifications.- Handle database procedures such as upgrades, backups, recovery, and migration.- Profile server resource usage and optimize configurations as necessary.- Design, build, and automate the deployment of data pipelines and applications.- Integrate data from on-premise",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+      "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "month",
+      "years_experience": "5+ years",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are looking for: &nbsp; 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English &nbsp; Nice-to-have:&nbsp; Located in CET timezone (+/- 3 hours). Database Architecture knowledge. &nbsp; Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. &nbsp; What we offer: &nbsp; Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exc",
+      "matched_keywords": [
+        "microservices",
+        "backend",
+        "architecture",
+        "fullstack",
+        "full-stack",
+        "node"
+      ]
+    },
+    {
+      "title": "Toggl: Senior Full Stack",
+      "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "€83,000",
+      "salary_currency": "EUR",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe building for managers, the people who plan work, protect margins, and keep projects on time and on budget. You own significant parts of that experience end-to-end, working hands-on with product and design to ship work that matters. You'll do this as we build and launch Toggl 2.0, our consolidated planning, time tracking, and time intelligence product. The salary for this position is&nbsp;€83,000 annually. You can work from anywhere in the world&nbsp;as long as your main location is between UTC-4 and UTC+4. &nbsp; The Role As a Senior Full Stack Engineer, you own meaningful parts of the product end-to-end, from the data model and the API to the interface someone actually clicks: the technical approach, the quality of what ships, and whether it actually works for the people using it. You are accountable not for tickets closed, but for clarity, craft, and outcomes. You'll work in the Tribe serving managers, across planning and capacity management, dashboards, and billable work. This is some of the most data-dense, interaction-heavy surface area in the product: schedules and capacity views, reports, and visualizations that have to stay fast and readable at real customer scale. The interesting problems live on both sides of th",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Edfinity: Senior Software Engineer, remote",
+      "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Austin, TX URL: https://edfinity.com About Edfinity Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit remote team of senior engineers. We're growing fast and leading the field in AI-powered courseware that moves the needle on educator productivity and student outcomes. Your work will reach hundreds of institutions, and you will help decide how it gets built. How we work We're fully remote, with team members distributed across the US, and with that comes personal flexibility and accountability. AI agents produce most of our code. We move fast, but we temper velocity with quality and stability above all else. Engineers frame the problems, direct the work, and are accountable for everything that ships. If you already work this way and have opinions about it, you'll feel at home. Everyone has opportunities to work across different areas of the platform, and team members are expected to develop deep technical expertise over time. This is particularly important as we step away from hands-on coding. We're a small team of collaborative senior engineers. Your opinion matters. The pace of change is real. More than ever, we're continually evolving our tooling and workflows as LLMs become more capable. What you’ll be doing Our stack is Ruby on Rails, MongoDB, Elasticearch, ClickHouse, Redis/Sidekiq, and React. Full-stack product development in areas like assessment authori",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "ai agent"
+      ]
+    },
+    {
       "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
       "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
       "source": "WeWorkRemotely_Fullstack",
@@ -15,64 +75,6 @@
         "backend",
         "node",
         "rest api"
-      ]
-    },
-    {
-      "title": "Sticker Mule: Software engineer",
-      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "$150,000–$250,000",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "years_experience": "N/A",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors. &nbsp; How we work Small, autonomous teams that own products end-to-end. Prioritize what matters right now and pivot instantly when needed. Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP. Use AI aggressively to push the limit of what we can do. Move fast, build for the masses, and deprioritize edge cases. Fully remote from 40+ countries and collaborate using Asana and Slack. &nbsp; Requirements You are an exceptional full-stack software engineer. You use AI aggressively and write well in English. &nbsp; What you will work on You'll help build and scale&nbsp;Sticker Mule&nbsp;Pro&nbsp;— a suite of software tools for creators and businesses: Stores (Shopify alternative) AI tools (internal and customer-facing) Notify (Mailchimp alternative) Reply (Zendesk alternative) Hire Me (Contra alternative) Mobile apps &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engine",
-      "matched_keywords": [
-        "fullstack",
-        "full-stack",
-        "typescript"
-      ]
-    },
-    {
-      "title": "A.Team: Senior Independent AI Engineer / Architect",
-      "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "$200M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams tackling problems that matter. Not demos. Not prototypes that never ship. Not another chatbot wrapper. Real systems. Real users. Real outcomes. Recent work has included: - LLM-powered products and workflows- Agent architectures and orchestration systems- Retrieval, evaluation, and reliability infrastructure- Enterprise AI deployments- AI-native products built from zero to one- Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome. Why Builders Join Most independent engineers eventually run into the same problem: The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No competing with thousands of other freelancers. Just access to ambitious companies, difficult problems, and experienced peers. Who Thr",
-      "matched_keywords": [
-        "architecture",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-      "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "$90-$170",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under \"how you heard about A·Team.\" No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue ",
-      "matched_keywords": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Frontend Engineer at Bjak ",
-      "company": "Bjak ",
-      "location": "Ireland",
-      "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-      "source": "RemoteOK_Java",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinationsOur objective is to organise anyone's life.Â RoleAs a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets.You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work.Â What You'll OwnBuild major web experiences across Chat, Notes, Calendar, Docs, and Sheets.Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets.Build reusable frontend architecture and components that work consistently across ActAI applications.Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows.Own frontend performance, responsiveness, reliability and accessibility across browsers and devices.Wo",
-      "matched_keywords": [
-        "backend",
-        "architecture"
       ]
     }
   ]

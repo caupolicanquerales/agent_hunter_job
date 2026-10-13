@@ -1,0 +1,91 @@
+{
+  "chunk": 46,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior React Native Engineer - App Owner (w/m/x/d) at MILES Mobility",
+      "company": "MILES Mobility",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-react-native-engineer-app-owner-d-berlin-421435",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "Join the ride! You own our consumer mobile app end to end, from architecture to store release. OneReact Native codebase ships to iOS and Android, and you are accountable for its code, itsnative layer, its releases and the app side of every API contract.The app is how our customers experience the product every day. Your work keeps it fast,stable and safe to change, and raises its quality and release confidence with everyversion. Your Responsibility Own the app's architecture, code quality, performance and stability on iOS and Android Build and maintain native modules in Swift or Kotlin where React Native is not enough Own native build, release and store distribution for iOS and Android Agree API contracts with backend engineers and handle offline, retry and error states Integrate and maintain third-party SDKs for payments, maps, analytics and messaging Build and maintain automated test coverage and run it in CI Keep the codebase's AI tooling in version control and review it like code Effectively deploy and use AI agents. Your Experience 5+ years of React Native in production, shipped to both the App Store and Google Play Solid native knowledge: Swift or Objective-C with Xcode, Kotlin or Java with Android, Studio and Gradle Strong TypeScript and JavaScript, and experience with modern state management REST API integration with deliberate handling of async, offline and error states Automated testing with Jest and Detox or Maestro, run in CI such as GitLab CI or GitHub Actions Sto",
+      "matched_keywords": [
+        "java",
+        "backend",
+        "architecture",
+        "typescript",
+        "ai agent",
+        "rest api"
+      ]
+    },
+    {
+      "title": "Solutions Architect - EMEA at Endorlabs",
+      "company": "Endorlabs",
+      "location": "N/A",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/endorlabs/solutions-architect-emea-353081",
+      "source": "Arbeitnow_API",
+      "salary": "$60",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "&lt;h3&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;AI coding is the largest use case of enterprise AI adoption today, as is evident from the success of Anthropic on Claude Code, Cursor’s $60B exit to SpaceX, and Cognition’s $48B valuation.&lt;br&gt;&lt;br&gt;The bottleneck now has moved from code generation to security and safety - AI agents write code faster than any team can review it, and over 65% of the lines of code produced by them are insecure. Vulnerabilities are piling up 16x faster than companies can fix them, and adversaries are able to exploit these new vulnerabilities within hours.&lt;br&gt;&lt;br&gt;AURI by Endor Labs closes that gap. It runs inside the harness where coding agents work, through hooks, skills and MCP, so the controls sit outside the model and every agent action is visible. Underneath is our patented code context graph, which maps code, open source, containers and infrastructure. It shows which vulnerabilities can actually be reached and exploited, then delivers fixes that won’t break the application. Security teams get evidence instead of noise, and developers get fixes instead of tickets.&lt;br&gt;&lt;br&gt;The companies building AI trust us to secure it - our customers include OpenAI, SpaceX, DoorDash, Dropbox, Atlassian, MongoDB, Snowflake, Robinhood and Peloton to name a few.&lt;br&gt;&lt;br&gt;Endor Labs is the third company from Founder &amp;amp; CEO Varun Badhwar, who built Prisma Cloud, the platform that helped define clo",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Full-Stack) - Merchants at Deliveroo ",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-merchants-london-278076",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.&nbsp; Senior Software Engineer (Full Stack) - Merchants Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and partners every day. From real-time logistics to resilient infrastructure and marketplace optimisation, we design, build and operate technology that powers Deliveroo's growth at scale. We partner with some of the largest grocery retailers in the world, as well as a large number of small independent grocers.&nbsp; The Team:MX Intelligence builds the tools DoorDash, Deliveroo and Wolt use to find, sign and onboard restaurants and merchants. That covers identifying and matching prospective merchants through to the CRM, quoting and contracting tools sales teams use to bring them onto the platform. We're replacing a Salesforce-based stack with one first-party platform shared across all three brands. We're looking for a Senior Software Engineer - Full Stack to join our London team. In this role you'll work across the stack, from the backend se",
+      "matched_keywords": [
+        "backend",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Golang Backend Engineer, Financial Product Fraud at Deliveroo ",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Your job is to make sure every payout and transaction lands with the right person. We have spent years getting very good at protecting the things a marketplace has always had to protect: checkout fraud, account takeover, courier abuse. But we are no longer only a marketplace. We now issue banking products, lend to merchants, move instant payouts to couriers, and collect cash on the doorstep. Every one of those is a new way for money to leave the platform. This is a new team, and it owns that surface: fraud wherever money moves through the platform. Who receives it, who lends it, who collects it, and who holds it in a financial account. Think instant payout rails, merchant cash advances, and platform-issued banking and earned-wage products serving millions of couriers and merchants. These are live loss surfaces, and the volume grows with every financial product we launch. We are now looking for a Backend Engineer (Golang) to build that protection. You will design and ship real-time detection and automated enforcement for our financial products across DoorDash, Wolt, and Deliveroo. The work is high-throughput, low-latency, and unusually consequential: a rule you ship on Monday can stop a",
+      "matched_keywords": [
+        "backend",
+        "banking"
+      ]
+    },
+    {
+      "title": "Software Engineer II (Backend) - Subscriptions at Deliveroo ",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-backend-subscriptions-london-116177",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Software Engineers, Subscriptions - Backend Deliveroo is now part of DoorDash, one of the largest online food ordering and delivery platforms in the world. As part of this role, you'll join one of our Subscriptions teams in London, focused on the core proposition and working across our three subscription programmes - DashPass, Deliveroo Plus, and Wolt+. You'll work closely with engineering teams across the US and Europe, as part of the Global Subscription organisation, to build and evolve the shared subscriptions capabilities that power loyalty and membership experiences for millions of customers worldwide. We're hiring backend engineers who want to be at the front line of what engineering looks like in the age of AI. 💡 Why Subscriptions?&nbsp; An AI-first team by design. We don't use AI as a productivity add-on - we treat agentic coding as a core engineering discipline. We expect our engineers to build with AI agents, to challenge what's possible when the human-in-the-loop is a multiplier rather than a bottleneck, and to push the boundaries of what a small, focused team can ship. Real ownership, real impact. Our subscription programmes are touching millions of users daily. You'll own ",
+      "matched_keywords": [
+        "backend",
+        "ai agent"
+      ]
+    }
+  ]
+}

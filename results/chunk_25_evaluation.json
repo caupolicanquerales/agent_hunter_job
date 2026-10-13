@@ -1,0 +1,125 @@
+[
+  {
+    "id": "chunk_25-1",
+    "title": "Senior Integration Engineer at Legion",
+    "link": "https://remotefirstjobs.com/companies/legion/jobs/senior-integration-engineer-870668",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior integration engineer designing enterprise integrations (HR, payroll, POS) with Workato and REST APIs on cloud platforms, hybrid in Bangalore or Pune. Role requires an overnight shift (22:30-07:30) and on-call rotation; salary is not stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "rest api"
+    ],
+    "score": 52,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise integration architecture and REST API design match the profile"
+    ],
+    "cons": [
+      "Low-code Workato focus rather than Java/Spring Boot",
+      "Overnight shift and on-call rotation",
+      "India location"
+    ]
+  },
+  {
+    "id": "chunk_25-2",
+    "title": "Senior Integration Engineer at Legion",
+    "link": "https://remotefirstjobs.com/companies/legion/jobs/senior-integration-engineer-870667",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior integration engineer role designing enterprise integrations and REST APIs with Workato on cloud platforms, fully remote in Mexico with on-call rotation. Salary is not stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "rest api"
+    ],
+    "score": 53,
+    "recommendation": "SKIP",
+    "pros": [
+      "Remote position with enterprise integration architecture and REST API work"
+    ],
+    "cons": [
+      "Low-code Workato focus rather than Java/Spring Boot",
+      "On-call rotation",
+      "Remote location restricted to Mexico"
+    ]
+  },
+  {
+    "id": "chunk_25-3",
+    "title": "Writer, Content Marketing at Stripe",
+    "link": "https://remotefirstjobs.com/companies/stripe/jobs/writer-content-marketing-870659",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Content marketing writer role producing data-backed content on revenue, pricing and AI topics at a financial infrastructure company. Non-engineering role with salary in AUD not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 4,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech company context"
+    ],
+    "cons": [
+      "Content writing role, not software engineering",
+      "No technical stack required"
+    ]
+  },
+  {
+    "id": "chunk_25-4",
+    "title": "Data Analytics Subject Matter Expert at Springboard International Inc.",
+    "link": "https://remotefirstjobs.com/companies/springboard-international-inc/jobs/data-analytics-subject-matter-expert-870648",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Subject matter expert contract for curriculum review in an online data analytics bootcamp covering SQL, Python and statistics. Education content role with no stated salary or location.",
+    "matched_keywords": [
+      "spring"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Uses Python and SQL knowledge"
+    ],
+    "cons": [
+      "Curriculum and education content role, not engineering",
+      "Keyword match is incidental (Springboard company name)"
+    ]
+  },
+  {
+    "id": "chunk_25-5",
+    "title": "Senior Application Engineer [Remote-US] at Quanata",
+    "link": "https://remotefirstjobs.com/companies/quanata/jobs/senior-application-engineer-remoteus-870642",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior application engineer on a full-stack, AI-native insurance technology platform backed by State Farm, fully remote in the US. Salary is not stated and the description is truncated before the stack details.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 68,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior full-stack role on an enterprise platform matches seniority and architecture focus",
+      "AI-native platform aligns with applied AI interests"
+    ],
+    "cons": [
+      "Insurance domain rather than banking/fintech",
+      "Java/Spring stack not confirmed in the data"
+    ]
+  }
+]

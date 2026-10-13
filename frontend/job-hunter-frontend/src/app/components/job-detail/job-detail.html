@@ -140,6 +140,122 @@
       </div>
     </header>
 
+    <!-- 2a. Key Facts & Metadata from ScrapedJobPosting -->
+    <section class="facts-section">
+      <div class="facts-grid">
+        <div class="fact-item">
+          <span class="fact-label">Recommendation</span>
+          <span class="fact-value highlight" [class.recommended]="currentJob.recommendation?.toLowerCase() === 'apply' || currentJob.recommendation?.toLowerCase() === 'recommended'">
+            {{ currentJob.recommendation || 'N/A' }}
+          </span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">Evaluation Score</span>
+          <span class="fact-value">{{ currentJob.score != null ? currentJob.score + ' / 100' : 'N/A' }}</span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">Vector Similarity</span>
+          <span class="fact-value">{{ formattedSimilarity() ? formattedSimilarity() + '%' : 'N/A' }}</span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">Experience Required</span>
+          <span class="fact-value">{{ currentJob.years_experience || 'Not specified' }}</span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">Source Portal</span>
+          <span class="fact-value">{{ currentJob.source || currentJob.source_portal || 'Unknown' }}</span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">Evaluated At</span>
+          <span class="fact-value">{{ formattedDate() || 'N/A' }}</span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">External Job ID</span>
+          <span class="fact-value mono-val" [title]="currentJob.external_job_id">{{ currentJob.external_job_id || 'N/A' }}</span>
+        </div>
+        <div class="fact-item">
+          <span class="fact-label">Evaluation ID</span>
+          <span class="fact-value mono-val" [title]="currentJob.eval_id">{{ currentJob.eval_id || 'N/A' }}</span>
+        </div>
+        <div class="fact-item full-width-fact">
+          <span class="fact-label">Job Posting Link</span>
+          <span class="fact-value">
+            @if (currentJob.link) {
+              <a [href]="currentJob.link" target="_blank" rel="noopener noreferrer" class="link-anchor">
+                {{ currentJob.link }}
+                <svg class="mini-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+                  <polyline points="15 3 21 3 21 9" />
+                  <line x1="10" y1="14" x2="21" y2="3" />
+                </svg>
+              </a>
+            } @else {
+              <span class="text-muted-inline">No direct link provided</span>
+            }
+          </span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2b. Matched Keywords Pill Group -->
+    @if (currentJob.matched_keywords && currentJob.matched_keywords.length > 0) {
+      <section class="matched-keywords-section">
+        <div class="section-title-wrap">
+          <h2 class="section-title">Matched Keywords</h2>
+          <span class="keywords-count-pill">{{ currentJob.matched_keywords.length }} matched</span>
+        </div>
+        <div class="matched-pills-group">
+          @for (keyword of currentJob.matched_keywords; track keyword) {
+            <span class="matched-pill">
+              <svg class="check-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <polyline points="20 6 9 17 4 12" />
+              </svg>
+              {{ keyword }}
+            </span>
+          }
+        </div>
+      </section>
+    }
+
+    <!-- 2c. Pros and Cons -->
+    @if (hasPros() || hasCons()) {
+      <section class="pros-cons-section">
+        @if (hasPros()) {
+          <div class="pros-block">
+            <h2 class="section-title pros-title">
+              <svg class="pro-con-icon pro-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <circle cx="12" cy="12" r="10" />
+                <line x1="12" y1="8" x2="12" y2="16" />
+                <line x1="8" y1="12" x2="16" y2="12" />
+              </svg>
+              Strengths / Pros
+            </h2>
+            <ul class="pros-list">
+              @for (pro of currentJob.pros; track pro) {
+                <li class="pro-item">{{ pro }}</li>
+              }
+            </ul>
+          </div>
+        }
+        @if (hasCons()) {
+          <div class="cons-block">
+            <h2 class="section-title cons-title">
+              <svg class="pro-con-icon con-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <circle cx="12" cy="12" r="10" />
+                <line x1="8" y1="12" x2="16" y2="12" />
+              </svg>
+              Drawbacks / Cons
+            </h2>
+            <ul class="cons-list">
+              @for (con of currentJob.cons; track con) {
+                <li class="con-item">{{ con }}</li>
+              }
+            </ul>
+          </div>
+        }
+      </section>
+    }
+
     <!-- 2. Skills Section: Visual Pill Tags -->
     @if (currentJob.required_skills && currentJob.required_skills.length > 0) {
       <section class="skills-section">

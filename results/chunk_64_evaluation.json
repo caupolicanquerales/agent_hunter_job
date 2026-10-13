@@ -1,0 +1,136 @@
+[
+  {
+    "id": "chunk_64-1",
+    "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West at Zscaler",
+    "company": "Zscaler",
+    "location": "Mexico, USA",
+    "link": "https://jobicy.com/jobs/155190-principal-specialist-sales-engineer-zero-trust-branch-majors-west",
+    "source": "Jobicy_Dev",
+    "salary": "175875 - 251250 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Remote principal sales engineer role in the Zero Trust branch for the US West, supporting enterprise customers on security solutions. Salary of 175k to 251k USD.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customer exposure"
+    ],
+    "cons": [
+      "Pre-sales and sales engineering, not software engineering",
+      "Security product domain, no Java or Spring"
+    ]
+  },
+  {
+    "id": "chunk_64-2",
+    "title": "Senior Software Engineer (Full-Stack, JavaScript) at Able",
+    "company": "Able",
+    "location": "LATAM",
+    "link": "https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "100% remote LatAm senior full-stack engineer building products with Next.js, Node.js and TypeScript. Owns architecture, APIs and data models and guides teams in an AI-native company.",
+    "matched_keywords": [
+      "backend",
+      "architecture",
+      "typescript",
+      "node"
+    ],
+    "score": 72,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior architecture ownership of APIs and data models",
+      "Node.js and TypeScript backend depth",
+      "AI-native organization, applied AI focus",
+      "100% remote"
+    ],
+    "cons": [
+      "Next.js and JavaScript stack, not Java or Spring",
+      "Salary not stated",
+      "LatAm-only hiring"
+    ]
+  },
+  {
+    "id": "chunk_64-3",
+    "title": "Strategic Sales Director, Australia at Cresta",
+    "company": "Cresta",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155184-strategic-sales-director-australia",
+    "source": "Jobicy_Dev",
+    "salary": "$270 m",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Strategic sales director role for large Australian enterprises at a conversational AI company. Focused on deal strategy and executive relationships.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied AI company context"
+    ],
+    "cons": [
+      "Sales role, no engineering",
+      "Australia-based"
+    ]
+  },
+  {
+    "id": "chunk_64-4",
+    "title": "Senior Forward Deployed Engineer (AI Agent) at Cresta",
+    "company": "Cresta",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
+    "source": "Jobicy_Dev",
+    "salary": "$270 m",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior forward deployed engineer building LLM-based AI agents for enterprise customers at a conversational AI company. Works directly with customers on cost-effective, secure and reliable solutions.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Applied LLM and AI agent work matches the AI focus",
+      "Senior customer-facing engineering"
+    ],
+    "cons": [
+      "Stack not stated in the excerpt",
+      "Customer-facing deployment role",
+      "Based in Australia"
+    ]
+  },
+  {
+    "id": "chunk_64-5",
+    "title": "CX Operations Analyst at ClickUp",
+    "company": "ClickUp",
+    "location": "Philippines",
+    "link": "https://jobicy.com/jobs/155181-cx-operations-analyst",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Operations analyst role owning partner services processes, data analysis and workflow automation at a productivity software company in the Philippines.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Some automation and AI-builds work"
+    ],
+    "cons": [
+      "Operations analyst, not software engineering",
+      "Philippines-based"
+    ]
+  }
+]

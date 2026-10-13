@@ -1,14 +1,16 @@
-export interface JobModel {
+import type { ScrapedJobPosting } from './scraped-job-posting.model';
+
+/**
+ * Dashboard model: every field of the scraped_job_postings row plus the
+ * derived fields used by the list and filters.
+ */
+export interface JobModel extends Partial<ScrapedJobPosting> {
   id?: string;
-  external_job_id?: string;
   source_portal?: string;
   title: string;
   company: string;
   location: string;
   is_remote: boolean;
-  salary_min?: number;
-  salary_max?: number;
-  currency?: string;
   clean_description: string;
   required_skills: string[]; // parsed from DB array/JSON
   raw_payload: any;          // stored JSON payload

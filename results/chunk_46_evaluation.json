@@ -1,0 +1,147 @@
+[
+  {
+    "id": "chunk_46-1",
+    "title": "Senior React Native Engineer - App Owner (w/m/x/d) at MILES Mobility",
+    "company": "MILES Mobility",
+    "location": "Berlin",
+    "link": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-react-native-engineer-app-owner-d-berlin-421435",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior mobile role owning a consumer React Native app for iOS and Android in Berlin, including native modules in Swift or Kotlin and store releases. Requires 5+ years of production React Native with TypeScript and REST integration; no salary is disclosed.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "typescript",
+      "ai agent",
+      "rest api"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior ownership of app architecture and REST API contracts",
+      "TypeScript and REST API integration experience overlap with the profile"
+    ],
+    "cons": [
+      "Mobile-focused role, close to the pure frontend profile the candidate treats as a weak fit",
+      "React Native and native mobile stack rather than Java or Spring Boot backend",
+      "No backend or microservices scope in the role"
+    ]
+  },
+  {
+    "id": "chunk_46-2",
+    "title": "Solutions Architect - EMEA at Endorlabs",
+    "company": "Endorlabs",
+    "location": "N/A",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/endorlabs/solutions-architect-emea-353081",
+    "source": "Arbeitnow_API",
+    "salary": "$60",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Solutions architect role for EMEA covering an AI code security platform, with pre-sales and customer-facing work on code context graphs and vulnerability reachability. Location is not specified and the stated pay is $60 with no period.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture title and enterprise customer focus",
+      "Relates to AI agents and AI-generated code security"
+    ],
+    "cons": [
+      "Pre-sales and customer-facing solutions role rather than hands-on Java backend engineering",
+      "Security tooling domain, not banking or fintech",
+      "Pay information is ambiguous and location is unspecified"
+    ]
+  },
+  {
+    "id": "chunk_46-3",
+    "title": "Senior Software Engineer (Full-Stack) - Merchants at Deliveroo ",
+    "company": "Deliveroo ",
+    "location": "London, England, United Kingdom",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-merchants-london-278076",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack engineer role in London on the merchant onboarding and CRM platform used across DoorDash, Deliveroo and Wolt. The engineer works across backend services and frontend, with no salary or years of experience disclosed.",
+    "matched_keywords": [
+      "backend",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 66,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior full-stack role with explicit backend ownership, matching the full-stack with backend depth fit",
+      "Large-scale marketplace platform with a consolidated first-party CRM and quoting stack"
+    ],
+    "cons": [
+      "Specific backend language and framework are not stated in the visible description",
+      "Marketplace and sales-tooling domain, not banking or fintech",
+      "Frontend stack is not confirmed in the visible description"
+    ]
+  },
+  {
+    "id": "chunk_46-4",
+    "title": "Golang Backend Engineer, Financial Product Fraud at Deliveroo ",
+    "company": "Deliveroo ",
+    "location": "London, England, United Kingdom",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Golang backend engineer role in London building real-time fraud detection and enforcement for banking products, instant payouts and merchant lending. The work is high-throughput and low-latency, with no salary or years of experience disclosed.",
+    "matched_keywords": [
+      "backend",
+      "banking"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Banking and financial products domain matches the banking and fintech background",
+      "Backend engineering on high-throughput, real-time systems"
+    ],
+    "cons": [
+      "Go is the primary language, not Java or Spring Boot",
+      "Fraud and risk focus rather than architecture or modernization",
+      "No AI or applied GenAI component is visible"
+    ]
+  },
+  {
+    "id": "chunk_46-5",
+    "title": "Software Engineer II (Backend) - Subscriptions at Deliveroo ",
+    "company": "Deliveroo ",
+    "location": "London, England, United Kingdom",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-backend-subscriptions-london-116177",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Mid-level backend engineer role in London on subscription programmes (DashPass, Deliveroo Plus, Wolt+) for a global organisation. The team describes an AI-first approach with agentic coding; the language stack and salary are not disclosed.",
+    "matched_keywords": [
+      "backend",
+      "ai agent"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend focus and an AI-first engineering culture with agentic coding",
+      "Work on large-scale shared subscription capabilities"
+    ],
+    "cons": [
+      "Engineer II is a mid-level title, below the senior profile",
+      "Language and framework are not stated in the visible description",
+      "Consumer subscriptions domain, not banking or enterprise"
+    ]
+  }
+]

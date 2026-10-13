@@ -1,130 +1,119 @@
 [
   {
     "id": "chunk_14-1",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-    "source": "Remotive_Dev",
+    "title": "Manager, Implementation (Remote, Canada) at GoCanvas",
+    "link": "https://remotefirstjobs.com/companies/gocanvas/jobs/manager-implementation-remote-canada-870917",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "EUR",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior back-end engineering role (Golang and/or Python, Kubernetes) for an AI infrastructure company, remote across UK, Singapore, US and Canada. Requires 5+ years and 2+ years of AI agent development.",
+    "years_experience": "N/A",
+    "description_review": "People-management role leading a customer implementation team of 3-8 at a workplace safety software company, owning processes and playbooks. Listed for applicants in Canada; salary not stated.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "architecture",
-      "vue",
-      "node",
-      "ai agent"
+      "architecture"
     ],
-    "score": 52,
+    "score": 5,
     "recommendation": "SKIP",
-    "pros": [
-      "Senior backend and infrastructure scope",
-      "AI agent development experience requested"
-    ],
+    "pros": [],
     "cons": [
-      "Golang/Python stack, no Java or Spring Boot",
-      "Matched on generic terms only, not a Java role"
+      "Team management of implementation, not software engineering",
+      "No technical stack overlap",
+      "Location restricted to Canada"
     ]
   },
   {
     "id": "chunk_14-2",
-    "title": "Senior AI Engineer at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-    "source": "Remotive_Dev",
-    "salary": "$11M",
+    "title": "VP of Product | REMOTE at Distru",
+    "link": "https://remotefirstjobs.com/companies/distru/jobs/vp-of-product-remote-870916",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "$15",
     "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "3+ years",
-    "description_review": "Senior AI engineering contract role via a freelance marketplace, applying LLMs, LangChain and vector databases in Python to startup projects. Requires 3+ years of applied AI experience.",
+    "years_experience": "N/A",
+    "description_review": "Executive product leadership role at an ERP company building an AI product suite, reporting to the executive team and owning product-market fit. Remote; salary not stated and the $15 figure is a sales-volume claim.",
     "matched_keywords": [
-      "ai agent"
+      "enterprise"
     ],
-    "score": 60,
-    "recommendation": "CONSIDER",
+    "score": 15,
+    "recommendation": "SKIP",
     "pros": [
-      "LLM and LangChain applied AI matches AI criterion",
-      "Senior-level applied AI scope"
+      "AI product suite and enterprise ERP domain"
     ],
     "cons": [
-      "Python-centric, no Java or Spring Boot",
-      "Freelance marketplace model, not an architecture role",
-      "$11M is the marketplace payout total, not a salary"
+      "Product executive role, not engineering",
+      "No Java/Spring or architecture ownership in scope",
+      "Salary not stated"
     ]
   },
   {
     "id": "chunk_14-3",
-    "title": "Senior .NET Full-stack Developer at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-    "source": "Remotive_Dev",
-    "salary": "$11M",
+    "title": "ASIC & FPGA Design Engineer at IntelliPro",
+    "link": "https://remotefirstjobs.com/companies/intellipro/jobs/asic-fpga-design-engineer-870914",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "$100",
     "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior .NET and React full-stack contract role with TypeScript required, via a freelance marketplace. Requires 4+ years commercial experience.",
+    "years_experience": "7+ years",
+    "description_review": "Senior hardware design contract role for ASIC and FPGA development using VHDL, Verilog and SystemVerilog, fully remote until a possible conversion to on-site. Pay is $100-110 per hour on W2; 7+ years required.",
     "matched_keywords": [
-      "angular",
-      "typescript"
+      "architecture"
     ],
-    "score": 35,
+    "score": 3,
     "recommendation": "SKIP",
-    "pros": [
-      "Senior full-stack scope with TypeScript"
-    ],
+    "pros": [],
     "cons": [
-      ".NET and React stack, no Java or Spring Boot",
-      "$11M is the marketplace payout total, not a salary"
+      "Hardware design domain, unrelated to Java/Spring software",
+      "No software stack overlap",
+      "Relocation required if converted to full time"
     ]
   },
   {
     "id": "chunk_14-4",
-    "title": "Senior Data Scientist at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-    "source": "Remotive_Dev",
-    "salary": "$11M",
-    "salary_currency": "USD",
+    "title": "Senior Solutions Consultant at Legion",
+    "link": "https://remotefirstjobs.com/companies/legion/jobs/senior-solutions-consultant-870901",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior data scientist contract role requiring Python, Databricks and RAG/LLM experience, via a freelance marketplace. Requires 4+ years as a data scientist.",
+    "years_experience": "5+ years",
+    "description_review": "Presales solutions consultant role for a workforce management SaaS, configuring demos and supporting enterprise sales. Remote in the US with travel; salary not stated.",
     "matched_keywords": [
-      "architecture"
+      "enterprise"
     ],
-    "score": 45,
+    "score": 8,
     "recommendation": "SKIP",
     "pros": [
-      "Application architecture understanding is requested"
+      "Enterprise client exposure and technical demonstration"
     ],
     "cons": [
-      "Data science focus, not backend engineering",
-      "$11M is the marketplace payout total, not a salary"
+      "Presales role, not software engineering",
+      "No development stack required",
+      "Salary not stated"
     ]
   },
   {
     "id": "chunk_14-5",
-    "title": "Senior Independent AI Engineer / Architect at A.Team",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-    "source": "Remotive_Dev",
-    "salary": "$200M",
-    "salary_currency": "USD",
-    "salary_period": "N/A",
+    "title": "Principal Product Manager, Agentic AI at Legion",
+    "link": "https://remotefirstjobs.com/companies/legion/jobs/principal-product-manager-agentic-ai-870900",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
     "years_experience": "N/A",
-    "description_review": "Senior AI engineer and architect for an invite-only network building production agent architectures, orchestration and enterprise AI deployments, remote in the Americas, Europe or Israel. Seniority is senior with a track record of shipping.",
+    "description_review": "Principal product manager role defining agentic AI workflows for workforce management software, covering agent scope, tools, escalation and enterprise deployment. Remote in the US; salary not stated.",
     "matched_keywords": [
-      "architecture",
-      "enterprise"
+      "enterprise",
+      "ai agent"
     ],
-    "score": 82,
-    "recommendation": "APPLY",
+    "score": 35,
+    "recommendation": "SKIP",
     "pros": [
-      "Agent architecture and orchestration match multi-agent experience",
-      "Enterprise AI deployments and production shipping match the profile",
-      "Architect-level scope matches software architecture focus"
+      "Agentic AI definition and enterprise deployment match applied AI interest"
     ],
     "cons": [
-      "Stack not specified, Java/Spring not mentioned",
-      "Independent contractor model, not a permanent role",
-      "$200M is the network total earnings, not a salary"
+      "Product management role rather than engineering or architecture",
+      "No Java/Spring stack mentioned",
+      "Salary not stated"
     ]
   }
 ]

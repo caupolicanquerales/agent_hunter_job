@@ -1,0 +1,86 @@
+{
+  "chunk": 32,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Software Engineer at Phaidra",
+      "company": "Phaidra",
+      "location": "Remote - United States",
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+      "source": "RemoteOK_ML",
+      "salary": "0",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades â because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs â perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidraâs ability to achieve its mission is determined by our ability to ",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "ML Engineer at Trunk Tools, Inc.",
+      "company": "Trunk Tools, Inc.",
+      "location": "",
+      "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+      "source": "RemoteOK_ML",
+      "salary": "183000",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "At Trunk Tools, weâre the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite.Our mission is to build the future of construction through intelligent automation. Despite being a $13+ trillion industry, construction still runs largely on analog processes, weâre changing that by embedding AI directly into field operations.Founded by builders and technologists (Stanford, MIT), our team has delivered software used by over 140,000 field professionals, impacting millions of users and contributing to $10B+ in built projects. Many of us come from the field ourselves, giving us a deep understanding of the industryâs unique challenges.After years of building the âbrainâ of construction, weâre now launching production-ready AI agents, starting with intelligent document processing and Q&amp;A, and rapidly expanding into core operational workflows. Our team has doubled in the past year, and with 65+ employees (25+ engineers), weâre scaling fast and entering a period of hypergrowth. This is a rare opportunity to join at an inflection point.What you will do and achieve:Own and evolve core parts of our AI platform, spanning search, retrieval, and multi-agent orchestration.Lead the design and b",
+      "matched_keywords": [
+        "ai agent",
+        "multi-agent"
+      ]
+    },
+    {
+      "title": "Senior Full-stack PHP Developer at Lemon.io",
+      "company": "Lemon.io",
+      "location": "Europe, LATAM, APAC, the U.S., Canada",
+      "link": "https://www.workingnomads.com/job/go/1938564/",
+      "source": "WorkingNomads_Dev",
+      "salary": "$11M",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "4+ years",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: React &amp; PHP, Angular &amp; PHP, Vue &amp; PHP, and PHP &amp; Laravel. Requirements for Senior React &amp; PHP Developer experience: 4+ years of software developmen",
+      "matched_keywords": [
+        "angular",
+        "vue"
+      ]
+    },
+    {
+      "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925654/",
+      "source": "WorkingNomads_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. What we’re looking for: 5+ years with Node.js and 3+ past years with Nest.js Strong expertise in Node.js and Nest.js frameworks. Proven experience building REST and/or GraphQL APIs. Strong knowledge of JavaScript (ES6+) and TypeScript. Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). Familiarity with authentication/authorization ",
+      "matched_keywords": [
+        "java",
+        "backend",
+        "typescript",
+        "node"
+      ]
+    },
+    {
+      "title": "Senior Cloud Engineer (Azure) at Proxify",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "link": "https://www.workingnomads.com/job/go/1925640/",
+      "source": "WorkingNomads_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfil their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Cloud Engineer specializing in Microsoft Azure on behalf of our client to design, automate, and maintain high-availability cloud infrastructure. In this role, you will take operational ownership of enterprise Azure landing zones, container orchestration, and CI/CD pipeline automation—ensuring high reliability, cost efficiency, and zero-trust security compliance. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of hands-on cloud engineering experience managing enterprise Microsoft Azure environments, spanning compute, networking (VNets, ExpressRoute, Application Gateways), and storage tiers. Advance",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "chunk_22-1",
+    "title": "Site Reliability Engineer (SRE) at Enformion",
+    "link": "https://remotefirstjobs.com/companies/enformion/jobs/site-reliability-engineer-sre-870936",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "$150K-$165K",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Site reliability engineer for identity and contact data APIs and consumer sites at a fraud-prevention company. Focuses on monitoring, SLOs, incident resolution and automation; salary is $150K to $165K USD, location not stated in the excerpt.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise API platform with clear reliability ownership"
+    ],
+    "cons": [
+      "SRE and infrastructure focus, outside the profile core",
+      "No Java or Spring Boot scope"
+    ]
+  },
+  {
+    "id": "chunk_22-2",
+    "title": "Director of Implementation (Remote, US) at GoCanvas",
+    "link": "https://remotefirstjobs.com/companies/gocanvas/jobs/director-of-implementation-remote-us-870918",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director-level customer implementation leader for a workplace safety software company, owning time to value and adoption. People leadership role, eligibility limited to applicants in Canada per the excerpt.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior leadership scope within a software company"
+    ],
+    "cons": [
+      "Customer implementation management, not engineering",
+      "Location restriction stated in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_22-3",
+    "title": "Senior Software Developer - Databases at Intelerad",
+    "link": "https://remotefirstjobs.com/companies/intelerad-medical-systems/jobs/senior-software-developer-databases-870886",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior developer modernizing the data layer of a medical imaging platform's orchestration team, improving database responsiveness for radiology worklists. Senior individual contributor role; stack and salary not visible in the excerpt.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior data layer modernization work, matching the modernization priority",
+      "Enterprise platform with scale requirements"
+    ],
+    "cons": [
+      "Healthcare imaging domain, outside banking/fintech",
+      "Database-focused scope, stack not confirmed as Java or Spring"
+    ]
+  },
+  {
+    "id": "chunk_22-4",
+    "title": "Senior Software Developer at Intelerad",
+    "link": "https://remotefirstjobs.com/companies/intelerad-medical-systems/jobs/senior-software-developer-870885",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior developer building cloud-native solutions for radiology workflows on the InteleOrchestrator team. Senior individual contributor role; stack and salary not visible in the excerpt.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior cloud-native backend scope, matching the profile seniority"
+    ],
+    "cons": [
+      "Healthcare imaging domain, outside banking/fintech",
+      "Stack not confirmed as Java or Spring Boot"
+    ]
+  },
+  {
+    "id": "chunk_22-5",
+    "title": "Software Engineer 2 - Product Essentials at Abnormal AI",
+    "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/software-engineer-2-product-essentials-870879",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Mid-level software engineer building backend services and APIs for an AI-native cybersecurity platform, with heavy use of AI coding tools. Works with Fortune 500 customers on scalable, secure systems; salary and stack details are not stated.",
+    "matched_keywords": [
+      "backend",
+      "enterprise",
+      "generative ai"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend services and scalable systems work",
+      "Daily use of AI coding tools, matching the applied AI priority"
+    ],
+    "cons": [
+      "Mid-level title below the senior profile",
+      "Cybersecurity domain and stack not confirmed as Java"
+    ]
+  }
+]

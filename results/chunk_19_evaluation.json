@@ -1,120 +1,118 @@
 [
   {
     "id": "chunk_19-1",
-    "title": "Senior Vue Developer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, LATAM, APAC, the U.S., Canada",
-    "link": "https://www.workingnomads.com/job/go/1923073/",
-    "source": "WorkingNomads_AI",
-    "salary": "$11M",
-    "salary_currency": "USD",
+    "title": "Software Developer, Web at slice",
+    "link": "https://remotefirstjobs.com/companies/slice/jobs/software-developer-web-870789",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior Vue.js marketplace role for front-end or full-stack positions with startups in the US and Europe, requiring 4+ years with Vue.js and Nuxt.js. Remote with flexible schedule; $11M is the marketplace's total payout to engineers, not a salary.",
+    "description_review": "Experienced front-end developer for a restaurant technology company, focused on React and TypeScript web products with technical lead duties. Salary and location not stated in the excerpt.",
     "matched_keywords": [
-      "fullstack",
-      "full-stack",
-      "vue"
+      "typescript"
     ],
-    "score": 58,
+    "score": 25,
     "recommendation": "SKIP",
     "pros": [
-      "Vue.js experience matches the candidate's BBVA background",
-      "Full-stack option includes backend depth"
+      "React and TypeScript match part of the profile stack",
+      "Technical leadership responsibilities"
     ],
     "cons": [
-      "Front-end-leaning role, weak fit for pure frontend",
-      "Nuxt.js-specific requirements, no Java/Spring Boot",
-      "Salary not stated for the role"
+      "Pure frontend role, a weak fit for the profile",
+      "No Java, Spring Boot or backend scope"
     ]
   },
   {
     "id": "chunk_19-2",
-    "title": "Stack .NET Developer / Algorithm Engineer at CloudGeometry",
-    "company": "CloudGeometry",
-    "location": "Brazil",
-    "link": "https://www.workingnomads.com/job/go/1889808/",
-    "source": "WorkingNomads_AI",
+    "title": "Manager, Technical Writer at MongoDB",
+    "link": "https://remotefirstjobs.com/companies/mongodb/jobs/manager-technical-writer-870785",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "At least 6 years of experience",
-    "description_review": "Backend-focused .NET role (C#/.NET Core 8+, Entity Framework) with strong data structures and algorithms focus, plus microservices and some React front-end work. Remote role; salary not stated.",
+    "years_experience": "2+ years",
+    "description_review": "People manager role leading a technical writing team for MongoDB documentation, based in Gurgaon for a hybrid model. Requires extensive technical writing experience and 2+ years managing writers.",
     "matched_keywords": [
-      "microservices",
-      "backend",
-      "architecture",
-      "fullstack",
-      "full-stack"
+      "ai agent"
     ],
-    "score": 42,
+    "score": 5,
     "recommendation": "SKIP",
     "pros": [
-      "Microservices and REST API experience is relevant",
-      "Backend focus with architecture exposure"
+      "Works with a major database vendor"
     ],
     "cons": [
-      ".NET-only stack, a weak fit for the profile",
-      "Algorithm-heavy emphasis outside the candidate's core strengths"
+      "Technical writing management role, not engineering",
+      "Requires Gurgaon hybrid location"
     ]
   },
   {
     "id": "chunk_19-3",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
-    "link": "https://www.workingnomads.com/job/go/1885527/",
-    "source": "WorkingNomads_AI",
+    "title": "ADAS DRE - Sensors at Scout Motors Inc.",
+    "link": "https://remotefirstjobs.com/companies/scout-motors-inc/jobs/adas-dre-sensors-870780",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "EUR",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior back-end role building AI infrastructure for a research-driven AI company, requiring Golang and/or Python, Kubernetes and AI agent development experience. Remote across multiple regions; salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Automotive engineering role on ADAS sensors for Scout Motors' electric and range-extender vehicles. The excerpt is mostly company description; the technical duties are not visible.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "architecture",
-      "vue",
-      "node",
-      "ai agent"
+      "legacy"
     ],
-    "score": 62,
-    "recommendation": "CONSIDER",
+    "score": 5,
+    "recommendation": "SKIP",
     "pros": [
-      "Senior back-end scope with infrastructure and AI agent development",
-      "Applied AI experience aligns with the profile"
+      "Engineering role at an established company"
     ],
     "cons": [
-      "Go and Python primary, not Java/Spring Boot",
-      "Kubernetes requirement outside the core stack",
-      "Role specifics beyond the listed requirements are not provided"
+      "Automotive hardware domain, outside the profile",
+      "No software stack or backend scope in the excerpt"
     ]
   },
   {
     "id": "chunk_19-4",
-    "title": "Head of Engineering at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, Latin America, USA",
-    "link": "https://www.workingnomads.com/job/go/1878435/",
-    "source": "WorkingNomads_AI",
-    "salary": "$16M",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "10 years",
-    "description_review": "Engineering leadership role owning the technical roadmap and architecture for a talent marketplace transitioning to a technology platform, leading a growing team while staying hands-on. Remote across Europe, Latin America and USA; $16M is annual GMV, not a salary.",
+    "title": "Senior Technical Writer at MongoDB",
+    "link": "https://remotefirstjobs.com/companies/mongodb/jobs/senior-technical-writer-870779",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior technical writer role documenting the MongoDB data platform, including Atlas and Vector Search, with an AI-forward mindset. Based in Gurgaon for a hybrid model; writing-focused rather than engineering.",
     "matched_keywords": [
-      "architecture"
+      "ai agent"
     ],
-    "score": 65,
-    "recommendation": "CONSIDER",
+    "score": 5,
+    "recommendation": "SKIP",
     "pros": [
-      "Senior architecture and roadmap ownership matches the profile",
-      "Hands-on leadership with a modernization-style platform transition"
+      "Exposure to MongoDB and vector search products"
     ],
     "cons": [
-      "Requires 10 years of experience, above the candidate's 7+ years",
-      "Marketplace domain, not banking or fintech",
-      "Leadership-heavy scope may dilute hands-on Java development"
+      "Technical writing role, not software engineering",
+      "Requires Gurgaon hybrid location"
+    ]
+  },
+  {
+    "id": "chunk_19-5",
+    "title": "(Fluent English) T3 Support Engineer (remote) at SupportYourApp",
+    "link": "https://remotefirstjobs.com/companies/supportyourapp/jobs/fluent-english-t3-support-engineer-remote-870777",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote T3 support engineer investigating escalated backend and integration issues, running read-only database queries and small fixes. Support-oriented operations role with no seniority or salary stated.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend and API troubleshooting exposure"
+    ],
+    "cons": [
+      "Support operations role, not software development",
+      "Low seniority signal and no architecture scope"
     ]
   }
 ]

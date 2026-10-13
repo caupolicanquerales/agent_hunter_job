@@ -1,0 +1,84 @@
+{
+  "chunk": 42,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Full Stack Engineer (m/f/x) at PlanD: Die Software für Gebäudedienstleister",
+      "company": "PlanD: Die Software für Gebäudedienstleister",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/pland-die-software-fur-gebaudedienstleister/full-stack-engineer-berlin-134924",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Über PlanD und was wir bauenPlanD ist die führende ERP-Lösung für Gebäudereinigungsunternehmen im DACH-Raum. Jetzt beginnt die nächste Phase: Die beste AI-ERP Lösung am Markt werden, Skalierung auf >10 Mio. ARR, Upmarket-Expansion und konsequentes AI-first Company Building.Die Rolle und worum es gehtDu hilfst uns, neue Features zu shippen, in unserem Kernprodukt und in Paula, unserem AI-Produkt. Du übernimmst ein Thema, verstehst mit unserem Product Lead das eigentliche Problem, konzipierst die Lösung, setzt sie über Frontend und Backend um und bringst sie in Produktion. Was du shippsted, ownst du auch danach.Wir sind ein kleines Team mit schnellen Zyklen und arbeiten full agentic: Du planst, lässt Agents umsetzen, reviewst und testest. Für jede Änderung, die live geht, stehst du selbst ein. Wir shippen fast.Woran du arbeitestKernprodukt: Einsatzplanung, Zeiterfassung, Lohn und Faktura für Reinigungsbetriebe mit bis zu Hunderten Mitarbeitenden. Viel Domänenlogik wie Arbeitszeiten und Rechnungsläufe, die für unsere Kunden im Alltag einfach funktionieren muss.Paula, unser AI-Produkt: Paula arbeitet in PlanD, im Postfach und am Telefon. Du baust neue Use Cases, verbindest Paula tiefer mit dem Kernprodukt und machst AI-Verhalten verlässlich und nachvollziehbar.Schnittstellen: DATEV-Export, Imports und Integrationen, über die Kunden ihre Prozesse an PlanD anbinden.Du startest in einem Bereich, je nach Erfahrung und Prioritäten, und wächst von dort in weitere.Tech StackAngular im F",
+      "matched_keywords": [
+        "backend",
+        "angular"
+      ]
+    },
+    {
+      "title": "Co-Founder als CTO / Lead Developer (m/w/d) at BIMraum GmbH",
+      "company": "BIMraum GmbH",
+      "location": "Böblingen",
+      "link": "https://www.arbeitnow.com/jobs/companies/bimraum-gmbh/co-founder-als-cto-lead-developer-boblingen-92114",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "StellenbeschreibungWerde Teil von BIMraum GmbH als Co-Founder als CTO / Lead Developer (m/w/d)! 🚀Du willst die Bauindustrie mit moderner Technologie revolutionieren?Bei BIMraum GmbH mit Sitz in Böblingen verfolgen wir die Mission, Fachkräfte aus Bau und Immobilien durch digitale Prozesse auf Basis von Building Information Modeling (BIM) zu stärken. Unsere ambitionierte Reise wird von Innovation, Technologie und echter Leidenschaft für digitale Transformation angetrieben.Deine Rolle & Aufgaben:Führe die technische Weiterentwicklung von proxino - unserer KI-basierten Lösung zur Automatisierung von Bauprozessen - direkt mit unserer GründerinDu entwickelst Funktionen und Benutzererlebnisse nutzerzentriert weiter – auf Basis echten KundenfeedbacksDu trainierst und verbesserst unsere KI-Module, insbesondere im Bereich Wissenssysteme und LLMsDu übernimmst die Code-Verantwortung des MVPs – mit Fokus auf Stabilität, Performance und SicherheitMittelfristig: Aufbau und Führung eines kleinen, dynamischen Tech-Teams, um unsere Lösung zu skalierenDein Profil:Must-haves:Sehr gute Kenntnisse in JavaScript / TypeScriptGute Kenntnisse in PythonSicherer Umgang mit GitErfahrung in der Weiterentwicklung bestehender CodebasenPragmatismus: Du lieferst funktionierende Software, keine Theorie Deutschkenntnisse mindestens auf C1-Niveau (für Team- und Kundenkommunikation)Nice-to-haves:Kenntnisse in NestJS und Next.js / ReactErfahrung mit KI-/LLM-Systemen oder datengetriebenen AnwendungenWas wir dir bie",
+      "matched_keywords": [
+        "java",
+        "typescript",
+        "node"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer at sustaind GmbH",
+      "company": "sustaind GmbH",
+      "location": "Bielefeld",
+      "link": "https://www.arbeitnow.com/jobs/companies/sustaind-gmbh/senior-devops-engineer-bielefeld-253626",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Deine RolleUnsere AWS-Umgebung mit Terraform und Terragrunt weiterentwickeln: Multi-Account-Setup, Netzwerk, Datenschicht und EKSCI/CD-Pipelines mit GitHub Actions betreiben und verbessernUnsere Infrastruktur kosteneffizient der aktuellen Last anpassen, mit Autoscaling, Kostentransparenz statt ÜberprovisionierungUnsere Agent Runtime und den Ingestor, der Dokumente für uns ausliest, aktiv mitgestalten und für ihre Skalierung und Stabilität verantwortlich seinMonitoring, Alerting und Backup so betreiben, dass Störungen auffallen, bevor Kunden sie bemerkenVerantwortung für die Developer Experience übernehmen: Tooling, Entwicklungsumgebungen, Pipelines und Releases so gestalten, dass unser Team schnell, sicher und ohne Reibung liefern kannEine nach ISO 27001 zertifizierbare Infrastruktur bauen und bei der Beantwortung von Kunden-Security-Fragebögen unterstützenWas Du mitbringstMehrjährige Erfahrung (+ 5 Jahre) mit AWS (idealerweise Multi-Account) und Infrastructure as Code, vor allem Terraform mit TerragruntErfahrung mit CI/CD und GitOps (z. B. GitHub Actions, ArgoCD), IAM und Least PrivilegeErfahrung mit Autoscaling in der Praxis mit KubernetesErfahrung mit ISO 27001 und ISMS-Arbeit, zum Beispiel Risikomanagement, Richtlinien oder Audit-Vorbereitung, aber kein Muss. Eine Erstzertifizierung selbst begleitet zu haben ist ideal.Kenntnisse in Monitoring, Audit-Trails und Backup-KonzeptenErfahrung mit AI-assisted Coding und die Bereitschaft, solche Tools im Arbeitsalltag gezielt einz",
+      "matched_keywords": [
+        "node"
+      ]
+    },
+    {
+      "title": "Professional Full Stack Engineer – PHP/Go + Frontend (m/f/x) at SIDES (SimplyDelivery GmbH)",
+      "company": "SIDES (SimplyDelivery GmbH)",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/professional-full-stack-engineer-php-go-frontend-berlin-260794",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "month",
+      "years_experience": "N/A",
+      "description": "Your mission About SIDES Restaurants are where people come together over good food. We build the technology that keeps them running. SIDES is the operating system for hospitality: POS, payments, delivery, kitchen tools, self-order terminals, apps and webshops on one platform. Thousands of restaurants run on it and millions of transactions flow through it every month, peaking on a Friday night when nothing is allowed to fail. We have the owner's and the chef's back, so they can focus on their food and their guests. And it is not just code on a screen: our software runs on real hardware in real restaurants, from POS devices to self-order terminals and more. Our tech stack includes Go, PHP, AWS, and modern frontend technologies Your responsibilities: Deliver features end-to-end in a cross-functional team, from ideation and design to implementation, rollout, and operations Work across the entire stack, from backend services to web frontend applications Use AI tools (e.g. Claude) responsibly and contribute to best practices within the team Ensure operational quality with a strong focus on performance, security, stability, scalability, and observability Contribute to architectural and design decisions together with the team Collaborate closely with other engineers through pair programming, code reviews, and knowledge sharing Follow and contribute to improving standards for testing, code quality, and CI/CD Build clean APIs, well-designed data models, and intuitive, high-performance ",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer - MX at Breakmark",
+      "company": "Breakmark",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-mx-419021",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Forward Deployed Engineer - MexicoAbout the CompanyWe're partnering with an AI-native operating system for supply chains used by wholesalers, manufacturers, retailers, and traders. The platform integrates logistics and procurement data through connections with internal and external systems, enabling predictive analytics and automated workflows that improve fill rates, reduce inventory levels, and optimize cash-to-cash cycle time.By leveraging predictive analytics and automation, the company helps large enterprises reduce costs, unlock additional revenue, and prevent under- or over-stocking across complex global supply chains.Role OverviewThe Forward Deployed Engineer (FDE) is the person who makes the platform work in the real world. This role sits at the intersection of engineering, client operations, and AI implementation — and owns the technical execution of how the platform gets built into each client's environment.The FDE works directly with clients and the Implementation team, learns how each client's systems and operations actually run, and builds the integrations, automations, and AI solutions that make the platform mission-critical. This is a first-of-its-kind role at the company — the person who takes it will be defining what forward deployment looks like here.Key ResponsibilitiesBuild integrations between the platform and client systems — ERPs, WMS, TMS, data warehouses — writing real code to connect, extract, and transform data across environmentsDeploy alongside c",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    }
+  ]
+}

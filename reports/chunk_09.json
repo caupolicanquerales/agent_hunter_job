@@ -3,81 +3,73 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "AI agent engineer at Sticker Mule",
-      "company": "Sticker Mule",
-      "location": "",
-      "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-      "source": "RemoteOK_AI",
-      "salary": "150000",
-      "salary_currency": "USD",
+      "title": "Dremio: Software Engineer - Developer Experience",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the role In this role you will get opportunities to implement and maintain CI/CD systems and developer productivity solutions. You will be responsible for both regularly scheduled work as well as on-demand break-fix work to support Dremio’s CI/CD system, identifying areas of improvement, and implementing changes to increase efficiency and effectiveness of those systems. Bring your industry experience to improve the efficiency and scale of Dremio’s infrastructure via innovation on tooling and methodologies. You should have empathy for developers and a passion for engineering productivity.&nbsp; &nbsp; What you’ll be doing Solve problems for fellow Dremio engineers by: Leveraging and contributing to playbooks to implement solutions to unblock them Identifying short term workarounds and documenting them Automatin",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the role Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, owning the systems that turn query plans into efficient, reliable execution. As a Senior Staff Software Engineer, you’ll work on query operators, expression evaluation, memory management, execution scheduling, runtime planning, and performance optimization. Your work will directly affect query performance, scalability, and reliability across Dremio’s cloud data platform. &nbsp; What you’ll be doing Build the execution engine: Design, implement, test, and support query operators, expression evaluation, execution scheduling, runtime planning, and resource management. Improve runtime performance: Optimize vectorized processing, concurrency, parallel",
+      "matched_keywords": [
+        "architecture",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Toggl: Senior Full Stack",
+      "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+      "source": "WeWorkRemotely_AI",
+      "salary": "€83,000",
+      "salary_currency": "EUR",
       "salary_period": "year",
       "years_experience": "N/A",
-      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.Work performedIdentify where agents can help and build them accordingly.Work with department leads to assess AI needs.Help connect agents to appropriate third-party and internal tools.Measure results and remove agents that don't deliver.Test new tools and models as they ship and adopt what works.Advise others on AI capabilities to help them perform.RequirementsExperience building agents that run on their own and do meaningful workStrong with Grok, Claude, OpenAI, and open sourceComfortable in Go, TypeScript, GraphQL, Postgres, GCPWrites clearly in EnglishCompensationSalary: $150,000â$250,000 USD$20,000 signing bonus4 weeks vacation + country-specific holidaysFully remotePlease mention the word **HUMOUR** and tag RMTgxLjg2LjQwLjE4OQ== when applying to show you read the job post completely (#RMTgxLjg2LjQwLjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe building for managers, the people who plan work, protect margins, and keep projects on time and on budget. You own significant parts of that experience end-to-end, working hands-on with product and design to ship work that matters. You'll do this as we build and launch Toggl 2.0, our consolidated planning, time tracking, and time intelligence product. The salary for this position is&nbsp;€83,000 annually. You can work from anywhere in the world&nbsp;as long as your main location is between UTC-4 and UTC+4. &nbsp; The Role As a Senior Full Stack Engineer, you own meaningful parts of the product end-to-end, from the data model and the API to the interface someone actually clicks: the technical approach, the quality of what ships, and whether it actually works for the people using it. You are accountable not for tickets closed, but for clarity, craft, and outcomes. You'll work in the Tribe serving managers, across planning and capacity management, dashboards, and billable work. This is some of the most data-dense, interaction-heavy surface area in the product: schedules and capacity views, reports, and visualizations that have to stay fast and readable at real customer scale. The interesting problems live on both sides of th",
       "matched_keywords": [
-        "typescript",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "STEUART NUTRITION: Software Developer AI Coding",
+      "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "3+ years",
+      "description": "Headquarters: Minnesota URL: https://www.steuartnutrition.com/ About us Steuart Nutrition is a GMP-certified contract manufacturer making powders, liquids, capsules and stick packs for growing wellness brands. We run on Extreme Ownership, clear communication and fast turnaround, and we want a developer who works the same way. The role We're hiring a remote developer to own the customization of our training app. You'll learn the platform quickly, then build what our teams need to train and onboard people. Over time you'll also take on other internal tools and automations. AI-assisted development is central to how we work, so we want someone who uses AI tools to write and ship better code faster. What you'll do Learn our training app inside and out, then customize and extend it Build features, integrations and automations with AI coding tools like Claude, Cursor, Copilot and Grok Turn rough requests from the plant and office teams into working solutions Document your work so others can use it and maintain it Give regular, clear progress updates What we're looking for 3+ years of professional software development Strong, proven skill with AI-assisted coding: you know how to prompt, check and fix AI-generated code A track record of quickly learning unfamiliar platforms and codebases Experience with APIs, web apps and integrations (JavaScript/TypeScript or Python preferred) Excellent written English and consistent communication Able to overlap at least 4 hours a day with US Easter",
+      "matched_keywords": [
+        "java",
+        "typescript"
+      ]
+    },
+    {
+      "title": "Glean: Application Security Engineer",
+      "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles. &nbsp; At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level. &nbsp; Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its glo",
+      "matched_keywords": [
+        "enterprise",
         "ai agent"
-      ]
-    },
-    {
-      "title": "Scrum Master at Blackstone Talent Group",
-      "company": "Blackstone Talent Group",
-      "location": "Dallas-Fort Worth Metroplex",
-      "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
-      "source": "RemoteOK_AI",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "day",
-      "years_experience": "3 years",
-      "description": "Scrum Master (Contractor) â Job DescriptionPosition Details:Location: Dallas, Tx (Remote)Type: 6 Month Contract - NO C2CResponsibilities: Support Agile delivery for assigned team(s) under guidance of the Senior Scrum Master LeadFacilitate team-level Agile ceremonies (daily standups, spring planning, refinement, reviews, etc.)Maintain team boards and delivery artifacts (e.g., Jira storyboards, sprint backlogs) ensuring work is current and accurately trackedAssist with sprint forecasting, capacity planning and backlog readinessTrack and escalate impediments, risks, and dependencies to the Senior Scrum Master Lead, follow through on action itemsHelp monitor and report basic delivery metrics and support status updatesPromote Agile best practices and help the team adopt consistent working agreements and continuous improvement actionsBuild working relationships with IT team members and business stakeholdersRequired Skills and Qualifications:1-3 years of experience in an Agile delivery roleWorking knowledge of Scrum fundamentals and Agile principlesStrong organization and attention to detailClear written and verbal communication skills; able to raise risks/issues earlyExperience with Agile delivery tools such as Jira, Confluence, and ServiceNowScrum Master certification a plusBlackstone Talent Group is a division of Blackstone Technology Group, a global IT services and solutions firm that implements technological solutions across commercial industry verticals and the US Federal Go",
-      "matched_keywords": [
-        "spring"
-      ]
-    },
-    {
-      "title": "Help Desk at Zenius Corporation",
-      "company": "Zenius Corporation",
-      "location": "Colorado, ",
-      "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
-      "source": "RemoteOK_AI",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Help Desk SpecialistLocation: RemotePosition SummaryWe are seeking a Help Desk Specialist to provide Tier 1/Tier 2 support for a Grants Management System (GMS). The selected candidate will serve as the primary point of contact for users, troubleshoot system issues, manage support tickets, assist with user access, and provide training and documentation support.Key ResponsibilitiesRespond to and resolve user support requests via phone, email, and ticketing systems.Troubleshoot application access, user account, workflow, reporting, and system-related issues.Create, modify, and maintain user accounts and permissions.Track, prioritize, and resolve tickets in accordance with service level requirements.Escalate complex technical issues as needed.Develop and maintain user guides, FAQs, and training materials.Conduct user onboarding and training sessions.Support system testing, updates, and ongoing maintenance activities.Required Qualifications2+ years of Help Desk, Application Support, or Customer Support experience.Experience supporting web-based applications or enterprise systems.Strong troubleshooting, communication, and customer service skills.Experience using ticketing systems and managing support requests.Ability to create documentation and train end users.Preferred QualificationsExperience supporting Grants Management Systems (GMS).Experience supporting state, local, or federal government clients.Knowledge of grants administration processes and compliance requirements.Experien",
-      "matched_keywords": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Junior Project Designer at Archinect",
-      "company": "Archinect",
-      "location": "Hoboken, ",
-      "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
-      "source": "RemoteOK_AI",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "MHS Architecture EmployerHoboken, NJ, US (remote possible)Location:Full-timeTypeWed, Jun 17 '26Posted on:MHS Architecture is an award-winning interdisciplinary design office with a rich 40-year history specializing in Architecture, Planning, Urban Design, and Interior Design. This legacy has established a strong foothold in the New Jersey mixed-use residential development market through a commitment to design excellence and project realization. Building on this foundation, MHS Architecture is on a path to expand its body of work to include more prominent and complex projects, boost the integration of emerging technologies into our design process, further grow our interior design services, and expand our presence in other urban regions.We are seeking highly motivated, dedicated, and creative individuals who are enthusiastic about being part of the expansion and upward trajectory of MHS Architecture and the career development opportunities this growth allows for. We offer an engaging work culture, competitive pay and benefits packages, and a dynamic work environment with opportunities for personal growth and development.Position SummaryThe Project Designer supports the design and development of architectural projects from early concepts through construction documentation. This role collaborates closely with other team members, and consultants to produce high-quality design solutions that meet client objectives, technical requirements, and firm standards. The ideal candidate pos",
-      "matched_keywords": [
-        "architecture",
-        "legacy"
-      ]
-    },
-    {
-      "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
-      "company": "Liquid AI",
-      "location": "Cambridge",
-      "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
-      "source": "RemoteOK_ML",
-      "salary": "0",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "About Liquid AISpun out of MIT CSAIL, we build general-purpose AI systems that run efficiently across deployment targets, from data center accelerators to on-device hardware, ensuring low latency, minimal memory usage, privacy, and reliability. We partner with enterprises across consumer electronics, automotive, life sciences, and financial services. We are scaling rapidly and need exceptional people to help us get there.The OpportunityThis is a rare chance to apply frontier sequential recommendation architectures to real enterprise problems at scale. You will own applied ML work end-to-end for recommendation system workloads, adapting Liquid Foundation Models for customers who need personalization and ranking capabilities that run efficiently under production constraints.Unlike most recommendation roles that are siloed into a single product surface, this role gives you full ownership over how large-scale recommendation models are adapted, evaluated, and deployed for enterprise customers. Between engagements, you will build reusable applied tooling and workflows that accelerate future delivery.If you care about data quality at scale, user behavior modeling, and making recommendation systems actually work in enterprise production environments, this is the role.What Weâre Looking ForWe need someone who:Takes ownership: Owns customer recommendation system engagements end-to-end, from requirements through delivery and evaluation.Thinks at scale: Can reason about user interactio",
-      "matched_keywords": [
-        "architecture",
-        "enterprise"
       ]
     }
   ]

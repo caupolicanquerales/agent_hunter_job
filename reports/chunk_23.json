@@ -1,0 +1,74 @@
+{
+  "chunk": 23,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Full Stack Developer (Javascript) at Codekeeper",
+      "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/full-stack-developer-javascript-870856",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Full Stack Developer (JavaScript) Are you an experienced Full-Stack JavaScript Developer who thrives on crafting clean, efficient, and scalable code? Excited by the opportunity to make a meaningful impact in the fast-evolving software escrow industry? Codekeeper is looking for a talented Full-Stack Engineer with deep JavaScript expertise to join our growing team. If you are passionate about building high-quality solutions and want to help shape the future of software escrow, we’d love to hear from you. Apply now and be part of something impactful. About the Company Codekeeper was founded by tech industry professionals to revolutionize software escrow for the cloud era. We offer state-of-the-art disaster recovery solutions that mitigate third-party risks in business operations. As a remote-first company with a central office in The Hague, we prioritize a healthy, resilient organization to support the development of our robust app. 🌐 codekeeper.co/ What Else Can You Expect from Us? A dynamic, enthusiastic, and fun team Opportunities for growth within a startup environment Regular team activities and get-togethers A comprehensive onboarding process with a dedicated ramp-up period and time to learn A culture that values open communication, feedback, and collaboration We believe in nurturing our app, teams, and organization with a focus on long-term success. We&rsquo;re dedicated to building a healthy, resilient company that empowers every team, from design to support and operatio",
+      "matched_keywords": [
+        "java",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Senior GenAI Engineer at Taboola",
+      "link": "https://remotefirstjobs.com/companies/taboola/jobs/senior-genai-engineer-870834",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "2+ years",
+      "description": "Realize your potential by joining the leading performance-driven advertising company! As a Senior GenAI Engineer in our GenAI team in the Tel Aviv office, you’ll play a key role in developing and enhancing our generative AI products, building advanced algorithmic solutions that improve content discovery, personalization, and monetization at scale. To thrive in this role, you’ll need: M.Sc. in Computer Science, Mathematics, Engineering, or a related field Strong Python, SQL and Spark skills Familiarity with statistical modeling techniques 2+ years of hands-on experience designing, building and evaluating GenAI workflows, including Agentic RAG, Tool calls evaluation, LLM-as-a-judge, RLHF, and LLM fine-tuning 3+ years of experience in data science, analytics, and visualization Excellent problem-solving and critical-thinking abilities 3+ years of hands-on experience developing traditional machine learning algorithms, and NLP models. Bonus points if you have: Strong mentoring and public-speaking skills, with a passion for writing research papers and technical documentation and sharing knowledge at conferences. Experienced in Java or Scala How you’ll make an impact: Be responsible for the entire algorithmic lifecycle of our user facing multilingual GenAI product at scale DeeperDive: data analytics, offline and online evaluation of new LLMs, evaluate the quality of our generative content, minimize hallucinations, evaluate guardrails, tool use and router calls, and improve retrieval ",
+      "matched_keywords": [
+        "java",
+        "generative ai"
+      ]
+    },
+    {
+      "title": "Forward Deployment Engineer-Viewer at DeepHealth",
+      "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineerviewer-870822",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description Own the AI adoption strategy for the Viewer: define requirements, expected customer impact and success criteria, and feed them back to Product and Engineering. The Forward Deployment Engineer, Viewer helps customers adopt DeepHealth’s enterprise diagnostic Viewer correctly. The role combines clinical workflow knowledge, engineering depth and customer communication to design how the Viewer is configured for each customer, coach implementation teams, resolve complex technical issues, and turn recurring field needs into standard product workflows, including AI-enabled imaging workflows as they are released. This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness. Essential Duties and Responsibilities Own technical solution design and configuration of the Viewer for assigned customers, mapping clinical reading workflow (worklists, hanging protocols, priors, user roles) to product configuration. Lead technical discovery with customers and implement",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Forward Deployment Engineer, Reporting Pro at DeepHealth",
+      "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineer-reporting-pro-870820",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description The Forward Deployment Engineer, Reporting Pro helps customers adopt DeepHealth’s Reporting Pro correctly. The role combines radiology reporting depth, clinical workflow knowledge and customer communication to design how Reporting Pro is configured for each customer, build report templates and structured reporting content with radiologists, coach implementation teams, resolve complex technical issues, and turn recurring field needs into standard product workflows, including AI-assisted report drafting as it is released. This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence, and working closely with the DxS lead Forward Deployment Engineer. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness. Essential Duties and Responsibilities Own technical solution design and configuration of Reporting Pro for assigned customers, mapping reporting workflow to configuration (report templates, macros, structured reporting, speech recognition, sign-off and addendum rules, critical results, user roles). Lead te",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior Forward Engineer-Diagnostic Suite at DeepHealth",
+      "link": "https://remotefirstjobs.com/companies/deephealth/jobs/senior-forward-engineerdiagnostic-suite-870818",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description The Senior Forward Deployment Engineer, DxS helps customers adopt DeepHealth’s Diagnostic Suite (DxS) correctly as one integrated solution. The role owns the end-to-end technical design across core PACS, Viewer, Reporting, integrations and AI for assigned customers, leads the product-area FDEs, coaches implementation teams, resolves complex cross-component issues, and turns recurring field needs into standard product workflows. This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness. Essential Duties and Responsibilities Own end-to-end technical solution design of the Diagnostic Suite for assigned customers, combining core PACS, Viewer, Reporting, integrations and AI into one clinical workflow. Lead suite-level technical discovery with customers and implementation teams, and produce the solution design and configuration plan used for implementation. Lead the product-area FDEs (Reporting Pro, Viewer, HL7 Integration) and own OS/Core PACS config",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    }
+  ]
+}

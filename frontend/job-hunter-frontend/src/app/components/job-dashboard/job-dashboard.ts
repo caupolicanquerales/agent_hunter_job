@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, ElementRef, HostListener, inject, signal } from '@angular/core';
+import { Component, ElementRef, HostListener, inject, OnInit, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { JobModel, JobSortOption } from '../../models/job.model';
 import { JobService } from '../../services/job.service';
@@ -12,7 +12,7 @@ import { JobList } from '../job-list/job-list';
   templateUrl: './job-dashboard.html',
   styleUrl: './job-dashboard.scss',
 })
-export class JobDashboard {
+export class JobDashboard implements OnInit {
   protected readonly jobService = inject(JobService);
   protected readonly skillsDropdownOpen = signal<boolean>(false);
   protected readonly mobileFiltersOpen = signal<boolean>(false);
@@ -27,6 +27,10 @@ export class JobDashboard {
   protected readonly averageMatchPercentage = this.jobService.averageMatchPercentage;
 
   constructor(private elementRef: ElementRef) {}
+
+  ngOnInit(): void {
+    this.jobService.requestJobs();
+  }
 
   protected onKeywordChange(value: string): void {
     this.jobService.setKeyword(value);

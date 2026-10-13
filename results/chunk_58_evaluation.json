@@ -1,0 +1,135 @@
+[
+  {
+    "id": "chunk_58-1",
+    "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer at Tavily",
+    "company": "Tavily",
+    "location": "N/A",
+    "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-software-engineer-agentic-search-web-access-engineer-258171",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior software engineer role at Tavily building web access infrastructure for AI agents and RAG systems. Location and salary not specified in the excerpt; stack not shown.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior engineering role in agentic AI infrastructure",
+      "Enterprise and LLM-system exposure"
+    ],
+    "cons": [
+      "Web access specialization, not Java/Spring backend",
+      "Stack and location not evident in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_58-2",
+    "title": "Senior Product Manager, Vertical Search at Tavily",
+    "company": "Tavily",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-product-manager-vertical-search-amsterdam-145146",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior product manager role at Tavily, Amsterdam, owning vertical search products for AI agents and working with engineering and go-to-market. Product function; salary not specified.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Works with engineering on AI agent products"
+    ],
+    "cons": [
+      "Product management, not software engineering",
+      "No Java/Spring stack requirement"
+    ]
+  },
+  {
+    "id": "chunk_58-3",
+    "title": "Senior Product Manager, Search Infrastructure at Tavily",
+    "company": "Tavily",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-product-manager-search-infrastructure-amsterdam-207609",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior product manager role at Tavily, Amsterdam, defining quality and roadmap for the search index that serves AI agents. Product function; salary not specified.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Infrastructure-oriented product scope for AI agents"
+    ],
+    "cons": [
+      "Product management, not software engineering",
+      "No Java/Spring stack requirement"
+    ]
+  },
+  {
+    "id": "chunk_58-4",
+    "title": "Principal Infrastructure Engineer at Sezzle",
+    "company": "Sezzle",
+    "location": "Remote",
+    "link": "https://www.arbeitnow.nl/jobs/companies/sezzle/remote-principal-infrastructure-engineer-393692",
+    "source": "Arbeitnow_API",
+    "salary": "$12,500 - $20,800",
+    "salary_currency": "USD",
+    "salary_period": "month",
+    "years_experience": "with 12+ years of experience",
+    "description_review": "Remote principal infrastructure engineer role at Sezzle, a fintech BNPL platform, requiring 12+ years and paying $12,500-$20,800 USD per month gross. Infrastructure leadership focus; stack is cut off in the excerpt.",
+    "matched_keywords": [
+      "fintech"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech domain and remote arrangement",
+      "Senior technical leadership scope"
+    ],
+    "cons": [
+      "Infrastructure/platform focus rather than backend Java development",
+      "Requires 12+ years, above the stated experience",
+      "Stack not confirmed in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_58-5",
+    "title": "Senior Java Developer at Globaldevgroup",
+    "company": "Globaldevgroup",
+    "location": "Groningen, Netherlands",
+    "link": "https://www.arbeitnow.nl/jobs/companies/globaldevgroup/senior-java-developer-groningen-80634",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Java backend developer role in Groningen, Netherlands, on a consultancy basis, requiring Java, Spring Boot, Kotlin and Kubernetes. Fluent Dutch is required; salary not specified.",
+    "matched_keywords": [
+      "java",
+      "spring",
+      "backend"
+    ],
+    "score": 68,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Java and Spring Boot backend match the core stack",
+      "Senior-level scope with Kubernetes and cloud exposure",
+      "Consultancy environment fits enterprise delivery experience"
+    ],
+    "cons": [
+      "Fluent Dutch required",
+      "Kotlin is an extra requirement not evident in the profile",
+      "Groningen location, relocation or hybrid terms unknown"
+    ]
+  }
+]

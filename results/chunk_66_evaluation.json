@@ -1,0 +1,136 @@
+[
+  {
+    "id": "chunk_66-1",
+    "title": "Detection & Response Lead at Nebius",
+    "company": "Nebius",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/155171-detection-response-lead",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Lead role building detection engineering and incident response for Nebius Cloud in Europe, leading a small team of analysts and engineers.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Engineering leadership in a cloud company"
+    ],
+    "cons": [
+      "Security operations domain, not Java backend",
+      "Team leadership over application development"
+    ]
+  },
+  {
+    "id": "chunk_66-2",
+    "title": "Programmatic Account Manager, Enterprise at StackAdapt",
+    "company": "StackAdapt",
+    "location": "UK",
+    "link": "https://jobicy.com/jobs/155170-programmatic-account-manager-enterprise",
+    "source": "Jobicy_Dev",
+    "salary": "56461 - 77634 GBP",
+    "salary_currency": "GBP",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Account manager for enterprise clients on an advertising platform, focused on campaign performance, retention and expansion. Prioritizes London.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise client context"
+    ],
+    "cons": [
+      "Account management, no engineering",
+      "Ad-tech domain, prioritizes London"
+    ]
+  },
+  {
+    "id": "chunk_66-3",
+    "title": "Sr. Software Engineer (Remote Eligible from Bulgaria) at Smartsheet",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "link": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
+    "source": "Jobicy_Dev",
+    "salary": "$10",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "20 years",
+    "description_review": "Senior software engineer role at a work management SaaS company, remote-eligible from Bulgaria. The core platform combines a legacy Java monolith with microservices in Java and Go on AWS, with AI agent work.",
+    "matched_keywords": [
+      "java",
+      "microservices",
+      "ai agent",
+      "legacy"
+    ],
+    "score": 82,
+    "recommendation": "APPLY",
+    "pros": [
+      "Legacy Java monolith and microservices match the modernization profile",
+      "Senior role on AWS with infrastructure as code",
+      "AI agents in the product roadmap"
+    ],
+    "cons": [
+      "Go and Kotlin also used in the stack",
+      "Remote eligibility limited to Bulgaria",
+      "SaaS product rather than banking or fintech"
+    ]
+  },
+  {
+    "id": "chunk_66-4",
+    "title": "QA Automation Lead [gn] Data Intelligence at Actian",
+    "company": "Actian",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "QA automation lead role designing test frameworks and CI/CD quality gates for a data intelligence platform in Europe, leading a team of automation engineers.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical authority and CI/CD integration"
+    ],
+    "cons": [
+      "Testing and QA focus, not product development",
+      "Leads QA team rather than backend Java services"
+    ]
+  },
+  {
+    "id": "chunk_66-5",
+    "title": "Business Development Representative - Dutch Speaker at Algolia",
+    "company": "Algolia",
+    "location": "France",
+    "link": "https://jobicy.com/jobs/155217-business-development-representative-dutch-speaker",
+    "source": "Jobicy_AI",
+    "salary": "51000 - 67000 EUR",
+    "salary_currency": "EUR",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Sales development role at a search platform company in France, focused on outbound prospecting and pipeline growth. Requires Dutch language.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customer context"
+    ],
+    "cons": [
+      "Sales role, no engineering",
+      "Dutch speaker required"
+    ]
+  }
+]

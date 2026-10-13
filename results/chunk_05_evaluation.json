@@ -1,133 +1,126 @@
 [
   {
     "id": "chunk_05-1",
-    "title": "AI agent engineer at Sticker Mule",
-    "company": "Sticker Mule",
-    "location": "",
-    "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-    "source": "RemoteOK_AI",
-    "salary": "150000",
-    "salary_currency": "USD",
-    "salary_period": "year",
+    "title": "Salesloft: Principal Software Engineer, AI",
+    "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Fully remote role to build and run AI agents for commerce operations. Stack is Go, TypeScript, GraphQL, Postgres and GCP, with pay of $150k-$250k USD.",
+    "description_review": "Principal individual-contributor engineer setting technical direction for AI in a predictive revenue SaaS platform, architecting LLM, ML and agentic workflow systems at scale. Remote US. Principal seniority; language and stack not stated in the excerpt.",
     "matched_keywords": [
-      "typescript",
-      "ai agent"
+      "enterprise"
     ],
-    "score": 55,
-    "recommendation": "SKIP",
+    "score": 78,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Hands-on AI agent building matches the applied AI profile",
-      "Fully remote with USD salary range"
+      "Principal architecture role on production LLM and agentic systems matches applied AI and architecture priorities",
+      "Enterprise-scale system design matches senior profile"
     ],
     "cons": [
-      "Stack is Go/TypeScript, not Java/Spring",
-      "Commerce domain, not banking/fintech"
+      "Revenue SaaS domain rather than banking or fintech",
+      "Java and Spring Boot not stated in the excerpt"
     ]
   },
   {
     "id": "chunk_05-2",
-    "title": "Scrum Master at Blackstone Talent Group",
-    "company": "Blackstone Talent Group",
-    "location": "Dallas-Fort Worth Metroplex",
-    "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
-    "source": "RemoteOK_AI",
-    "salary": "0",
-    "salary_currency": "N/A",
-    "salary_period": "day",
-    "years_experience": "3 years",
-    "description_review": "6-month contract Scrum Master role supporting team-level Agile delivery under a senior lead. Requires 1-3 years in an Agile delivery role; no engineering stack.",
+    "title": "Lithic: Senior Software Engineer, Card Authorization",
+    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior engineer on a real-time card authorization team owning distributed systems, a fraud rules engine and 3D Secure integration for a card issuing and processing platform serving fintechs. Remote, New York headquarters; language not stated.",
     "matched_keywords": [
-      "spring"
+      "fintech",
+      "banking",
+      "legacy"
     ],
-    "score": 10,
-    "recommendation": "SKIP",
+    "score": 72,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Agile process knowledge transfers from senior engineering background"
+      "Senior distributed systems at scale in payments matches banking and fintech domain",
+      "Modernizing legacy processors aligns with legacy modernization interest"
     ],
     "cons": [
-      "Non-engineering role",
-      "Keyword match on Spring is unrelated to Spring Boot",
-      "Junior-level Agile delivery requirement"
+      "Java and Spring Boot not stated in the excerpt",
+      "Card-network and fraud domain knowledge not in profile"
     ]
   },
   {
     "id": "chunk_05-3",
-    "title": "Help Desk at Zenius Corporation",
-    "company": "Zenius Corporation",
-    "location": "Colorado, ",
-    "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
-    "source": "RemoteOK_AI",
-    "salary": "0",
+    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+    "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Remote Tier 1/2 help desk specialist for a grants management system. Focus is ticket handling, user accounts and training, with 2+ years of support experience required.",
+    "description_review": "Director leading an applied AI team building the B2B data graph that AI agents reason over, combining ML, LLM and agentic systems with hands-on coding. US remote and several US offices. Management role with code ownership.",
     "matched_keywords": [
-      "enterprise"
+      "ai agent"
     ],
-    "score": 8,
-    "recommendation": "SKIP",
+    "score": 72,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise web application exposure"
+      "Applied AI and agentic systems ownership matches applied GenAI and multi-agent experience",
+      "Hands-on code and architecture decisions match senior engineering profile"
     ],
     "cons": [
-      "Support role, not software engineering",
-      "No Java, Spring or architecture scope"
+      "Director-level people management is heavier than the profile emphasis",
+      "Data graph domain and ML focus not in profile"
     ]
   },
   {
     "id": "chunk_05-4",
-    "title": "Junior Project Designer at Archinect",
-    "company": "Archinect",
-    "location": "Hoboken, ",
-    "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
-    "source": "RemoteOK_AI",
-    "salary": "0",
+    "title": "Dremio: Software Engineer - Developer Experience",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Full-time junior architectural project designer role at an architecture firm in New Jersey, with remote possible. Focus is design and construction documentation.",
-    "matched_keywords": [
-      "architecture",
-      "legacy"
-    ],
-    "score": 3,
-    "recommendation": "SKIP",
-    "pros": [],
-    "cons": [
-      "Architectural design, not software architecture",
-      "Junior level",
-      "Unrelated domain"
-    ]
-  },
-  {
-    "id": "chunk_05-5",
-    "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
-    "company": "Liquid AI",
-    "location": "Cambridge",
-    "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
-    "source": "RemoteOK_ML",
-    "salary": "0",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Applied ML role adapting recommendation foundation models for enterprise customers, owning engagements end-to-end. Enterprise delivery is relevant, but ML research and recommender focus is not the candidate's core stack; salary not listed.",
+    "description_review": "Software engineer implementing and maintaining CI/CD systems and developer productivity tooling for a lakehouse platform. Remote Portugal; includes break-fix support. Seniority not stated.",
     "matched_keywords": [
       "architecture",
       "enterprise"
     ],
-    "score": 35,
+    "score": 45,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise AI delivery ownership",
-      "Applied AI and production deployment focus"
+      "Infrastructure automation and tooling work aligns with automation priority",
+      "Enterprise platform context"
     ],
     "cons": [
-      "ML/recommender focus, not Java backend",
-      "Stack and seniority not specified in the job data",
-      "Salary not disclosed"
+      "DevOps and CI/CD focus, weak fit per profile",
+      "No Java, Spring Boot or backend service work mentioned"
+    ]
+  },
+  {
+    "id": "chunk_05-5",
+    "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior staff engineer owning the query execution runtime of a lakehouse platform: operators, memory management, scheduling and performance optimization at scale. Remote Portugal; language not stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior staff level with system architecture ownership matches seniority",
+      "Enterprise-scale distributed reliability work"
+    ],
+    "cons": [
+      "Database engine internals (operators, vectorized execution) outside profile domain",
+      "Java and Spring Boot not mentioned"
     ]
   }
 ]

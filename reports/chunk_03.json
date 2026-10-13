@@ -3,70 +3,71 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Tailscale: Backend Engineer, Control Plane",
-      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the pro",
-      "matched_keywords": [
-        "backend"
-      ]
-    },
-    {
-      "title": "Tailscale: Backend Engineer, Control Plane",
-      "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale&nbsp; Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.Job Description We’re seeking a skilled and diligent full-time Software Engineer to join our growing Control Plane Team. You will work as part of the engineering team to: Develop the Tailscale product, contributing to both open source client code and related backend services; Take ownership of the entire product lifecycle, from writing code to product ideation and strategic decision-making; Work closely with UX/UI designers and product managers to shape features. Because we’re an early-stage and fully remote company, we’re looking for a strongly motivated individual who can help move the product fo",
-      "matched_keywords": [
-        "backend"
-      ]
-    },
-    {
-      "title": "Stripe: Abuse Research Engineer",
-      "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+      "title": "Abnormal: Director of Security Engineering",
+      "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "AUD",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and identifies product conditions that enable fraud. Using agentic automated testing and simulation tools, ARG translates research into actionable threat advisories, strategic control recommendations, and regression scenarios to systematically eliminate vulnerabilities. What you’ll do As an Abuse Research Engineer in the Abuse Research Group, you will play a critical role in safeguarding Stripe’s financial ecosystem by proactively hunting for advanced threats, dissecting complex fraud vectors, and extracting actionable adversary intelligence. &nbsp;Rather than relying solely on reactive alerts, you will develop and execute hypothesis-driven threat hunting operations across internal telemetry and",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the product we sell and the trust our customers place in us. Our security organization operates a commercial cloud environment and a separate FedRAMP-authorized environment, and we are pursuing increasingly rigorous federal authorizations as we grow. We are hiring a Director of Security reporting to the CISO and leading the Security Engineering organization. You will build and scale high-performing security teams, own major security programs end to end, and operate autonomously in the CISO's absence, including representing security to executive leadership, customers, and auditors. This is a role for a deeply technical leader with a software engineering background who has grown into people leadership. You have built security teams from the ground up, you write and review code and architecture when it matters, and you believe the best security organizations earn their influence through partnership rather than policy enforcement. Our Security Philosophy We run security the way the best engineering-led companies do: Security reduces toil. Our job is to make the rest of the company faster and safer at the same time. If a control adds friction without reducing risk, it is a defect. Paved paths, safe by default. We invest in guardrails, golden paths, and secure-by-default inf",
       "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Dremio: Software Engineer - Query Execution",
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the roleDremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution. As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.What you’ll be doing Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management. Develop reliable software: Write clear, maintainab",
+      "matched_keywords": [
+        "architecture",
         "enterprise"
       ]
     },
     {
-      "title": "Lithic: Senior Risk Associate",
-      "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+      "title": "Lemon.io: Senior Angular Full-stack Developer",
+      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
       "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "N/A",
+      "salary": "$11M",
+      "salary_currency": "USD",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp; We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;We are hiring a Senior Risk Associate to run Lithic's risk assessment function: the client risk assessment program, the third party risk management program, and the enterprise risk assessment. You will execute the assessments, own the operations that keep them on schedule and defensible, and continuously improve the rubrics, questionnaires, registers, and SOPs that govern them. You will also own program underwriting: the criteria, limit and reserve recommendations, and periodic reassessment that follo",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp; PHP, Angular &amp; .NET &amp; TypeScript, Angular &amp; Node, Angular &amp; TypeScript, React &amp; PHP,",
       "matched_keywords": [
-        "enterprise",
-        "fintech",
-        "banking",
-        "legacy"
+        "angular",
+        "typescript",
+        "node"
       ]
     },
     {
-      "title": "Salesloft: Principal Software Engineer, AI",
-      "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+      "title": "PagerDuty: Senior Director, Field Enablement",
+      "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location: Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate. Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future. THE OPPORTUNITY At Salesloft, our Principal Engineer for AI sets the technical direction for how machine intelligence works across our Predictive Revenue System. This is the most senior individual-contributor role on our AI engineering team: you will architect the systems that turn LLMs, machine learning models, and agentic workflows into production capabilities that thousands of enterprise revenue teams depend on. This is deep, ambiguous, frontier work. You will make the foundational architectural decisions for AI at Salesloft — how we serve models at scale, how we bui",
+      "description": "Headquarters: Remote (USA - San Francisco, CA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp;ABOUT THE ROLE PagerDuty is seeking a Sr. Director, Field Enablement to join our diverse, customer-focused team! As Sr. Director of&nbsp; Field Enablement, you will lead a team of enablement professionals supporting our sales, customer success, and partnership organizations.&nbsp; You will build and scale our global enablement function to ensure our customer-facing teams are equipped to sell and support our diversifying product portfolio as we enter our next phase of growth. This is an exciting opportunity to shape the enablement strategy for a high-growth SaaS company and directly improve teams' capabilities and productivity worldwide. The ideal candidate is a strategic, seasoned enablement leader passionate a",
       "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
+      "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs, developer tools, cloud infrastructure, and product experiences that make this possible. The work spans high-scale distributed systems, reliable data and event pipelines, intuitive enterprise workflows, and AI-powered capabilities that help teams manage the next generation of software delivery. LaunchDarkly’s SDKs are used in systems that perform trillions of feature flag evaluations each day, giving our engineering work a direct connection to the reliability and customer experience of software around the world. As the company grows, we are expanding beyond traditional feature management into experimentation, observability, and AgentControl—helping customers control more of the software and AI lifecycle. That creates an unusually broad set of technical challenges, visible customer impact, and room for engineers to shape what comes next. We believe in the power of teams. We work with humility, openness, curiosity, and care; we value clear communication, thoughtful technical judgment, inclusive collaboration, and a strong sense of ownership. We e",
+      "matched_keywords": [
+        "backend",
         "enterprise"
       ]
     }

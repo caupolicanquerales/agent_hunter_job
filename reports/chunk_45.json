@@ -1,0 +1,82 @@
+{
+  "chunk": 45,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior AI Platform & Research Infrastructure Engineer (m/f/d) at Lrz",
+      "company": "Lrz",
+      "location": "Garching bei München",
+      "link": "https://www.arbeitnow.com/jobs/companies/lrz/senior-ai-platform-research-infrastructure-engineer-garching-bei-munchen-164823",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description:Looking for an employer you can count on? Join us!Senior AI Platform &amp; Research Infrastructure Engineer (m/f/d)Your Role and Responsibilities:Design, develop, and operate a federated AI platform and model management environment for universities and research institutions.Develop web applications, APIs, backend services, and platform components for AI model lifecycle management.Build and integrate AI middleware, model registries, API gateways, authentication services, and multi-tenant platform capabilities.Implement governance, approval, deployment, monitoring, and automation workflows for AI services and models.Develop and operate Kubernetes-based cloud-native infrastructure, including CI/CD, monitoring, logging, and automation.Collaborate with research partners, platform operators, and stakeholders in a national research infrastructure environment.Your Qualifications:Required/Minimum QualificationsMaster's degree (or equivalent) in Computer Science, Software Engineering, Artificial Intelligence, or a related field. Other Requirements Professional experience in software engineering and distributed systems.Strong programming skills in Python, Go, or similar technologies.Experience with APIs, databases, cloud-native technologies, containers, and Kubernetes.Knowledge of authentication, authorization, identity management, and DevOps practices.Strong analytical, communication, and collaboration skills.Professional proficiency in English. Additional or Preferred Qual",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Working Student Business Applications (m/f/d) at DocuWare",
+      "company": "DocuWare",
+      "location": "Germering / Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/docuware/working-student-business-applications-germering-germany-28850",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Why should you join?DocuWare stands for globally distributed, international teams and an open corporate culture that invites you to help shape it. Mobile Work and flexible working hours are part of our everyday life. Would you like to be part of an innovative company whose solutions are digitizing everyday work in a wide range of industries? In that case, we are happy to welcome you to the team.Your ResponsibilitiesAs a Working Student Business Applications (m/f/d) you can complement your theoretical knowledge from your studies with high-quality practical experience. In addition, you work in a company that can offer you growth opportunities and career prospects.Your responsibilities will include: You will support our international team in their daily tasks such as implementation, rolling out, maintenance, operation and development of our business applications.Additionally, you will learn new technologies and programming languages and apply them in your own small projects.You will bring new ideas and perspectives to our team.Together with your team you will drive the automation process forward.What you need to succeedYou are an enrolled student (m/w/d) in the field of (business) informatics or a related field.You already have experience with JavaScript and C# or Dynamics 365.You have fluent english skills in both spoken and written language.Furthermore, you want to make a difference, be actively involved in shaping the future and continue to develop your skills.Personally, it ",
+      "matched_keywords": [
+        "java"
+      ]
+    },
+    {
+      "title": "Account Executive (m/f/d) at Mercanis",
+      "company": "Mercanis",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/mercanis/account-executive-berlin-137988",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Deine AufgabenAls Account Executive (m/w/d) bei Mercanis bist du der zentrale Umsatztreiber für unser bestehendes Kundenportfolio im gehobenen Mittelstand und Enterprise-Segment. Nach unserer erfolgreichen Vertriebs-Restrukturierung trennen wir \"Hunting\" und \"Farming\" konsequent: Du übernimmst die volle Vertriebs- und Deal-Verantwortung für ein exklusives Territory von ca. 60–70 bestehenden Accounts.Deine Mission: Du identifizierst ungenutzte Cross- und Upsell-Potenziale, navigierst souverän durch komplexe C-Level-Buying-Center, steuerst vielschichtige Deal-Zyklen bis zum Verhandlungsabschluss und maximierst so nachhaltig unsere Net Revenue Retention (NRR). Wenn du ein tiefes Verständnis für B2B-SaaS-Vertriebsmethodiken mitbringst und Bestandskunden nicht nur betreuen, sondern durch echten Mehrwert strategisch ausbauen willst, ist dies deine perfekte Gelegenheit.Dein AufgabenbereichExpansion &amp; ARR-Wachstum: Du steuerst den gesamten Verkaufszyklus für Upsell-, Cross-Sell- und Modul-Erweiterungen in einem Portfolio von ca. 60–70 Bestandskunden und triffst deine eigenen Quota-Ziele.Pipeline-Generierung im Bestand: Du analysierst deine Accounts eigenständig auf White Spots, identifizierst neue Anwendungsfälle im Bereich Einkauf &amp; Supply Chain Management und generierst aktiv qualifizierte Expansion-Pipeline.Strategisches Closing &amp; C-Level Selling: Du navigierst komplexe Buying Center (CPO, CFO, IT-Leitung), baust Belieber- &amp; Champion-Netzwerke auf Executive-Ebene a",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior Data Engineer at Kpler",
+      "company": "Kpler",
+      "location": "Germany",
+      "link": "https://www.arbeitnow.com/jobs/companies/kpler/senior-data-engineer-germany-418300",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. &nbsp; Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success. &nbsp;About the Role As a Senior Data Engineer on our Maritime Models team, you will take technical ownership of the core data pipelines and distributed storage architectures powering Kpler's vessel tracking and predictive analytics. You will design, scale, and optimize high-throughput batch and streaming pipelines that ingest raw maritime telemetry and transform it into actionable intelligence. Working with distributed NoSQL systems like Apache HBase at scale, your work directly ensures the freshness, accuracy, and reliability of the data models our global customers depend on. &nbsp;Key Responsibilities &nbsp; Architect, build, and operate high-throughput batch and streaming data pipelines using Java, Python, Apache Kafka, Apache Flink, and Airflow. Design, tune, and maintain scalable distributed N",
+      "matched_keywords": [
+        "java",
+        "architecture"
+      ]
+    },
+    {
+      "title": "Senior Network & Security Engineer (w/m/x/d) at MILES Mobility",
+      "company": "MILES Mobility",
+      "location": "Berlin",
+      "link": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-network-security-engineer-d-berlin-111274",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "Join the ride! You own the network and security posture of our platform end to end: the cloudenvironments our services run in, the connections between vehicles, offices (VPN),back-office systems (Admin-Tools), and the controls that keep customer and paymentdata safe.Our product runs on the street around the clock. Your work keeps it reachable, keeps thewrong people out, and makes every change to the network reviewable and reversible. Your Responsibility Design, build and run our cloud networks: VPCs, routing, DNS, load balancing, private connectivity and zero-trust access for staff and services Own identity and access: single sign-on, multi-factor authentication, roles and least-privilege access across cloud, tools and application systems Harden the platform: firewall and WAF policy, TLS and certificate lifecycle, secrets management, host and container baselines Run vulnerability management from scan to fix, and lead security incident response with clear write-ups Keep all network and security configuration as code, reviewed and deployed through CI Monitor for abuse and outages, and set alerting that wakes people only when it should Support audits and customer security questionnaires with evidence that already exists Effectively deploy and use AI agents Your Experience 5+ years running production networks and security for an online service, with on-call experience Deep networking fundamentals: TCP/IP, DNS, TLS, routing, VPN and firewalls, on a public cloud and on physical off",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    }
+  ]
+}

@@ -1,140 +1,132 @@
 [
   {
     "id": "chunk_02-1",
-    "title": "Senior Fullstack Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925599/",
-    "source": "WorkingNomads_AI",
+    "title": "Toptal: Apigee Engineer for Global Consumer Food Company",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+    "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior full-stack .NET role owning ASP.NET Core backend services and APIs plus modern frontend work, with architecture decisions and mentoring. Long-term remote, CET +/- 3 hours. Salary not stated.",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Platform engineering/operations role supporting Apigee, Apigee Hybrid and APIs/microservices with Java and Spring Boot, in an enterprise food and beverage client. Seniority not stated; contract-style (Toptal), rate per day.",
     "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack"
-    ],
-    "score": 55,
-    "recommendation": "SKIP",
-    "pros": [
-      "Owns backend services, APIs and architecture decisions",
-      "Mentoring and end-to-end feature delivery match senior profile"
-    ],
-    "cons": [
-      ".NET/C# is not the candidate's core stack; .NET-only is a weak fit",
-      "Restricted to CET time zone"
-    ]
-  },
-  {
-    "id": "chunk_02-2",
-    "title": "Senior Backend Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925598/",
-    "source": "WorkingNomads_AI",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "6+ years",
-    "description_review": "Senior .NET backend architect role designing enterprise-level, high-throughput distributed systems and cloud-native infrastructure for a client team. Remote, CET +/- 3 hours. Salary not stated.",
-    "matched_keywords": [
-      "backend",
+      "java",
+      "spring",
+      "microservices",
       "enterprise"
     ],
     "score": 58,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise-scale distributed architecture matches the profile's architecture focus",
-      "6+ years backend experience"
+      "Java and Spring Boot API/microservices support matches stack",
+      "Enterprise-scale platform work aligns with enterprise profile"
     ],
     "cons": [
-      ".NET is not the candidate's core stack",
-      "Restricted to CET time zone"
+      "Role is platform operations-centric (patches, monitoring, certificates), closer to DevOps",
+      "Apigee and Drupal specific tooling not in profile"
+    ]
+  },
+  {
+    "id": "chunk_02-2",
+    "title": "Toptal: Full-Stack E-commerce Developer with Sage X3 Experience",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Full-stack developer building a dealer e-commerce portal integrated with an existing Sage X3 ERP via SOAP and GraphQL. Requires Python, JavaScript, Node.js, PHP, MySQL. Remote, manufacturing context.",
+    "matched_keywords": [
+      "java",
+      "fullstack",
+      "full-stack",
+      "node"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Full-stack work with REST/SOAP/GraphQL API integration matches integration experience"
+    ],
+    "cons": [
+      "Python/PHP/MySQL-centric, no Java or Spring Boot",
+      "Sage X3 ERP and commerce niche not in profile"
     ]
   },
   {
     "id": "chunk_02-3",
-    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925596/",
-    "source": "WorkingNomads_AI",
+    "title": "Vercel: Software Engineer, Backend",
+    "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+    "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
-    "salary_currency": "AUD",
+    "salary_currency": "CAD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Backend-heavy senior AI role architecting agentic workflows where AI systems reason, use tools and execute coding tasks, integrated with production backends. Remote, CET +/- 3 hours. Salary not stated in USD.",
+    "description_review": "Backend-leaning software engineer designing scalable, high-performance systems for user, group and membership management using JavaScript/TypeScript, Node.js, SQL/NoSQL and AWS. Remote US or hybrid in SF, NY, London or Berlin.",
     "matched_keywords": [
+      "java",
       "backend",
-      "fullstack",
-      "full-stack",
-      "ai agent"
+      "typescript",
+      "node"
     ],
-    "score": 82,
-    "recommendation": "APPLY",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Architecting agentic workflows matches the profile's multi-agent and Spring AI experience",
-      "Backend-heavy production systems fit the strong backend signal"
+      "Backend focus on scalable, secure, reliable services matches architecture priorities",
+      "Cross-team delivery on large-scale projects matches senior-level profile"
     ],
     "cons": [
-      "Claude ecosystem focus is not in the profile",
-      "Language-agnostic role, but the posting names no Java or Spring stack"
+      "TypeScript/Node/AWS stack, no Java or Spring Boot stated",
+      "Seniority level not stated"
     ]
   },
   {
     "id": "chunk_02-4",
-    "title": "Senior Salesforce Developer at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925592/",
-    "source": "WorkingNomads_AI",
-    "salary": "N/A",
-    "salary_currency": "N/A",
+    "title": "Maven Clinic: Client Success Manager",
+    "link": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$425 m",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "4 years",
-    "description_review": "Senior Salesforce developer with Apex, Visualforce, LWC and SOQL, building custom integrations via REST and SOAP. Remote, CET +/- 3 hours. Salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Client success manager role at a virtual women's health company serving employers and health plans. Non-engineering customer-facing role; remote US hub cities. Salary field refers to company funding, not compensation.",
     "matched_keywords": [
-      "architecture"
+      "enterprise"
     ],
-    "score": 25,
+    "score": 8,
     "recommendation": "SKIP",
     "pros": [
-      "REST API integration experience overlaps with the profile"
+      "B2B enterprise client relationships could transfer from enterprise context",
+      "Remote-friendly company in a regulated industry"
     ],
     "cons": [
-      "Salesforce platform development is outside the candidate's stack",
-      "Restricted to CET time zone"
+      "Non-engineering customer success role",
+      "No Java, backend or architecture work"
     ]
   },
   {
     "id": "chunk_02-5",
-    "title": "Senior SAP S/4HANA Developer at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925590/",
-    "source": "WorkingNomads_AI",
+    "title": "Typeform: Full Stack Developer",
+    "link": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+    "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior SAP S/4HANA developer leading backend and full-stack work with ABAP RAP, CDS and SAP BTP side-by-side extensions for enterprise landscapes. Remote, CET +/- 3 hours. Salary not stated.",
+    "description_review": "Mid-level full stack engineer with a stronger backend focus, building internal platforms, APIs, automation and release pipelines for Typeform's product development. Fully remote in UK, Ireland, Germany, Portugal, Spain or Netherlands.",
     "matched_keywords": [
       "backend",
-      "enterprise",
       "fullstack",
-      "full-stack",
-      "legacy"
+      "full-stack"
     ],
-    "score": 30,
-    "recommendation": "SKIP",
+    "score": 66,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise modernization and clean-core architecture overlap with the profile"
+      "Backend-focused full stack role matches full-stack plus backend depth",
+      "APIs, automation and internal platform work match modern architecture priorities"
     ],
     "cons": [
-      "ABAP and SAP platform are outside the candidate's stack",
-      "Restricted to CET time zone"
+      "Mid-level rather than senior",
+      "Node/TypeScript-centric stack; Java not mentioned"
     ]
   }
 ]

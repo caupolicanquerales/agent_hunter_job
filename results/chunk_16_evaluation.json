@@ -1,130 +1,123 @@
 [
   {
     "id": "chunk_16-1",
-    "title": "Senior Data Scientist at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-    "source": "Remotive_AI",
-    "salary": "$11M",
-    "salary_currency": "USD",
-    "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior data scientist contract role requiring Python, Databricks and RAG/LLM experience, via a freelance marketplace. Requires 4+ years as a data scientist.",
+    "title": "Regional Sales Director, US SLED West at Abnormal AI",
+    "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/regional-sales-director-us-sled-west-870875",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Sales leadership role managing an enterprise SLED team in the US West for an AI security vendor. Targets quota and team hiring, not engineering; no technical stack described.",
     "matched_keywords": [
-      "architecture"
+      "enterprise"
     ],
-    "score": 45,
+    "score": 5,
     "recommendation": "SKIP",
     "pros": [
-      "Application architecture understanding is requested"
+      "Enterprise software vendor with AI security focus"
     ],
     "cons": [
-      "Data science focus, not backend engineering",
-      "$11M is the marketplace payout total, not a salary"
+      "Non-technical sales leadership role",
+      "No Java, Spring Boot or architecture scope"
     ]
   },
   {
     "id": "chunk_16-2",
-    "title": "Senior Independent AI Engineer / Architect at A.Team",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-    "source": "Remotive_AI",
-    "salary": "$200M",
-    "salary_currency": "USD",
+    "title": "Enterprise Account Executive, New England at Abnormal AI",
+    "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/enterprise-account-executive-new-england-870872",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior AI engineer and architect for an invite-only network building production agent architectures, orchestration and enterprise AI deployments, remote in the Americas, Europe or Israel. Seniority is senior with a track record of shipping.",
+    "description_review": "Enterprise account executive sales role for a behavioral AI security product in a New England territory, requiring local residence. Pure quota-carrying sales with no engineering stack.",
     "matched_keywords": [
-      "architecture",
       "enterprise"
     ],
-    "score": 82,
-    "recommendation": "APPLY",
+    "score": 3,
+    "recommendation": "SKIP",
     "pros": [
-      "Agent architecture and orchestration match multi-agent experience",
-      "Enterprise AI deployments and production shipping match the profile",
-      "Architect-level scope matches software architecture focus"
+      "Enterprise B2B software vendor"
     ],
     "cons": [
-      "Stack not specified, Java/Spring not mentioned",
-      "Independent contractor model, not a permanent role",
-      "$200M is the network total earnings, not a salary"
+      "Sales role, not engineering",
+      "Requires New England residence",
+      "No technical stack"
     ]
   },
   {
     "id": "chunk_16-3",
-    "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
-    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "source": "Remotive_Dev",
-    "salary": "N/A",
-    "salary_currency": "EUR",
+    "title": "Solutions Architect - West at Endor Labs",
+    "link": "https://remotefirstjobs.com/companies/endor-labs/jobs/solutions-architect-west-870871",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "$0 to $300M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Tech lead role architecting LLM-powered web apps on a microservices-based Rails 8 platform for fintech investing brands, reporting to the CTO. Seniority is lead level, remote within ±3 hours of Eastern Time.",
+    "description_review": "Solutions architect role for a software supply chain and AI code security vendor, western US territory. The posting is customer-facing and centered on security product positioning; the salary field is invalid and no years of experience are stated.",
     "matched_keywords": [
-      "microservices",
-      "fintech",
-      "fullstack",
-      "full-stack"
+      "enterprise",
+      "ai agent"
     ],
-    "score": 68,
-    "recommendation": "CONSIDER",
+    "score": 42,
+    "recommendation": "SKIP",
     "pros": [
-      "Fintech domain and microservices architecture match the profile",
-      "LLM integration and architecture ownership match applied AI and modernization"
+      "Architecture-oriented title",
+      "Enterprise and AI agent security context"
     ],
     "cons": [
-      "Ruby on Rails stack, no Java or Spring Boot",
-      "Frontend-leaning full-stack scope"
+      "Customer-facing pre-sales focus rather than hands-on Java development",
+      "Security domain outside the profile core",
+      "Invalid salary data"
     ]
   },
   {
     "id": "chunk_16-4",
-    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925654/",
-    "source": "WorkingNomads_AI",
+    "title": "Account Executive, SLED at Abnormal AI",
+    "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/account-executive-sled-870870",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior backend developer on Node.js and Nest.js for REST/GraphQL APIs and scalable web applications, remote full-time, CET timezone. Requires 5+ years with Node.js.",
+    "years_experience": "N/A",
+    "description_review": "Account executive sales role selling AI security to state, local and education agencies in the NorCal territory. Quota-driven sales position with no engineering stack.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "typescript",
-      "node"
+      "enterprise",
+      "legacy"
     ],
-    "score": 55,
+    "score": 3,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend API scope matches backend focus",
-      "TypeScript and database experience overlap with the stack"
+      "Enterprise public-sector software vendor"
     ],
     "cons": [
-      "Node.js/Nest.js stack, no Java or Spring Boot",
-      "Timezone restricted to CET +/- 3 hours",
-      "Matched on the word java in unrelated text, not a Java role"
+      "Sales role, not engineering",
+      "Requires NorCal residence",
+      "No technical stack"
     ]
   },
   {
     "id": "chunk_16-5",
-    "title": "Senior Cloud Engineer (Azure) at Proxify",
-    "link": "https://www.workingnomads.com/job/go/1925640/",
-    "source": "WorkingNomads_AI",
+    "title": "Back End Engineer at Codekeeper",
+    "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/back-end-engineer-870863",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior cloud engineer owning Azure landing zones, container orchestration and CI/CD automation for an enterprise client, remote, CET timezone. Requires 5+ years of cloud engineering.",
+    "years_experience": "N/A",
+    "description_review": "Back end engineer role on a Ruby on Rails and React stack hosted on AWS for a software escrow product. Hands-on feature development with autonomy; seniority and salary not stated.",
     "matched_keywords": [
-      "enterprise"
+      "backend"
     ],
-    "score": 25,
+    "score": 35,
     "recommendation": "SKIP",
     "pros": [
-      "Enterprise-scale infrastructure experience"
+      "Back end engineering role with code review and architecture input"
     ],
     "cons": [
-      "Pure cloud/DevOps role, weak fit for the profile",
-      "Timezone restricted to CET +/- 3 hours"
+      "Ruby on Rails stack, not Java/Spring Boot",
+      "No microservices or enterprise modernization signal in the posting"
     ]
   }
 ]

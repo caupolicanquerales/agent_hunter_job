@@ -1,0 +1,144 @@
+[
+  {
+    "id": "chunk_38-1",
+    "title": "Senior Data Scientist at Lemon.io",
+    "company": "Lemon.io",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+    "source": "Remotive_AI",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "4+ years",
+    "description_review": "Senior data scientist working with Python, Databricks and RAG or LLM systems on a freelance marketplace, remote. Requires 4+ years of commercial data science experience.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Application architecture understanding is noted"
+    ],
+    "cons": [
+      "Data science role, not software engineering",
+      "Python and Databricks focus, not Java",
+      "Freelance marketplace model"
+    ]
+  },
+  {
+    "id": "chunk_38-2",
+    "title": "Senior Independent AI Engineer / Architect at A.Team",
+    "company": "A.Team",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+    "source": "Remotive_AI",
+    "salary": "$200M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior AI engineer and architect for production agent architectures, orchestration and enterprise AI deployments, remote in the Americas, Europe or Israel. Invite-only network; salary and stack not stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Agent architectures and orchestration match the applied AI experience",
+      "Enterprise AI deployments and production shipping align with the profile",
+      "Architect scope matches senior software architecture focus"
+    ],
+    "cons": [
+      "Stack and Java usage not stated in the posting",
+      "AI-centric, not a Java or Spring backend role",
+      "Network model with no confirmed compensation details"
+    ]
+  },
+  {
+    "id": "chunk_38-3",
+    "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
+    "company": "Mitre Media",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "source": "Remotive_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Tech lead for LLM-powered full-stack Rails 8 applications in a microservices platform for investing products, remote within 3 hours of Eastern Time, reporting to the CTO. Senior level; salary not disclosed.",
+    "matched_keywords": [
+      "microservices",
+      "fintech",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Tech lead and architecture ownership match the senior scope",
+      "Fintech domain with LLM integration aligns with the applied AI focus",
+      "Microservices platform experience applies"
+    ],
+    "cons": [
+      "Ruby on Rails primary stack, not Java or Spring",
+      "Salary not disclosed",
+      "Time zone tied to Eastern Time"
+    ]
+  },
+  {
+    "id": "chunk_38-4",
+    "title": "Senior Full-stack PHP Developer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, LATAM, APAC, the U.S., Canada",
+    "link": "https://www.workingnomads.com/job/go/1938564/",
+    "source": "WorkingNomads_AI",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "4+ years",
+    "description_review": "Senior full-stack freelance role on a marketplace for startup projects, with React, Angular or Vue paired with PHP or Laravel. Remote, 4+ years experience; rate depends on seniority.",
+    "matched_keywords": [
+      "angular",
+      "vue"
+    ],
+    "score": 34,
+    "recommendation": "SKIP",
+    "pros": [
+      "Full-stack with Angular or Vue matches the frontend stack"
+    ],
+    "cons": [
+      "PHP and Laravel, not Java or Spring",
+      "Freelance marketplace model, not an enterprise employment role",
+      "No banking or fintech domain signal"
+    ]
+  },
+  {
+    "id": "chunk_38-5",
+    "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
+    "company": "Proxify",
+    "location": "Time zone: CET (+/- 3 hours)",
+    "link": "https://www.workingnomads.com/job/go/1925654/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior backend developer for Node.js and Nest.js REST and GraphQL APIs, full-time remote with CET time zone. Requires 5+ years of Node.js and TypeScript experience.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "typescript",
+      "node"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior backend API experience aligns with the profile",
+      "TypeScript knowledge matches the stack"
+    ],
+    "cons": [
+      "Node.js and Nest.js primary stack, not Java or Spring",
+      "Salary not disclosed"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "chunk_29-1",
+    "title": "Senior Data Engineer at Data Coach",
+    "link": "https://remotefirstjobs.com/companies/phdata/jobs/senior-data-engineer-870342",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior data engineer building cloud data solutions for enterprise clients with Snowflake, AWS and dbt at a remote-first consultancy with teams in the US, LATAM and India. Salary in AUD is not confirmed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior ownership of cloud data architecture and integrations"
+    ],
+    "cons": [
+      "Data engineering focus (Snowflake, dbt), not Java/Spring backend",
+      "No banking or fintech domain stated"
+    ]
+  },
+  {
+    "id": "chunk_29-2",
+    "title": "Sr. Software Engineer - Front-End at Lively",
+    "link": "https://remotefirstjobs.com/companies/lively/jobs/sr-software-engineer-frontend-870336",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior front-end engineer building investment and financial product experiences for a benefits and HSA fintech, remote in the US, on React, TypeScript and Node with AWS. Salary is not stated.",
+    "matched_keywords": [
+      "java",
+      "typescript",
+      "node"
+    ],
+    "score": 52,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech product context with financial institution integrations",
+      "Senior-level engineering with TypeScript and Node"
+    ],
+    "cons": [
+      "Front-end focus rather than backend Java/Spring",
+      "Remote US only per the data"
+    ]
+  },
+  {
+    "id": "chunk_29-3",
+    "title": "Senior Software Developer (Python) at Netcompany",
+    "link": "https://remotefirstjobs.com/companies/netcompany/jobs/senior-software-developer-python-870304",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior software developer for a technology consultancy serving public and private sector clients, with hands-on full life cycle development and ML/AI services. The title specifies Python, and the description lists .NET, C#, Java and Salesforce; salary and location are not stated.",
+    "matched_keywords": [
+      "java"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior hands-on role in an enterprise consultancy with public sector delivery",
+      "Java is listed among the stack technologies"
+    ],
+    "cons": [
+      "Title centers on Python rather than Java/Spring Boot",
+      "Description truncated; location and salary not confirmed"
+    ]
+  },
+  {
+    "id": "chunk_29-4",
+    "title": "Frontend Engineer at Bjak",
+    "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "source": "RemoteOK_Java",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Web frontend engineer building AI-native productivity surfaces (chat, notes, calendar, docs) with real-time collaboration and streaming AI responses, based in Ireland. Salary field is 0 and not usable.",
+    "matched_keywords": [
+      "backend",
+      "architecture"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Frontend architecture ownership and AI-native product work"
+    ],
+    "cons": [
+      "Frontend-focused rather than backend Java/Spring",
+      "Salary data invalid (0)"
+    ]
+  },
+  {
+    "id": "chunk_29-5",
+    "title": "SI agent engineer at Sticker Mule",
+    "link": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
+    "source": "RemoteOK_Java",
+    "salary": "150000",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Engineer building and running AI agents for e-commerce operations, using Go, TypeScript, GraphQL, Postgres and GCP, fully remote. Compensation is listed as USD 150,000 to 250,000 per year.",
+    "matched_keywords": [
+      "typescript"
+    ],
+    "score": 47,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied AI agent building and integration with internal tools",
+      "Strong TypeScript and Postgres overlap"
+    ],
+    "cons": [
+      "Stack centers on Go and GCP rather than Java/Spring",
+      "E-commerce domain outside banking/fintech"
+    ]
+  }
+]

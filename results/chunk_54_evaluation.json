@@ -1,0 +1,134 @@
+[
+  {
+    "id": "chunk_54-1",
+    "title": "Machine Learning Engineer - LLMs at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/machine-learning-engineer-llms-amsterdam-244530",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Machine learning engineering role in Amsterdam at Prosus's AI team, developing domain-specific LLMs that drive growth across a consumer internet group. Experienced ML profile; salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied LLM work aligns with applied AI experience",
+      "Large-scale fintech and consumer platform context is relevant"
+    ],
+    "cons": [
+      "Model development is ML-centric rather than Java/Spring backend",
+      "No stated architecture or microservices scope"
+    ]
+  },
+  {
+    "id": "chunk_54-2",
+    "title": "Director: Product Communications at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/director-product-communications-amsterdam-99556",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director-level communications role in Amsterdam building awareness for Prosus's AI products and strategy. Marketing and communications leadership; salary not disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "fintech",
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Exposure to AI product strategy at a large technology group"
+    ],
+    "cons": [
+      "Communications and marketing leadership, not software engineering",
+      "No Java, Spring Boot or architecture responsibilities"
+    ]
+  },
+  {
+    "id": "chunk_54-3",
+    "title": "AI Engineer – 0 to 1 Products at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-engineer-0-to-1-products-amsterdam-484155",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "4 years",
+    "description_review": "Junior-leaning AI engineering role in Amsterdam for building new AI products from zero to one at Prosus, open to candidates with 0-4 years of experience. Hands-on building focus; salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Zero-to-one product building and AI tooling match applied AI interest"
+    ],
+    "cons": [
+      "Explicitly junior, below senior seniority",
+      "Early-career profile conflicts with 7+ years experience"
+    ]
+  },
+  {
+    "id": "chunk_54-4",
+    "title": "Program Manager – Ecosystem Strategy & Operations at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/program-manager-ecosystem-strategy-operations-amsterdam-131008",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Program management role in Amsterdam coordinating flagship AI programs across a portfolio of companies at Prosus. Operations and execution focus; salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Exposure to large-scale AI programs across a portfolio"
+    ],
+    "cons": [
+      "Program management rather than software engineering",
+      "No Java, Spring Boot or architecture responsibilities"
+    ]
+  },
+  {
+    "id": "chunk_54-5",
+    "title": "Cyber Security Manager at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/cyber-security-manager-amsterdam-346927",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Cyber security management role in Amsterdam combining technical security expertise with AI security and stakeholder communication at Prosus. Security leadership focus; salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical security background and AI security knowledge are relevant"
+    ],
+    "cons": [
+      "Security management focus, outside the software engineering profile",
+      "No Java, Spring Boot or backend development scope"
+    ]
+  }
+]

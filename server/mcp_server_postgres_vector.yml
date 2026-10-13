@@ -26,7 +26,6 @@ services:
     restart: unless-stopped
     environment:
       DATABASE_URL: postgresql://postgres:secretpassword@jobs-db:5432/jobs_db
-      APIFY_TOKEN: ${APIFY_TOKEN:?Set APIFY_TOKEN in a .env file next to this compose file}
       MCP_TRANSPORT: ${MCP_TRANSPORT:-sse}
       MCP_HOST: 0.0.0.0
       MCP_PORT: 3000
@@ -37,6 +36,28 @@ services:
         condition: service_healthy
     ports:
       - "3000:3000" # MCP over SSE; use MCP_TRANSPORT=stdio and drop this block for stdio
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; socket.create_connection(('127.0.0.1', 3000), 2).close()"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 40s
+
+  backend-server:
+    build:
+      context: . # server/ so the Dockerfile can also copy mcp-server/mcp_sse_client.py
+      dockerfile: backend-server/Dockerfile
+    container_name: backend-server
+    restart: unless-stopped
+    environment:
+      MCP_SERVER_URL: http://jobs-mcp-server:3000/sse
+      BACKEND_PORT: 3100
+      CORS_ALLOWED_ORIGINS: http://localhost:4200,http://127.0.0.1:4200
+    depends_on:
+      jobs-mcp-server:
+        condition: service_healthy
+    ports:
+      - "3100:3100" # REST controller for job-hunter-frontend
 
 volumes:
   pgdata:

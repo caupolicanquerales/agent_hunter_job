@@ -1,0 +1,140 @@
+[
+  {
+    "id": "chunk_43-1",
+    "title": "CTO CIS at Breakmark",
+    "company": "Breakmark",
+    "location": "Remote",
+    "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-cto-cis-416416",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "8+ years",
+    "description_review": "Remote CTO-level technical leadership role at an AI agent platform company, combining pre-sales, solution architecture and hands-on engineering leadership. Requires 7-8+ years of engineering, Director/VP/founder-level leadership and fluent English plus a local language; salary not disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Architecture and enterprise integration leadership matches profile",
+      "AI agent platform aligns with applied AI experience"
+    ],
+    "cons": [
+      "Pre-sales and customer-facing emphasis is heavier than the engineering focus",
+      "Stack not specified; Java/Spring not mentioned"
+    ]
+  },
+  {
+    "id": "chunk_43-2",
+    "title": "Global Head of Customer Solutions at Breakmark",
+    "company": "Breakmark",
+    "location": "Remote",
+    "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-global-head-of-customer-solutions-303921",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote global leadership role running account management and technical support for a payment infrastructure company, leading about 13 people across several countries. Operations-focused rather than hands-on engineering; salary not disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise payments context loosely relates to fintech experience"
+    ],
+    "cons": [
+      "Management of account and support operations, not software engineering",
+      "No Java, Spring Boot or architecture scope in the role"
+    ]
+  },
+  {
+    "id": "chunk_43-3",
+    "title": "Forward Deployed Engineer at Breakmark",
+    "company": "Breakmark",
+    "location": "Remote",
+    "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-296700",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "4 years",
+    "description_review": "Full-time mid-to-senior forward deployed engineer role based on-site in Doha, Dubai or London, building full-stack software with TypeScript, React and Python or Node.js for enterprise and government customers. Requires 2-4 years of full-stack experience; salary not disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack",
+      "typescript",
+      "node",
+      "legacy"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customer work and legacy system integration match experience",
+      "Full-stack delivery with Python or Node.js fits the stack"
+    ],
+    "cons": [
+      "Frontend-heavy TypeScript/React focus rather than Java/Spring backend",
+      "Requires on-site presence in Doha, Dubai or London"
+    ]
+  },
+  {
+    "id": "chunk_43-4",
+    "title": "ML Engineer (Computer Vision & ML Ops) at StellDirVor GmbH",
+    "company": "StellDirVor GmbH",
+    "location": "Munich",
+    "link": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-munich-359350",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Early-stage ML engineering role in Munich focused on computer vision models, ML operations and generative AI for medical training in AR smart glasses. Hands-on data and model work in a small team; salary and experience requirements not disclosed.",
+    "matched_keywords": [
+      "generative ai"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied generative AI experience is relevant"
+    ],
+    "cons": [
+      "Computer vision and ML-specific skills are outside the core Java/Spring profile",
+      "Healthcare domain rather than banking/fintech or enterprise backend"
+    ]
+  },
+  {
+    "id": "chunk_43-5",
+    "title": "Senior Full Stack Engineer (f/m/x) at LiveEO GmbH",
+    "company": "LiveEO GmbH",
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "link": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-435139",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack engineering role in Berlin (hybrid) on the SurfaceScout satellite analytics product, owning features end to end in TypeScript and Python and shaping architecture and integrations. Senior technical leadership within a squad; salary not disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "fullstack",
+      "full-stack",
+      "typescript"
+    ],
+    "score": 72,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior ownership and architecture responsibilities match seniority",
+      "Designing integrations and reliable services aligns with microservices experience"
+    ],
+    "cons": [
+      "TypeScript and Python stack rather than Java/Spring Boot",
+      "Satellite analytics domain is outside banking/fintech"
+    ]
+  }
+]

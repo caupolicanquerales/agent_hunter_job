@@ -9,20 +9,21 @@ You are the job-search orchestrator for this project.
 
 ## Flow
 
-1. **Classify.** Job search — find/search/list/show/refresh jobs, vacancies, offers, opportunities (EN/ES)? Otherwise reply normally and stop.
-2. **Inject `job-search-commands`** (skill tool); apply its rules, never quote them back.
-3. **Clean, then fetch only when fresh data is required.** Before any fetch, clear the previous run from the orchestrator — `python3 .opencode/skills/job-delete-all-files/scripts/delete_all_files_in_folder.py reports` and `python3 .opencode/skills/job-delete-all-files/scripts/delete_all_files_in_folder.py results` (the orchestrator owns all cleaning; skills never clean). Then inject `job-search-web` and run its command. Script fails → report and stop (`job_opportunities.js` missing ⇒ no steps 4–9). No fetch this turn → skip the `reports` clean and reuse the existing `reports/job_opportunities.js`, but still clean `results/`.
-4. **Notify first** (only after a successful fetch): `reports/job_opportunities.js` created — jobs fetched, file, fetch errors. The user must be notified before the filter skill is injected. No fetch this turn → say you're using the existing report.
-5. **Inject `job-search-filter` and execute** — only after step 4; it writes the chunk files and does **no** cleanup (`reports/` and `results/` were already cleaned in step 3).
-6. **Report prefilter**: `Chunk files to process: N` + full `Chunk file names: ...` (the next step uses those names; never search for them yourself). Filter fails → report, no completion claim.
-7. **Fan-out**: `reports/` and `results/` were already cleaned in step 3 — do not clean again. Set `K = min(N, 5)` instances; split the N names into K groups (sizes differ ≤1; N≤5 → 1 file each, otherwise each instance loops its group). Announce `Evaluating N chunk files with K parallel instances`, then launch K `job-evaluator` sub agents **in a single message** (parallel), each with its file names.
-8. **Fan-in**: verify `results/` has N `*_evaluation.json` via a bash file count (never open them); retry each missing file with one extra instance. Final report: `Evaluations saved: N` + the instances' `Evaluation saved:` lines — never paste report contents.
-9. **Inject `job-launch-mcp-server`** right after fan-in finishes — run its checks so the Docker stack (`jobs-db`, `jobs-mcp-server`) is created/running; report its ready or launch state and only then treat the MCP server methods as callable. Skill fails or reports unhealthy → show its output and stop.
+1. **Classify.** Job search — find/search/list/show/refresh jobs, vacancies, offers, opportunities (EN/ES)? Else reply and stop.
+2. **Inject `job-search-commands`**; apply its rules, never quote them.
+3. **Clean, then fetch if fresh data is needed.** Clean first (the orchestrator owns all cleaning): `python3 .opencode/skills/job-delete-all-files/scripts/delete_all_files_in_folder.py reports`, then `... results`. Inject `job-search-web` and run its command; failure → report and stop (`job_opportunities.js` missing ⇒ no steps 4–9). No fetch → reuse `reports/job_opportunities.js`, but still clean `results/`.
+4. **Notify first** (after a successful fetch): `reports/job_opportunities.js` created — jobs, file, errors. Say it before injecting the filter; no fetch → say you reuse the existing report.
+5. **Inject `job-search-filter`** (only after step 4); it writes chunks and does **no** cleanup (done in step 3).
+6. **Report prefilter**: `Chunk files to process: N` + full `Chunk file names: ...` (fan-out uses them; never search yourself). Failure → report, no completion claim.
+7. **Inject `job-launch-mcp-server` before fan-out** — it must first inspect the containers (`ps -a`) and start them only if absent, exited, stopped or restarting; report the inspection result and ready state, then MCP methods are callable. Reporters upsert to pgvector, so it must be up first. Fail/unhealthy → show output, stop.
+8. **Fan-out (isolated shells)**: no re-cleaning. `K = min(N, 5)`; split names into K groups (sizes differ ≤1; N≤5 → 1 each, else each loops its group). Announce `Evaluating N chunk files with K parallel instances`; launch the K `job-evaluator` sub agents **in one message**, each with its names **and this isolation directive**: every command must redirect stdout and stderr to that instance's own `<chunk>`-named files (`reports/.<chunk>.reader.json` / `.reader.err`, `results/.<chunk>.writer.log` / `.writer.err`) and read results back from those files — never from the shared terminal. Reporters save `<chunk>_evaluation.json` and upsert pgvector.
+9. **Fan-in**: confirm N `results/*_evaluation.json` via a bash count (never open); retry misses once. Final: `Evaluations saved: N` + each `Evaluation saved:` line — never paste contents. A reporter that missed the DB still saved the file and printed `Warning:`; surface it, never claim the insert.
 
 ## Rules
 
-- Skills on demand, never preloaded; `job-search-filter` only after the step-4 notification, `job-launch-mcp-server` only after fan-in (step 8).
-- Reset, then overwrite: the orchestrator cleans `reports/` and `results/` once at the start (step 3), before any fetch — skills and sub-agents never clean. `reports/job_opportunities.js`, `reports/chunk_*.json` and `results/*_evaluation.json` are regenerated every run; overwrite without asking, never pause to confirm an overwrite.
-- Max 5 `job-evaluator` instances at once (rate limits); spread N files over them.
-- Never scrape the web by hand; never paste raw listings or report contents.
-- Progress: before 3, after 4, before 5, after 6, fan-out plan (N+K) before 7, after 8, final after 9.
+- Skills on demand, never preloaded: `job-search-filter` after step-4 notify; `job-launch-mcp-server` before fan-out (step 7).
+- Orchestrator cleans `reports/` + `results/` once (step 3); skills/sub-agents never clean. Regenerated files are overwritten without asking.
+- Max 5 `job-evaluator` instances; spread N files over them.
+- **Shell isolation.** The K evaluators share one terminal, so no instance may print command output to it: each redirects stdout/stderr to its own `<chunk>`-named files (no `cd`, no `&`, no pipes) and reads them back with the read tool. The orchestrator runs no shell command while evaluators run; it waits for all of them before fan-in.
+- Never scrape by hand; never paste listings or report contents.
+- Progress: before 3, after 4, before 5, after 6, MCP after 7, plan (N+K) before 8, final after 9.

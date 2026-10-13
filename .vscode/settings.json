@@ -2,9 +2,34 @@
   "chat.tools.global.autoApprove": true,
   "chat.permissions.default": "autoApprove",
   "chat.tools.terminal.enableAutoApprove": true,
+  "chat.tools.terminal.blockDetectedFileWrites": false,
   "github.copilot.chat.skillTool.enabled": true,
+  "chat.tools.edits.autoApprove": {
+    "**/*": true,
+    "**/.vscode/**": false
+  },
   "chat.tools.terminal.autoApprove": {
     "python3": true,
+    "python": true,
+    "docker": true,
+    "docker compose": true,
+    "sg": true,
+    "cd": true,
+    "ls": true,
+    "cat": true,
+    "head": true,
+    "tail": true,
+    "echo": true,
+    "true": true,
+    "curl": true,
+    "/^cd\\s+\"[^\"]*agent_hunter_job\"/": true,
+    "/^python3?\\s+\\.(opencode|github)\\/skills\\/[\\w-]+\\/scripts\\//": true,
+    "/^python3?\\s+\\.opencode\\/skills\\/job-read-chunk-files\\/scripts\\/reader_chunk_opportunities\\.py\\s+chunk_\\d+\\.json/": true,
+    "/^python3?\\s+\\.opencode\\/skills\\/job-write-chunk-final\\/scripts\\/final_chunk_reporter\\.py\\s+chunk_\\d+\\.json\\s+\\S+\\.json/": true,
+    "/^python3?\\s+\\.opencode\\/skills\\/job-read-chunk-files\\/scripts\\/reader_chunk_opportunities\\.py\\s+chunk_\\d+\\.json\\s*\\|\\s*head\\s+-c\\s+\\d+$/": true,
+    "/^python3?\\s+[^;&|]*(reader_chunk_opportunities|final_chunk_reporter|delete_all_files_in_folder|fetch|prefilter)[^;&|]*\\.py\\b/": true,
+    "/^sg docker -c /": true,
+    "/^(docker|docker compose)\\b/": true,
     "/reader_chunk_opportunities|final_chunk_reporter|delete_all_files_in_folder/": true
   }
 }

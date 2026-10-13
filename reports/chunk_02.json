@@ -3,73 +3,79 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Dremio: Software Engineer - Query Execution",
-      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "title": "Toptal: Apigee Engineer for Global Consumer Food Company",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Headquarters: General Information:Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world.……………………………………………………………………………About the Role:Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWSThis role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products.Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvementCollaborate with peers, technology partners and vendors to identify, automate, and roll out patches; resolve issues and achieve goalsSupport and manage APIs and Microservices using Java, Spring Boot etc.Create, organize and implement API support processesSupport and deploy API policies using Apigee PlatformExperience with Apigee Developer Portal and Drupal integrationPerform cloud security and certificate managementDevelop a long-range plan designed to resolve problems and prevent them from recurringDirect the daily risk and control flow of operations, focusing on policies, procedures and work standards to ensure success.......................................................................................What you Need:Experience with ",
+      "matched_keywords": [
+        "java",
+        "spring",
+        "microservices",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Toptal: Full-Stack E-commerce Developer with Sage X3 Experience",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;www.dremio.com.About the roleDremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution. As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.What you’ll be doing Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management. Develop reliable software: Write clear, maintainab",
+      "description": "Headquarters: SummaryWe are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context.General informationThis engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution.The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows required for dealer operations.Tasks and DeliverablesAssess the current Sage X3 environment and recommend the e-commerce platform approach.Build or customize a dealer e-commerce portal on top of the existing ERP.Integrate the platform with Sage X3 using SOAP and GraphQL APIs.Develop full-stack functionality using the selected commerce stack and supporting technologies.Implement dealer-facing workflows, data exchange, and platform customizations required for launch.Required experienceStrong hands-on experience with Sage X3 integration.Proven full-stack development experience with Python and JavaScript.Experience with Node.js, PHP, MySQL, and CSS.Experience working with REST, SOAP and GraphQL APIs.Nice",
       "matched_keywords": [
-        "architecture",
-        "enterprise"
+        "java",
+        "fullstack",
+        "full-stack",
+        "node"
       ]
     },
     {
-      "title": "Lemon.io: Senior Angular Full-stack Developer",
-      "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "title": "Vercel: Software Engineer, Backend",
+      "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
       "source": "WeWorkRemotely_Fullstack",
-      "salary": "$11M",
-      "salary_currency": "USD",
+      "salary": "N/A",
+      "salary_currency": "CAD",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp; PHP, Angular &amp; .NET &amp; TypeScript, Angular &amp; Node, Angular &amp; TypeScript, React &amp; PHP,",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.About the Role: We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and membership management while ensuring the highest levels of security and reliability. If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team. What You Will Do: Enable us to deliver secure, reliable, and scalable services that exceed industry standards and customer expectations. Collaborate with cross-functional teams to deliver large-scale projects with cross-team dependencies. Collaborate with peer teams to deliver solutions that mee",
       "matched_keywords": [
-        "angular",
+        "java",
+        "backend",
         "typescript",
         "node"
       ]
     },
     {
-      "title": "PagerDuty: Senior Director, Field Enablement",
-      "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+      "title": "Maven Clinic: Client Success Manager",
+      "link": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+      "source": "WeWorkRemotely_Fullstack",
+      "salary": "$425 m",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com An award-winning culture working towards an important mission –&nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&nbsp; TIME 100 Most Influential Companies (2023, 2026) Fortune Change the World (2024) CNBC Disruptor 50",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Typeform: Full Stack Developer",
+      "link": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
       "source": "WeWorkRemotely_Fullstack",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "Headquarters: Remote (USA - San Francisco, CA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform. &nbsp;ABOUT THE ROLE PagerDuty is seeking a Sr. Director, Field Enablement to join our diverse, customer-focused team! As Sr. Director of&nbsp; Field Enablement, you will lead a team of enablement professionals supporting our sales, customer success, and partnership organizations.&nbsp; You will build and scale our global enablement function to ensure our customer-facing teams are equipped to sell and support our diversifying product portfolio as we enter our next phase of growth. This is an exciting opportunity to shape the enablement strategy for a high-growth SaaS company and directly improve teams' capabilities and productivity worldwide. The ideal candidate is a strategic, seasoned enablement leader passionate a",
-      "matched_keywords": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
-      "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "N/A",
-      "salary_currency": "AUD",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs, developer tools, cloud infrastructure, and product experiences that make this possible. The work spans high-scale distributed systems, reliable data and event pipelines, intuitive enterprise workflows, and AI-powered capabilities that help teams manage the next generation of software delivery. LaunchDarkly’s SDKs are used in systems that perform trillions of feature flag evaluations each day, giving our engineering work a direct connection to the reliability and customer experience of software around the world. As the company grows, we are expanding beyond traditional feature management into experimentation, observability, and AgentControl—helping customers control more of the software and AI lifecycle. That creates an unusually broad set of technical challenges, visible customer impact, and room for engineers to shape what comes next. We believe in the power of teams. We work with humility, openness, curiosity, and care; we value clear communication, thoughtful technical judgment, inclusive collaboration, and a strong sense of ownership. We e",
+      "description": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The NetherlandsAbout the team Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data. This team sits at the center of how Typeform builds product experiences, creating the shared foundations, tooling, and infrastructure that support scalable and consistent development across the platform. About the role We’re looking for a Mid level Full Stack Engineer with a stronger backend focus to help evolve the internal systems and infrastructure that support our product development ecosystem. This role is ideal for someone who enjoys building scalable internal platforms and developer tooling, while still being comfortable contributing across the frontend when needed. You’ll work on APIs, automation, release pipelines, and engineering infrastructure that improve h",
       "matched_keywords": [
         "backend",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Wrike: Director, Global GTM Strategy & Operations",
-      "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
-      "source": "WeWorkRemotely_Fullstack",
-      "salary": "$14",
-      "salary_currency": "USD",
-      "salary_period": "year",
-      "years_experience": "N/A",
-      "description": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you. &nbsp; Our vision:&nbsp; A world where everyone is free to focus on their most purposeful work, together.&nbsp; &nbsp;About the Role: You'll own your outcomes, from the strategies you run to the conversations that shape what we build next. Collaborative work management is a $14B category growing at 15% a year, and the enterprise competitive set is consolidating fast. Wrike is hiring a Director of Go-To-Market Operations to lead our global GTM Operations team across Sales, Customer Success, and Marketing. You will own Wrike’s revenue planning and operational architecture end-to-end driving annual planning, quota setting, territory management, and cross-functional alignment across our global revenue engine. Reporting directly to GTM leadership, you will serve as a strategic co-pilot t",
-      "matched_keywords": [
-        "architecture",
-        "enterprise"
+        "fullstack",
+        "full-stack"
       ]
     }
   ]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "chunk_45-1",
+    "title": "Senior AI Platform & Research Infrastructure Engineer (m/f/d) at Lrz",
+    "company": "Lrz",
+    "location": "Garching bei München",
+    "link": "https://www.arbeitnow.com/jobs/companies/lrz/senior-ai-platform-research-infrastructure-engineer-garching-bei-munchen-164823",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior platform role building a federated AI model management environment, APIs, and Kubernetes-based infrastructure for research institutions in Garching, Germany. Stack centers on Python or Go, containers, and Kubernetes, with a Master's degree required and no salary disclosed.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 68,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Applied AI platform work (model registries, AI middleware, API gateways) matches the applied GenAI profile",
+      "Backend services and API design match the Spring Boot microservices background",
+      "Senior-level distributed systems and cloud-native scope"
+    ],
+    "cons": [
+      "Primary languages are Python and Go, not Java or Spring Boot",
+      "Research-institution domain, not banking or fintech",
+      "Master's degree required, which the profile does not state"
+    ]
+  },
+  {
+    "id": "chunk_45-2",
+    "title": "Working Student Business Applications (m/f/d) at DocuWare",
+    "company": "DocuWare",
+    "location": "Germering / Germany",
+    "link": "https://www.arbeitnow.com/jobs/companies/docuware/working-student-business-applications-germering-germany-28850",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Working student position supporting business applications, automation, and small projects at DocuWare in Germering, Germany. Requires enrolment in a (business) informatics program with JavaScript and C# or Dynamics 365 experience; the role is junior and the salary is not disclosed.",
+    "matched_keywords": [
+      "java"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java keyword appears in the posting, showing minor stack overlap"
+    ],
+    "cons": [
+      "Working-student role, far below the senior level of the profile",
+      "Requires JavaScript and C# or Dynamics 365, not the Java/Spring core",
+      "Not an architecture or modernization role"
+    ]
+  },
+  {
+    "id": "chunk_45-3",
+    "title": "Account Executive (m/f/d) at Mercanis",
+    "company": "Mercanis",
+    "location": "Berlin",
+    "link": "https://www.arbeitnow.com/jobs/companies/mercanis/account-executive-berlin-137988",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Sales role in Berlin owning a portfolio of about 60-70 enterprise B2B SaaS accounts, focused on upsell, expansion, and C-level deal closing. It is a non-technical position with no salary disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise B2B customer context appears in the posting"
+    ],
+    "cons": [
+      "Sales role with no software engineering content",
+      "Does not match any core profile skill"
+    ]
+  },
+  {
+    "id": "chunk_45-4",
+    "title": "Senior Data Engineer at Kpler",
+    "company": "Kpler",
+    "location": "Germany",
+    "link": "https://www.arbeitnow.com/jobs/companies/kpler/senior-data-engineer-germany-418300",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior Data Engineer on the Maritime Models team owning high-throughput batch and streaming pipelines and distributed storage for vessel tracking analytics. Stack includes Java, Python, Apache Kafka, Flink, Airflow, and HBase, based in Germany with no salary disclosed.",
+    "matched_keywords": [
+      "java",
+      "architecture"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Java is a primary language, matching the core backend stack",
+      "Senior ownership of architecture for distributed, high-throughput systems",
+      "Enterprise data platform scope aligns with the architecture and microservices strengths"
+    ],
+    "cons": [
+      "Data engineering focus (Kafka, Flink, HBase) rather than Spring Boot backend",
+      "Maritime and commodities domain, not banking or fintech",
+      "No AI or applied GenAI component mentioned"
+    ]
+  },
+  {
+    "id": "chunk_45-5",
+    "title": "Senior Network & Security Engineer (w/m/x/d) at MILES Mobility",
+    "company": "MILES Mobility",
+    "location": "Berlin",
+    "link": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-network-security-engineer-d-berlin-111274",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior network and security engineering role in Berlin covering cloud VPCs, zero-trust access, firewalls, IAM, and vulnerability management, with on-call duties. Requires 5+ years of production network and security experience; no salary is disclosed.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior seniority level and cloud infrastructure exposure",
+      "Mentions effective use of AI agents"
+    ],
+    "cons": [
+      "Pure DevOps and network security, which the profile lists as a weak fit",
+      "No Java, Spring Boot, or backend development focus",
+      "Operations and on-call focus rather than architecture or modernization"
+    ]
+  }
+]

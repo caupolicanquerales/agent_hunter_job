@@ -3,82 +3,73 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Don't See Your Role Apply Here at Reflection",
-      "company": "Reflection",
-      "location": "London, ",
-      "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
-      "source": "RemoteOK_ML",
-      "salary": "0",
+      "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+      "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Phoenix, Arizona URL: https://adventuretravel365.com/ Senior Full-Stack Developer - Marketplace Web &amp; Mobile Platform We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life. We’re building a new contractor referral and services marketplace, think Thumbtack or Angi, where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more. This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide. There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before and gets excited about taking a platform from an idea to a working product, then continuing to grow it with us. What You’ll Help Us Build The platform will have two main sides: clients looking for services and contractors/vendors looking for business. Some of the functionality we’re planning includes: Client and contractor/vendor accounts and profiles Contractor listings, categories, search, and filtering Service requests, inquiries, referrals, and lead management Job and project tracking Client and vendor dashboards Online payments and transaction tracking Reviews and ratings Notifications and communications Banner advertising and paid promotional opportunities Admin tools for managing ",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
+      "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "day",
       "years_experience": "N/A",
-      "description": "Our MissionReflectionâs mission is to build open superintelligence and make it accessible to all.Weâre developing open weight models for individuals, agents, enterprises, and even nation states. Our team of AI researchers and company builders come from DeepMind, OpenAI, Google Brain, Meta, Character.AI, Anthropic and beyond.We're always open to great people. If you're aligned with our mission but don't see the right role, we'd love to hear from you.What We OfferWe believe that to build superintelligence that is truly open, you need to start at the foundation. Joining Reflection means building from the ground up as part of a small talent-dense team. You will help define our future as a company, and help define the frontier of open foundational models.We want you to do the most impactful work of your career with the confidence that you and the people you care about most are supported.Top-tier compensation: Salary and equity structured to recognize and retain the best talent globally.Health &amp; wellness: Comprehensive medical, dental, vision, life, and disability insurance.Life &amp; family: Fully paid parental leave for all new parents, including adoptive and surrogate journeys. Financial support for family planning.Benefits &amp; balance: paid time off when you need it, relocation support, and more perks that optimize your time. Opportunities to connect with teammates: lunch and dinner are provided daily. We have regular off-sites and team celebrations.Please mention the",
+      "description": "Headquarters: SummaryWe are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery.General informationThis role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement.Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns.AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions.Tasks and DeliverablesDesign and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake.Define and maintain API contracts, field mappings, transformations, and automated tests.Use Data Modeler to develop and maintain accurat",
       "matched_keywords": [
         "enterprise"
       ]
     },
     {
-      "title": "Senior Software Engineer at Phaidra",
-      "company": "Phaidra",
-      "location": "Remote - United States",
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
-      "source": "RemoteOK_ML",
-      "salary": "0",
-      "salary_currency": "EUR",
+      "title": "Twikey: Senior Java Developer",
+      "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades â because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs â perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidraâs ability to achieve its mission is determined by our ability to ",
+      "description": "Headquarters: Ghent - Belgium URL: https://www.twikey.com/jobs Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and smart solutions alongside the job? Then we want to talk to you. Straight forward but clear: Twikey isn't looking for someone to just execute. We're looking for someone who thinks, does and keeps going when the going gets tough. Because fintech is evolving at breakneck speed. That calls for real ownership and for someone who can dive deep on the technical side to keep innovating and improving our platform. You get plenty in return, such as the freedom and responsibility to deliver your own projects. Thanks in part to our organisational structure, you can shape your ideas in the short term and see the results of your hard work quickly. Driven by your passion for building scalable, performant and secure back-end systems, you continuously raise the bar for your own skills and for our product. As a member of our development team you work closely with our CTO, 3 fellow developers and 2 testers on the core of our software application. A small, strong team in which you take on a role with real impact on the future of our product. You focus on&nbsp;developing and improving the back-end&nbsp;of our platform, optimising the architecture and data processing while keeping the security and stability of our system in mind. This lets you put your technical skills to full use and",
       "matched_keywords": [
+        "backend",
+        "architecture",
+        "fintech"
+      ]
+    },
+    {
+      "title": "Edfinity: Senior Software Engineer, remote",
+      "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
+      "source": "WeWorkRemotely_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Headquarters: Austin, TX URL: https://edfinity.com About Edfinity Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit remote team of senior engineers. We're growing fast and leading the field in AI-powered courseware that moves the needle on educator productivity and student outcomes. Your work will reach hundreds of institutions, and you will help decide how it gets built. How we work We're fully remote, with team members distributed across the US, and with that comes personal flexibility and accountability. AI agents produce most of our code. We move fast, but we temper velocity with quality and stability above all else. Engineers frame the problems, direct the work, and are accountable for everything that ships. If you already work this way and have opinions about it, you'll feel at home. Everyone has opportunities to work across different areas of the platform, and team members are expected to develop deep technical expertise over time. This is particularly important as we step away from hands-on coding. We're a small team of collaborative senior engineers. Your opinion matters. The pace of change is real. More than ever, we're continually evolving our tooling and workflows as LLMs become more capable. What you’ll be doing Our stack is Ruby on Rails, MongoDB, Elasticearch, ClickHouse, Redis/Sidekiq, and React. Full-stack product development in areas like assessment authori",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
         "ai agent"
       ]
     },
     {
-      "title": "ML Engineer at Trunk Tools, Inc.",
-      "company": "Trunk Tools, Inc.",
-      "location": "",
-      "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
-      "source": "RemoteOK_ML",
-      "salary": "183000",
+      "title": "Sticker Mule: SI agent engineer",
+      "link": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
+      "source": "WeWorkRemotely_AI",
+      "salary": "$150,000–$250,000",
       "salary_currency": "USD",
-      "salary_period": "N/A",
+      "salary_period": "year",
       "years_experience": "N/A",
-      "description": "At Trunk Tools, weâre the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite.Our mission is to build the future of construction through intelligent automation. Despite being a $13+ trillion industry, construction still runs largely on analog processes, weâre changing that by embedding AI directly into field operations.Founded by builders and technologists (Stanford, MIT), our team has delivered software used by over 140,000 field professionals, impacting millions of users and contributing to $10B+ in built projects. Many of us come from the field ourselves, giving us a deep understanding of the industryâs unique challenges.After years of building the âbrainâ of construction, weâre now launching production-ready AI agents, starting with intelligent document processing and Q&amp;A, and rapidly expanding into core operational workflows. Our team has doubled in the past year, and with 65+ employees (25+ engineers), weâre scaling fast and entering a period of hypergrowth. This is a rare opportunity to join at an inflection point.What you will do and achieve:Own and evolve core parts of our AI platform, spanning search, retrieval, and multi-agent orchestration.Lead the design and b",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers. &nbsp; Work performed Identify where agents can help and build them accordingly. Work with department leads to assess SI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on SI capabilities to help them perform. &nbsp; Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English &nbsp; Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote To apply: https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
       "matched_keywords": [
-        "ai agent",
-        "multi-agent"
-      ]
-    },
-    {
-      "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925654/",
-      "source": "WorkingNomads_Dev",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. What we’re looking for: 5+ years with Node.js and 3+ past years with Nest.js Strong expertise in Node.js and Nest.js frameworks. Proven experience building REST and/or GraphQL APIs. Strong knowledge of JavaScript (ES6+) and TypeScript. Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). Familiarity with authentication/authorization ",
-      "matched_keywords": [
-        "java",
-        "backend",
-        "typescript",
-        "node"
-      ]
-    },
-    {
-      "title": "Senior Cloud Engineer (Azure) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925640/",
-      "source": "WorkingNomads_Dev",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfil their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Cloud Engineer specializing in Microsoft Azure on behalf of our client to design, automate, and maintain high-availability cloud infrastructure. In this role, you will take operational ownership of enterprise Azure landing zones, container orchestration, and CI/CD pipeline automation—ensuring high reliability, cost efficiency, and zero-trust security compliance. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of hands-on cloud engineering experience managing enterprise Microsoft Azure environments, spanning compute, networking (VNets, ExpressRoute, Application Gateways), and storage tiers. Advance",
-      "matched_keywords": [
-        "enterprise"
+        "typescript"
       ]
     }
   ]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "chunk_53-1",
+    "title": "AI Governance Specialist at Athora Netherlands",
+    "company": "Athora Netherlands",
+    "location": "Amsterdam, Noord-Holland, Nederland",
+    "link": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/ai-governance-specialist-amsterdam-299066",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Governance role in Amsterdam within the Data and AI Office of a Dutch pensions and life insurer, defining AI governance alongside enterprise and domain architecture. Policy and compliance focus with Dutch-language context; salary not disclosed.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise architecture and regulated financial-services context are relevant",
+      "AI governance aligns with applied AI interest"
+    ],
+    "cons": [
+      "Governance and policy focus rather than hands-on software engineering",
+      "Dutch-language environment and no Java/Spring scope"
+    ]
+  },
+  {
+    "id": "chunk_53-2",
+    "title": "Performance Marketer (Paid Ads + Creative) at Soda Data Nv",
+    "company": "Soda Data Nv",
+    "location": "Amsterdam, Netherlands",
+    "link": "https://www.arbeitnow.nl/jobs/companies/soda-data-nv/remote-performance-marketer-paid-ads-creative-amsterdam-189041",
+    "source": "Arbeitnow_API",
+    "salary": "$40",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Marketing role at a data quality startup in Amsterdam owning paid acquisition, creative production and landing pages end to end. Growth marketing with no engineering scope; salary not disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "B2B and enterprise context is familiar"
+    ],
+    "cons": [
+      "Marketing and ad creative role, not engineering",
+      "No Java, Spring Boot or architecture responsibilities"
+    ]
+  },
+  {
+    "id": "chunk_53-3",
+    "title": "Channel Manager (EMEA) at Snyk",
+    "company": "Snyk",
+    "location": "Netherlands - Remote",
+    "link": "https://www.arbeitnow.nl/jobs/companies/snyk/channel-manager-emea-amsterdam-51709",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Regional partner manager role for EMEA at a security platform company, managing channel partners across DACH, the Nordics and Southern EMEA. Partnership and sales function; salary not disclosed.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Security platform for AI-driven development is adjacent to AI interest"
+    ],
+    "cons": [
+      "Channel and partner sales role, not engineering",
+      "No backend or architecture responsibilities"
+    ]
+  },
+  {
+    "id": "chunk_53-4",
+    "title": "AI Automation Intern, Communications at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-494204",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Internship in Amsterdam supporting Group Communications by setting up AI tools and simple automated workflows at a global technology group. Intern-level, communications-oriented work; salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Exposure to AI tooling at a large technology group"
+    ],
+    "cons": [
+      "Internship level, below senior profile",
+      "Communications automation rather than software engineering"
+    ]
+  },
+  {
+    "id": "chunk_53-5",
+    "title": "Community Engineer, Toqan (Prosus AI Platform) at Prosus",
+    "company": "Prosus",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/prosus/community-engineer-toqan-prosus-ai-platform-amsterdam-305026",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Community-facing engineering role in Amsterdam for Toqan, an agentic AI execution platform at a global technology group, supporting builders on the platform. Developer-relations style work combining technical and community responsibilities; salary not disclosed.",
+    "matched_keywords": [
+      "fintech",
+      "ai agent"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Agentic AI platform and tooling align with applied AI experience",
+      "Technical background is useful for supporting developers"
+    ],
+    "cons": [
+      "Community and developer-relations focus rather than core backend engineering",
+      "No Java/Spring Boot stack mentioned"
+    ]
+  }
+]

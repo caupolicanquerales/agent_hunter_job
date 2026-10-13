@@ -1,0 +1,126 @@
+[
+  {
+    "id": "chunk_56-1",
+    "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam at Doctolib",
+    "company": "Doctolib",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/doctolib/software-engineer-intern-fullstack-amsterdam-207152",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Software engineering internship (full-stack) at Doctolib, Amsterdam, for healthcare products. Intern level with feature work under experienced engineers.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 22,
+    "recommendation": "SKIP",
+    "pros": [
+      "Healthcare product domain with full-stack exposure"
+    ],
+    "cons": [
+      "Intern level versus 7+ years senior experience",
+      "No Java/Spring or architecture ownership signal"
+    ]
+  },
+  {
+    "id": "chunk_56-2",
+    "title": "Staff Software Engineer, Privacy Engineering at Discordinternational",
+    "company": "Discordinternational",
+    "location": "N/A",
+    "link": "https://www.arbeitnow.nl/jobs/companies/discordinternational/staff-software-engineer-privacy-engineering-153502",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Staff-level privacy engineering leadership role at Discord in Amsterdam, owning a team roadmap and advising on architecture reviews. Compliance and privacy-technology focus; salary and stack not specified in the source.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Staff-level leadership and architecture review responsibilities",
+      "Large-scale, enterprise-grade platform context"
+    ],
+    "cons": [
+      "Privacy/compliance specialization rather than Java/Spring backend",
+      "Stack and engineering requirements not evident in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_56-3",
+    "title": "Senior Software Engineer, Privacy Engineering at Discordinternational",
+    "company": "Discordinternational",
+    "location": "N/A",
+    "link": "https://www.arbeitnow.nl/jobs/companies/discordinternational/senior-software-engineer-privacy-engineering-340135",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Senior privacy engineering role at Discord in Amsterdam, running privacy impact assessments and code and architecture reviews with Engineering, Product and Legal. Compliance-focused; stack not specified in the excerpt.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level with code and architecture review duties",
+      "System design interest for automation"
+    ],
+    "cons": [
+      "Privacy/compliance specialization rather than Java/Spring backend",
+      "Stack and engineering requirements not evident in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_56-4",
+    "title": "YouTube Producer & Editor: Generative AI at Creativefabrica",
+    "company": "Creativefabrica",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/creativefabrica/youtube-producer-editor-generative-ai-amsterdam-131224",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "Video producer and editor role for a generative AI content channel in Amsterdam. Creative video editing, not software engineering.",
+    "matched_keywords": [
+      "generative ai"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Video editing role, no software engineering content",
+      "No Java/Spring or architecture signal"
+    ]
+  },
+  {
+    "id": "chunk_56-5",
+    "title": "YouTube Creator & Host: Generative AI at Creativefabrica",
+    "company": "Creativefabrica",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/creativefabrica/youtube-creator-host-generative-ai-amsterdam-13120",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "On-camera creator and host role for a generative AI YouTube channel in Amsterdam. Content creation, not software engineering.",
+    "matched_keywords": [
+      "generative ai"
+    ],
+    "score": 4,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "On-camera content role, no engineering content",
+      "No Java/Spring or architecture signal"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "chunk": 44,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Lead ML Engineer (m/f/x) at Cofinity-X GmbH",
+      "company": "Cofinity-X GmbH",
+      "location": "Köln",
+      "link": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/lead-ml-engineer-koln-275112",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "7+ years",
+      "description": "Our vision - your futureCofinity-X is a joint venture founded in 2023 by BASF, BMW Group, Henkel, Mercedes-Benz, SAP, Schaeffler, Siemens, T-Systems, Volkswagen, and ZF. Established by industry experts, our company is primed for growth and is intended to be further led by professionals like yourself.Your missionLead our Machine Learning team and contribute to the development of sovereign AI in EuropeArchitect the training and fine-tuning of AI models using sovereign dataspace technologySet the technical direction for our ML roadmap, integrating cutting-edge AI innovation into our sovereign dataspace technologySupport Product Management in evaluating and defining AI/ML architectures for target products and solutions, balancing customer requirements and technical constraintsRecruit, lead, mentor, and inspire your own team of highly skilled ML engineersPartner with our HR team to scale the team through active sourcing, interviewing, and onboardingCoach and develop team members while fostering an inclusive, collaborative, and intellectually rigorous cultureWork together with dataspace technology experts and product teamsContribute heavily to open-source projectsYour profileMaster’s degree in Machine Learning, Computer Science, or a related discipline (PhD is a plus)7+ years of experience in Machine Learning, ideally with experience in federated learning3+ years of experience leading technical projects and peopleProven experience working with product teams to bring ML products to ",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "(Senior) Self Sovereign Identity and Wallets Engineer (m/f/x) at Cofinity-X GmbH",
+      "company": "Cofinity-X GmbH",
+      "location": "Köln",
+      "link": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/senior-self-sovereign-identity-and-wallets-engineer-koln-286058",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Our vision - your futureCofinity-X is a joint venture founded in 2023 by BASF, BMW Group, Henkel, Mercedes-Benz, SAP, Schaeffler, Siemens, T-Systems, Volkswagen, and ZF. Established by industry experts, our company is primed for growth and is intended to be further led by professionals like yourself.Your missionDesign, develop, and maintain core backend services, with a focus on digital identity and wallet-related componentsImplement and operate secure, standards-compliant wallet functionality (e.g. credential issuance, verification, and storage) within our platformEnsure the reliability, scalability, and security of core services that other product components depend onCollaborate with architects and product teams to translate technical and regulatory requirements (e.g. self-sovereign identity, decentralized identifiers, verifiable credentials) into robust implementationsContribute to API design and integration patterns for wallet and identity-related servicesParticipate in code reviews, technical design discussions, and continuous improvement of engineering practicesMonitor, troubleshoot, and resolve issues in core services, ensuring high availability and data integrityStay current with relevant standards and specifications (e.g. Gaia-X, Catena-X, W3C DID/VC) and help shape their implementation through participation in working groups, expert groups and committees as required.Your profileSeveral years of experience as a backend or software engineer in an agile development env",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Software Engineer – Revenue Operations (Leipzig) at Legartis",
+      "company": "Legartis",
+      "location": "Leipzig",
+      "link": "https://www.arbeitnow.com/jobs/companies/legartis/software-engineer-revenue-operations-leipzig-481348",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "DescriptionLegartis is a leading Legal AI company transforming how organizations manage and work on their contracts. As we scale across DACH and into new European markets, our go to market engine needs an operational backbone that keeps pace with it. We are looking for a software engineer with RevOps tooling experience to own HubSpot and the integrations around it end to end, and to build our GTM stack into a reliable, well-engineered system that Sales, Marketing and Customer Success build on every day.Your missionOwn HubSpot as our core GTM system: architecture, workflows, automations, custom properties and integrations across the wider tool stack, including Younium for subscription and billing data.Design, build and operate the integrations and data pipelines between HubSpot, Younium and our product platform as production software: written in Python, version controlled, tested, monitored and deployed through CI/CD.Build event driven integrations on our Kafka based platform, so that product, usage and billing events flow reliably into the GTM stack.Design and enforce a clean data foundation, with consistent lifecycle stages, lead status, deal stages, attribution logic and territory and tier structures that hold up as the team grows.Build and maintain the reporting and dashboards that give Sales, Marketing and leadership real time visibility into pipeline, forecast and rep level performance.Partner closely with Sales leadership on the metrics that matter and own the infrastru",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "AI Automation Engineer – Software Engineering (Leipzig) at Legartis",
+      "company": "Legartis",
+      "location": "Leipzig",
+      "link": "https://www.arbeitnow.com/jobs/companies/legartis/ai-automation-engineer-software-engineering-leipzig-18451",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "DescriptionLegartis is a leading Legal AI company transforming how organizations manage and work on their contracts. As we scale across DACH and into new European markets, we want the way we work internally to scale with us, without adding headcount for every manual process. We are looking for an AI Automation Engineer with a solid software engineering background who finds the repetitive work across our teams and automates it: with code, with AI, and with systems that keep running long after the demo.Your missionIdentify manual, repetitive workflows across Sales, Customer Success, Finance and Operations, and replace them with reliable automation.Design, build and operate internal tools, integrations and AI agents in Python: version controlled, tested, monitored and deployed through CI/CD.Integrate our internal systems (e.g. HubSpot, Younium, Google Workspace, Slack, Linear and our own product platform) via REST APIs, webhooks and event driven pipelines on our Kafka based platform.Build LLM powered workflows and agents, e.g. on AWS Bedrock, for tasks such as data enrichment, document handling, triage and reporting.Host and run what you build: deployment, monitoring, updates, backups and security patches. You build it, you run it.Own the internal tool stack and its integrations end to end, and keep it documented so others can rely on it.Your profile3 or more years of professional software engineering experience, ideally in Python (TypeScript is fine too).You code with AI every ",
+      "matched_keywords": [
+        "typescript",
+        "ai agent",
+        "rest api"
+      ]
+    },
+    {
+      "title": "Senior Platform Engineer AI & Observability (m/f/d) at Lrz",
+      "company": "Lrz",
+      "location": "Garching bei München",
+      "link": "https://www.arbeitnow.com/jobs/companies/lrz/senior-platform-engineer-ai-observability-garching-bei-munchen-268805",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description:Looking for an employer you can count on? Join us!Senior Platform Engineer AI &amp; Observability (m/f/d)Your Role and Responsibilities:Design, deploy, and operate scalable AI, observability, and cloud-native platforms based on Kubernetes and HPC technologies.Build and optimize AI services, LLM inference platforms, and GPU-enabled workloads.Develop and maintain monitoring, logging, tracing, and security solutions using open-source technologies.Create standardized deployment workflows, automation, and platform best practices.Enable reliable, secure, and multi-tenant operation of federated research infrastructures.Collaborate with project partners and provide technical leadership in architecture, implementation, and operations.Your Qualifications:Required/Minimum QualificationsMaster’s degree (or equivalent) in Computer Science, Data Science, Computer Engineering, or a related field. Other RequirementsExperience with Linux, Docker, Kubernetes, and cloud-native technologies.Knowledge of observability, monitoring, logging, tracing, and security concepts.Programming and scripting skills, preferably in Python, Go, or Bash.Experience with DevOps, MLOps, platform engineering, or infrastructure automation.Strong communication, collaboration, and problem-solving skills.Excellent written and spoken English. Additional or Preferred Qualifications:Experience with AI, machine learning, LLMs, or AI-assisted operations.Hands-on experience with inference frameworks such as vLLM, T",
+      "matched_keywords": [
+        "architecture"
+      ]
+    }
+  ]
+}

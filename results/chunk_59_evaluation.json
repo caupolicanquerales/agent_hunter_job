@@ -1,0 +1,138 @@
+[
+  {
+    "id": "chunk_59-1",
+    "title": "Senior Java Developer at Globaldevgroup",
+    "company": "Globaldevgroup",
+    "location": "Amsterdam, Netherlands",
+    "link": "https://www.arbeitnow.nl/jobs/companies/globaldevgroup/senior-java-developer-amsterdam-494744",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Java backend consultancy role in Amsterdam on Java, Spring Boot, Kotlin and Kubernetes. Requires 5+ years and Dutch fluency; offered on a consultancy basis.",
+    "matched_keywords": [
+      "java",
+      "spring",
+      "backend"
+    ],
+    "score": 75,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Java and Spring Boot backend match the core stack",
+      "Senior 5+ years level fits the profile",
+      "Consultancy environment with cloud/Kubernetes work"
+    ],
+    "cons": [
+      "Dutch fluency is required",
+      "Kotlin and Kubernetes not in the profile",
+      "Consultancy basis, not a permanent role"
+    ]
+  },
+  {
+    "id": "chunk_59-2",
+    "title": "Afstudeerstage IT at BAS Group",
+    "company": "BAS Group",
+    "location": "Veghel, Noord-Brabant, Nederland",
+    "link": "https://www.arbeitnow.nl/jobs/companies/bas-group/afstudeerstage-it-veghel-229993",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Graduation internship in IT at a commercial vehicle dealer in Veghel, starting 2027. Student-level role on several IT projects, including AI agents and testing.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Some overlap with applied AI agent work"
+    ],
+    "cons": [
+      "Internship for students, not senior",
+      "Not a backend Java role",
+      "Automotive dealer, outside the banking/fintech focus"
+    ]
+  },
+  {
+    "id": "chunk_59-3",
+    "title": "Manager, Engineering - Ads at MyFitnessPal",
+    "company": "MyFitnessPal",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/myfitnesspal/jobs/manager-engineering-ads",
+    "source": "Himalayas_API",
+    "salary": "140000 - 190000 USD",
+    "salary_currency": "USD",
+    "salary_period": "annual",
+    "years_experience": "N/A",
+    "description_review": "Engineering manager for the Ads squad in a consumer health app, leading backend and iOS engineers. Remote, US salary band of 140k to 190k USD.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior technical leadership with backend engineers",
+      "Remote, competitive US salary"
+    ],
+    "cons": [
+      "People management focus, not hands-on Java/Spring",
+      "iOS-centric team",
+      "Consumer advertising, outside banking/fintech"
+    ]
+  },
+  {
+    "id": "chunk_59-4",
+    "title": "Firmware Software Engineer at Bright Vision Technologies",
+    "company": "Bright Vision Technologies",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/bright-vision-technologies/jobs/firmware-software-engineer-5970744457",
+    "source": "Himalayas_API",
+    "salary": "125000 - 145000 USD",
+    "salary_currency": "USD",
+    "salary_period": "annual",
+    "years_experience": "N/A",
+    "description_review": "Remote full-time firmware and tooling role for semiconductor design and validation, requiring 6+ years, with a salary of 125k to 145k USD.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level with 6+ years required",
+      "Remote US salary"
+    ],
+    "cons": [
+      "Embedded firmware and EDA domain, not Java/Spring",
+      "Hardware-oriented, outside the profile"
+    ]
+  },
+  {
+    "id": "chunk_59-5",
+    "title": "Solutions Architecture Lead at Ampeco Ltd",
+    "company": "Ampeco Ltd",
+    "location": "N/A",
+    "link": "https://himalayas.app/companies/ampeco-ltd/jobs/solutions-architecture-lead",
+    "source": "Himalayas_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior individual contributor architecture role at an EV charging SaaS company, guiding customers from pre-sales through migration and go-live.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 65,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Software and solution architecture at senior level",
+      "Enterprise SaaS and customer migration work"
+    ],
+    "cons": [
+      "Pre-sales and customer-facing focus, less hands-on coding",
+      "EV charging domain, not banking/fintech",
+      "No Java stack stated"
+    ]
+  }
+]

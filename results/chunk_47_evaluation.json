@@ -1,0 +1,131 @@
+[
+  {
+    "id": "chunk_47-1",
+    "title": "Director, Financial Audit, EMEA at Fieldguide",
+    "company": "Fieldguide",
+    "location": "Remote (UK)",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/fieldguide/remote-director-financial-audit-emea-314243",
+    "source": "Arbeitnow_API",
+    "salary": "$125M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director-level commercial leadership role for EMEA at an AI agent platform for audit and assurance firms, remote in the UK. The posting is about leading financial audit business, not engineering, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Works on AI agents applied to a regulated financial domain"
+    ],
+    "cons": [
+      "Director-level audit business role, not a software engineering position",
+      "No Java, Spring Boot, or architecture work described",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_47-2",
+    "title": "Premium Support Engineer (London, Weekend) at Replit",
+    "company": "Replit",
+    "location": "London Office",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/replit/premium-support-engineer-london-weekend-171471",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Weekend premium support role in London for an AI-driven app-building platform, handling escalations for large enterprise customers under SLAs. The work is front-line technical support with no salary or years of experience disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical troubleshooting with enterprise customers"
+    ],
+    "cons": [
+      "Support role, not a development or architecture position",
+      "Weekend shift schedule",
+      "No backend, Java, or modernization scope"
+    ]
+  },
+  {
+    "id": "chunk_47-3",
+    "title": "Account Executive - North America (London-Based) at Stacks",
+    "company": "Stacks",
+    "location": "London",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/stacks/account-executive-north-america-london-based-173960",
+    "source": "Arbeitnow_API",
+    "salary": "$23m",
+    "salary_currency": "USD",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Enterprise account executive role in London covering North American expansion for an AI-native finance operations platform. It is a sales and GTM position, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Works with finance-team customers on an AI-native platform"
+    ],
+    "cons": [
+      "Sales role with no engineering content",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_47-4",
+    "title": "Channel Manager at Snyk",
+    "company": "Snyk",
+    "location": "United Kingdom - London Office",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/snyk/channel-manager-london-483674",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "CAD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Regional partner manager role for the UK and Ireland covering channel strategy and partner recruitment for a security platform. It is a partner sales position in London, and no salary is disclosed.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Security platform focused on AI-generated code"
+    ],
+    "cons": [
+      "Partner sales role with no engineering content",
+      "Does not match any core profile skill"
+    ]
+  },
+  {
+    "id": "chunk_47-5",
+    "title": "Senior Solutions Engineer (French Speaking) at Snyk",
+    "company": "Snyk",
+    "location": "United Kingdom - London Office",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/snyk/senior-solutions-engineer-french-speaking-london-224539",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "CAD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior pre-sales solutions engineer based in France for Snyk's French-speaking enterprise customers, running demos and proofs of concept on application and cloud security. The role requires French fluency and no salary is disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior technical role with enterprise customers and AI-native security context"
+    ],
+    "cons": [
+      "Pre-sales role rather than hands-on engineering or architecture",
+      "Security tooling domain, not banking or fintech",
+      "French language requirement not covered by the profile"
+    ]
+  }
+]

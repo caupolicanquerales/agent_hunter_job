@@ -1,0 +1,82 @@
+{
+  "chunk": 48,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Forward Deployed Engineer at Refractal",
+      "company": "Refractal",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/refractal/senior-forward-deployed-engineer-london-86281",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About RefractalRefractal is an AI security company building the infrastructure organisations need to defend against autonomous AI threats. 2026 has shown that generally capable intelligence is here. The challenge now is modernising security to stop AI-enabled threats, whether they come from internal agents going rogue or from attackers using AI to become more dangerous.Refractal was founded on cybersecurity and AI expertise from MIT, Microsoft, NASA and the U.S. Navy. Our product lets organisations detect AI-enabled threats at low cost without sacrificing detection quality. We take a practical approach to AI risk, combining proven cybersecurity methods with frontier AI security research.Today, we work with governments and organisations that can't afford to get security wrong. We're backed by leading deep-tech and cybersecurity investors and are growing the team to deliver on this mission.The roleAs a Senior Forward Deployed Engineer, you'll lead Refractal deployments at UK and European banks, insurers and enterprises. You'll work inside customers' security, risk and AI teams to get Refractal running in their environments, and feed what you learn back into the product.What you'll doLead technical deployments from first integration to production, with clear plans, owners and success criteria.Integrate Refractal with customers' AI agents, copilots, models and security tooling.Translate customer policies and regulatory requirements into enforceable controls.Help managed security ",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer at Refractal",
+      "company": "Refractal",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/refractal/senior-devops-engineer-london-498374",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About RefractalRefractal is an AI security company building the infrastructure organisations need to defend against autonomous AI threats. 2026 has shown that generally capable intelligence is here. The challenge now is modernising security to stop AI-enabled threats, whether they come from internal agents going rogue or from attackers using AI to become more dangerous.Refractal was founded on cybersecurity and AI expertise from MIT, Microsoft, NASA and the U.S. Navy. Our product lets organisations detect AI-enabled threats at low cost without sacrificing detection quality. We take a practical approach to AI risk, combining proven cybersecurity methods with frontier AI security research.Today, we work with governments and organisations that can't afford to get security wrong. We're backed by leading deep-tech and cybersecurity investors and are growing the team to deliver on this mission.The roleYou'll own how Refractal is built, released and deployed, including our release pipeline, our cloud infrastructure and the packaging that lets regulated customers run Refractal in their own environments. You'll work alongside our Systems Engineer, who is responsible for the production runtime.What you'll doRun and harden our Google Cloud production estate as infrastructure as code.Build CI/CD with signed artefacts, supply-chain verification and fast, safe releases.Package Refractal for customer-hosted and private-cloud deployments that pass enterprise security reviews.Own secrets mana",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Technicien de maintenance Itinérant (F/H) at Signode",
+      "company": "Signode",
+      "location": "Remote job",
+      "link": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nantes-155044",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement dans lequel vous pourrez développer vos compétences avec des évolutions possibles grâce à notre gamme de machines très complète.Si vous êtes un passionné de maintenance et aimez travailler dans un environnement varié, n'hésitez pas à postuler.Secteur d'intervention :·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le 1/4 Grand Ouest / Nord de la France principalement, et France·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prévoir des découchages 3 à 4 nuits / semaineObjectifs principaux·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réparations, installations de machines et gestion des pièces détachées·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en route d’équipement simple et/ou complexe·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gestion des moyens liés au poste (véhicule, outillage…)·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etablissement des comptes rendus d’interventionsMissions principales·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interventions de dépannage / maintenance / mise en route…·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prendre connaissance du planning établi par le service client·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Déterminer le type d’intervention (dépannage, maintenance…), le nombre de machines, les conditions d’interventions (hauteur, chaleur, produits chimiques, travaux élect",
+      "matched_keywords": [
+        "node"
+      ]
+    },
+    {
+      "title": "Technicien de maintenance Itinérant (F/H) at Signode",
+      "company": "Signode",
+      "location": "Remote job",
+      "link": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nancy-92476",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement dans lequel vous pourrez développer vos compétences avec des évolutions possibles grâce à notre gamme de machines très complète.Si vous êtes un passionné de maintenance et aimez travailler dans un environnement varié, n'hésitez pas à postuler.Secteur d'intervention :·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le 1/4 Grand Est de la France principalement, et France·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prévoir des découchages 3 à 4 nuits / semaineObjectifs principaux·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réparations, installations de machines et gestion des pièces détachées·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en route d’équipement simple et/ou complexe·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gestion des moyens liés au poste (véhicule, outillage…)·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etablissement des comptes rendus d’interventionsMissions principales·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interventions de dépannage / maintenance / mise en route…·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prendre connaissance du planning établi par le service client·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Déterminer le type d’intervention (dépannage, maintenance…), le nombre de machines, les conditions d’interventions (hauteur, chaleur, produits chimiques, travaux électriques…) ",
+      "matched_keywords": [
+        "node"
+      ]
+    },
+    {
+      "title": "Technicien de maintenance itinérant (F/H) at Signode",
+      "company": "Signode",
+      "location": "Remote job",
+      "link": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-beauvais-223554",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement dans lequel vous pourrez développer vos compétences avec des évolutions possibles grâce à notre gamme de machines très complète.Si vous êtes un passionné de maintenance et aimez travailler dans un environnement varié, n'hésitez pas à postuler.Secteur d'intervention :·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ile De France et Nord de la France principalement, et France·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prévoir des découchages 3 à 4 nuits / semaineObjectifs principaux·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réparations, installations de machines et gestion des pièces détachées·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en route d’équipement simple et/ou complexe·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gestion des moyens liés au poste (véhicule, outillage…)·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etablissement des comptes rendus d’interventionsMissions principales·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interventions de dépannage / maintenance / mise en route…·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prendre connaissance du planning établi par le service client·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Déterminer le type d’intervention (dépannage, maintenance…), le nombre de machines, les conditions d’interventions (hauteur, chaleur, produits chimiques, travaux électriqu",
+      "matched_keywords": [
+        "node"
+      ]
+    }
+  ]
+}

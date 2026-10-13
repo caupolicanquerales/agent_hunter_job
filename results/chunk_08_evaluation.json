@@ -1,131 +1,89 @@
 [
   {
     "id": "chunk_08-1",
-    "title": "Senior Vue Developer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, LATAM, APAC, the U.S., Canada",
-    "link": "https://www.workingnomads.com/job/go/1923073/",
-    "source": "WorkingNomads_Dev",
-    "salary": "$11M",
+    "title": "Sticker Mule: Software engineer",
+    "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$150,000–$250,000",
     "salary_currency": "USD",
-    "salary_period": "N/A",
+    "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Remote senior Vue.js and Nuxt.js developer roles, front-end or full-stack, on startup projects in the US and Europe. Requires 4+ years; rate depends on seniority.",
+    "description_review": "Exceptional full-stack engineer building products for an e-commerce and creator software suite, using Go, TypeScript, React, Expo, GraphQL, Postgres on GCP with heavy AI use. Fully remote from 40+ countries; New York headquarters; $150k to $250k USD plus signing bonus.",
     "matched_keywords": [
       "fullstack",
       "full-stack",
-      "vue"
+      "typescript"
     ],
-    "score": 55,
+    "score": 58,
     "recommendation": "SKIP",
     "pros": [
-      "Full-stack roles with Vue.js, a known stack from the profile",
-      "Senior-level remote contract work"
+      "Full-stack ownership of products end-to-end matches full-stack profile",
+      "Aggressive AI usage in daily engineering matches AI-augmented engineering"
     ],
     "cons": [
-      "Vue/Nuxt front-end emphasis, not Java/Spring backend",
-      "Salary not specified in the job data"
+      "Go, React Native and GCP stack, no Java or Spring Boot",
+      "Product-startup scope rather than enterprise architecture"
     ]
   },
   {
     "id": "chunk_08-2",
-    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
-    "company": "CloudGeometry",
-    "location": "Brazil",
-    "link": "https://www.workingnomads.com/job/go/1889808/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "N/A",
+    "title": "A.Team: Senior Independent AI Engineer / Architect",
+    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$200M",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "At least 6 years of experience",
-    "description_review": "Remote backend-focused .NET developer for a microservices healthcare cost platform, with algorithms, data structures and Entity Framework. Requires 6+ years and C#/.NET Core 8+.",
+    "years_experience": "N/A",
+    "description_review": "Senior independent AI engineer and architect in an invite-only network working on LLM products, agent architectures and orchestration, enterprise AI deployments and ML platforms. Remote across Americas, Europe or Israel. The $200M figure refers to network earnings, not compensation.",
     "matched_keywords": [
-      "microservices",
-      "backend",
       "architecture",
-      "fullstack",
-      "full-stack"
+      "enterprise"
     ],
-    "score": 55,
-    "recommendation": "SKIP",
+    "score": 80,
+    "recommendation": "APPLY",
     "pros": [
-      "Microservices and REST API experience required",
-      "Strong OOP and design-pattern expectations"
+      "Agent architectures, orchestration and enterprise AI deployments match multi-agent and applied GenAI experience",
+      "Senior architect scope matches architecture and modernization priorities"
     ],
     "cons": [
-      ".NET stack instead of Java/Spring",
-      "Algorithmic focus is heavier than the architecture profile"
+      "Freelance network model rather than an employment role",
+      "Java and Spring Boot not mentioned"
     ]
   },
   {
     "id": "chunk_08-3",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "company": "Lemon.io",
-    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
-    "link": "https://www.workingnomads.com/job/go/1885527/",
-    "source": "WorkingNomads_Dev",
-    "salary": "N/A",
-    "salary_currency": "EUR",
+    "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+    "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$90-$170",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Remote senior back-end engineer role in Golang or Python for an AI infrastructure company, with Kubernetes and AI agent development. Requires 5+ years of software experience.",
+    "years_experience": "N/A",
+    "description_review": "Senior independent software developer invited to small 3 to 4 person project teams building software from scratch for startups and enterprises. Rate $90 to $170 per hour, keeping 100% of rate. Stack not stated in the excerpt.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "architecture",
-      "vue",
-      "node",
-      "ai agent"
+      "enterprise"
     ],
     "score": 62,
     "recommendation": "CONSIDER",
     "pros": [
-      "Senior back-end scope with AI agent development",
-      "Infrastructure and platform architecture work"
+      "Senior builder building software from scratch matches senior profile",
+      "Enterprise client work with autonomy matches enterprise domain"
     ],
     "cons": [
-      "Go/Python rather than Java/Spring",
-      "Kubernetes requirement is outside the stated profile"
+      "Stack not stated; Java and Spring Boot not mentioned",
+      "Freelance project model with variable scope"
     ]
   },
   {
     "id": "chunk_08-4",
-    "title": "Head of Engineering at Lemon.io",
-    "company": "Lemon.io",
-    "location": "Europe, Latin America, USA",
-    "link": "https://www.workingnomads.com/job/go/1878435/",
-    "source": "WorkingNomads_Dev",
-    "salary": "$16M",
-    "salary_currency": "USD",
-    "salary_period": "year",
-    "years_experience": "10 years",
-    "description_review": "Hands-on engineering leadership role owning the technical roadmap and architecture decisions for a talent marketplace moving to a technology-driven platform. Requires 10 years of experience.",
-    "matched_keywords": [
-      "architecture"
-    ],
-    "score": 61,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Architecture and prioritization ownership matches seniority",
-      "Modernization from services to a technology platform"
-    ],
-    "cons": [
-      "Stack not specified in the job data",
-      "Marketplace domain, not banking/fintech"
-    ]
-  },
-  {
-    "id": "chunk_08-5",
-    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
-    "company": "CodeForAI",
-    "location": "N/A",
-    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-    "source": "Remotive_Dev",
+    "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+    "link": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+    "source": "WeWorkRemotely_AI",
     "salary": "N/A",
-    "salary_currency": "AUD",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Contract-style AI code trainer role auditing AI-generated code and writing reference solutions across many languages. Focus is evaluation and feedback rather than building production systems.",
+    "salary_currency": "N/A",
+    "salary_period": "year",
+    "years_experience": "4 years",
+    "description_review": "Fullstack Web3 engineer for a DeFi client, using Solidity or Rust for smart contracts and TypeScript, React and Node.js for the stack. Requires 4+ years and English fluency; remote limited to US time zones (EST-PST) residents.",
     "matched_keywords": [
       "java",
       "backend",
@@ -134,15 +92,39 @@
       "typescript",
       "node"
     ],
-    "score": 49,
+    "score": 30,
     "recommendation": "SKIP",
     "pros": [
-      "Code quality and design review experience applies",
-      "Covers Java and backend languages"
+      "Full-stack with Node.js backend and TypeScript matches stack",
+      "Remote role with client-facing work"
     ],
     "cons": [
-      "Evaluation role, not production engineering",
-      "No seniority or salary information"
+      "Blockchain and smart contract focus outside profile",
+      "Residency restricted to US time zones"
+    ]
+  },
+  {
+    "id": "chunk_08-5",
+    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+    "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+    "source": "WeWorkRemotely_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director leading an applied AI team building the B2B data graph that AI agents reason over, combining ML, LLM and agentic systems with hands-on coding. US remote and several US offices. Same posting as another ZoomInfo listing in the workspace, listed here under the AI source.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 72,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Applied AI and agentic systems ownership matches applied GenAI and multi-agent experience",
+      "Hands-on code and architecture decisions match senior engineering profile"
+    ],
+    "cons": [
+      "Director-level people management is heavier than the profile emphasis",
+      "Data graph domain and ML focus not in profile"
     ]
   }
 ]

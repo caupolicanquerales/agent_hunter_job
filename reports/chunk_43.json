@@ -1,0 +1,91 @@
+{
+  "chunk": 43,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "CTO CIS at Breakmark",
+      "company": "Breakmark",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-cto-cis-416416",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "8+ years",
+      "description": "About the CompanyWe're partnering with a company that enables enterprises to build, test, deploy, and monitor AI agents for their most complex needs, serving customers and employees seamlessly across voice, chat, email, and back-office systems in any language or cultural context.Role OverviewLead the technical side of sales: join early-stage conversations, present demos, and guide architecture and security discussionsAct as hands-on engineering lead – shipping code, building integrations, and setting high quality standardsBuild and lead a high-performing technical team across engineering, integration, and pre-salesDrive customer integrations, from scoping to deployment of AI agents, and ensure production accuracyGather customer feedback, localize the product, and represent regional needs to the global Product teamServe as the local technical point of contact, building partnerships and handling escalationsRequirements7–8+ years of hands-on software engineering experience – you've built things that actually shippedProven track record in pre-sales, solution architecture, or complex technical implementationsCustomer-facing background in roles like Field CTO, Solutions Architect, or Deployed Engineer – you know how to speak both tech and businessStrong leadership DNA – ideally with experience at Director, VP, or Founder levelExcellent English (written and spoken) plus fluency in at least one local languageComfortable operating independently in a zero-to-one environment – building ",
+      "matched_keywords": [
+        "architecture",
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Global Head of Customer Solutions at Breakmark",
+      "company": "Breakmark",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-global-head-of-customer-solutions-303921",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About the CompanyOur client is a fast-growing global payment infrastructure company helping businesses operate and scale across international markets.Its technology gives enterprise customers access to more than 1,000 payment methods through a single API, while supporting payment orchestration, intelligent routing, and fraud prevention across more than 190 countries.With a globally distributed, remote-first organization, the company is entering its next phase of international expansion, with a particular focus on Europe and APAC.About the RoleWe are looking for a Global Head of Customer Solutions to lead and scale the company’s global Account Management and Technical Support functions.Sitting at the intersection of engineering, technical support, and commercial operations, this role will be responsible for ensuring that enterprise customers receive exceptional support and strategic guidance following implementation.Reporting to the SVP of Operations, you will lead an international organization currently comprising approximately 13 people, including four direct reports. The team is distributed across Brazil, Colombia, Argentina, the United States, Spain, and the United Kingdom, with further growth expected as the company expands into new markets.This is a highly visible leadership role requiring both strategic direction and hands-on involvement. You will build the structure, processes, capabilities, and performance standards needed to deliver a consistent global customer exper",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer at Breakmark",
+      "company": "Breakmark",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-296700",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "4 years",
+      "description": "Forward Deployed EngineerLocation: Doha, Dubai, or LondonType: Full-timeLevel: Mid or seniorBreakmark is partnering with an AI company that builds software for complex, data-heavy operations. Its teams work closely with enterprise and government customers, bringing fragmented data together to help people make better decisions in live operational settings.As a Forward Deployed Engineer, you’ll work directly with customers to understand how their operations function, deploy existing products, and build software for problems that have yet to be solved. You’ll own deployments from kickoff through go-live, working with real data, legacy systems, and evolving requirements.What you’ll doLead customer deployments and take ownership of the outcome.Spend time on-site to understand workflows, users, and operational challenges.Build and adapt full-stack software using TypeScript, React, and Python or Node.js.Turn customer needs into clear engineering work and iterate with users in live environments.Identify which solutions should become reusable product capabilities.What we’re looking forAt least 2–4 years of full-stack engineering experience, with strong TypeScript and React skills.Experience shipping working software and improving it through direct user feedback.The ability to manage a customer deployment from kickoff through go-live.Clear communication with both technical teams and customers.Comfort working with ambiguous requirements and messy data.Willingness to spend significant ti",
+      "matched_keywords": [
+        "enterprise",
+        "fullstack",
+        "full-stack",
+        "typescript",
+        "node",
+        "legacy"
+      ]
+    },
+    {
+      "title": "ML Engineer (Computer Vision & ML Ops) at StellDirVor GmbH",
+      "company": "StellDirVor GmbH",
+      "location": "Munich",
+      "link": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-munich-359350",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "StellDirVor is an independent consulting, trade and technology company specializing in immersive technologies for healthcare. We support organizations in implementing digital innovations — Virtual, Augmented and Mixed Reality as well as AI — particularly for learning, training and real-time assistance in clinical and care environments. By combining technology and healthcare, we help optimize processes, improve knowledge transfer and enhance quality of care.Supported by a Germany (ZIM) and Taiwanese (GIPIP) partnership grant, we are currently developing ARAIAS — an AR- and AI-based hands-free training and assistance system for chronic wound care. Using AR smart glasses, the system enables 3D capture, AI-supported analysis, and standardized remote expertise and documentation directly at the point of care.As our ML Engineer (Computer Vision & ML Ops), you will build the AI capabilities at the core of ARAIAS: evaluating and fine-tuning computer vision models on smart glasses data, running the ML operations behind them, and applying generative AI to create synthetic medical images for education. We're at an early stage — moving from concept to working prototype — so the near-term focus is on validating models and building toward a proof of concept we can test in real education and clinical settings.As part of a small team, you will own the full data lifecycle end to end — from sourcing, consent and annotation to preparation — alongside model development and deployment.We welcome c",
+      "matched_keywords": [
+        "generative ai"
+      ]
+    },
+    {
+      "title": "Senior Full Stack Engineer (f/m/x) at LiveEO GmbH",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "link": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-435139",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Build the Market Leader in Satellite Analytics with us at LiveEOWe are looking for a Senior Full Stack Engineer to help shape the next stage of SurfaceScout, one of LiveEO's core products. SurfaceScout turns satellite data into reliable, actionable insights for the operators of critical infrastructure. You'll take ownership of significant parts of the SurfaceScout application, from the user-facing experience to the services and data flows behind it, and help evolve it into an even more scalable and reliable product. This is a high-ownership role on an established, fast-growing product: part hands-on engineering, part systems design, part technical leadership within the squad. You'll work across the full product lifecycle, from shaping and building new features, to strengthening the architecture and engineering practices that support long-term growth, using a modern TypeScript and Python stack.Your challengeAs a Senior Full Stack Engineer on the SurfaceScout squad, you'll take ownership of significant parts of a live, growing product, turning ideas into reliable production systems and strengthening the architecture that supports long-term growth.Core responsibilities include:Design and build features end to end (TypeScript &amp; Python), translating product requirements into reliable, well-tested systems that ship to customers.Define and implement integrations with LiveEO's platform and data services, ensuring clean interfaces, reliable data flows, and extensibility for future",
+      "matched_keywords": [
+        "architecture",
+        "fullstack",
+        "full-stack",
+        "typescript"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "chunk": 57,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "AI Video Creator & Editor at Creativefabrica",
+      "company": "Creativefabrica",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/creativefabrica/ai-video-creator-editor-amsterdam-366876",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Creative Fabrica&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Creative Fabrica is a fast-growing AI platform that makes it easy for everyday consumers to create whatever they imagine, from images and videos to audio and 3D creations, using the latest generative AI models.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;You know that feeling when a new AI model drops and you can’t wait to create something with it? We want to make that excitement contagious. Every new model, tool and feature we launch is a chance to show people something they hadn’t imagined creating themselves. We want videos they immediately send to friends, ideas they can’t wait to try and people opening our tools because they HAVE to make something. That’s where you come in!&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;This is a full-time, in-office role at our Amsterdam HQ, with 30 work-from-anywhere days per year.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re looking for someone who LOVES generating videos with AI and knows how to turn a great idea into a video people can’t ignore. You’re already making AI movies, creating unexpected visual effects and refining your prompts until the result matches the idea in your head. You save videos for their brilliant execution and immediately start thinking about how you’d make something even better.&lt;/p&gt; &lt;p&gt;You’ll create and edit product-launch videos and original s",
+      "matched_keywords": [
+        "generative ai"
+      ]
+    },
+    {
+      "title": "Senior Product Manager at Vivid",
+      "company": "Vivid",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.nl/jobs/companies/vivid/remote-senior-product-manager-77656",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About The RoleWe're looking for a Senior Product Manager with real technical depth and an AI-first way of working. You'll own a product area end to end: finding problems worth solving, shaping the solution, taking it from 0 to 1 and growing it from there.You understand architecture, you've written code, you know how databases work, and you speak engineering fluently. Your main job is product. The technical depth is what lets you move faster and make better calls.AI isn't a feature we're adding. It's how we work and how we build. Expect roughly 70% product and 30% engineering, with full accountability for results.Your MissionProduct direction: set the vision, strategy and roadmap for your area. Decide what to build, why, and how success is measured.0-to-1 delivery: take new products and features from problem discovery to launch and iteration.Discovery and validation: work directly with users and data to understand real problems, not assumed ones. Run interviews, usability tests and experiments before committing to build.Metrics and outcomes: define, instrument and track the KPIs for your area. Use product analytics to find friction, prioritise the highest-impact work, and shut down what doesn't work.Engineering partnership: understand architectural trade-offs, review technical approaches and unblock decisions. Write specs engineers actually want to read: clear, technical and opinionated.AI and automation: find where LLMs and agents create real product value, build the case, an",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Security Engineer (Hybrid or Remote) at Vivid",
+      "company": "Vivid",
+      "location": "Remote",
+      "link": "https://www.arbeitnow.nl/jobs/companies/vivid/security-engineer-hybrid-or-remote-472938",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About The RoleWe’re looking for a Security Engineer to own and improve the security of our internal environment — the identities, SaaS apps, endpoints, AI tooling, and networks our employees use every day. This is a hands-on senior role: we expect you to design controls, find the gaps, and drive the changes that close them — and to build the automation that makes it scale.We’re an EMI-licensed fintech in a fully cloud-native AWS environment, we use AI heavily, and we’re growing fast. We need someone who can lead technical initiatives independently, influence our security architecture, challenge approaches that no longer fit, and explain it clearly to engineers and leadership.Your MissionDetection &amp; Response (SIEM) — our top priorityOwn SIEM alerting end-to-end: ship logs from endpoints, IdP, VPN, SaaS, and cloud; write and tune detection rules; cut false positives.Act as first responder for security incidents — investigate, contain, drive to closure with clear runbooks — and feed recurring issues back into preventive controls.Identity, Access &amp; SaaSAdminister the IdP (SSO via SAML/OIDC, MFA, conditional access) and run access recertification end-to-end across IdP, SaaS, AWS, and internal tools — scope, evidence, follow-through on revocations.Hunt down over-permissive and stale access, enforce least privilege and PAM, catch SoD gaps, and make JML and third-party access work in practice.Improve SaaS security posture (Google/Microsoft, Slack, GitHub, others) and apply DL",
+      "matched_keywords": [
+        "architecture",
+        "fintech"
+      ]
+    },
+    {
+      "title": "New Business Account Executive (Dutch market) at Vivid",
+      "company": "Vivid",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/vivid/new-business-account-executive-dutch-market-amsterdam-454489",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About The RoleVivid Money is redefining how modern corporates, holding structures, and financial institutions manage and optimize their capital. From institutional-grade Treasury products (high-yield Interest Accounts, Money Market Funds, and ETFs) to multi-currency infrastructure and FX solutions, we provide the financial architecture that traditional banks make too slow and expensive.We are expanding our institutional footprint in the Netherlands.We aren’t looking for a standard software sales rep; we are looking for a New Business Account Executive who understands the fabric of the Dutch financial ecosystem. You will be employee number one on the ground, tasked with unlocking high-value segments: PE/VC funds, holding companies, family offices, and corporate service providers.If you have the network to navigate corporate Netherlands, understand structured finance/treasury needs, and want the autonomy to build a market from scratch, this role is for you. Your MissionOriginate Institutional Pipeline: Identify and engage decision-makers across Netherlands' unique B2B landscape, focusing on PE/VC funds, corporate holding structures, asset managers, and corporates.Leverage Channel Partnerships: Build strategic relationships with local multipliers—accountants, tax advisors, law firms—who manage hundreds of entities requiring modern treasury setups.Navigate Complex Sales Cycles: Run the end-to-end commercial cycle for high-value accounts, from sophisticated discovery and structure",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer at Tavily",
+      "company": "Tavily",
+      "location": "N/A",
+      "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-software-engineer-agentic-search-web-rendering-engineer-444896",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;heading 2&quot;&gt;About&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;heading 2&quot;&gt;Tavily&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134245418&amp;quot;:true,&amp;quot;134245529&amp;quot;:true,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:160,&amp;quot;335559739&amp;quot;:80}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;We&#39;re&amp;nbsp;building the infrastructure layer for agentic web interaction at scale. Our API is designed from the ground up to power Retrieval-Augmented Generation (RAG) and real-time reasoning in AI systems. By connecting LLMs to high-quality, trustworthy web content, we help developers build agents that are not only intelligent — but also informed.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;We work with some of the most innovative teams in AI — from small startups shaping the ecosystem to the largest enterprises deploying AI at scale. Whether&amp;nbsp;it&#39;s&amp;nbsp;powering sales assistants, research copilots, or internal knowledge tools,&amp;nbsp;we&#39;re&amp;nbsp;the missing link between LLMs and the real wor",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    }
+  ]
+}

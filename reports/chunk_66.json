@@ -1,0 +1,87 @@
+{
+  "chunk": 66,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Detection & Response Lead at Nebius",
+      "company": "Nebius",
+      "location": "Europe",
+      "link": "https://jobicy.com/jobs/155171-detection-response-lead",
+      "source": "Jobicy_Dev",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;D. Detection and Response The team is responsible for detection engineering, threat intelligence, and incident response across Nebius Cloud. Its goal is to improve and maintain Nebius's security monitoring capabilities, as well as to build and maintain an end-to-end Security Incident Response program - people, processes, and tools. The Role We're hiring a Detection Engineering &amp; Response Lead to build and run our D&amp;R capability from the ground up. You'll own the detection engineering, threat intelligence, and incident response functions across Nebius Cloud - and lead a small, growing team of analysts and engineers. This is a lead engineering role responsible for detection development, handling the most complex security incid",
+      "matched_keywords": [
+        "enterprise",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Programmatic Account Manager, Enterprise at StackAdapt",
+      "company": "StackAdapt",
+      "location": "UK",
+      "link": "https://jobicy.com/jobs/155170-programmatic-account-manager-enterprise",
+      "source": "Jobicy_Dev",
+      "salary": "56461 - 77634 GBP",
+      "salary_currency": "GBP",
+      "salary_period": "yearly",
+      "years_experience": "N/A",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels. Reporting to the Manager of Enterprise Client Services, you’ll play an integral role in post-sales client relationships as it relates to user adoption of the StackAdapt platform, campaign management, client retention and account expansion opportunities. You’ll work closely with your Account Executives, Client Service support teams, and cross functional teams to maximize the campaign ROI of our customers. Additionally, this role will allow you to use your RTB/Programmatic media buying experience to optimize campaigns and come up with unique solutions that ensure our clients are satisfied with their campaign performance. StackAdapt is a Remote First company although we are prioritizing candidates located in London, England for this role. What you'll be doing: Act as the main point of contact for your portfolio of clients across a wide range of verticals Design unique campaign strategies within the StackAdapt platform Ensure client campaigns are successful by providing regular reporting on their campai",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Sr. Software Engineer (Remote Eligible from Bulgaria) at Smartsheet",
+      "company": "Smartsheet",
+      "location": "Bulgaria",
+      "link": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
+      "source": "Jobicy_Dev",
+      "salary": "$10",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "20 years",
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. Smartsheet is a tech company with a human story to tell. We’re here to empower teams to manage projects, automate workflows, and rapidly build new secure solutions, using simple no-code tools. We’re revolutionaries – so for us changing the way the world works is all in a day’s work. As a global leader in Intelligent Work Management with a market cap of $10bn, we’ve continued to scale our engineering presence internationally. Since expanding into Bulgaria in October 2024, we’ve grown to a team of 75+ engineers. As we continue building this operation, we’re looking for a talented and motivated Senior Software Engineer who are passionate about continuous learning and excited to grow in a fast-paced, innovative environment. Smartsheet runs on a modern SaaS stack hosted on AWS, with infrastructure defined and managed as code using Terraform and strong engineering best practices. Our core platform includes a legacy Java monolith alongside a growing ecosystem of microservices, primarily built in Java and Go (with a small number of Kotlin",
+      "matched_keywords": [
+        "java",
+        "microservices",
+        "ai agent",
+        "legacy"
+      ]
+    },
+    {
+      "title": "QA Automation Lead [gn] Data Intelligence at Actian",
+      "company": "Actian",
+      "location": "Europe",
+      "link": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "Jobicy_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end. You are not a passive test-case writer or a mere script executor; you are a highly technical, proactive engineer who thrives on breaking complex distributed systems, designing robust testing frameworks, and enforcing a culture of absolute quality. You will lead a dedicated team of automation engineers, embed quality gates directly into our CI/CD pipelines, and use data-driven metrics to eliminate regressions before they ever reach production. Core Responsibilities: End-to-End Testing Infrastructure: Design, scale, and maintain robust automation frameworks capable of testing the complex SaaS and distributed data architectures of the Actian Data Intelligence Platform. Pipeline Integration: Embed automated test suites seamlessly into the CI/CD pipeline (GitHub Actions/Jenkins) to achieve true continuous integration and rapid feedback loops. Advanced Testing Topologies: Move beyond basic UI testing. Drive deep integration, API, performance, resilience, and data-integrity automation across the entire product stack. Technical Anchor: Act as the ultimate technical authority for the QA automation squad, establi",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Business Development Representative - Dutch Speaker at Algolia",
+      "company": "Algolia",
+      "location": "France",
+      "link": "https://jobicy.com/jobs/155217-business-development-representative-dutch-speaker",
+      "source": "Jobicy_AI",
+      "salary": "51000 - 67000 EUR",
+      "salary_currency": "EUR",
+      "salary_period": "yearly",
+      "years_experience": "N/A",
+      "description": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platform turns a company's products, content, and business rules into data that humans, applications and AI agents can act upon. The result is trusted customer experiences with stronger conversions for measurable business impact. At Algolia, we’re proud to be a pioneer and market leader in AI Search and be part of a cadre of companies that are driving the next generation of software development, with composable APIs that make developers’ lives easier; solutions that are better than building from scratch using open APIs and better than having to adapt typical SaaS solutions. We are looking for people that want to join our team to assist us in telling our story to the world’s largest companies and educate our enterprise audiences, bring our brand to life and help expand our reach. We're looking for a Business Development Representative (BDR) to join our fast-paced Global xDR organisation. As a BDR at Algolia, you will play a critical role in driving pipeline growth by combining strategic outbound prospecting with timely engagement of high-intent inbound opportunities across your assigned accounts. Working closely with Account Executives, Marketing, and cr",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    }
+  ]
+}

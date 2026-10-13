@@ -1,0 +1,132 @@
+[
+  {
+    "id": "chunk_44-1",
+    "title": "Lead ML Engineer (m/f/x) at Cofinity-X GmbH",
+    "company": "Cofinity-X GmbH",
+    "location": "Köln",
+    "link": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/lead-ml-engineer-koln-275112",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "7+ years",
+    "description_review": "Lead ML engineering role in Köln for a European sovereign dataspace joint venture, architecting AI model training and leading an ML team. Requires a Master's, 7+ years of ML experience and 3+ years leading people; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 58,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical leadership and architecture responsibilities match seniority",
+      "Team building and mentoring experience is relevant"
+    ],
+    "cons": [
+      "ML-centric role rather than Java/Spring backend",
+      "Federated learning and dataspace expertise required"
+    ]
+  },
+  {
+    "id": "chunk_44-2",
+    "title": "(Senior) Self Sovereign Identity and Wallets Engineer (m/f/x) at Cofinity-X GmbH",
+    "company": "Cofinity-X GmbH",
+    "location": "Köln",
+    "link": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/senior-self-sovereign-identity-and-wallets-engineer-koln-286058",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Backend engineering role in Köln building core identity and wallet services (credential issuance, verification, storage) with API design and high-availability focus in an agile environment. Requires several years as a backend or software engineer; salary not disclosed.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 65,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Core backend services and API design match backend experience",
+      "Reliability, scalability and security responsibilities align with enterprise background"
+    ],
+    "cons": [
+      "Identity and wallet standards (DIDs, verifiable credentials) are domain-specific",
+      "Language and stack not stated in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_44-3",
+    "title": "Software Engineer – Revenue Operations (Leipzig) at Legartis",
+    "company": "Legartis",
+    "location": "Leipzig",
+    "link": "https://www.arbeitnow.com/jobs/companies/legartis/software-engineer-revenue-operations-leipzig-481348",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Software engineering role in Leipzig owning HubSpot and GTM integrations in Python, with Kafka event-driven pipelines and reporting for Sales and Marketing at a legal AI company. Operations-oriented rather than core product engineering; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Event-driven Kafka integrations and REST-style systems integration are relevant"
+    ],
+    "cons": [
+      "Revenue operations and CRM tooling focus is off-profile",
+      "Python-centric stack rather than Java/Spring"
+    ]
+  },
+  {
+    "id": "chunk_44-4",
+    "title": "AI Automation Engineer – Software Engineering (Leipzig) at Legartis",
+    "company": "Legartis",
+    "location": "Leipzig",
+    "link": "https://www.arbeitnow.com/jobs/companies/legartis/ai-automation-engineer-software-engineering-leipzig-18451",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Software engineering role in Leipzig building internal automation, integrations and LLM-powered agents in Python on AWS Bedrock, with Kafka and REST integrations at a legal AI company. Requires 3+ years of software engineering experience and operating what is built; salary not disclosed.",
+    "matched_keywords": [
+      "typescript",
+      "ai agent",
+      "rest api"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Applied LLM agents and workflow automation match applied AI experience",
+      "REST integrations and event-driven pipelines align with backend work"
+    ],
+    "cons": [
+      "Python-first stack rather than Java/Spring Boot",
+      "Mid-level requirement (3+ years) and internal-tools scope"
+    ]
+  },
+  {
+    "id": "chunk_44-5",
+    "title": "Senior Platform Engineer AI & Observability (m/f/d) at Lrz",
+    "company": "Lrz",
+    "location": "Garching bei München",
+    "link": "https://www.arbeitnow.com/jobs/companies/lrz/senior-platform-engineer-ai-observability-garching-bei-munchen-268805",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior platform and infrastructure role in Garching bei München operating Kubernetes, HPC, observability and LLM inference platforms for research infrastructure. Requires a Master's and excellent English; salary not disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior technical leadership in architecture is relevant"
+    ],
+    "cons": [
+      "Pure platform/DevOps and HPC focus, outside the profile",
+      "Python, Go or Bash scripting rather than Java/Spring"
+    ]
+  }
+]

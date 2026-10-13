@@ -1,0 +1,124 @@
+[
+  {
+    "id": "chunk_23-1",
+    "title": "Full Stack Developer (Javascript) at Codekeeper",
+    "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/full-stack-developer-javascript-870856",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Full-stack JavaScript developer role for a remote-first software escrow startup with a central office in The Hague. Seniority, salary and detailed stack are not stated in the excerpt.",
+    "matched_keywords": [
+      "java",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Full-stack scope with backend work, which matches the profile's good-fit category"
+    ],
+    "cons": [
+      "JavaScript-centric stack, no Java or Spring Boot mentioned",
+      "Startup environment with no architecture or modernization signal"
+    ]
+  },
+  {
+    "id": "chunk_23-2",
+    "title": "Senior GenAI Engineer at Taboola",
+    "link": "https://remotefirstjobs.com/companies/taboola/jobs/senior-genai-engineer-870834",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "2+ years",
+    "description_review": "Senior GenAI engineer role in the Tel Aviv office building generative AI products for advertising and content discovery. Requires Python, SQL, Spark and LLM evaluation experience; the posting is data-science heavy.",
+    "matched_keywords": [
+      "java",
+      "generative ai"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied GenAI work: RAG, LLM evaluation, fine-tuning",
+      "Java is listed as a bonus skill"
+    ],
+    "cons": [
+      "Python and Spark primary stack, not Java or Spring Boot",
+      "Data science and ML emphasis rather than backend architecture",
+      "On-site in Tel Aviv"
+    ]
+  },
+  {
+    "id": "chunk_23-3",
+    "title": "Forward Deployment Engineer-Viewer at DeepHealth",
+    "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineerviewer-870822",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Individual contributor forward deployment engineer for an enterprise diagnostic imaging viewer, combining customer configuration, technical discovery and clinical workflow knowledge. Customer-facing implementation role with AI-enabled imaging workflows.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise software with AI-enabled workflows",
+      "Technical solution design and discovery work"
+    ],
+    "cons": [
+      "Clinical imaging domain, outside banking/fintech",
+      "Customer-facing implementation focus rather than Java backend engineering"
+    ]
+  },
+  {
+    "id": "chunk_23-4",
+    "title": "Forward Deployment Engineer, Reporting Pro at DeepHealth",
+    "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineer-reporting-pro-870820",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Individual contributor forward deployment engineer configuring DeepHealth's radiology reporting product for enterprise customers. Combines clinical workflow knowledge, customer communication and technical configuration; salary and seniority not stated.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 30,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise software with AI-assisted reporting roadmap"
+    ],
+    "cons": [
+      "Clinical radiology domain, outside banking/fintech",
+      "Customer-facing implementation rather than backend engineering"
+    ]
+  },
+  {
+    "id": "chunk_23-5",
+    "title": "Senior Forward Engineer-Diagnostic Suite at DeepHealth",
+    "link": "https://remotefirstjobs.com/companies/deephealth/jobs/senior-forward-engineerdiagnostic-suite-870818",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior forward deployment engineer owning end-to-end technical design of DeepHealth's Diagnostic Suite across PACS, viewer, reporting, integrations and AI for assigned customers. Senior individual contributor role; salary and location not stated.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 38,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior end-to-end solution design and architecture ownership",
+      "Enterprise integrations and AI workflows"
+    ],
+    "cons": [
+      "Clinical imaging domain, outside banking/fintech",
+      "Customer-facing deployment role rather than Java backend development"
+    ]
+  }
+]

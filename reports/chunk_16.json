@@ -3,85 +3,70 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Senior Data Scientist at Lemon.io",
-      "company": "Lemon.io",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-      "source": "Remotive_AI",
-      "salary": "$11M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
-      "years_experience": "4+ years",
-      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements — Data Scientist: 4+ years of commercial experience as a Data Scientist 3+ years of commercial experience with Python is a must 3+ years of commercial experience with Databricks Experience with RAG and LLM is a must Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Stro",
-      "matched_keywords": [
-        "architecture"
-      ]
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect at A.Team",
-      "company": "A.Team",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive_AI",
-      "salary": "$200M",
-      "salary_currency": "USD",
-      "salary_period": "N/A",
+      "title": "Regional Sales Director, US SLED West at Abnormal AI",
+      "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/regional-sales-director-us-sled-west-870875",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "year",
       "years_experience": "N/A",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures and orchestration systems Enterprise AI deployments Retrieval, evaluation, and reliability infrastructure LLM-powered workflows and products Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution. Why Builders Join The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No race to the bottom. Just ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value. What matters is a track record of building and shipping. The",
+      "description": "About the Role Cybercrime doesn&rsquo;t wait for anyone to catch up to it, and neither do we. Abnormal AI is seeking a Regional Sales Director to lead our Enterprise West SLED team, owning the strategy and execution for Abnormal&rsquo;s largest and most complex State, Local, and Education accounts across the western region. You&rsquo;ll lead a high-performing team of Enterprise SLED Account Executives, setting the vision, driving execution, and enabling the team to win through disciplined process, collaboration, and strong go-to-market alignment. You&rsquo;ll be leading this team during one of the more exciting stretches in the company&rsquo;s history: we&rsquo;re growing 40%+ year over year, protecting more than 4,500 customers including over 25% of the Fortune 500, and expanding fast from email into identity, AI security, and insider threat. That means your team has more surface area to sell, more room to build, and more impact to make than they would leading a region at a mature market leader. What You Will Do Own responsibility for the Enterprise West SLED sales team, with a mandate to overachieve new annual recurring revenue quota for the region, not just hit it. Recruit and hire a world-class team of Enterprise SLED sellers, on time and on budget, building the bench that carries the region forward and staying ahead of team changes. Set clear productivity metrics and growth milestones for your sellers, and coach the team to consistently hit them. Instill a disciplined ap",
       "matched_keywords": [
-        "architecture",
         "enterprise"
       ]
     },
     {
-      "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
-      "company": "Mitre Media",
-      "location": "N/A",
-      "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive_AI",
+      "title": "Enterprise Account Executive, New England at Abnormal AI",
+      "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/enterprise-account-executive-new-england-870872",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
-      "salary_currency": "EUR",
+      "salary_currency": "N/A",
       "salary_period": "N/A",
       "years_experience": "N/A",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a re",
-      "matched_keywords": [
-        "microservices",
-        "fintech",
-        "fullstack",
-        "full-stack"
-      ]
-    },
-    {
-      "title": "Senior Backend Developer (Node.js / Nest.js) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925654/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. What we’re looking for: 5+ years with Node.js and 3+ past years with Nest.js Strong expertise in Node.js and Nest.js frameworks. Proven experience building REST and/or GraphQL APIs. Strong knowledge of JavaScript (ES6+) and TypeScript. Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). Familiarity with authentication/authorization ",
-      "matched_keywords": [
-        "java",
-        "backend",
-        "typescript",
-        "node"
-      ]
-    },
-    {
-      "title": "Senior Cloud Engineer (Azure) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925640/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfil their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Cloud Engineer specializing in Microsoft Azure on behalf of our client to design, automate, and maintain high-availability cloud infrastructure. In this role, you will take operational ownership of enterprise Azure landing zones, container orchestration, and CI/CD pipeline automation—ensuring high reliability, cost efficiency, and zero-trust security compliance. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of hands-on cloud engineering experience managing enterprise Microsoft Azure environments, spanning compute, networking (VNets, ExpressRoute, Application Gateways), and storage tiers. Advance",
+      "description": "About the Role Cybercrime doesn&rsquo;t wait for anyone to catch up to it, and neither do we. Abnormal AI is looking for an Enterprise Account Executive to join our New England team, selling behavioral AI security solutions into Enterprise-level accounts within a defined territory. We didn&rsquo;t bolt AI onto old security tools. We built our platform from AI up, to detect the subtle human-targeted attacks that traditional tools miss. You&rsquo;ll be selling something genuinely different, and you&rsquo;ll need to sell it with the same conviction. The ideal candidate is local to the New England area and brings: Proven hunter with a disciplined approach to early pipeline development and prospecting into enterprise accounts. Skilled at leveraging all five demand gen pillars: AE prospecting, SDRs, marketing, channel, and customer referrals. Strong qualifier with a knack for uncovering customer pain points and connecting them to compelling, value-driven solutions. Effective presenter able to tailor demos and messaging to resonate with stakeholders based on specific business challenges. Process-oriented with a consistent, repeatable sales methodology and strong time management skills, capable of managing multiple deals without sacrificing quality. Data-disciplined, maintaining accurate and consistent account and opportunity data at all times. Business case builder, experienced in quantifying ROI across multiple dimensions for diverse stakeholder groups. Knowledge sharer, able to ex",
       "matched_keywords": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "Solutions Architect - West at Endor Labs",
+      "link": "https://remotefirstjobs.com/companies/endor-labs/jobs/solutions-architect-west-870871",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "$0 to $300M",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Us AI coding is the largest use case of enterprise AI adoption today, as is evident from the success of Anthropic on Claude Code, Cursor’s $60B exit to SpaceX, and Cognition’s $48B valuation. The bottleneck now has moved from code generation to security and safety - AI agents write code faster than any team can review it, and over 65% of the lines of code produced by them are insecure. Vulnerabilities are piling up 16x faster than companies can fix them, and adversaries are able to exploit these new vulnerabilities within hours. AURI by Endor Labs closes that gap. It runs inside the harness where coding agents work, through hooks, skills and MCP, so the controls sit outside the model and every agent action is visible. Underneath is our patented code context graph, which maps code, open source, containers and infrastructure. It shows which vulnerabilities can actually be reached and exploited, then delivers fixes that won’t break the application. Security teams get evidence instead of noise, and developers get fixes instead of tickets. The companies building AI trust us to secure it - our customers include OpenAI, SpaceX, DoorDash, Dropbox, Atlassian, MongoDB, Snowflake, Robinhood and Peloton to name a few. Endor Labs is the third company from Founder &amp; CEO Varun Badhwar, who built Prisma Cloud, the platform that helped define cloud security, from $0 to $300M ARR at Palo Alto Networks. We’ve raised $163M from Lightspeed, Coatue, DFJ Growth, Salesforce Ventures and De",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Account Executive, SLED at Abnormal AI",
+      "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/account-executive-sled-870870",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About the Role Cybercrime doesn&rsquo;t wait for anyone to catch up to it, and neither do we. Abnormal AI is looking for an Enterprise Account Executive to join our SLED team, selling behavioral AI security solutions into large, complex State, Local, and Education agencies within a defined territory. We didn&rsquo;t bolt AI onto old security tools. We built our platform from AI up, to catch the human-targeted attacks that legacy tools miss, and public sector organizations need that protection as much as anyone. The ideal candidate is local to the NorCal area and brings experience selling into large public sector environments, particularly Enterprise-level SLED organizations, along with: Proven hunter focused on selling to large state and local government agencies, with a disciplined approach to early pipeline development and prospecting. Skilled at leveraging all five demand generation pillars: AE prospecting, SDRs, marketing, channel partnerships, and customer referrals. Strong qualifier with the ability to uncover public sector pain points and map them to compelling, value-driven solutions. Effective presenter who tailors demos and messaging to resonate with government stakeholders and address their specific challenges. Process-oriented with a consistent sales methodology and strong time management skills to manage multiple deals efficiently. Data-disciplined, maintaining accurate and up-to-date account and opportunity data across systems. Experienced in building business c",
+      "matched_keywords": [
+        "enterprise",
+        "legacy"
+      ]
+    },
+    {
+      "title": "Back End Engineer at Codekeeper",
+      "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/back-end-engineer-870863",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Back End Developer - Ruby Stack Are you an experienced Ruby developer with a passion for building and maintaining innovative applications? Do you enjoy working in fast-paced environments where your work can make a meaningful impact? If so, you might be a great fit for our team. Codekeeper is looking for a talented Back End Engineer with expertise in the Ruby stack. Join us and play a key role in developing new features for our cutting-edge application. About the Role We are looking for a skilled Back End Engineer with expertise in Ruby Stack to join our team. The ideal candidate will be involved in the full software development lifecycle, from concept to deployment, focusing on creating and maintaining scalable, high-quality applications. This role is perfect for a proactive individual who excel in a fast-paced environment and is eager to drive new feature development using Ruby on Rails and React technologies. What You’ll Be Doing Collaborate with our team on the development of our app and drive new feature development Utilize a Ruby-on-Rails and React stack, hosted on AWS Write well-structured, lightweight, and easily editable code, supported by testing Follow our clearly defined product development process and detailed interaction designs Exercise a high degree of autonomy in deciding the best solutions for tasks and discussing implementation decisions during code reviews Why Codekeeper? Codekeeper was founded by tech industry professionals to revolutionize software escrow",
+      "matched_keywords": [
+        "backend"
       ]
     }
   ]

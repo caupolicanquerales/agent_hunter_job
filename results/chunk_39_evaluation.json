@@ -1,0 +1,126 @@
+[
+  {
+    "id": "chunk_39-1",
+    "title": "Senior Cloud Engineer (Azure) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925640/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior cloud engineer role on Azure landing zones, containers and CI/CD for a client of Proxify, remote with a CET time zone requirement. Operational infrastructure ownership with zero-trust security. Senior level, salary not stated.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level with enterprise scale responsibilities"
+    ],
+    "cons": [
+      "Pure cloud infrastructure role, outside the Java and backend focus",
+      "Requires CET time zone"
+    ]
+  },
+  {
+    "id": "chunk_39-2",
+    "title": "Senior Data Engineer (Azure) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925636/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior data engineer role focused on Azure SQL, Data Factory, ETL and data warehousing, remote with a CET time zone requirement. Senior level, salary not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level with data architecture knowledge"
+    ],
+    "cons": [
+      "Data engineering and ETL focus, not backend application development",
+      "Requires CET time zone"
+    ]
+  },
+  {
+    "id": "chunk_39-3",
+    "title": "Senior DevOps Engineer (Azure) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925634/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior Azure DevOps role covering reliability, IaC, containers and Kubernetes/AKS for a Proxify client, remote with a CET time zone requirement. Senior level, salary not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level with Azure architecture knowledge"
+    ],
+    "cons": [
+      "Pure DevOps role, outside the profile",
+      "Requires CET time zone"
+    ]
+  },
+  {
+    "id": "chunk_39-4",
+    "title": "Senior Fullstack Developer (React.js / Node.js) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925629/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior fullstack role with React.js and Node.js, including microservices architecture and SQL/MongoDB, remote with a CET time zone requirement. Senior level, salary not stated.",
+    "matched_keywords": [
+      "microservices",
+      "backend",
+      "architecture",
+      "fullstack",
+      "full-stack",
+      "node"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Backend work on microservices architecture matches the profile",
+      "Fullstack experience aligns with the Angular and TypeScript stack"
+    ],
+    "cons": [
+      "Node.js-centric stack rather than Java and Spring Boot",
+      "Applicants outside CET plus or minus 3 hours are excluded"
+    ]
+  },
+  {
+    "id": "chunk_39-5",
+    "title": "Senior Python Developer (Fullstack, BE-Heavy) at Proxify",
+    "link": "https://www.workingnomads.com/job/go/1925623/",
+    "source": "WorkingNomads_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior backend-heavy fullstack role designing high-throughput async APIs, background orchestration and frontend state, described as a core software architect position. Remote with a CET time zone requirement. Senior level, salary not stated.",
+    "matched_keywords": [
+      "backend",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 66,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Software architect role with backend-heavy API design",
+      "Fullstack scope matches the Angular and frontend experience"
+    ],
+    "cons": [
+      "Python-centric rather than Java and Spring Boot",
+      "Applicants outside CET plus or minus 3 hours are excluded"
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "chunk": 49,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Devops Engineer at 360Learning",
+      "company": "360Learning",
+      "location": "Paris, Remote",
+      "link": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-devops-engineer-393877",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "As a DevOps Engineer, you will be an integral part of an existing team comprising sixseven DevOps professionals. You will play a vital role in designing, implementing, and maintaining our cloud infrastructure and the internal platform built on it, which serves over 1800+ client companies, with 2.5+ million registered users and 30,000 daily active users.&nbsp; You will collaborate closely with all engineering squads including Development, Architecture, AI, and Data teams, to ensure the smooth and efficient delivery of our SaaS product. Our objective is to treat our infrastructure as a product for our developers, managing its complexity so they don’t have to. We provide simple, ready-to-use tools that enable them to build, deploy, and run their services efficiently.. Your expertise will be crucial in driving continuous improvement and fostering innovation within our DevOps and Platform Engineering practices. You will have the opportunity to: - Make a tangible impact in a rapidly evolving company. You will be responsible for building and maintaining a scalable infrastructure (accommodating more developers, more customers, and expansion into more countries) while optimizing resources (monitoring costs, reducing toil, and improving time to market) to support our growing activities. - Engage in the continuous enhancement of our practices and undertake challenging and comprehensive projects. If you are interested in topics like SRE practices and platform engineering, you will play a",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Founding GTM Lead at Remanence",
+      "company": "Remanence",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/remanence/founding-gtm-lead-paris-305827",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Founding GTM LeadRemanence is pioneering the next era of enterprise AI by building intelligent systems that learn continuously from real-world execution. We transform complex enterprise workflows and business context into dynamic, interactive environments where AI agents can safely learn, adapt, and improve. By combining high-fidelity simulation environments with state-of-the-art training loops, we build specialized models that solve long-horizon, complex tasks with unmatched reliability. We’re building the most talent-dense AI team in Europe to make this happen.You’ll own how Remanence goes to market: which customers we focus on, how we win them, and how those relationships grow. Working directly with the founders and technical team, you’ll turn customer insight into clear product priorities and build the commercial foundations of the company.What you’ll work onOwn the full sales cycle with enterprises and vertical AI companies, from prospecting and discovery through pilots, contracts and expansion.Lead customer pilots alongside engineers and researchers. Define clear success criteria, demonstrate business value and convert successful pilots into broader deployments.Help shape the product through customer insight. Identify recurring needs, challenge assumptions and help the team prioritize what matters.Navigate enterprise buying processes, coordinating security reviews, procurement and legal discussions with the relevant teams.Build our GTM foundations: positioning, pricing,",
+      "matched_keywords": [
+        "enterprise",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Business Partner / Executive assistant to CEO at Hcompany",
+      "company": "Hcompany",
+      "location": "Hybrid Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/hcompany/business-partner-executive-assistant-to-ceo-paris-499335",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About H:H exists to push the boundaries of superintelligence with agentic AI. By automating complex, multi-step tasks typically performed by humans, AI agents will help unlock full human potential.H is hiring the world’s best AI talent, seeking those who are dedicated as much to building safely and responsibly as to advancing disruptive agentic capabilities. We promote a mindset of openness, learning, and collaboration, where everyone has something to contribute.About the role:We’re looking for an Executive Business Partner to work alongside our CEO as a strategic partner. You’ll decide where his time goes, prepare him for every important conversation and keep the company aligned with his priorities. You’ll be a senior member of the CEO Office, with the authority to decide which meetings, events and requests make it onto his agenda.Key Responsibilities:Own the CEO’s agenda and priorities. You’ll decide which meetings, events and requests he takes on based on company priorities, and escalate only the hardest calls.Triage inbound requests such as speaking invitations, events, and approaches from partners and investors, and put forward clear recommendations.Brief the CEO before key meetings with the context, the objectives and the points he needs to land.Act as the CEO’s point of contact for investors, partners and the leadership team, representing him with judgement and discretion.Manage the CEO’s inbox and complex international travel so he can stay focused on what matters mos",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Lead Talent Acquisition EMEA at Pelico",
+      "company": "Pelico",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/pelico/lead-talent-acquisition-emea-paris-400062",
+      "source": "Arbeitnow_API",
+      "salary": "$72M",
+      "salary_currency": "USD",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "About PelicoTraditional industrial manufacturing systems were built for predictability. Supply chains no longer are. Today, real-time data is buried in legacy tools that weren't designed for constant disruption. By the time an issue surfaces, it has already snowballed, sending everyone into firefighting mode. Pelico exists to close the gap between production plans and the daily reality on the factory floor.We've built the manufacturing orchestration platform trusted by the world's most complex industrial operations : companies like Airbus, Boeing, Safran, Eaton, and Cartier. Our AI connects fragmented supply chain, production, and quality data into a single live operational picture — then puts AI agents to work anticipating disruptions, simulating recovery options, and keeping every team aligned before small problems become expensive ones.Founded in 2019 and backed by General Catalyst, 83North, and Serena, we've raised $72M and are growing fast — 300% year-over-year revenue growth, deployed in 15+ countries, and supporting factories worldwide. We're headquartered in Paris, with offices in Miami, London and Amsterdam, and we're just getting started.This is a rare chance to join a company that's redefining an industry that hasn't been disrupted in decades — from the inside.What You’ll DoShape the talent strategy for EMEABuild our EMEA recruiting strategy from the ground up: the processes, playbooks, and operating rhythm that let us scale hiring with quality.Raise talent quality",
+      "matched_keywords": [
+        "ai agent",
+        "legacy"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer at Pelico",
+      "company": "Pelico",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/pelico/senior-devops-engineer-paris-170213",
+      "source": "Arbeitnow_API",
+      "salary": "$72M",
+      "salary_currency": "USD",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "About PelicoTraditional industrial manufacturing systems were built for predictability. Supply chains no longer are. Today, real-time data is buried in legacy tools that weren't designed for constant disruption. By the time an issue surfaces, it has already snowballed, sending everyone into firefighting mode. Pelico exists to close the gap between production plans and the daily reality on the factory floor.We've built the manufacturing orchestration platform trusted by the world's most complex industrial operations : companies like Airbus, Boeing, Safran, Eaton, and Cartier. Our AI connects fragmented supply chain, production, and quality data into a single live operational picture — then puts AI agents to work anticipating disruptions, simulating recovery options, and keeping every team aligned before small problems become expensive ones.Founded in 2019 and backed by General Catalyst, 83North, and Serena, we've raised $72M and are growing fast — 300% year-over-year revenue growth, deployed in 15+ countries, and supporting factories worldwide. We're headquartered in Paris, with offices in Miami, London and Amsterdam, and we're just getting started.This is a rare chance to join a company that's redefining an industry that hasn't been disrupted in decades — from the inside.About the RoleIn your capacity as a Senior DevOps / Site Reliability Engineer, you will be instrumental in architecting the orchestration layer that drives Pelico across all fronts, spanning our global SaaS i",
+      "matched_keywords": [
+        "ai agent",
+        "legacy"
+      ]
+    }
+  ]
+}

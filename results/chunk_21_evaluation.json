@@ -1,0 +1,120 @@
+[
+  {
+    "id": "chunk_21-1",
+    "title": "Business Systems Architect at Data Coach",
+    "link": "https://remotefirstjobs.com/companies/phdata/jobs/business-systems-architect-870744",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Business systems architect at a remote-first data and AI consultancy, designing enterprise platform architecture and leading modernization including AI enablement. Works with IT and business teams on large enterprises; salary and seniority not stated in the excerpt.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "modernization"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Enterprise architecture and modernization ownership, matching the profile priorities",
+      "AI enablement within enterprise platforms, matching the applied AI focus"
+    ],
+    "cons": [
+      "Data platform consultancy focus (Snowflake, dbt) rather than Java and Spring Boot",
+      "Stack and seniority details not visible in the excerpt"
+    ]
+  },
+  {
+    "id": "chunk_21-2",
+    "title": "Staff Engineer - QA Automation at Nagarro",
+    "link": "https://remotefirstjobs.com/companies/nagarro/jobs/staff-engineer-qa-automation-870743",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Staff QA automation engineer building test frameworks for Infor M3 CloudSuite ERP, with Python or Java automation suites among the options. Quality-assurance focus across ERP upgrades; salary and location not stated.",
+    "matched_keywords": [
+      "java"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Java-based automation suites are mentioned"
+    ],
+    "cons": [
+      "QA automation role, not product backend engineering",
+      "Infor ERP focus, outside the profile domain"
+    ]
+  },
+  {
+    "id": "chunk_21-3",
+    "title": "Sr Value Engineer at Ivalua",
+    "link": "https://remotefirstjobs.com/companies/ivalua/jobs/sr-value-engineer-870721",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior value engineer in Ivalua's executive-facing team quantifying business value of procurement software for large enterprises, based in Pune. Customer-facing business case role rather than engineering.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise software vendor serving large organizations"
+    ],
+    "cons": [
+      "Business value and presales role, not software engineering",
+      "Pune location and no technical stack described"
+    ]
+  },
+  {
+    "id": "chunk_21-4",
+    "title": "Demand Planning Manager at Bosch",
+    "link": "https://remotefirstjobs.com/companies/bosch/jobs/demand-planning-manager-870939",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "135+ years",
+    "description_review": "Demand planning manager role at Robert Bosch Tool Corporation's Mount Prospect site, supporting power tool product lines. Supply and marketing planning rather than software; the years_experience field reflects company history, not a requirement.",
+    "matched_keywords": [
+      "legacy"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Large established industrial employer"
+    ],
+    "cons": [
+      "Non-technical planning and product role",
+      "No software stack or engineering scope"
+    ]
+  },
+  {
+    "id": "chunk_21-5",
+    "title": "Internship in GenAI Knowledge Assistant for Engineering at Bosch",
+    "link": "https://remotefirstjobs.com/companies/bosch/jobs/internship-in-genai-knowledge-assistant-for-engineering-870938",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Internship building a GenAI knowledge assistant on Databricks for hardware engineers, using RAG, text-to-SQL and AI agents. Academic-stage role requiring a master's degree in a related field.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied GenAI work with RAG and AI agents"
+    ],
+    "cons": [
+      "Internship, below the senior level in the profile",
+      "Databricks and data-science focus rather than Java backend"
+    ]
+  }
+]

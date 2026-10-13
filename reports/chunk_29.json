@@ -1,0 +1,78 @@
+{
+  "chunk": 29,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Data Engineer at Data Coach",
+      "link": "https://remotefirstjobs.com/companies/phdata/jobs/senior-data-engineer-870342",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "AUD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Join phData, a remote-first data and AI consultancy company with employees across the United States, Latin America, and India. We partner with industry leaders, including Snowflake, AWS, Anthropic, Glean, and dbt, to solve the complex data and AI challenges that slow large enterprises. We&rsquo;re growing fast, and we give our people real ownership over their work. We hire top performers and trust them to deliver results. Why phData? Snowflake Implementation Partner of the Year — 7 consecutive years, and 2026 Snowflake AI Partner of the Year AWS Premier Tier Services Partner — the highest tier of recognition in the AWS Partner Network 2025 Fivetran Partner of the Year (4th consecutive year) 2025 dbt Labs Partner of the Year (3x winner) with Visionary partner status 2026 KNIME Customer Excellence Partner of the Year Preferred Partner in the Anthropic Claude Partner Network #1 Partner in Snowflake Advanced Certifications 600+ Expert Cloud Certifications (Sigma, AWS, Azure, Dataiku, and more) Recognized as an award-winning workplace in the US, India and LATAM Role Overview We are looking for a Data Engineer to join our Data Engineering team. In this role, you will design, build, and productionize end-to-end cloud data solutions that are secure, scalable, performant, and robustly integrated across systems. You will collaborate closely with client stakeholders, data engineers, architects, and engagement leaders to deliver high-quality solutions and advance phData’s delivery excell",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Sr. Software Engineer - Front-End at Lively",
+      "link": "https://remotefirstjobs.com/companies/lively/jobs/sr-software-engineer-frontend-870336",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Lively Lively set out to raise the bar on benefit solutions, because we believe no one should have to sacrifice personal wellness for financial wellness. While traditional benefits focus more on transactions and less on the humans using them, Lively harnesses user-centric design and innovative technology to deliver an effortless experience for employers and account holders alike. Our modern HSA is consistently top-rated, and we have since expanded our offerings to provide a full suite of other benefits and services for companies, consumers, and financial institutions. Lively is a remote-first company, headquartered in San Francisco with employees across the US. Come join us and help make getting the value out of your benefits as simple as it should be. About the Role We are looking for a strong front-end Senior Software Engineer who wants to create deep and meaningful product engagement experiences! We have an increasing user base, and you will be focusing on implementing and enhancing our investment and financial products. Our customers trust us with a lot: integrating seamlessly across financial institutions, moving funds, tracking balances, helping with their healthcare decisions, and keeping their data extremely secure. In order to take on this mission we’re building our applications on modern web technologies around HTML/CSS/JavaScript/React, NodeJS/TypeScript, PostgreSQL, Amazon Lambdas and Kinesis etc. You should be comfortable in contributing to every part of th",
+      "matched_keywords": [
+        "java",
+        "typescript",
+        "node"
+      ]
+    },
+    {
+      "title": "Senior Software Developer (Python) at Netcompany",
+      "link": "https://remotefirstjobs.com/companies/netcompany/jobs/senior-software-developer-python-870304",
+      "source": "RemoteFirstJobs_AI",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Company Description Join Netcompany in leveraging technological innovations to foster societal transformation. Netcompany was awarded 5th position on the esteemed UK Top 50 Best Places to Work in the Glassdoor Employees’ Choice Awards for 2024. As one of the fastest growing technology companies, we are disrupting the marketplace and revolutionizing the way businesses operate. Our vision is to be the leading digital challenger in Europe whilst evolving the next generation of IT consulting. Operating across both public and private sectors, we offer a comprehensive range of services from product design and engineering, digital strategy, data services &amp; management (Machine Learning and AI), cloud migration to program delivery and service operations, our offerings are designed to meet diverse business needs. Job Description This is an exciting opportunity within technology consultancy, which offers you fast-track career development opportunities, as well as the opportunity to explore new and cutting-edge technologies. This role supports the full life cycle of software development, and includes the opportunity for hands-on coding. Can you see yourself playing a crucial role in supporting and driving your team to succeed? Are you looking to be involved in all parts of the process - from design and development, to ensuring that we deliver a high-quality end product to our clients? We work with a wide range of different technologies including .Net, C #, Java, Salesforce, Sharepoin",
+      "matched_keywords": [
+        "java"
+      ]
+    },
+    {
+      "title": "Frontend Engineer at Bjak ",
+      "company": "Bjak ",
+      "location": "Ireland",
+      "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "source": "RemoteOK_Java",
+      "salary": "0",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinationsOur objective is to organise anyone's life.Â RoleAs a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets.You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work.Â What You'll OwnBuild major web experiences across Chat, Notes, Calendar, Docs, and Sheets.Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets.Build reusable frontend architecture and components that work consistently across ActAI applications.Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows.Own frontend performance, responsiveness, reliability and accessibility across browsers and devices.Wo",
+      "matched_keywords": [
+        "backend",
+        "architecture"
+      ]
+    },
+    {
+      "title": "SI agent engineer at Sticker Mule",
+      "company": "Sticker Mule",
+      "location": "",
+      "link": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
+      "source": "RemoteOK_Java",
+      "salary": "150000",
+      "salary_currency": "USD",
+      "salary_period": "year",
+      "years_experience": "N/A",
+      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.Work performedIdentify where agents can help and build them accordingly.Work with department leads to assess SI needs.Help connect agents to appropriate third-party and internal tools.Measure results and remove agents that don't deliver.Test new tools and models as they ship and adopt what works.Advise others on SI capabilities to help them perform.RequirementsExperience building agents that run on their own and do meaningful workStrong with Grok, Claude, OpenAI, and open sourceComfortable in Go, TypeScript, GraphQL, Postgres, GCPWrites clearly in EnglishCompensationSalary: $150,000â$250,000 USD$20,000 signing bonus4 weeks vacation + country-specific holidaysFully remotePlease mention the word **HUMOUR** and tag RMTgxLjg2LjQwLjE4OQ== when applying to show you read the job post completely (#RMTgxLjg2LjQwLjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "matched_keywords": [
+        "typescript"
+      ]
+    }
+  ]
+}

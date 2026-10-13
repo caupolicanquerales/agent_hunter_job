@@ -1,0 +1,139 @@
+[
+  {
+    "id": "chunk_63-1",
+    "title": "Senior Full Stack Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155195-senior-full-stack-engineer-7",
+    "source": "Jobicy_Dev",
+    "salary": "150000 - 200000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack engineer at a US healthcare startup, owning product workflows from design to deployment and architecting solutions. Salary of 150k to 200k USD.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior full-stack ownership and architecture",
+      "Competitive US salary range"
+    ],
+    "cons": [
+      "Language and framework stack not stated",
+      "Healthcare startup, outside banking/fintech",
+      "US-based, no remote or geo details"
+    ]
+  },
+  {
+    "id": "chunk_63-2",
+    "title": "Full Stack Engineer at infisical",
+    "company": "infisical",
+    "location": "Brazil, Canada, Europe, USA",
+    "link": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
+    "source": "Jobicy_Dev",
+    "salary": "$19M",
+    "salary_currency": "USD",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Full-stack engineer at an open-source secrets management and security infrastructure company. Builds PKI and PAM products and works with enterprise customers.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customers and security infrastructure",
+      "Full-stack scope"
+    ],
+    "cons": [
+      "Stack not stated in the excerpt",
+      "Security-tooling startup, not banking/fintech",
+      "Seniority not specified"
+    ]
+  },
+  {
+    "id": "chunk_63-3",
+    "title": "Lead Front-end Engineer (Javascript) - Digital Agency - Buenos Aires, Argentina. at Truelogic",
+    "company": "Truelogic",
+    "location": "Argentina",
+    "link": "https://jobicy.com/jobs/155191-lead-front-end-engineer-javascript-digital-agency-buenos-aires-argentina",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "CAD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Lead front-end JavaScript role for a digital agency via a nearshore staffing firm in Buenos Aires. Focus on React, Vue, accessibility and automated testing.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack",
+      "vue"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Vue experience is in the profile"
+    ],
+    "cons": [
+      "Pure frontend focus, not backend Java",
+      "Agency and staff augmentation context"
+    ]
+  },
+  {
+    "id": "chunk_63-4",
+    "title": "Senior Detection Analyst at Zscaler",
+    "company": "Zscaler",
+    "location": "Costa Rica",
+    "link": "https://jobicy.com/jobs/155194-senior-detection-analyst",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote senior security detection analyst role in Costa Rica, analyzing telemetry and alerts for managed detection and response.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise security platform company"
+    ],
+    "cons": [
+      "Security operations analyst role, not software engineering",
+      "No Java or architecture focus"
+    ]
+  },
+  {
+    "id": "chunk_63-5",
+    "title": "Senior Software Engineer, Admin & IAM at Mural",
+    "company": "Mural",
+    "location": "Argentina",
+    "link": "https://jobicy.com/jobs/155185-senior-software-engineer-admin-iam",
+    "source": "Jobicy_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior engineer on the identity and access management team at a remote-first collaboration company. Owns SSO, MFA, SCIM provisioning, permission models and enterprise admin surfaces.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 78,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "IAM, SSO and authorization match the OAuth and enterprise security background",
+      "Senior end-to-end design ownership",
+      "Remote-first with enterprise customers"
+    ],
+    "cons": [
+      "Stack not stated in the excerpt",
+      "Collaboration SaaS, not banking/fintech",
+      "Based in Argentina, geo and salary not stated"
+    ]
+  }
+]

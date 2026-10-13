@@ -1,0 +1,86 @@
+{
+  "chunk": 63,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Full Stack Engineer at Solace",
+      "company": "Solace",
+      "location": "USA",
+      "link": "https://jobicy.com/jobs/155195-senior-full-stack-engineer-7",
+      "source": "Jobicy_Dev",
+      "salary": "150000 - 200000 USD",
+      "salary_currency": "USD",
+      "salary_period": "yearly",
+      "years_experience": "N/A",
+      "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get better outcomes. We're a Series C startup, founded in 2022 and backed by Inspired Capital, Craft Ventures, Torch Capital, Menlo Ventures, Signalfire, and IVP. Our U.S. based team is lean, mission-driven, and growing quickly. Solace isn't a place to coast. We're here to redefine healthcare—and that demands urgency, precision, and heart. If you're looking to stretch yourself, sharpen your edge, and do the best work of your life alongside a team that cares deeply, you're in the right place. We’re intense, and we like it that way. Read more in our Bloomberg funding announcement here. About the Role As a Full Stack Engineer, you’ll join a spectacularly talented team of fellow engineers—but you will also be expected to independently own your product workflow from initial design requirements through deployment. You will be expected to move aggressively, and you will commit code daily, but you’ll get that rush of seeing your work in the wild with live users on a regular basis as you build a revolutionary product from scratch. You are an experienced engineer who can identify problems and architect the highest-quality solutions. You are curious and enjoy working ",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Full Stack Engineer at infisical",
+      "company": "infisical",
+      "location": "Brazil,  Canada,  Europe,  USA",
+      "link": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
+      "source": "Jobicy_Dev",
+      "salary": "$19M",
+      "salary_currency": "USD",
+      "salary_period": "month",
+      "years_experience": "N/A",
+      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, OpenRouter, LG, and NVIDIA. Join us on a mission to make security easier for all developers — starting with secrets management. We’re looking to hire exceptional talent to join us in building the open source security infrastructure stack for the AI era. About the role We’re looking for an exceptional Full Stack Engineer to help us build, optimize, and expand the foundation of the platform. We’ve kept our hiring standards exceptionally high since we expect engineers to tackle a broad range of challenges on a day-to-day basis. Examples of past engineering initiatives include developing strategies for secret rotation and dynamic secrets, a gateway to provide secure access to private resources, protocols like EST and KMIP, integrations for syncing secrets across cloud providers, and entire new product lines such as Infisical PKI and Infisical PAM. You’ll be working closely with our CTO and the rest of the engineering team to: Develop and maintain features whilst communicating directly with enterprise customers. Expand our newer Infisical PKI, Infisical PAM, and Infisi",
+      "matched_keywords": [
+        "enterprise",
+        "fullstack",
+        "full-stack"
+      ]
+    },
+    {
+      "title": "Lead Front-end Engineer (Javascript) - Digital Agency - Buenos Aires, Argentina. at Truelogic",
+      "company": "Truelogic",
+      "location": "Argentina",
+      "link": "https://jobicy.com/jobs/155191-lead-front-end-engineer-javascript-digital-agency-buenos-aires-argentina",
+      "source": "Jobicy_Dev",
+      "salary": "N/A",
+      "salary_currency": "CAD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client This digital agency helps leading brands create distinctive online experiences. Its services combine product strategy, experience design, full-stack development, artificial intelligence, digital commerce, branding, content, social media, and marketing. The agency partners with organizations to build personalized products, platforms, campaigns, and customer journeys that drive meaningful and sustainable business growth. Job Summary Experience with React, Svelte, Vue, GSAP, Webpack, and automated testing tools. Deep understanding of web accessibility (ARIA, screen readers) and rend",
+      "matched_keywords": [
+        "fullstack",
+        "full-stack",
+        "vue"
+      ]
+    },
+    {
+      "title": "Senior Detection Analyst at Zscaler",
+      "company": "Zscaler",
+      "location": "Costa Rica",
+      "link": "https://jobicy.com/jobs/155194-senior-detection-analyst",
+      "source": "Jobicy_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Senior Detection Analyst to join our team. This is a remote role (in Costa Rica), reporting to the Manager, Detection Analyst in the Detection Operations Team. You will utilize our detection platform to analyze telemetry, alerts, and log sources across several detection domains including Endpoint, Identity, Network, and Cloud to publish threats for our Managed Detection and Response customers. Additionally, ",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Admin & IAM at Mural",
+      "company": "Mural",
+      "location": "Argentina",
+      "link": "https://jobicy.com/jobs/155185-senior-software-engineer-admin-iam",
+      "source": "Jobicy_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "ABOUT THE TEAM The Admin &amp; Identity and Access Management (Admin &amp; IAM) team at Mural defines how users sign in, manage their identities, and access Mural's products, as well as how administrators configure and govern their organizations. We own authentication &amp; authorization, Single Sign-On (SSO), Multi-Factor Authentication (MFA), user provisioning (SCIM), session management, and the core permission model that powers roles and access control across companies and workspaces. We also own the enterprise administration experience; the configuration and controls that company and workspace admins use to manage their organizations and users. By providing secure, clear, and intuitive controls for users and administrators, we help organizations adopt Mural quickly and collaborate with confidence. YOUR MISSION As a Senior Software Engineer on the Admin &amp; IAM team, you will design and ship these capabilities end-to-end, from identity primitives like the permission model and authentication flows to the admin surfaces enterprise customers use every day. Senior Engineers on Admin &amp; IAM own complex technical initiatives, influence platform and security best practices, and collaborate closely with Product, Design, and Infrastructure to deliver secure experiences that feel simple and intuitive. You will report to an Engineering Manager and work with a small, focused team in a remote-first environment, with the option to work from our Buenos Aires office. WHAT YOU'LL DO B",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    }
+  ]
+}

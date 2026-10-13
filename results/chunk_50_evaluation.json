@@ -1,0 +1,138 @@
+[
+  {
+    "id": "chunk_50-1",
+    "title": "Tech Lead - Platform at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-platform-paris-355949",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Tech lead role in Paris for the platform squads of an AI-native manufacturing platform configured through YAML and running AI agents. The role is senior and architecture-oriented, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 62,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Tech lead scope on platform architecture for an AI-native product",
+      "AI agents and orchestration match the applied GenAI profile"
+    ],
+    "cons": [
+      "Language and stack are not stated in the visible description",
+      "Industrial manufacturing domain, not banking or fintech",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_50-2",
+    "title": "Tech Lead - Solutions at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-solutions-paris-46303",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Tech lead role in Paris leading a solutions squad that delivers customer-facing applications on the Pelico platform to fix missing-parts problems in factories. It is senior, delivery-focused, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior tech lead scope with AI-native platform context"
+    ],
+    "cons": [
+      "Delivery and customer-solution focus rather than core backend architecture",
+      "Industrial manufacturing domain, not banking or fintech",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_50-3",
+    "title": "Software Engineer JVM at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/software-engineer-jvm-paris-260939",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "JVM software engineer role in Paris building performant, maintainable systems for an AI-native manufacturing platform, with a lead component. The stack is JVM-based and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 74,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "JVM stack matches the Java and Spring Boot core of the profile",
+      "Leads system design and delivery on a backend platform",
+      "AI agent platform context matches the applied AI profile"
+    ],
+    "cons": [
+      "Industrial manufacturing domain, not banking or fintech",
+      "Specific JVM language and framework are not confirmed in the visible description",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_50-4",
+    "title": "Lead Product Manager at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/lead-product-manager-paris-25444",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Lead product manager role in Paris defining the agent-first product strategy for autonomous AI agents in aerospace manufacturing. It is a product management position, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied AI agent product context"
+    ],
+    "cons": [
+      "Product management role with no engineering content",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_50-5",
+    "title": "Customer Experience Engineer France at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/customer-experience-engineer-france-paris-400944",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Customer experience engineer role in France acting as the primary contact for assigned industrial accounts and resolving client issues. It is a client-facing support position, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical customer work on an AI platform"
+    ],
+    "cons": [
+      "Client-facing account role rather than engineering architecture",
+      "Salary field contains funding data, not compensation"
+    ]
+  }
+]

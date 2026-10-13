@@ -3,88 +3,69 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Senior Fullstack Developer (.NET) at Proxify",
-      "company": "Proxify",
-      "location": "CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925599/",
-      "source": "WorkingNomads_AI",
+      "title": "Forward Deployment Engineer, Reporting Pro at DeepHealth",
+      "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineer-reporting-pro-870820",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Fullstack .NET Developer to join our fast-growing Network. In this role, you’ll own the design and implementation of backend services and APIs using .NET (C# / ASP.NET Core), while delivering polished, performant user interfaces using modern frontend technologies and .NET-driven UI frameworks. You will collaborate with product managers, designers, and other engineers to deliver end-to-end features, make architectural decisions, and mentor more junior engineers. This is a long-term, full-time remote engagement. You’ll have the opportunity to work with modern cloud platforms, CI/CD pipelines, and deliver impactful features in real products used by customers around the world. What we are looking for: 5+ years of professional ",
+      "years_experience": "N/A",
+      "description": "Description The Forward Deployment Engineer, Reporting Pro helps customers adopt DeepHealth’s Reporting Pro correctly. The role combines radiology reporting depth, clinical workflow knowledge and customer communication to design how Reporting Pro is configured for each customer, build report templates and structured reporting content with radiologists, coach implementation teams, resolve complex technical issues, and turn recurring field needs into standard product workflows, including AI-assisted report drafting as it is released. This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence, and working closely with the DxS lead Forward Deployment Engineer. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness. Essential Duties and Responsibilities Own technical solution design and configuration of Reporting Pro for assigned customers, mapping reporting workflow to configuration (report templates, macros, structured reporting, speech recognition, sign-off and addendum rules, critical results, user roles). Lead te",
       "matched_keywords": [
-        "backend",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior Forward Engineer-Diagnostic Suite at DeepHealth",
+      "link": "https://remotefirstjobs.com/companies/deephealth/jobs/senior-forward-engineerdiagnostic-suite-870818",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description The Senior Forward Deployment Engineer, DxS helps customers adopt DeepHealth’s Diagnostic Suite (DxS) correctly as one integrated solution. The role owns the end-to-end technical design across core PACS, Viewer, Reporting, integrations and AI for assigned customers, leads the product-area FDEs, coaches implementation teams, resolves complex cross-component issues, and turns recurring field needs into standard product workflows. This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness. Essential Duties and Responsibilities Own end-to-end technical solution design of the Diagnostic Suite for assigned customers, combining core PACS, Viewer, Reporting, integrations and AI into one clinical workflow. Lead suite-level technical discovery with customers and implementation teams, and produce the solution design and configuration plan used for implementation. Lead the product-area FDEs (Reporting Pro, Viewer, HL7 Integration) and own OS/Core PACS config",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Python/React, AI-assisted development at Houst",
+      "link": "https://remotefirstjobs.com/companies/houst/jobs/senior-software-engineer-pythonreact-aiassisted-development-870814",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "USD",
+      "salary_period": "month",
+      "years_experience": "N/A",
+      "description": "Monthly rate: USD 4,500–6,000/month contractor fee excl. VAT (≈ GEL 11,700–15,600) Location: Fully remote from anywhere in Georgia Team: Engineering (London + Kraków, GMT/CET hours) Houst manages thousands of short-let homes in 20+ cities, from London and Lisbon to Auckland. Behind the scenes our platform does the heavy lifting: listing automation, 24&frasl;7 guest messaging, dynamic pricing, cleaning and maintenance scheduling, payouts, and integrations with Airbnb, Booking.com and dozens of other partners. We are a small, senior engineering team, and we build with AI as a core part of the workflow, not a side experiment. Agents write and review code with us, docs are generated from source, and we measure the gains. We are hiring our first engineer in Georgia to extend that team. The role This is a hands-on individual-contributor role with no direct reports. Python backend work comes first, React second. You will own features end to end, working directly with product, operations and growth. You will be expected to use AI tooling heavily and well: planning with it, generating and reviewing code with it, and knowing exactly when not to trust it. What you will do Design, build and ship backend services and APIs (Python 3, Flask, SQLAlchemy, PostgreSQL, Redis) and the React / React Native frontends they power Lead by example on AI-assisted development: agentic coding tools, prompt and context engineering, automated review, test generation, and the evaluation that proves they hel",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin at Doctolib",
+      "link": "https://remotefirstjobs.com/companies/doctolib/jobs/software-engineer-intern-fullstack-xfm-berlin-870807",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Software Engineering Intern - Fullstack (x/f/m) Set a new pulse for healthcare! We are looking for a Software Engineering Intern to join the Engineering team. Your mission will be to build innovative products and features that improve the daily lives of care teams and patients. You will work in a feature team developing solutions that directly impact healthcare professionals and patients across Europe, contributing to our Operating System powered by AI to manage all clinical and administrative activities. Working in the tech team at Doctolib means building innovative products and features to improve the daily lives of care teams and patients. What you&rsquo;ll do Your responsibilities include but are not limited to: Build and own features alongside experienced engineers — from design and development to testing and shipping — with a direct impact on real users Collaborate with engineers, product managers, and designers to solve complex technical challenges and build scalable, secure, and user-friendly healthcare tools Write clean, efficient code following industry best practices in design, testing, and peer review Solve real-world problems that directly enhance patient care and improve doctor-patient relationships Explore new tools and technologies, including AI and distributed systems, as part of your continuous growth Contribute to a culture of learning and collaboration by sharing knowledge and engaging actively with your team Who you are Before you read on: if you don&rsqu",
+      "matched_keywords": [
         "fullstack",
         "full-stack"
       ]
     },
     {
-      "title": "Senior Backend Developer (.NET) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925598/",
-      "source": "WorkingNomads_AI",
+      "title": "Senior Software Engineer at MediaRadar, Inc.",
+      "link": "https://remotefirstjobs.com/companies/mediaradar-inc/jobs/senior-software-engineer-870799",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "6+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior .NET Developer to join one of our high-growth client teams as a core backend architect. In this role, you will lead the design and implementation of enterprise-level applications, moving beyond simple CRUD operations to build complex, high-throughput distributed systems. You will be the technical engine behind the client’s product evolution, ensuring that their backend infrastructure is not only performant and secure but also prepared for the latest cloud-native advancements. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 6+ years of professional experience in backend development, with deep expertise",
-      "matched_keywords": [
-        "backend",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Senior AI Engineer (Backend-Focused) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925596/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "AUD",
-      "salary_period": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "day",
       "years_experience": "N/A",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior AI Engineer to join one of our high-growth client teams to lead the development of next-generation autonomous systems. This is a backend-heavy fullstack role where you will be responsible for more than just simple prompt engineering. You will be architecting Agentic Workflows—systems that can reason, use tools, and execute complex coding tasks autonomously. The ideal candidate is a language-agnostic engineer who is obsessed with the Claude ecosystem and has hands-on experience building systems where AI agents interact with real-world data and codebases. You will bridge the gap between advanced LLM capabilities and robust, scalable backend production environments. What we are looking for: Deep expertise in Agentic Devel",
+      "description": "Location: Remote Madrid, Spain (local working hours) About MediaRadar: MediaRadar, now including the data and capabilities of Vivvix, powers the mission-critical marketing and sales decisions that drive competitive advantage. Our competitive advertising intelligence platform enables clients to achieve peak performance with always-on data and insights that span the media, creative, and business strategies of five million brands across 30+ media channels. As we expand our footprint from the US into Europe and deepen our focus on media intelligence, we&rsquo;re looking for engineers who can help scale our platform and products globally. About the Role: We&rsquo;re looking for a Senior Software Engineer to join our Client Apps team and independently own complex, ambiguous problems across our platform. You&rsquo;ll focus on Insights Studio, our unified insights application, and play a key role in migrating our Creative Intelligence application into the Insights Studio suite. As part of this effort, MediaRadar is consolidating products, each currently running on separate databases, onto a single ClickHouse source of truth. You&rsquo;ll work agentically, using Claude Code as a core part of how you design, build, and ship. Technical Must-Haves: Agentic Coding: Hands-on, daily use of agentic coding tools (Claude Code) in Visual Studio or VS Code is a must. Core: Expert-level Python (FastAPI), C#, and React/TypeScript. Data: Strong SQL; ClickHouse experience is a big plus. Cloud: Hands",
       "matched_keywords": [
-        "backend",
-        "fullstack",
-        "full-stack",
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Senior Salesforce Developer at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925592/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "4 years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Salesforce Developer with experience to join one of our fast-growing client teams. You will play a key role in building modern web applications, collaborating with cross-functional teams, and helping shape the future of user experiences across various platforms. What we’re looking for: Minimum of 4 years of experience in Salesforce development. Deep understanding of Salesforce architecture, data model, and security model. Strong hands-on experience with Apex, Visualforce, Lightning Web Components (LWC), and SOQL. Proven experience developing custom Salesforce applications and integrations using REST and SOAP APIs. Experience with Salesforce Sales Cloud, Service Cloud, and Experience Cloud. Familiarity with CI/CD tools ",
-      "matched_keywords": [
-        "architecture"
-      ]
-    },
-    {
-      "title": "Senior SAP S/4HANA Developer at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925590/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "N/A",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior SAP S/4HANA Developer on behalf of our client to lead backend and full-stack development within a modern S/4HANA enterprise landscape. In this role, you will take technical ownership of designing, building, and extending mission-critical SAP applications—leveraging modern development paradigms such as the ABAP RESTful Application Programming Model (RAP) and Core Data Services (CDS). You will drive modern, upgrade-stable SAP development by adhering strictly to \"Clean Core\" architectural guidelines. Rather than relying on legacy, modification-heavy ABAP patterns, you will build side-by-side extensions on SAP BTP, expose optimized OData services, push heavy calculations down to the in-memory SAP HANA database, and deliver",
-      "matched_keywords": [
-        "backend",
-        "enterprise",
-        "fullstack",
-        "full-stack",
-        "legacy"
+        "typescript"
       ]
     }
   ]

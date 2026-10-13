@@ -1,0 +1,48 @@
+[
+  {
+    "id": "chunk_72-1",
+    "title": "Customer service manager (CY) at ParcelHero",
+    "company": "ParcelHero",
+    "location": "Cyprus",
+    "link": "https://jobicy.com/jobs/149072-customer-service-manager-cy",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Customer service manager role at ParcelHero, remote-first, Cyprus, leading team leaders and a 50-person remote team. Operations and customer experience focus; description truncated in source.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Customer service management, not software engineering",
+      "No Java/Spring or architecture signal"
+    ]
+  },
+  {
+    "id": "chunk_72-2",
+    "title": "Customer service manager (CZ) at ParcelHero",
+    "company": "ParcelHero",
+    "location": "Czechia",
+    "link": "https://jobicy.com/jobs/149070-customer-service-manager-cz",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Customer service manager role at ParcelHero, remote-first, Czechia, leading team leaders and a 50-person remote team. Operations and customer experience focus; description truncated in source.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Customer service management, not software engineering",
+      "No Java/Spring or architecture signal"
+    ]
+  }
+]

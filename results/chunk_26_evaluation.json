@@ -1,0 +1,125 @@
+[
+  {
+    "id": "chunk_26-1",
+    "title": "Senior SDET, Back End [Remote-US] at Quanata",
+    "link": "https://remotefirstjobs.com/companies/quanata/jobs/senior-sdet-back-end-remoteus-870640",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior back-end SDET role on an AI-native insurance technology platform backed by State Farm, fully remote in the US. Focus is test automation for back-end systems; salary is not stated.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Back-end systems and insurance platform context"
+    ],
+    "cons": [
+      "Primary focus is test automation (SDET) rather than software architecture or building features",
+      "Java/Spring stack not confirmed in the data"
+    ]
+  },
+  {
+    "id": "chunk_26-2",
+    "title": "Principal Full-Stack Data Scientist - Foundational Models at Stitch Fix",
+    "link": "https://remotefirstjobs.com/companies/stitch-fix/jobs/principal-fullstack-data-scientist-foundational-models-870632",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack data scientist on a foundational ML models team for personalization and recommendations in retail, combining modeling and production deployment with generative AI. Salary and location are not stated.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack",
+      "generative ai"
+    ],
+    "score": 49,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied generative AI and production ML deployment experience",
+      "Senior ownership of the full model lifecycle"
+    ],
+    "cons": [
+      "Data science focus rather than Java/Spring backend",
+      "Retail domain outside banking/fintech"
+    ]
+  },
+  {
+    "id": "chunk_26-3",
+    "title": "Microsoft Power Platform Developer at T-Rex Solutions, LLC",
+    "link": "https://remotefirstjobs.com/companies/t-rex-solutions-llc/jobs/microsoft-power-platform-developer-870567",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Power Apps developer supporting enterprise defense healthcare programs, building low-code applications, reports and automation with Power Automate, Power BI and Azure DevOps. Salary and location are not stated.",
+    "matched_keywords": [
+      "enterprise",
+      "modernization"
+    ],
+    "score": 25,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise program context and Azure DevOps exposure"
+    ],
+    "cons": [
+      "Low-code Power Platform focus, not Java/Spring",
+      "Government defense healthcare domain"
+    ]
+  },
+  {
+    "id": "chunk_26-4",
+    "title": "Associate Distinguished Engineer (Solution Architect - GenAI + RAG + Agentic AI, Cloud, data architecture, Integration Architecture) at Nagarro",
+    "link": "https://remotefirstjobs.com/companies/nagarro/jobs/associate-distinguished-engineer-solution-architect-genai-rag-agentic-ai-cloud-data-architecture-integration-architecture-870538",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "8+ years",
+    "description_review": "Solution architect role for enterprise GenAI, RAG and agentic AI solutions across cloud, data and integration architectures, with pre-sales and client presentation duties. Requires 8+ years in solution architecture; salary and location are not stated.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "generative ai"
+    ],
+    "score": 64,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Enterprise solution architecture and integration architecture experience matches the profile",
+      "Hands-on GenAI, RAG and agentic AI delivery aligns with applied AI priorities"
+    ],
+    "cons": [
+      "Java/Spring Boot not mentioned in the data",
+      "Pre-sales and client-facing emphasis over hands-on backend engineering"
+    ]
+  },
+  {
+    "id": "chunk_26-5",
+    "title": "Senior Staff Mechanical Engineer at Carbon Oral Health Applications",
+    "link": "https://remotefirstjobs.com/companies/carbon/jobs/senior-staff-mechanical-engineer-870496",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior staff mechanical engineering role defining hardware architecture for additive manufacturing platforms, remote from North Carolina. Salary is not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior architecture leadership role"
+    ],
+    "cons": [
+      "Mechanical hardware engineering, not software",
+      "No software stack required"
+    ]
+  }
+]

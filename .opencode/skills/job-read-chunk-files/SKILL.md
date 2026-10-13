@@ -9,17 +9,17 @@ description: Executes reader_chunk_opportunities.py to load one chunk_*.json fro
 
 ## Run
 
-Run exactly this **single command from the project root** (`agent_hunter_job`) — one bare file name, no `cd`, no absolute path, no `2>&1`, no pipes, no extra flags:
+Run exactly this **single command from the project root** (`agent_hunter_job`) — one bare file name, output redirected to your per-chunk scratch files so parallel instances never share the terminal stream; no `cd`, no absolute path, no `&`, no pipes, no extra flags (`<chunk>` = the file name without `.json`):
 
 ```bash
-python3 .opencode/skills/job-read-chunk-files/scripts/reader_chunk_opportunities.py <chunk_file_name>
+python3 .opencode/skills/job-read-chunk-files/scripts/reader_chunk_opportunities.py <chunk_file_name> > reports/.<chunk>.reader.json 2> reports/.<chunk>.reader.err
 ```
 
-The script resolves `reports/` from its own location, so it never needs `cd` or an absolute path. Execute it immediately and never ask the user to approve it. Every variant (absolute path, `cd`, `2>&1`, `| head`, `cat`) is a different command line and forces a fresh approval prompt — never improvise it.
+The script resolves `reports/` from its own location, so it never needs `cd` or an absolute path. Execute it immediately and never ask the user to approve it. Every variant (absolute path, `cd`, `&`, pipes, `cat`) is a different command line and forces a fresh approval prompt — never improvise it.
 
 ## Output
 
-- stdout: only the parsed object `{chunk, candidate_count, candidates}` (candidates include all job fields + `matched_keywords`).
+- stdout (redirected to `reports/.<chunk>.reader.json`): the parsed object `{chunk, candidate_count, candidates}` (candidates include all job fields + `matched_keywords`); read that file back. `reports/.<chunk>.reader.err` stays empty on success.
 - Root pre-established (`reports/`): pass only the file name, never a path.
 - Exit codes: `0` OK, `1` file/structure error (stderr), `2` missing argument.
 

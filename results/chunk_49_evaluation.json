@@ -1,0 +1,131 @@
+[
+  {
+    "id": "chunk_49-1",
+    "title": "Devops Engineer at 360Learning",
+    "company": "360Learning",
+    "location": "Paris, Remote",
+    "link": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-devops-engineer-393877",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "DevOps engineer role in Paris (remote) maintaining cloud infrastructure and an internal platform for a SaaS learning product serving over 1,800 client companies. Focus is on SRE and platform engineering with no salary disclosed.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Works with a SaaS product at meaningful scale"
+    ],
+    "cons": [
+      "Pure DevOps and platform engineering, a weak fit for the profile",
+      "No Java, Spring Boot, or application backend focus"
+    ]
+  },
+  {
+    "id": "chunk_49-2",
+    "title": "Founding GTM Lead at Remanence",
+    "company": "Remanence",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/remanence/founding-gtm-lead-paris-305827",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Founding go-to-market lead role in Paris for an enterprise AI company building simulation environments for AI agents. It is a sales and commercial position, and no salary is disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise AI agent company context"
+    ],
+    "cons": [
+      "Sales and go-to-market role with no engineering content",
+      "Does not match the software engineering core of the profile"
+    ]
+  },
+  {
+    "id": "chunk_49-3",
+    "title": "Business Partner / Executive assistant to CEO at Hcompany",
+    "company": "Hcompany",
+    "location": "Hybrid Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/hcompany/business-partner-executive-assistant-to-ceo-paris-499335",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Executive business partner role supporting the CEO of an agentic AI company in Paris, managing agenda, investor contact and travel. It is an executive assistant position, and no salary is disclosed.",
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Agentic AI company context"
+    ],
+    "cons": [
+      "Executive assistant role with no software engineering content",
+      "Does not match any core profile skill"
+    ]
+  },
+  {
+    "id": "chunk_49-4",
+    "title": "Lead Talent Acquisition EMEA at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/lead-talent-acquisition-emea-paris-400062",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Talent acquisition lead role in Paris for an AI-driven manufacturing orchestration platform, building EMEA recruiting strategy. It is an HR position, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 2,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise AI company in an industrial domain"
+    ],
+    "cons": [
+      "HR and recruiting role with no engineering content",
+      "Salary field contains funding data, not compensation"
+    ]
+  },
+  {
+    "id": "chunk_49-5",
+    "title": "Senior DevOps Engineer at Pelico",
+    "company": "Pelico",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pelico/senior-devops-engineer-paris-170213",
+    "source": "Arbeitnow_API",
+    "salary": "$72M",
+    "salary_currency": "USD",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Senior DevOps and SRE role in Paris architecting the orchestration layer of an AI manufacturing platform used by large industrial companies. The role is infrastructure-focused, and the salary field shows a funding figure rather than pay.",
+    "matched_keywords": [
+      "ai agent",
+      "legacy"
+    ],
+    "score": 26,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level and architecture of an orchestration layer for an AI platform"
+    ],
+    "cons": [
+      "Primary focus is SRE and DevOps, a weak fit for the profile",
+      "No Java or Spring Boot backend development mentioned in the visible description",
+      "Salary field contains funding data, not compensation"
+    ]
+  }
+]

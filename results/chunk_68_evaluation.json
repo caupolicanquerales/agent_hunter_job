@@ -1,0 +1,136 @@
+[
+  {
+    "id": "chunk_68-1",
+    "title": "Staff Software Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155199-staff-software-engineer-8",
+    "source": "Jobicy_AI",
+    "salary": "180000 - 250000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Staff hands-on technical leader role at a US healthcare startup, driving architecture across frontend and backend while writing production code daily. Salary 180k to 250k USD.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 52,
+    "recommendation": "SKIP",
+    "pros": [
+      "Staff-level architecture and mentoring responsibility",
+      "Backend and platform scope"
+    ],
+    "cons": [
+      "Stack not stated in the job excerpt",
+      "Healthcare startup, not banking or fintech",
+      "Greenfield product rather than modernization of legacy systems"
+    ]
+  },
+  {
+    "id": "chunk_68-2",
+    "title": "Senior Platform Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
+    "source": "Jobicy_AI",
+    "salary": "150000 - 200000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Senior platform engineering role at a US healthcare startup, building infrastructure, deployment safeguards and failure recovery. Salary 150k to 200k USD.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 49,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture-level and infrastructure responsibility"
+    ],
+    "cons": [
+      "Infrastructure focus rather than application backend",
+      "Stack not stated in the job excerpt",
+      "Healthcare startup, not banking or fintech"
+    ]
+  },
+  {
+    "id": "chunk_68-3",
+    "title": "Senior Full Stack Engineer at Solace",
+    "company": "Solace",
+    "location": "USA",
+    "link": "https://jobicy.com/jobs/155195-senior-full-stack-engineer-7",
+    "source": "Jobicy_AI",
+    "salary": "150000 - 200000 USD",
+    "salary_currency": "USD",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Senior full stack role at a US healthcare startup, owning product workflows from design to deployment and building a product from scratch. Salary 150k to 200k USD.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 45,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior engineer with end-to-end ownership"
+    ],
+    "cons": [
+      "Full stack rather than Java backend focus",
+      "Stack not stated in the job excerpt",
+      "Greenfield product in healthcare"
+    ]
+  },
+  {
+    "id": "chunk_68-4",
+    "title": "Full Stack Engineer at infisical",
+    "company": "infisical",
+    "location": "Brazil, Canada, Europe, USA",
+    "link": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
+    "source": "Jobicy_AI",
+    "salary": "$19M",
+    "salary_currency": "USD",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Full stack role on an open source secrets management platform, distributed across several regions. Works on PKI and privileged access products with enterprise customers.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 40,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customer interaction",
+      "Security infrastructure products"
+    ],
+    "cons": [
+      "Full stack rather than backend Java focus",
+      "Security and secrets domain, not banking",
+      "Salary not clearly stated"
+    ]
+  },
+  {
+    "id": "chunk_68-5",
+    "title": "Senior Detection Analyst at Zscaler",
+    "company": "Zscaler",
+    "location": "Costa Rica",
+    "link": "https://jobicy.com/jobs/155194-senior-detection-analyst",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote senior detection analyst role in Costa Rica, analyzing telemetry and alerts for a managed detection and response service.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 10,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior-level remote role"
+    ],
+    "cons": [
+      "SOC analyst role, not software engineering",
+      "Security operations domain, not Java backend"
+    ]
+  }
+]

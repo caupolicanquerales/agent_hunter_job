@@ -1,121 +1,126 @@
 [
   {
     "id": "chunk_03-1",
-    "title": "Tailscale: Backend Engineer, Control Plane",
-    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Full-time backend engineer on the Control Plane team, building open source client code and backend services for a fully distributed company. US remote headquarters. Seniority and stack are not stated in the excerpt.",
-    "matched_keywords": [
-      "backend"
-    ],
-    "score": 62,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Backend services and end-to-end product ownership match the profile's backend and architecture signals"
-    ],
-    "cons": [
-      "Language and stack not stated in the excerpt",
-      "Networking/infrastructure product rather than banking or enterprise Java"
-    ]
-  },
-  {
-    "id": "chunk_03-2",
-    "title": "Tailscale: Backend Engineer, Control Plane",
-    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "N/A",
-    "description_review": "Same Tailscale Control Plane backend role listed with Canada remote headquarters. Full-time, fully distributed, backend services plus open source client code. Seniority and stack not stated in the excerpt.",
-    "matched_keywords": [
-      "backend"
-    ],
-    "score": 62,
-    "recommendation": "CONSIDER",
-    "pros": [
-      "Backend services and product ownership match the profile's backend and architecture signals"
-    ],
-    "cons": [
-      "Duplicate of the US-listed posting; stack not stated in the excerpt",
-      "Networking/infrastructure product rather than banking or enterprise Java"
-    ]
-  },
-  {
-    "id": "chunk_03-3",
-    "title": "Stripe: Abuse Research Engineer",
-    "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+    "title": "Abnormal: Director of Security Engineering",
+    "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Abuse research engineer in Stripe's Abuse Research Group doing threat hunting, fraud path analysis and agentic automated testing. Remote from the US. Salary not stated in USD.",
+    "description_review": "Director of Security Engineering leading a security organization for a behavioral AI security company, with commercial and FedRAMP environments. Remote USA; deeply technical leadership role with people management and hands-on architecture review.",
     "matched_keywords": [
+      "architecture"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Software engineering background and architecture review match senior profile",
+      "Enterprise and AI security product context"
+    ],
+    "cons": [
+      "Core focus is security program leadership, outside Java/Spring backend profile",
+      "Security compliance (FedRAMP, audits) not in profile"
+    ]
+  },
+  {
+    "id": "chunk_03-2",
+    "title": "Dremio: Software Engineer - Query Execution",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Software engineer on the query execution team of a lakehouse platform serving enterprises, working on operators, memory management and scheduling. Remote Portugal; described with a learning-oriented tone, seniority not stated.",
+    "matched_keywords": [
+      "architecture",
       "enterprise"
     ],
     "score": 40,
     "recommendation": "SKIP",
     "pros": [
-      "Fintech and financial infrastructure domain matches the profile's banking background"
+      "Enterprise platform with distributed systems engineering matches architecture interests",
+      "Remote role with well-scoped backend engineering work"
     ],
     "cons": [
-      "Threat hunting and fraud research rather than backend or architecture engineering",
-      "Security analysis focus is far from the candidate's stack"
+      "Low-level database engine work outside profile domain",
+      "Junior-leaning tone; Java/Spring not mentioned"
+    ]
+  },
+  {
+    "id": "chunk_03-3",
+    "title": "Lemon.io: Senior Angular Full-stack Developer",
+    "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior full-stack developer for freelance-style projects with startups in the US and Europe. Stacks include Angular with PHP, .NET, Node or TypeScript; rate depends on seniority. Remote, flexible schedule. The $11M figure refers to total paid to engineers, not compensation.",
+    "matched_keywords": [
+      "angular",
+      "typescript",
+      "node"
+    ],
+    "score": 70,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior level and Angular plus TypeScript match frontend stack",
+      "Full-stack with backend pairing (Node, .NET) matches good-fit profile"
+    ],
+    "cons": [
+      "Freelance marketplace model rather than an employment role",
+      "Java and Spring Boot not listed among stacks"
     ]
   },
   {
     "id": "chunk_03-4",
-    "title": "Lithic: Senior Risk Associate",
-    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+    "title": "PagerDuty: Senior Director, Field Enablement",
+    "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior risk associate running client, third-party and enterprise risk assessments and underwriting for a card issuing platform. Remote, with a risk operations focus rather than engineering.",
+    "description_review": "Senior director leading a sales and customer enablement team for a digital operations SaaS company. Remote USA, San Francisco headquarters. Non-engineering leadership role.",
     "matched_keywords": [
-      "enterprise",
-      "fintech",
-      "banking",
-      "legacy"
+      "ai agent"
     ],
-    "score": 15,
+    "score": 5,
     "recommendation": "SKIP",
     "pros": [
-      "Fintech and card-issuing domain matches the banking background"
+      "SaaS enterprise customer context",
+      "Remote-friendly company"
     ],
     "cons": [
-      "Risk operations role, not software engineering",
-      "No development stack in the role"
+      "Sales enablement leadership, not engineering",
+      "No Java, backend or architecture work"
     ]
   },
   {
     "id": "chunk_03-5",
-    "title": "Salesloft: Principal Software Engineer, AI",
-    "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+    "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
+    "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
-    "salary_currency": "N/A",
+    "salary_currency": "AUD",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Principal individual-contributor engineer architecting LLM, ML and agentic workflow systems in production for an enterprise revenue platform. Remote US. Salary and stack not stated in the excerpt.",
+    "description_review": "Backend engineer for a feature management platform working on high-scale distributed systems, event pipelines, SDKs and enterprise workflows, with AI-powered capabilities. Remote US; seniority and language not stated in the excerpt.",
     "matched_keywords": [
+      "backend",
       "enterprise"
     ],
-    "score": 80,
-    "recommendation": "APPLY",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Architecting AI and agentic systems at scale matches the profile's applied AI and architecture focus",
-      "Principal-level scope aligns with senior architecture and enterprise software priorities"
+      "High-scale distributed systems and SDK work match architecture and microservices profile",
+      "Enterprise workflows and AI-powered capabilities align with applied AI interest"
     ],
     "cons": [
-      "Stack and Java/Spring usage not stated in the excerpt",
-      "Deep ML expertise may be required beyond the profile"
+      "Primary language and Java/Spring usage not stated in the excerpt",
+      "Seniority level not stated"
     ]
   }
 ]

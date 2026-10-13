@@ -1,142 +1,121 @@
 [
   {
     "id": "chunk_18-1",
-    "title": "Senior Fullstack Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925599/",
-    "source": "WorkingNomads_AI",
+    "title": "Forward Deployment Engineer, Reporting Pro at DeepHealth",
+    "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineer-reporting-pro-870820",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior full-stack role owning backend services and APIs in C# / ASP.NET Core, plus modern frontend UI work, with cloud and CI/CD. Remote long-term engagement within CET +/- 3 hours; salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Individual contributor forward deployment engineer configuring DeepHealth's radiology reporting product for enterprise customers. Combines clinical workflow knowledge, customer communication and technical configuration; salary and seniority not stated.",
     "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack"
+      "enterprise"
     ],
-    "score": 45,
+    "score": 30,
     "recommendation": "SKIP",
     "pros": [
-      "Full-stack scope with backend API ownership and architectural decisions"
+      "Enterprise software with AI-assisted reporting roadmap"
     ],
     "cons": [
-      ".NET-only stack, listed as a weak fit in the profile",
-      "Restricted to CET time zone"
+      "Clinical radiology domain, outside banking/fintech",
+      "Customer-facing implementation rather than backend engineering"
     ]
   },
   {
     "id": "chunk_18-2",
-    "title": "Senior Backend Developer (.NET) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925598/",
-    "source": "WorkingNomads_AI",
+    "title": "Senior Forward Engineer-Diagnostic Suite at DeepHealth",
+    "link": "https://remotefirstjobs.com/companies/deephealth/jobs/senior-forward-engineerdiagnostic-suite-870818",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
-    "years_experience": "6+ years",
-    "description_review": "Senior backend architect role leading enterprise-level, distributed high-throughput .NET systems with cloud-native direction. Remote within CET +/- 3 hours; salary not stated.",
+    "years_experience": "N/A",
+    "description_review": "Senior forward deployment engineer owning end-to-end technical design of DeepHealth's Diagnostic Suite across PACS, viewer, reporting, integrations and AI for assigned customers. Senior individual contributor role; salary and location not stated.",
     "matched_keywords": [
-      "backend",
       "enterprise"
     ],
-    "score": 55,
+    "score": 38,
     "recommendation": "SKIP",
     "pros": [
-      "Architect-level senior backend role in enterprise systems",
-      "Distributed systems scope matches architecture experience"
+      "Senior end-to-end solution design and architecture ownership",
+      "Enterprise integrations and AI workflows"
     ],
     "cons": [
-      ".NET-only stack, a weak fit unless Java/Spring is also required",
-      "Restricted to CET time zone"
+      "Clinical imaging domain, outside banking/fintech",
+      "Customer-facing deployment role rather than Java backend development"
     ]
   },
   {
     "id": "chunk_18-3",
-    "title": "Senior AI Engineer (Backend-Focused) at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925596/",
-    "source": "WorkingNomads_AI",
+    "title": "Senior Software Engineer, Python/React, AI-assisted development at Houst",
+    "link": "https://remotefirstjobs.com/companies/houst/jobs/senior-software-engineer-pythonreact-aiassisted-development-870814",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "AUD",
-    "salary_period": "N/A",
+    "salary_currency": "USD",
+    "salary_period": "month",
     "years_experience": "N/A",
-    "description_review": "Backend-heavy full-stack AI role architecting agentic workflows that reason, use tools and execute coding tasks, with a Claude ecosystem focus. Remote within CET +/- 3 hours; salary not stated.",
+    "description_review": "Senior hands-on backend engineer role, Python first with React second, building services for a short-let property platform. Contractor rate USD 4,500 to 6,000 per month, fully remote from Georgia, with heavy use of AI-assisted development tooling.",
     "matched_keywords": [
-      "backend",
-      "fullstack",
-      "full-stack",
-      "ai agent"
+      "backend"
     ],
-    "score": 82,
-    "recommendation": "APPLY",
+    "score": 62,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Agentic workflow architecture matches the candidate's multi-agent and Spring AI experience",
-      "Backend-heavy production systems align with the core backend profile",
-      "Applied AI focus is a priority in the profile"
+      "Backend services and APIs with feature ownership, matching the profile's backend focus",
+      "Applied AI-assisted development as a core workflow, matching the AI priority"
     ],
     "cons": [
-      "Language-agnostic role, Java/Spring Boot not explicitly required",
-      "Restricted to CET time zone",
-      "Description is truncated, so the full requirements cannot be verified"
+      "Python and Flask primary stack, not Java or Spring Boot",
+      "Small team, no stated microservices or enterprise architecture scope"
     ]
   },
   {
     "id": "chunk_18-4",
-    "title": "Senior Salesforce Developer at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925592/",
-    "source": "WorkingNomads_AI",
+    "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin at Doctolib",
+    "link": "https://remotefirstjobs.com/companies/doctolib/jobs/software-engineer-intern-fullstack-xfm-berlin-870807",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
-    "years_experience": "4 years",
-    "description_review": "Senior Salesforce platform role using Apex, Visualforce, LWC and SOQL, with REST/SOAP integrations. Remote within CET +/- 3 hours; salary not stated.",
+    "salary_currency": "EUR",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Internship for a fullstack software engineer in Berlin, building features for healthcare care teams and patients. Intern level with an AI and distributed systems exposure; pay is not stated in the excerpt.",
     "matched_keywords": [
-      "architecture"
+      "fullstack",
+      "full-stack"
     ],
-    "score": 20,
+    "score": 15,
     "recommendation": "SKIP",
     "pros": [
-      "Senior-level remote role with integration work"
+      "Fullstack scope with exposure to distributed systems"
     ],
     "cons": [
-      "Salesforce platform role outside the candidate's stack",
-      "No Java/Spring or AI focus",
-      "Restricted to CET time zone"
+      "Internship, below the senior level in the profile",
+      "Healthcare domain, outside banking/fintech"
     ]
   },
   {
     "id": "chunk_18-5",
-    "title": "Senior SAP S/4HANA Developer at Proxify",
-    "company": "Proxify",
-    "location": "Time zone: CET (+/- 3 hours)",
-    "link": "https://www.workingnomads.com/job/go/1925590/",
-    "source": "WorkingNomads_AI",
+    "title": "Senior Software Engineer at MediaRadar, Inc.",
+    "link": "https://remotefirstjobs.com/companies/mediaradar-inc/jobs/senior-software-engineer-870799",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "N/A",
-    "salary_period": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "day",
     "years_experience": "N/A",
-    "description_review": "Senior SAP S/4HANA role on ABAP RAP, CDS and SAP BTP side-by-side extensions for enterprise landscapes. Remote within CET +/- 3 hours; salary not stated.",
+    "description_review": "Senior software engineer in a remote Madrid role on the Insights Studio platform, migrating products to ClickHouse. Requires daily agentic coding with Claude Code, expert Python FastAPI, C# and React/TypeScript, plus strong SQL.",
     "matched_keywords": [
-      "backend",
-      "enterprise",
-      "fullstack",
-      "full-stack",
-      "legacy"
+      "typescript"
     ],
-    "score": 25,
-    "recommendation": "SKIP",
+    "score": 65,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise and modernization scope (clean core, moving away from legacy patterns)"
+      "Senior level with independent ownership of complex problems, matching the profile seniority",
+      "Agentic AI coding workflow matches the applied AI priority"
     ],
     "cons": [
-      "ABAP/SAP stack with no overlap with Java/Spring Boot",
-      "Restricted to CET time zone"
+      "Python FastAPI and C# stack, not Java or Spring Boot",
+      "Requires ClickHouse data expertise, a gap in the profile"
     ]
   }
 ]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "chunk_31-1",
+    "title": "Scrum Master at Blackstone Talent Group",
+    "company": "Blackstone Talent Group",
+    "location": "Dallas-Fort Worth Metroplex",
+    "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "3 years",
+    "description_review": "Contract Scrum Master (6 months, Dallas remote) supporting Agile delivery for one team, with Jira and Confluence. Mid-level, no engineering or coding scope.",
+    "matched_keywords": [
+      "spring"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Agile and cross-team delivery experience is transferable"
+    ],
+    "cons": [
+      "Process role, not software engineering",
+      "No Java, Spring or backend stack requirement",
+      "Contract, no C2C"
+    ]
+  },
+  {
+    "id": "chunk_31-2",
+    "title": "Help Desk at Zenius Corporation",
+    "company": "Zenius Corporation",
+    "location": "Colorado, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Tier 1/2 help desk specialist for a grants management system, remote, 2+ years. Support and training role with no development scope.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 4,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise web application exposure"
+    ],
+    "cons": [
+      "Support role, not engineering",
+      "No Java, Spring or architecture scope",
+      "Junior-level scope relative to profile"
+    ]
+  },
+  {
+    "id": "chunk_31-3",
+    "title": "Junior Project Designer at Archinect",
+    "company": "Archinect",
+    "location": "Hoboken, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
+    "source": "RemoteOK_AI",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Junior architectural project designer for a New Jersey design firm, full-time, hybrid or remote possible. Architecture and interior design, not software.",
+    "matched_keywords": [
+      "architecture",
+      "legacy"
+    ],
+    "score": 2,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Building architecture, not software architecture",
+      "Junior role, no software stack",
+      "Not aligned with banking or fintech domain"
+    ]
+  },
+  {
+    "id": "chunk_31-4",
+    "title": "Member of Technical Staff Applied ML RecSys at Liquid AI",
+    "company": "Liquid AI",
+    "location": "Cambridge",
+    "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Applied ML engineer owning recommendation system engagements for enterprise customers, with a focus on adapting foundation models. Senior-level scope; salary and stack not stated in the excerpt.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise"
+    ],
+    "score": 48,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise customer delivery aligns with profile",
+      "Applied AI and model adaptation match the AI focus",
+      "Financial services is among the target verticals"
+    ],
+    "cons": [
+      "Core focus is ML/RecSys, not Java or Spring backend",
+      "Stack in the excerpt is unspecified for backend work",
+      "Fit limited to the applied AI facet"
+    ]
+  },
+  {
+    "id": "chunk_31-5",
+    "title": "Don't See Your Role Apply Here at Reflection",
+    "company": "Reflection",
+    "location": "London, ",
+    "link": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-reflection-1131958",
+    "source": "RemoteOK_ML",
+    "salary": "0",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Generic open application for an AI research lab building open-weight foundation models, London based. No specific role is defined in the posting.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 22,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied AI company focus"
+    ],
+    "cons": [
+      "No defined role or requirements",
+      "Research-oriented, not software engineering",
+      "Not Java or Spring focused"
+    ]
+  }
+]

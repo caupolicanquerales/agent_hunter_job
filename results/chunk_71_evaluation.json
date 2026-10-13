@@ -1,0 +1,136 @@
+[
+  {
+    "id": "chunk_71-1",
+    "title": "Programmatic Account Manager, Enterprise at StackAdapt",
+    "company": "StackAdapt",
+    "location": "UK",
+    "link": "https://jobicy.com/jobs/155170-programmatic-account-manager-enterprise",
+    "source": "Jobicy_AI",
+    "salary": "56461 - 77634 GBP",
+    "salary_currency": "GBP",
+    "salary_period": "yearly",
+    "years_experience": "N/A",
+    "description_review": "Account manager for enterprise clients on an advertising platform, focused on campaign performance, retention and expansion. Prioritizes London.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise client context"
+    ],
+    "cons": [
+      "Account management, no engineering",
+      "Ad-tech domain, prioritizes London"
+    ]
+  },
+  {
+    "id": "chunk_71-2",
+    "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK) at Smartsheet",
+    "company": "Smartsheet",
+    "location": "UK",
+    "link": "https://jobicy.com/jobs/155167-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "20 years",
+    "description_review": "Senior forward deployed AI engineer, remote eligible in the UK, leading multi-agent AI deployments for customers and mentoring junior engineers. Salary not stated.",
+    "matched_keywords": [
+      "ai agent",
+      "multi-agent"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior architecture of multi-agent solutions",
+      "Applied AI experience"
+    ],
+    "cons": [
+      "Customer-facing deployment focus rather than core backend Java",
+      "Salary not stated",
+      "Mostly solutions consulting scope"
+    ]
+  },
+  {
+    "id": "chunk_71-3",
+    "title": "Sr. Software Engineer (Remote Eligible from Bulgaria) at Smartsheet",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "link": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
+    "source": "Jobicy_AI",
+    "salary": "$10",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "20 years",
+    "description_review": "Senior software engineer role at a work management SaaS company, remote-eligible from Bulgaria. The core platform combines a legacy Java monolith with microservices in Java and Go on AWS, with AI agent work.",
+    "matched_keywords": [
+      "java",
+      "microservices",
+      "ai agent",
+      "legacy"
+    ],
+    "score": 82,
+    "recommendation": "APPLY",
+    "pros": [
+      "Legacy Java monolith and microservices match the modernization profile",
+      "Senior role on AWS with infrastructure as code",
+      "AI agents in the product roadmap"
+    ],
+    "cons": [
+      "Go and Kotlin also used in the stack",
+      "Remote eligibility limited to Bulgaria",
+      "SaaS product rather than banking or fintech"
+    ]
+  },
+  {
+    "id": "chunk_71-4",
+    "title": "QA Automation Lead [gn] Data Intelligence at Actian",
+    "company": "Actian",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "QA automation lead role designing test frameworks and CI/CD quality gates for a data intelligence platform in Europe, leading a team of automation engineers.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical authority and CI/CD integration"
+    ],
+    "cons": [
+      "Testing and QA focus, not product development",
+      "Leads QA team rather than backend Java services"
+    ]
+  },
+  {
+    "id": "chunk_71-5",
+    "title": "Customer service manager (PP) at ParcelHero",
+    "company": "ParcelHero",
+    "location": "Philippines",
+    "link": "https://jobicy.com/jobs/149076-customer-service-manager-pp",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "month",
+    "years_experience": "N/A",
+    "description_review": "Customer service manager role leading a 50-person remote team for a parcel logistics platform, based in the Philippines, with international expansion.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [
+      "Remote-first, SaaS product context"
+    ],
+    "cons": [
+      "Management of customer service, not engineering",
+      "Philippines-based role"
+    ]
+  }
+]

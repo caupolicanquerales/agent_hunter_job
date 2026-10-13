@@ -1,126 +1,126 @@
 [
   {
     "id": "chunk_04-1",
-    "title": "Lithic: Senior Software Engineer, Card Authorization",
-    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+    "title": "Wrike: Director, Global GTM Strategy & Operations",
+    "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
     "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "AUD",
-    "salary_period": "N/A",
+    "salary": "$14",
+    "salary_currency": "USD",
+    "salary_period": "year",
     "years_experience": "N/A",
-    "description_review": "Senior software engineer on the card authorization team building real-time, distributed payment systems, fraud tooling and 3D Secure integration for a card issuing platform. Remote, US-headquartered. Salary not stated in USD.",
+    "description_review": "Director leading global go-to-market operations (planning, quota, territories) for a work management SaaS in the US remote. Enterprise competitive set context; non-engineering leadership role.",
     "matched_keywords": [
-      "fintech",
-      "banking",
-      "legacy"
+      "architecture",
+      "enterprise"
     ],
-    "score": 78,
-    "recommendation": "CONSIDER",
+    "score": 5,
+    "recommendation": "SKIP",
     "pros": [
-      "Real-time distributed systems at scale match the profile's microservices and architecture signals",
-      "Card issuing and payments domain matches the 7+ years banking/fintech background"
+      "Enterprise SaaS operating context",
+      "Remote-friendly distributed team"
     ],
     "cons": [
-      "Language and stack not stated in the excerpt",
-      "Requires end-to-end ownership of high-impact payment systems, which must be verified against experience"
+      "Sales and revenue operations leadership, not engineering",
+      "No Java, backend or architecture work"
     ]
   },
   {
     "id": "chunk_04-2",
-    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
-    "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Director leading the team that builds the B2B data graph behind ZoomInfo AI agents, combining ML, LLM and agentic systems with hands-on coding. Remote US or on-site in several US cities. Salary not stated.",
+    "description_review": "Full-time backend engineer on the Control Plane team, contributing to open source client code and backend services with end-to-end product ownership. Fully remote, US headquarters. Seniority and language not stated in the excerpt.",
     "matched_keywords": [
-      "ai agent"
+      "backend"
     ],
-    "score": 72,
+    "score": 60,
     "recommendation": "CONSIDER",
     "pros": [
-      "LLM and agentic systems in production match the profile's applied AI and multi-agent experience",
-      "Owns architecture and delivery end-to-end while staying hands-on"
+      "Backend services ownership matches backend profile",
+      "Product lifecycle ownership and collaboration with product and UX match senior profile"
     ],
     "cons": [
-      "Director title implies people management beyond the profile's IC-focused experience",
-      "Data science and ML graph focus is not in the profile"
+      "Primary language and Java/Spring usage not stated",
+      "Seniority level not stated; early-stage company"
     ]
   },
   {
     "id": "chunk_04-3",
-    "title": "Dremio: Software Engineer - Developer Experience",
-    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+    "title": "Tailscale: Backend Engineer, Control Plane",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-backend-engineer-control-plane",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Engineer maintaining Dremio's CI/CD systems and developer productivity tooling, including break-fix work. Remote from Portugal. Seniority and stack not stated in the excerpt.",
+    "description_review": "Same Tailscale Control Plane backend engineer posting listed with a Canada headquarters, contributing to open source client code and backend services. Fully remote, early-stage company; seniority and language not stated.",
     "matched_keywords": [
-      "architecture",
-      "enterprise"
+      "backend"
     ],
-    "score": 40,
-    "recommendation": "SKIP",
+    "score": 60,
+    "recommendation": "CONSIDER",
     "pros": [
-      "Enterprise lakehouse platform and tooling automation are relevant to the profile's enterprise work"
+      "Backend services ownership matches backend profile",
+      "Product lifecycle ownership matches architecture and strategic interests"
     ],
     "cons": [
-      "CI/CD and developer productivity focus is close to the DevOps area rated as a weak fit",
-      "No Java or Spring stack mentioned"
+      "Primary language and Java/Spring usage not stated",
+      "Seniority level not stated; duplicate of another Tailscale listing in this chunk"
     ]
   },
   {
     "id": "chunk_04-4",
-    "title": "Dremio: Senior Staff Software Engineer - Query Execution",
-    "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+    "title": "Stripe: Abuse Research Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+    "source": "WeWorkRemotely_Fullstack",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Engineer in Stripe's Abuse Research Group doing threat hunting, fraud path mapping and agentic automated testing across payment products. Remote from the US. Security research focus; seniority not stated.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Payments and financial infrastructure domain matches fintech interest",
+      "Engineering role with automation tooling"
+    ],
+    "cons": [
+      "Core focus is fraud and abuse research, outside backend Java profile",
+      "Java, Spring Boot and microservices not mentioned"
+    ]
+  },
+  {
+    "id": "chunk_04-5",
+    "title": "Lithic: Senior Risk Associate",
+    "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
     "source": "WeWorkRemotely_Fullstack",
     "salary": "N/A",
     "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Senior staff engineer on the query execution runtime for a lakehouse platform, covering operators, memory management, scheduling and performance optimization. Remote from Portugal. Stack not stated in the excerpt.",
+    "description_review": "Senior risk associate running client, third party and enterprise risk assessments for a card issuing and processing platform serving fintechs. Remote, New York headquarters. Operations and risk role rather than software engineering.",
     "matched_keywords": [
-      "architecture",
-      "enterprise"
+      "enterprise",
+      "fintech",
+      "banking",
+      "legacy"
     ],
-    "score": 50,
+    "score": 18,
     "recommendation": "SKIP",
     "pros": [
-      "Senior staff scope with performance and architecture ownership",
-      "Enterprise-scale data platform"
+      "Fintech and card processing domain matches banking interest",
+      "Enterprise risk and modernization context from legacy processor replacement"
     ],
     "cons": [
-      "Database query-engine internals are far from the profile's backend and banking focus",
-      "Stack not stated in the excerpt"
-    ]
-  },
-  {
-    "id": "chunk_04-5",
-    "title": "STEUART NUTRITION: Software Developer AI Coding",
-    "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
-    "source": "WeWorkRemotely_Fullstack",
-    "salary": "N/A",
-    "salary_currency": "AUD",
-    "salary_period": "N/A",
-    "years_experience": "3+ years",
-    "description_review": "Remote developer customizing an internal training app and building integrations and automations with AI coding tools. Requires 3+ years of professional experience and JavaScript/TypeScript or Python preferred. Minnesota headquarters. Salary not stated in USD.",
-    "matched_keywords": [
-      "java",
-      "typescript"
-    ],
-    "score": 58,
-    "recommendation": "SKIP",
-    "pros": [
-      "AI-assisted coding workflow matches the profile's AI-augmented engineering focus",
-      "TypeScript and API integration experience overlap with the profile"
-    ],
-    "cons": [
-      "Internal tooling role below the senior architecture level the profile targets",
-      "Not banking, enterprise or Java/Spring focused"
+      "Risk operations role, not software engineering",
+      "No Java, Spring Boot or backend development work"
     ]
   }
 ]

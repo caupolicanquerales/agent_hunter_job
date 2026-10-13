@@ -1,0 +1,151 @@
+[
+  {
+    "id": "chunk_35-1",
+    "title": "Senior Vue Developer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, LATAM, APAC, the U.S., Canada",
+    "link": "https://www.workingnomads.com/job/go/1923073/",
+    "source": "WorkingNomads_Dev",
+    "salary": "$11M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior Vue.js and Nuxt.js developer on a freelance marketplace, front-end or full-stack, remote. Rate depends on seniority; experience requirements are listed per option in the excerpt.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack",
+      "vue"
+    ],
+    "score": 15,
+    "recommendation": "SKIP",
+    "pros": [
+      "Vue.js experience matches the frontend stack"
+    ],
+    "cons": [
+      "Vue and Nuxt focus, not Java or Spring",
+      "Freelance marketplace model",
+      "No backend or enterprise scope"
+    ]
+  },
+  {
+    "id": "chunk_35-2",
+    "title": "Stack .NET Developer / Algorithm Engineer – Backend Focus. at CloudGeometry",
+    "company": "CloudGeometry",
+    "location": "Brazil",
+    "link": "https://www.workingnomads.com/job/go/1889808/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "At least 6 years of experience",
+    "description_review": "Backend-focused .NET developer with algorithm and data structure depth, working on microservices and APIs for healthcare cost transparency, remote from Brazil. Requires 6+ years; salary not disclosed.",
+    "matched_keywords": [
+      "microservices",
+      "backend",
+      "architecture",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 35,
+    "recommendation": "SKIP",
+    "pros": [
+      "Microservices and API architecture match the profile",
+      "Backend depth with OOP and design patterns"
+    ],
+    "cons": [
+      ".NET C# stack, not Java or Spring",
+      "Algorithm-heavy emphasis outside the profile",
+      "Salary not disclosed"
+    ]
+  },
+  {
+    "id": "chunk_35-3",
+    "title": "Senior back-end Engineer at Lemon.io",
+    "company": "Lemon.io",
+    "location": "EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico",
+    "link": "https://www.workingnomads.com/job/go/1885527/",
+    "source": "WorkingNomads_Dev",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "5+ years",
+    "description_review": "Senior back-end engineer in Golang or Python for AI infrastructure at a research-driven company, with Kubernetes and AI agent development experience. Remote across many regions; salary not disclosed.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "architecture",
+      "vue",
+      "node",
+      "ai agent"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend infrastructure and AI agent development overlap with the profile",
+      "Senior remote role at a frontier AI company"
+    ],
+    "cons": [
+      "Golang and Python primary stack, not Java",
+      "Kubernetes-heavy infrastructure focus",
+      "Salary not disclosed"
+    ]
+  },
+  {
+    "id": "chunk_35-4",
+    "title": "Head of Engineering at Lemon.io",
+    "company": "Lemon.io",
+    "location": "Europe, Latin America, USA",
+    "link": "https://www.workingnomads.com/job/go/1878435/",
+    "source": "WorkingNomads_Dev",
+    "salary": "$16M",
+    "salary_currency": "USD",
+    "salary_period": "year",
+    "years_experience": "10 years",
+    "description_review": "Head of Engineering for a talent marketplace, owning the technical roadmap, architecture decisions and a growing team, hands-on, remote. Senior leadership role; stack not stated in the excerpt.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 55,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture and roadmap ownership match the senior scope",
+      "Transition from services to technology platform fits modernization"
+    ],
+    "cons": [
+      "Leadership role with a hands-on emphasis, not a pure engineering role",
+      "Stack not stated in the excerpt",
+      "Marketplace domain, not banking or fintech"
+    ]
+  },
+  {
+    "id": "chunk_35-5",
+    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
+    "company": "CodeForAI",
+    "location": "N/A",
+    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+    "source": "Remotive_Dev",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Contract AI code trainer who evaluates model-generated code and writes reference solutions across languages, remote. Not a product engineering role; salary and years not stated.",
+    "matched_keywords": [
+      "java",
+      "backend",
+      "fullstack",
+      "full-stack",
+      "typescript",
+      "node"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Code review and reference-solution writing draw on backend knowledge"
+    ],
+    "cons": [
+      "Evaluation and data-labeling work, not product engineering",
+      "Multi-language, no defined Java or Spring focus",
+      "Salary and duration not stated"
+    ]
+  }
+]

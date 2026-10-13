@@ -1,0 +1,84 @@
+{
+  "chunk": 55,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "ML Engineering Intern - LLM Research & Development at Prosus",
+      "company": "Prosus",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/prosus/ml-engineering-intern-llm-research-development-amsterdam-266755",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Who We AreYou've ordered dinner through Just Eat Takeaway. You've bought and sold on OLX. You've paid with PayU. Chances are, you've already used a Prosus company today.We are Prosus, a global technology company powering some of the world's leading lifestyle ecommerce businesses. Every day, billions of people across India, Latin America, Europe and beyond use our products and services to buy, sell, pay, connect and discover.Our AI-driven ecosystem spans 100+ companies across ecommerce, food delivery, fintech and experiences, serving billions of consumers worldwide. AI powers how we operate and innovate, with more than 60,000 active AI agents helping our teams build, scale and move faster. Through our investment team, we also back the founders and technologies shaping the future: From robotics and autonomous systems to synthetic biology and frontier AI.Guided by our five values Innovation, Results, People, Impact, and Entrepreneurship, culture is our competitive advantage. We thrive with experimentation; we build, we test, we learn, we iterate.Join us in shaping the future of technology at global scale.What you'll do:Train, fine-tune, and serve open-source LLMs (Qwen, Mistral, etc.) that power real productsDesign experiments, evaluate results, and ship solutions that win in A/B testsWork on the full ML lifecycle: from training runs to production serving infrastructurePreferred qualifications &amp; traits:You know how to write good Python code from experience building real proj",
+      "matched_keywords": [
+        "fintech",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "(MSc/PhD) AI Research Intern - LLMs, Causal Inference & Decision Making at Prosus",
+      "company": "Prosus",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/prosus/msc-phd-ai-research-intern-llms-causal-inference-decision-making-amsterdam-18993",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Who We AreYou've ordered dinner through Just Eat Takeaway. You've bought and sold on OLX. You've paid with PayU. Chances are, you've already used a Prosus company today.We are Prosus, a global technology company powering some of the world's leading lifestyle ecommerce businesses. Every day, billions of people across India, Latin America, Europe and beyond use our products and services to buy, sell, pay, connect and discover.Our AI-driven ecosystem spans 100+ companies across ecommerce, food delivery, fintech and experiences, serving billions of consumers worldwide. AI powers how we operate and innovate, with more than 60,000 active AI agents helping our teams build, scale and move faster. Through our investment team, we also back the founders and technologies shaping the future: From robotics and autonomous systems to synthetic biology and frontier AI.Guided by our five values Innovation, Results, People, Impact, and Entrepreneurship, culture is our competitive advantage. We thrive with experimentation; we build, we test, we learn, we iterate.Join us in shaping the future of technology at global scale.What you'll do:Build and experiment with LLMs, representation models, and modern ML systems for causal and decision-making problemsWork with large-scale experimental data to understand how users respond to different interventionsBuild models for treatment effects, uplift, and counterfactual predictionDesign experiments, analyze randomized controlled trials, and evaluate resultsD",
+      "matched_keywords": [
+        "fintech",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Senior Machine Learning Engineer – LLMs at Prosus",
+      "company": "Prosus",
+      "location": "Amsterdam",
+      "link": "https://www.arbeitnow.nl/jobs/companies/prosus/senior-machine-learning-engineer-llms-amsterdam-22288",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Who We AreYou've ordered dinner through Just Eat Takeaway. You've bought and sold on OLX. You've paid with PayU. Chances are, you've already used a Prosus company today.We are Prosus, a global technology company powering some of the world's leading lifestyle ecommerce businesses. Every day, billions of people across India, Latin America, Europe and beyond use our products and services to buy, sell, pay, connect and discover.Our AI-driven ecosystem spans 100+ companies across ecommerce, food delivery, fintech and experiences, serving billions of consumers worldwide. AI powers how we operate and innovate, with more than 60,000 active AI agents helping our teams build, scale and move faster. Through our investment team, we also back the founders and technologies shaping the future: From robotics and autonomous systems to synthetic biology and frontier AI.Guided by our five values Innovation, Results, People, Impact, and Entrepreneurship, culture is our competitive advantage. We thrive with experimentation; we build, we test, we learn, we iterate.Join us in shaping the future of technology at global scale.Who we’re looking forWe're seeking a Senior Machine Learning Engineer to train domain-specific language models and provide technical leadership to the team. You'll own critical parts of our training infrastructure, mentor engineers, and drive technical decisions from data preparation through production deployment. You have deep hands-on experience training language models at sca",
+      "matched_keywords": [
+        "fintech",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Channel Manager (EMEA) at 98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C",
+      "company": "98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C",
+      "location": "Netherlands - Remote",
+      "link": "https://www.arbeitnow.nl/jobs/companies/98cd1a00-2706-4aa8-ab72-38a7b8c9c20c/channel-manager-emea-amsterdam-377545",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Unleash AI Innovators, SecurelySoftware is being rewritten in real time. AI agents are starting to write more code than humans do, at a speed no security team has ever had to match, and that single shift is opening up the biggest opportunity our industry has seen in a decade. We're not bracing for it, we're building the company that owns it.Snyk is building the next generation security platform where security isn't a set of tools people operate. It's a team of security agents working alongside your engineers, finding, fixing, and governing risk at the speed software is now built. These agents work alongside both the company build and the agents they adopt. Security stops being a queue of work waiting for people, and becomes a coordinated workforce companies direct and trust.Job SummaryAs Regional Partner Manager for EMEA, you own the strategy, enablement, and performance of Snyk's strategic channel partners across DACH, the Nordics, and Southern EMEA, and you recruit new regional security partners to extend our reach. You will align partners to Snyk's sales segmentation and work alongside our sales teams to build pipeline in each sub-region. This role matters because AI is changing how software gets built, and our partners are how many European customers will adopt secure AI development at scale.About the TeamYou will join Snyk's Partner organization, which builds and grows the channel and alliance relationships that extend Snyk's go-to-market. The team works closely with reg",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Account Executive (Mid-Market) (Fluent In German) (Position located in Utrecht, Netherlands) at knowbe4",
+      "company": "knowbe4",
+      "location": "Utrecht",
+      "link": "https://www.arbeitnow.nl/jobs/companies/knowbe4/account-executive-mid-market-fluent-in-german-position-located-in-utrecht-netherlands-431637",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simulation and training, collaboration security, and agent security powered by AIDA (Artificial Intelligence Defense Agents) and a proprietary Risk Score. The platform leverages 15-years of behavioral data to combat advanced threats including social engineering, prompt injection, and shadow AI. By securing humans and agents, KnowBe4 leads the industry in workforce trust and defense.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://www.knowbe4.com/hubfs/Careers/EXTERNAL%20LINKS%20-%20Do%20Not%20Delete/NL%20Utrecht.jpg&quot; alt=&quot;&quot; width=&quot;225&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Please submit your resume in English.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;To learn more about our team and office culture in the Netherlands, visit the following links.&amp;nbsp;&lt;br&gt;Careers Page:&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.knowbe4.com/careers/locations/utrecht&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.knowbe4.com/career",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    }
+  ]
+}

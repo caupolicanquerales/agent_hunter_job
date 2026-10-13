@@ -1,0 +1,133 @@
+[
+  {
+    "id": "chunk_48-1",
+    "title": "Senior Forward Deployed Engineer at Refractal",
+    "company": "Refractal",
+    "location": "London",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/refractal/senior-forward-deployed-engineer-london-86281",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior customer-facing engineering role in London leading deployments of an AI security platform at UK and European banks, insurers and enterprises. It involves integrating with customer AI agents and security tooling, and no salary or years of experience are disclosed.",
+    "matched_keywords": [
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 60,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior engineering role in banking and insurance, matching the banking and fintech background",
+      "Integration work with AI agents and copilots, matching the applied AI profile"
+    ],
+    "cons": [
+      "Forward-deployed, customer-facing role rather than backend architecture",
+      "Security product domain with no explicit Java or Spring Boot stack",
+      "Deployment-led scope, less focus on modernization or microservices design"
+    ]
+  },
+  {
+    "id": "chunk_48-2",
+    "title": "Senior DevOps Engineer at Refractal",
+    "company": "Refractal",
+    "location": "London",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/refractal/senior-devops-engineer-london-498374",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior DevOps role in London owning CI/CD pipelines, Google Cloud infrastructure as code, and packaging for customer-hosted deployments of an AI security product. No salary or years of experience are disclosed.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 22,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior level and regulated enterprise customer context"
+    ],
+    "cons": [
+      "Pure DevOps and cloud infrastructure, a weak fit for the profile",
+      "No Java, Spring Boot, or backend development focus"
+    ]
+  },
+  {
+    "id": "chunk_48-3",
+    "title": "Technicien de maintenance Itinérant (F/H) at Signode",
+    "company": "Signode",
+    "location": "Remote job",
+    "link": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nantes-155044",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Field maintenance technician role for industrial packaging machines, travelling across western and northern France with frequent overnight stays. It is a mechanical service position, and no salary is disclosed.",
+    "matched_keywords": [
+      "node"
+    ],
+    "score": 2,
+    "recommendation": "SKIP",
+    "pros": [
+      "None relevant to the software profile"
+    ],
+    "cons": [
+      "Industrial maintenance role with no software engineering content",
+      "The keyword match is a false positive from the word node in the French text",
+      "Travel-heavy field work"
+    ]
+  },
+  {
+    "id": "chunk_48-4",
+    "title": "Technicien de maintenance Itinérant (F/H) at Signode",
+    "company": "Signode",
+    "location": "Remote job",
+    "link": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nancy-92476",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Field maintenance technician role for industrial packaging machines, covering the Grand Est region with frequent overnight stays. It is a mechanical service position, and no salary is disclosed.",
+    "matched_keywords": [
+      "node"
+    ],
+    "score": 2,
+    "recommendation": "SKIP",
+    "pros": [
+      "None relevant to the software profile"
+    ],
+    "cons": [
+      "Industrial maintenance role with no software engineering content",
+      "The keyword match is a false positive from the word node in the French text",
+      "Travel-heavy field work"
+    ]
+  },
+  {
+    "id": "chunk_48-5",
+    "title": "Technicien de maintenance itinérant (F/H) at Signode",
+    "company": "Signode",
+    "location": "Remote job",
+    "link": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-beauvais-223554",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Field maintenance technician role for industrial packaging machines, covering the Ile-de-France and northern France with frequent overnight stays. It is a mechanical service position, and no salary is disclosed.",
+    "matched_keywords": [
+      "node"
+    ],
+    "score": 2,
+    "recommendation": "SKIP",
+    "pros": [
+      "None relevant to the software profile"
+    ],
+    "cons": [
+      "Industrial maintenance role with no software engineering content",
+      "The keyword match is a false positive from the word node in the French text",
+      "Travel-heavy field work"
+    ]
+  }
+]

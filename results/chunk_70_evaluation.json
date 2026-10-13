@@ -1,0 +1,140 @@
+[
+  {
+    "id": "chunk_70-1",
+    "title": "Strategic Solutions Engineer at ClickUp",
+    "company": "ClickUp",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155176-strategic-solutions-engineer-2",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Pre-sales and partner enablement role for ClickUp in APAC, covering solution architecture for enterprise resellers and GSIs. Salary not stated, rate per day.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "ai agent"
+    ],
+    "score": 6,
+    "recommendation": "SKIP",
+    "pros": [
+      "Solution architecture component"
+    ],
+    "cons": [
+      "Pre-sales and partner enablement, not software engineering",
+      "Australia-based APAC role"
+    ]
+  },
+  {
+    "id": "chunk_70-2",
+    "title": "Senior Customer Support Engineer at Collibra",
+    "company": "Collibra",
+    "location": "Australia",
+    "link": "https://jobicy.com/jobs/155175-senior-customer-support-engineer-4",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "5 years",
+    "description_review": "Senior technical support engineer role at a data governance SaaS company in Australia, handling customer tickets, replicating bugs and mentoring junior support engineers. Requires 3-5 years in customer-facing roles.",
+    "matched_keywords": [
+      "java",
+      "rest api"
+    ],
+    "score": 28,
+    "recommendation": "SKIP",
+    "pros": [
+      "Experience with Java and REST API is required",
+      "Linux and PostgreSQL/MySQL troubleshooting skills"
+    ],
+    "cons": [
+      "Support role rather than product development",
+      "Customer-facing, not backend architecture",
+      "Australia-based, salary not stated"
+    ]
+  },
+  {
+    "id": "chunk_70-3",
+    "title": "Director, Solutions Architecture EMEA at Nebius",
+    "company": "Nebius",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/155174-director-solutions-architecture-emea",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Director-level leadership role building the EMEA Solutions Architecture organization for an AI cloud platform in Europe. Focuses on team scaling and customer-facing technical leadership.",
+    "matched_keywords": [
+      "architecture",
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 22,
+    "recommendation": "SKIP",
+    "pros": [
+      "Architecture leadership scope"
+    ],
+    "cons": [
+      "Management role, not hands-on engineering",
+      "Sales-facing responsibilities",
+      "AI cloud infrastructure domain, not banking"
+    ]
+  },
+  {
+    "id": "chunk_70-4",
+    "title": "Detection & Response Engineer at Nebius",
+    "company": "Nebius",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/155169-detection-response-engineer",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Detection and response engineer role in Europe building the security incident response program for Nebius Cloud, including forensics and detection development.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Engineering work on security tooling"
+    ],
+    "cons": [
+      "Security operations domain, not Java backend",
+      "No Java, Spring or banking stack mentioned"
+    ]
+  },
+  {
+    "id": "chunk_70-5",
+    "title": "Detection & Response Lead at Nebius",
+    "company": "Nebius",
+    "location": "Europe",
+    "link": "https://jobicy.com/jobs/155171-detection-response-lead",
+    "source": "Jobicy_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Lead engineering role in Europe for detection, threat intelligence and incident response at Nebius Cloud, leading a small team of analysts and engineers.",
+    "matched_keywords": [
+      "enterprise",
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Technical leadership of a team"
+    ],
+    "cons": [
+      "Security operations domain, not Java backend",
+      "Team leadership over application development"
+    ]
+  }
+]

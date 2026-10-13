@@ -1,0 +1,86 @@
+{
+  "chunk": 51,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Office Manager CDD at Pelico",
+      "company": "Pelico",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/pelico/office-manager-cdd-paris-64661",
+      "source": "Arbeitnow_API",
+      "salary": "$72M",
+      "salary_currency": "USD",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "About PelicoTraditional industrial manufacturing systems were built for predictability. Supply chains no longer are. Today, real-time data is buried in legacy tools that weren't designed for constant disruption. By the time an issue surfaces, it has already snowballed, sending everyone into firefighting mode. Pelico exists to close the gap between production plans and the daily reality on the factory floor.We've built the manufacturing orchestration platform trusted by the world's most complex industrial operations : companies like Airbus, Boeing, Safran, Eaton, and Cartier. Our AI connects fragmented supply chain, production, and quality data into a single live operational picture — then puts AI agents to work anticipating disruptions, simulating recovery options, and keeping every team aligned before small problems become expensive ones.Founded in 2019 and backed by General Catalyst, 83North, and Serena, we've raised $72M and are growing fast — 300% year-over-year revenue growth, deployed in 15+ countries, and supporting factories worldwide. We're headquartered in Paris, with offices in Miami, London and Amsterdam, and we're just getting started.This is a rare chance to join a company that's redefining an industry that hasn't been disrupted in decades — from the inside.What You'll DoFacility Operations: Own the daily life of our Paris office. Keep the space running, well stocked and pleasant to work in, and act as the main point of contact with our building management, supp",
+      "matched_keywords": [
+        "ai agent",
+        "legacy"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer at Hexa",
+      "company": "Hexa",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/hexa/staff-software-engineer-paris-484740",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About PelagonPelagon is a European defence technology company building Autonomous Maritime Interdiction systems. We bring together sensing, AI, software and maritime engineering to help protect critical infrastructure and maritime environments.The roleWe are looking for a very senior, hands-on software engineer to own the software running in Pelagon’s operations centre: our data infrastructure, processing services, internal tools and customer-facing applications.You will architect the overall platform and build it with the team, from data ingestion and storage to machine-learning workloads, operational applications and deployment. You will be the technical interface between our embedded systems and AI teams, bringing their work together into a coherent, reliable system.This role requires depth across software development, data engineering and DevOps. Our software must run on infrastructure operated by Pelagon or our customers, including self-hosted and on-premises environments. Robustness, operability and cybersecurity must be designed into the system from the outset.What you will ownSoftware architecture and delivery. Define the architecture of our core services, APIs, internal tools and customer-facing applications. Make and document technical decisions, write production code and take responsibility for the system from design through operation.Data infrastructure at scale. Build reliable ingestion, storage and retrieval for large volumes of sensor and operational data. Choo",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Investment Associate @Hexa Scale at Hexa",
+      "company": "Hexa",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/hexa/investment-associate-at-hexa-scale-paris-293366",
+      "source": "Arbeitnow_API",
+      "salary": "$5",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "About HexaHexa (formerly eFounders) gives entrepreneurs the best chances to build outstanding companies.We are a pioneering, world-leading startup studio born in Europe that designs, builds and launches category-defining startups. We are today recognized as one of the best venture studios in the world, with a track record comparable to tier-1 VC funds.We have created 60+ companies (including 3 unicorns) with a combined valuation of over $5 billion among them Aircall, Spendesk, Front, Swan and Yousign. We are passionate about B2B software, particularly AI-native and agentic SaaS, fintech, climate tech, defense tech and healthtech.Hexa is in full growth mode, with three early-stage activities: our Ventures programs Hexa Start and Hexa Sprint which help entrepreneurs go from zero to one, and a PE program, Hexa Scale, which takes majority stakes in existing startups and pushes them to new thresholds.Hexa ScaleToday, successful software companies have two ways to support and finance their growth: the VC path, and the self-financed profitable path. For software companies that can’t or do not want to bootstrap, but haven’t managed to stay permanently on hyper-growth, the VC path is a dead-end.At Hexa Scale, we’re on a mission to solve this: offer a new alternative to fund and scale software companies towards exponential growth.We believe that there are great software companies, still early stages in the 2-10m€ ARR range, that sit on amazing markets with a great product, but that req",
+      "matched_keywords": [
+        "fintech"
+      ]
+    },
+    {
+      "title": "Backend Engineer - Internship (6 months) at Qonto",
+      "company": "Qonto",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/qonto/backend-engineer-internship-6-months-paris-261641",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "month",
+      "years_experience": "N/A",
+      "description": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot,&nbsp;based on 55,000+ reviews. Our culture&nbsp;puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here). Our journey:&nbsp;Founded in 2017 by&nbsp;Alexandre and Steve, Qonto has grown to 1,700 Qontoers serving over 750,000 customers across 8 European countries. We have been profitable since 2023, and we are just getting started. Our beliefs: We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are. We've built a discrimination-free hiring process because the best teams are built on merit. AI at Qonto: AI is deeply embedded in how we work (here)&nbsp;- Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push AI beyond the obvious, know when to trust it, and when to question it. ------------------------------------------------------------------------------------------------------ Join us as a Backend Engineer Intern and help build the financial features our customers use every day. You'll work in a squad with full ownership of its product scope, learning on real production code with senior engineers. This is an end-of-studi",
+      "matched_keywords": [
+        "backend",
+        "banking"
+      ]
+    },
+    {
+      "title": "Full-stack Software Engineer (Contract) at Lemrock",
+      "company": "Lemrock",
+      "location": "Paris",
+      "link": "https://www.arbeitnow.fr/jobs/companies/lemrock/full-stack-software-engineer-contract-paris-129905",
+      "source": "Arbeitnow_API",
+      "salary": "€7M",
+      "salary_currency": "USD",
+      "salary_period": "month",
+      "years_experience": "N/A",
+      "description": "Who we areLemrock builds the infrastructure of agentic commerce.Tomorrow, consumers won't just buy on e-commerce websites. They will discover, compare and purchase directly inside conversational AI interfaces like ChatGPT, Perplexity, and a growing long tail of specialized AI assistants.For brands, this is a major shift: if they are not present in these environments, they become invisible.Our mission: enable any brand to exist, sell and distribute in this new channel.We raised a €7M seed round (the first in Europe on this market), with Jean-Baptiste Rudelle, founder of Criteo, on our board, and the Bpifrance DeepTech label.Today, Lemrock is already:100M+ conversations per month150+ brand clientsa $100B market structuring at high speedContextYou'll join a small, high-ownership engineering team building production systems that serve millions of users. We care deeply about code quality and clean architecture, and we intend to keep it that way as we scale.As our freelance Full-stack Software Engineer, full-time, you will work inside the team like any of its engineers: same codebase, same standards, same ownership.Your missionYour goal is to build and ship the product that powers Lemrock's commerce infrastructure, with full ownership, from design to production. Concretely, you will:Ship features end-to-end that reach millions of users, from data model and API design to the interface they interact with.Scale and harden our backend as traffic, integrations, and product complexity gr",
+      "matched_keywords": [
+        "backend",
+        "architecture",
+        "fullstack",
+        "full-stack"
+      ]
+    }
+  ]
+}

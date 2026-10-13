@@ -1,0 +1,127 @@
+[
+  {
+    "id": "chunk_57-1",
+    "title": "AI Video Creator & Editor at Creativefabrica",
+    "company": "Creativefabrica",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/creativefabrica/ai-video-creator-editor-amsterdam-366876",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "AUD",
+    "salary_period": "year",
+    "years_experience": "N/A",
+    "description_review": "AI video creation and editing role at Creative Fabrica, Amsterdam, in-office. Creative content production, not software engineering.",
+    "matched_keywords": [
+      "generative ai"
+    ],
+    "score": 4,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Creative video production, no engineering content",
+      "No Java/Spring or architecture signal"
+    ]
+  },
+  {
+    "id": "chunk_57-2",
+    "title": "Senior Product Manager at Vivid",
+    "company": "Vivid",
+    "location": "Remote",
+    "link": "https://www.arbeitnow.nl/jobs/companies/vivid/remote-senior-product-manager-77656",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote senior product manager role at Vivid, a fintech, with about 70% product and 30% engineering time, owning AI-driven product areas. Salary not specified in the source.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 20,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech context and architectural trade-off discussions",
+      "AI and automation product focus"
+    ],
+    "cons": [
+      "Primarily product management, not software engineering",
+      "No Java/Spring stack requirement evident"
+    ]
+  },
+  {
+    "id": "chunk_57-3",
+    "title": "Security Engineer (Hybrid or Remote) at Vivid",
+    "company": "Vivid",
+    "location": "Remote",
+    "link": "https://www.arbeitnow.nl/jobs/companies/vivid/security-engineer-hybrid-or-remote-472938",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior security engineering role at Vivid, an EMI-licensed fintech on AWS, covering SIEM, identity and access, and security architecture. Remote or hybrid; salary not specified.",
+    "matched_keywords": [
+      "architecture",
+      "fintech"
+    ],
+    "score": 28,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fintech environment with security architecture influence",
+      "Senior, hands-on ownership"
+    ],
+    "cons": [
+      "Security/SecOps specialization rather than Java/Spring development",
+      "Cloud and identity focus outside the candidate's core stack"
+    ]
+  },
+  {
+    "id": "chunk_57-4",
+    "title": "New Business Account Executive (Dutch market) at Vivid",
+    "company": "Vivid",
+    "location": "Amsterdam",
+    "link": "https://www.arbeitnow.nl/jobs/companies/vivid/new-business-account-executive-dutch-market-amsterdam-454489",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "New business account executive role at Vivid Money, Amsterdam, selling treasury products to Dutch institutional clients. Sales function, salary not specified.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 3,
+    "recommendation": "SKIP",
+    "pros": [],
+    "cons": [
+      "Sales role, no engineering content",
+      "No Java/Spring or architecture signal"
+    ]
+  },
+  {
+    "id": "chunk_57-5",
+    "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer at Tavily",
+    "company": "Tavily",
+    "location": "N/A",
+    "link": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-software-engineer-agentic-search-web-rendering-engineer-444896",
+    "source": "Arbeitnow_API",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior software engineer role at Tavily building web rendering for an agentic search API used in RAG and LLM systems. Location and salary not specified in the excerpt; stack not shown.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 52,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior engineering role in agentic AI infrastructure",
+      "Enterprise and LLM-system exposure"
+    ],
+    "cons": [
+      "Web rendering specialization, not Java/Spring backend",
+      "Stack and location not evident in the excerpt"
+    ]
+  }
+]

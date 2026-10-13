@@ -1,0 +1,83 @@
+{
+  "chunk": 59,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Senior Java Developer at Globaldevgroup",
+      "company": "Globaldevgroup",
+      "location": "Amsterdam, Netherlands",
+      "link": "https://www.arbeitnow.nl/jobs/companies/globaldevgroup/senior-java-developer-amsterdam-494744",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "5+ years",
+      "description": "We are looking for a Senior Java Developer to join our team and play an important role in designing, developing, and delivering high-quality software solutions. You will work on challenging backend projects, collaborate with experienced engineers and stakeholders, and contribute to building scalable and reliable solutions using modern technologies. This is a great opportunity for a strong technical professional who enjoys working in a consultancy environment and is looking for a role where their expertise can make a real impact.Requirements- 5+ years of professional software development experience;- Strong hands-on experience with Java, Spring Boot, Kotlin, and Kubernetes, as well as a similar backend and cloud technology stack;- Fluency in Dutch is required;- Previous experience working in a consultancy environment is a strong plus, as this position is offered on a consultancy basis.Find Jobs in Netherlands on Arbeitnow",
+      "matched_keywords": [
+        "java",
+        "spring",
+        "backend"
+      ]
+    },
+    {
+      "title": "Afstudeerstage IT at BAS Group",
+      "company": "BAS Group",
+      "location": "Veghel, Noord-Brabant, Nederland",
+      "link": "https://www.arbeitnow.nl/jobs/companies/bas-group/afstudeerstage-it-veghel-229993",
+      "source": "Arbeitnow_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Bij BAS, Europa’s grootste dealer in commerciële voertuigen én officieel Volvo en Renault Trucks dealer, krijg jij de kans om je te ontwikkelen binnen IT in de automotive branche. Ben jij op zoek naar een afstudeerstage vanaf januari/ februari 2027? Dan is dit iets voor jou!BAS World groeit hard, en IT speelt daarin een sleutelrol. Binnen ons IT-team liggen verschillende afstudeeropdrachten klaar die elk een echt vraagstuk uit ons IT-landschap aanpakken. Elke opdracht heeft een eigen team dat je dagelijks begeleidt. Zo breng je je kennis in de praktijk en kickstart je samen met ons jouw carrière.Mogelijke afstudeeropdrachten1. Continuous performance &amp; load testing (Engineering)BAS World wil het aantal voertuigadvertenties online ongeveer 20 keer zo groot maken. In deze opdracht zorg je dat onze websites en systemen die groei aankunnen. Je onderzoekt welke (AI-gedreven) testtools passen bij onze stack. Daarna bouw je samen met het IDP-team een testsuite die dagelijks automatisch draait in de pipeline. Het resultaat is een productieklare testopzet en een advies over knelpunten en capaciteit.Past bij: Software Engineering, DevOps, Infrastructure.2. Kleine AI-agents voor de business (Data / AI engineering)In deze opdracht werk je als interne consultant binnen één afdeling, bijvoorbeeld Logistiek. Je spreekt gebruikers, brengt hun processen en knelpunten in kaart en bepaalt waar AI het meeste oplevert. Daarna bouw je één of meer kleine AI-agents op basis van de services en dat",
+      "matched_keywords": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Manager, Engineering - Ads at MyFitnessPal",
+      "company": "MyFitnessPal",
+      "location": "N/A",
+      "link": "https://himalayas.app/companies/myfitnesspal/jobs/manager-engineering-ads",
+      "source": "Himalayas_API",
+      "salary": "140000 - 190000 USD",
+      "salary_currency": "USD",
+      "salary_period": "annual",
+      "years_experience": "N/A",
+      "description": "At MyFitnessPal, we believe good health starts with what you eat. We provide tools, resources and support to enable users to reach their health goals.We are looking for a Software Engineering Manager to join the MyFitnessPal Engineering team leading our Advertising squad to drive the development of a quality-first ad experience for our users.As a member of our MyFitnessPal Engineering team, you’ll lead a cross-functional team of backend and iOS engineers focused on outcomes over outputs, using data and experimentation to drive MFP's product strategy.About the Team:The team is responsible for building the ad experiences that help fund our mission while respecting user privacy and trust. The team of iOS engineers works closely with Product, Design, Ad Operations, and Sales on programmatic and direct-sold formats, including native ads, post-log interstitials, and sponsored in-app experiences. You'll lead a squad that ships experiments quickly, partners across the business, and navigates the evolving privacy and consent landscape.Essential Duties:As the Engineering Manager you are first and foremost responsible for the team and their ability to support the objectives of the product squad. You will ensure engineers are working closely with Product and Design in discovery and the work is eﬀectively transitioned through delivery, keeping an eye on the quality and maintainability of codebases.What you’ll be doing: Partner closely with Product and Design, leveraging a variety of quali",
+      "matched_keywords": [
+        "backend"
+      ]
+    },
+    {
+      "title": "Firmware Software Engineer at Bright Vision Technologies",
+      "company": "Bright Vision Technologies",
+      "location": "N/A",
+      "link": "https://himalayas.app/companies/bright-vision-technologies/jobs/firmware-software-engineer-5970744457",
+      "source": "Himalayas_API",
+      "salary": "125000 - 145000 USD",
+      "salary_currency": "USD",
+      "salary_period": "annual",
+      "years_experience": "N/A",
+      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.Job Title: Firmware Software EngineerLocation: 100% Remote (U.S.)Position Type: Full-time, Direct W2Salary Range: $125,000–$145,000 AnnuallyExperience Required: 6+ yearsSponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.Job Summary:We are seeking an experienced Firmware Software Engineer to design and build software tooling, firmware, and infrastructure that support semiconductor design, verification, manufacturing, and post-silicon validation. In this role you will partner with hardware engineers and EDA teams to build software that accelerates silicon development cycles and improves yield, performance, and quality. The ideal candidate will combine strong software engineering fundamentals with practical experience working alongside hardware teams in EDA, verification, or post-silicon environments. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Solutions Architecture Lead at Ampeco Ltd",
+      "company": "Ampeco Ltd",
+      "location": "N/A",
+      "link": "https://himalayas.app/companies/ampeco-ltd/jobs/solutions-architecture-lead",
+      "source": "Himalayas_API",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "AMPECO is one of the most innovative companies in the area of electric vehicle charging infrastructure - an industry that aims to change the world by making charging easier for everyone. As electric vehicles (EVs) drive a transformation of the transport and mobility sectors, AMPECO is at the forefront of that grand revolution, and we’re just getting started. Our product - the AMPECO EV Charging Platform - is a business-critical SaaS platform used by companies to manage their EV charging infrastructure, processes and energy use. It’s already in use by companies all over the world, from North and South America to Europe, Asia and Australia. Our team is highly motivated, capable, and committed to our mission. We are looking to expand it with like-minded, capable people, eager to give, learn and grow with us. About the Role As a Solutions Architecture Lead at AMPECO you will be a senior individual contributor who guides customers through the architecture, design, and delivery of complex technical projects, from the first conversation to a successful project go-live. You will work on specific engagements and can join as early as the pre-sales stage. With a new prospect, you will help define the overall solution architecture and migration strategy. You will also own the planning, estimation, and risk assessment that support bidding and contracting. Once a prospect becomes an AMPECO customer, you will lead their onboarding and migration. When the project is complete, you will hand t",
+      "matched_keywords": [
+        "architecture"
+      ]
+    }
+  ]
+}

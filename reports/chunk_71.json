@@ -1,0 +1,85 @@
+{
+  "chunk": 71,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "title": "Programmatic Account Manager, Enterprise at StackAdapt",
+      "company": "StackAdapt",
+      "location": "UK",
+      "link": "https://jobicy.com/jobs/155170-programmatic-account-manager-enterprise",
+      "source": "Jobicy_AI",
+      "salary": "56461 - 77634 GBP",
+      "salary_currency": "GBP",
+      "salary_period": "yearly",
+      "years_experience": "N/A",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels. Reporting to the Manager of Enterprise Client Services, you’ll play an integral role in post-sales client relationships as it relates to user adoption of the StackAdapt platform, campaign management, client retention and account expansion opportunities. You’ll work closely with your Account Executives, Client Service support teams, and cross functional teams to maximize the campaign ROI of our customers. Additionally, this role will allow you to use your RTB/Programmatic media buying experience to optimize campaigns and come up with unique solutions that ensure our clients are satisfied with their campaign performance. StackAdapt is a Remote First company although we are prioritizing candidates located in London, England for this role. What you'll be doing: Act as the main point of contact for your portfolio of clients across a wide range of verticals Design unique campaign strategies within the StackAdapt platform Ensure client campaigns are successful by providing regular reporting on their campai",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK) at Smartsheet",
+      "company": "Smartsheet",
+      "location": "UK",
+      "link": "https://jobicy.com/jobs/155167-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk",
+      "source": "Jobicy_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "20 years",
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. You independently lead the most complex AI deployments Smartsheet undertakes. You own the full engagement lifecycle from technical discovery through production deployment through solutions org handoff. You architect multi-agent solutions, design client-personalized MCP resource packs, and build the Deployment Kits that transform how 200+ solutions consultants and partners operate. You mentor junior FDEs, drive the intelligence loop, and present field findings at weekly Applied AI strategy sessions. You are building a function, not filling a role. What You Will Do Lead complex, multi-system AI deployments end-to-end scope, architect, build, validate, and manage the customer relationship throughout. Own the AI workshop program for your pod, customize modules per customer, lead technical sessions, translate outputs into production requirements, evolve content from field learning. Architect multi-agent solutions selecting the right coordination pattern for each customer’s workflow characteristics and compliance requirements. Design cl",
+      "matched_keywords": [
+        "ai agent",
+        "multi-agent"
+      ]
+    },
+    {
+      "title": "Sr. Software Engineer (Remote Eligible from Bulgaria) at Smartsheet",
+      "company": "Smartsheet",
+      "location": "Bulgaria",
+      "link": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
+      "source": "Jobicy_AI",
+      "salary": "$10",
+      "salary_currency": "USD",
+      "salary_period": "N/A",
+      "years_experience": "20 years",
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. Smartsheet is a tech company with a human story to tell. We’re here to empower teams to manage projects, automate workflows, and rapidly build new secure solutions, using simple no-code tools. We’re revolutionaries – so for us changing the way the world works is all in a day’s work. As a global leader in Intelligent Work Management with a market cap of $10bn, we’ve continued to scale our engineering presence internationally. Since expanding into Bulgaria in October 2024, we’ve grown to a team of 75+ engineers. As we continue building this operation, we’re looking for a talented and motivated Senior Software Engineer who are passionate about continuous learning and excited to grow in a fast-paced, innovative environment. Smartsheet runs on a modern SaaS stack hosted on AWS, with infrastructure defined and managed as code using Terraform and strong engineering best practices. Our core platform includes a legacy Java monolith alongside a growing ecosystem of microservices, primarily built in Java and Go (with a small number of Kotlin",
+      "matched_keywords": [
+        "java",
+        "microservices",
+        "ai agent",
+        "legacy"
+      ]
+    },
+    {
+      "title": "QA Automation Lead [gn] Data Intelligence at Actian",
+      "company": "Actian",
+      "location": "Europe",
+      "link": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "Jobicy_AI",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end. You are not a passive test-case writer or a mere script executor; you are a highly technical, proactive engineer who thrives on breaking complex distributed systems, designing robust testing frameworks, and enforcing a culture of absolute quality. You will lead a dedicated team of automation engineers, embed quality gates directly into our CI/CD pipelines, and use data-driven metrics to eliminate regressions before they ever reach production. Core Responsibilities: End-to-End Testing Infrastructure: Design, scale, and maintain robust automation frameworks capable of testing the complex SaaS and distributed data architectures of the Actian Data Intelligence Platform. Pipeline Integration: Embed automated test suites seamlessly into the CI/CD pipeline (GitHub Actions/Jenkins) to achieve true continuous integration and rapid feedback loops. Advanced Testing Topologies: Move beyond basic UI testing. Drive deep integration, API, performance, resilience, and data-integrity automation across the entire product stack. Technical Anchor: Act as the ultimate technical authority for the QA automation squad, establi",
+      "matched_keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Customer service manager (PP) at ParcelHero",
+      "company": "ParcelHero",
+      "location": "Philippines",
+      "link": "https://jobicy.com/jobs/149076-customer-service-manager-pp",
+      "source": "Jobicy_AI",
+      "salary": "N/A",
+      "salary_currency": "EUR",
+      "salary_period": "month",
+      "years_experience": "N/A",
+      "description": "ParcelHero is one of the UK's biggest parcel delivery price comparison sites, with over 5 million visitors a year. We're a scaling, technology-focused business with 120 remote staff worldwide - and we're growing fast, expanding internationally into the US and Europe this year. We serve both consumers and businesses in an almost 50/50 split, and our move into SaaS is shifting that mix further towards larger businesses and, ultimately, enterprise customers. In 2026, we launched our cutting-edge TMS (Transport Management Solution), Parcelhero Pro, enabling retailers to pay a monthly subscription to ship on their own carrier accounts and manage every aspect of their logistics through our platform. We're a highly innovative company, deeply focused on optimisation, automation, and continuous process improvement. Joining now means being part of the journey - helping shape our technology, our processes, and our approach as we scale globally. We're also a remote-first business: no commute, no office politics, just great work with talented colleagues around the world. Job descriptionAre you passionate about improving the customer experience? Does coordinating across teams, countries, and time zones excite you? Parcelhero is looking for an experienced Customer Service Manager to lead our team leaders and 50-strong remote team, drive quality of service, and elevate the experience for both our consumer and business customers as we expand internationally.This is a high-pace, high-pressure ",
+      "matched_keywords": [
+        "enterprise"
+      ]
+    }
+  ]
+}

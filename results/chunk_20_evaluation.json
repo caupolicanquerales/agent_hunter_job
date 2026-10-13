@@ -1,0 +1,119 @@
+[
+  {
+    "id": "chunk_20-1",
+    "title": "(Fluent English) T3 Support Engineer (remote) at SupportYourApp",
+    "link": "https://remotefirstjobs.com/companies/supportyourapp/jobs/fluent-english-t3-support-engineer-remote-870776",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote T3 support engineer investigating escalated backend, database and integration issues, with read-only production queries and small fixes. Support operations role; seniority and salary not stated.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend and API troubleshooting exposure"
+    ],
+    "cons": [
+      "Support operations role, not software development",
+      "No architecture or modernization scope"
+    ]
+  },
+  {
+    "id": "chunk_20-2",
+    "title": "(Fluent English) T3 Support Engineer (remote) at SupportYourApp",
+    "link": "https://remotefirstjobs.com/companies/supportyourapp/jobs/fluent-english-t3-support-engineer-remote-870775",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Remote T3 support engineer investigating escalated backend, database and integration issues, with read-only production queries and small fixes. Support operations role; seniority and salary not stated.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 12,
+    "recommendation": "SKIP",
+    "pros": [
+      "Backend and API troubleshooting exposure"
+    ],
+    "cons": [
+      "Support operations role, not software development",
+      "No architecture or modernization scope"
+    ]
+  },
+  {
+    "id": "chunk_20-3",
+    "title": "Strategic Account Executive 4 - Regverts at Twilio",
+    "link": "https://remotefirstjobs.com/companies/twilio/jobs/strategic-account-executive-4-regverts-870771",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Strategic account executive selling Twilio's communications platform to enterprise financial services and fintech organizations. Quota-driven sales role, remote-first; no engineering stack described.",
+    "matched_keywords": [
+      "enterprise",
+      "fintech"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Enterprise fintech customer segment"
+    ],
+    "cons": [
+      "Sales role, not engineering",
+      "No Java or Spring Boot scope"
+    ]
+  },
+  {
+    "id": "chunk_20-4",
+    "title": "Engineering Manager (f/m/d) at Apaleo",
+    "link": "https://remotefirstjobs.com/companies/apaleo/jobs/engineering-manager-fmd-870769",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Engineering manager leading teams on an AI-first hospitality property management platform with integrations via an app store. Requires several years of engineering leadership and a backend background in C#/.NET and AWS.",
+    "matched_keywords": [
+      "backend"
+    ],
+    "score": 50,
+    "recommendation": "SKIP",
+    "pros": [
+      "Engineering leadership and delivery ownership, matching profile seniority",
+      "AI-driven development pipeline responsibility"
+    ],
+    "cons": [
+      "C#/.NET stack, a weak fit for the Java/Spring profile",
+      "People management role with hands-on expectations reduced"
+    ]
+  },
+  {
+    "id": "chunk_20-5",
+    "title": "Growth Marketer- Reception.ai at ElevenLabs",
+    "link": "https://remotefirstjobs.com/companies/elevenlabs/jobs/growth-marketer-receptionai-870758",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "$781M",
+    "salary_currency": "USD",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Growth marketing role for a voice AI company's Reception.ai product. Marketing function with no engineering stack; the salary field reflects company funding, not pay.",
+    "matched_keywords": [
+      "enterprise"
+    ],
+    "score": 5,
+    "recommendation": "SKIP",
+    "pros": [
+      "Applied AI company with strong product momentum"
+    ],
+    "cons": [
+      "Marketing role, not engineering",
+      "No technical stack in the posting"
+    ]
+  }
+]

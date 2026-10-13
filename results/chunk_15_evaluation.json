@@ -1,136 +1,128 @@
 [
   {
     "id": "chunk_15-1",
-    "title": "Tech Lead Full-Stack Rails Engineer at Mitre Media",
-    "link": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "source": "Remotive_Dev",
+    "title": "Senior Software Developer - Databases at Intelerad",
+    "link": "https://remotefirstjobs.com/companies/intelerad-medical-systems/jobs/senior-software-developer-databases-870886",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "EUR",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "Tech lead role architecting LLM-powered web apps on a microservices-based Rails 8 platform for fintech investing brands, reporting to the CTO. Seniority is lead level, remote within ±3 hours of Eastern Time.",
+    "description_review": "Senior developer role on the data layer of a healthcare medical imaging platform, modernizing database performance for the InteleOrchestrator team. Salary, years and location not stated in the excerpt.",
     "matched_keywords": [
-      "microservices",
-      "fintech",
-      "fullstack",
-      "full-stack"
+      "enterprise"
     ],
-    "score": 68,
-    "recommendation": "CONSIDER",
+    "score": 45,
+    "recommendation": "SKIP",
     "pros": [
-      "Fintech domain and microservices architecture match the profile",
-      "LLM integration and architecture ownership match applied AI and modernization"
+      "Senior enterprise modernization of a data layer"
     ],
     "cons": [
-      "Ruby on Rails stack, no Java or Spring Boot",
-      "Frontend-leaning full-stack scope"
+      "Database-focused rather than Java/Spring service work",
+      "Healthcare imaging domain outside banking/fintech",
+      "Salary and location not stated"
     ]
   },
   {
     "id": "chunk_15-2",
-    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI",
-    "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-    "source": "Remotive_AI",
+    "title": "Senior Software Developer at Intelerad",
+    "link": "https://remotefirstjobs.com/companies/intelerad-medical-systems/jobs/senior-software-developer-870885",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "AUD",
+    "salary_currency": "N/A",
     "salary_period": "N/A",
     "years_experience": "N/A",
-    "description_review": "AI code trainer role evaluating model-generated code, writing reference solutions and test cases across languages. Contract-style evaluation work rather than product engineering.",
+    "description_review": "Senior developer role building cloud-native solutions for a healthcare imaging platform on the InteleOrchestrator team. Salary, years and location not stated in the excerpt.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "fullstack",
-      "full-stack",
-      "typescript",
-      "node"
+      "enterprise"
     ],
-    "score": 40,
+    "score": 55,
     "recommendation": "SKIP",
     "pros": [
-      "Code review and architecture critique relate to engineering quality"
+      "Senior cloud-native enterprise software scope",
+      "Modern platform modernization theme"
     ],
     "cons": [
-      "Evaluation and annotation work, not software engineering ownership",
-      "Multi-language scope with no senior architecture role",
-      "Salary currency listed as AUD with no amount"
+      "Healthcare imaging domain outside banking/fintech",
+      "Programming language and stack not stated in the excerpt",
+      "Salary and location not stated"
     ]
   },
   {
     "id": "chunk_15-3",
-    "title": "Senior back-end Engineer at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-    "source": "Remotive_AI",
+    "title": "Salesforce Developer at Ethos",
+    "link": "https://remotefirstjobs.com/companies/ethos/jobs/salesforce-developer-870882",
+    "source": "RemoteFirstJobs_Dev",
     "salary": "N/A",
-    "salary_currency": "EUR",
+    "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "5+ years",
-    "description_review": "Senior back-end engineering role (Golang and/or Python, Kubernetes) for an AI infrastructure company, remote across UK, Singapore, US and Canada. Requires 5+ years and 2+ years of AI agent development.",
+    "years_experience": "N/A",
+    "description_review": "Salesforce developer role building and supporting custom applications and integrations for sales and enterprise systems teams at a life insurance technology company. Salary and location not stated in the excerpt.",
     "matched_keywords": [
-      "java",
-      "backend",
-      "architecture",
-      "vue",
-      "node",
-      "ai agent"
+      "enterprise"
     ],
-    "score": 52,
+    "score": 15,
     "recommendation": "SKIP",
     "pros": [
-      "Senior backend and infrastructure scope",
-      "AI agent development experience requested"
+      "Integrations and enterprise systems work"
     ],
     "cons": [
-      "Golang/Python stack, no Java or Spring Boot",
-      "Matched on generic terms only, not a Java role"
+      "Salesforce platform development, not Java/Spring",
+      "Low-code platform focus outside the core stack",
+      "Salary and location not stated"
     ]
   },
   {
     "id": "chunk_15-4",
-    "title": "Senior AI Engineer at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-    "source": "Remotive_AI",
-    "salary": "$11M",
-    "salary_currency": "USD",
+    "title": "Software Engineer 2 - Product Essentials at Abnormal AI",
+    "link": "https://remotefirstjobs.com/companies/abnormal-security/jobs/software-engineer-2-product-essentials-870879",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "N/A",
+    "salary_currency": "AUD",
     "salary_period": "N/A",
-    "years_experience": "3+ years",
-    "description_review": "Senior AI engineering contract role via a freelance marketplace, applying LLMs, LangChain and vector databases in Python to startup projects. Requires 3+ years of applied AI experience.",
+    "years_experience": "N/A",
+    "description_review": "Mid-level software engineer role building backend services, APIs and consumer-grade interfaces for an AI-native cybersecurity company, using generative AI development tools. Salary currency listed as AUD without amount; years not stated.",
     "matched_keywords": [
-      "ai agent"
+      "backend",
+      "enterprise",
+      "generative ai"
     ],
-    "score": 60,
-    "recommendation": "CONSIDER",
+    "score": 55,
+    "recommendation": "SKIP",
     "pros": [
-      "LLM and LangChain applied AI matches AI criterion",
-      "Senior-level applied AI scope"
+      "Backend services at scale with AI-powered development",
+      "Enterprise customer collaboration and secure systems"
     ],
     "cons": [
-      "Python-centric, no Java or Spring Boot",
-      "Freelance marketplace model, not an architecture role",
-      "$11M is the marketplace payout total, not a salary"
+      "Engineer II level, below the senior profile",
+      "Cybersecurity domain rather than banking/fintech",
+      "Stack and salary not stated"
     ]
   },
   {
     "id": "chunk_15-5",
-    "title": "Senior .NET Full-stack Developer at Lemon.io",
-    "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-    "source": "Remotive_AI",
-    "salary": "$11M",
+    "title": "Solutions Architect - Central at Endor Labs",
+    "link": "https://remotefirstjobs.com/companies/endor-labs/jobs/solutions-architect-central-870876",
+    "source": "RemoteFirstJobs_Dev",
+    "salary": "$0 to $300M",
     "salary_currency": "USD",
     "salary_period": "N/A",
-    "years_experience": "4+ years",
-    "description_review": "Senior .NET and React full-stack contract role with TypeScript required, via a freelance marketplace. Requires 4+ years commercial experience.",
+    "years_experience": "N/A",
+    "description_review": "Solutions architect role for a security platform for AI coding agents, covering presales technical discovery and customer demonstrations in the central region. The salary range is a company valuation figure, not a salary.",
     "matched_keywords": [
-      "angular",
-      "typescript"
+      "enterprise",
+      "ai agent"
     ],
-    "score": 35,
+    "score": 25,
     "recommendation": "SKIP",
     "pros": [
-      "Senior full-stack scope with TypeScript"
+      "Architecture and enterprise customer engagement",
+      "AI agent security context matches applied AI interest"
     ],
     "cons": [
-      ".NET and React stack, no Java or Spring Boot",
-      "$11M is the marketplace payout total, not a salary"
+      "Presales solutions role rather than software development",
+      "Security product domain outside the profile",
+      "Salary not stated"
     ]
   }
 ]

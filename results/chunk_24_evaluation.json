@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chunk_24-1",
+    "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin at Doctolib",
+    "link": "https://remotefirstjobs.com/companies/doctolib/jobs/software-engineer-intern-fullstack-xfm-berlin-870807",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "day",
+    "years_experience": "N/A",
+    "description_review": "Internship fullstack software engineering role at a healthcare tech company in Berlin, with features shipped across the stack and AI exposure. Entry-level position with a day-based salary in EUR.",
+    "matched_keywords": [
+      "fullstack",
+      "full-stack"
+    ],
+    "score": 28,
+    "recommendation": "SKIP",
+    "pros": [
+      "Fullstack product work in a modern product engineering team"
+    ],
+    "cons": [
+      "Internship, far below the senior profile",
+      "Berlin on-site focus, no Java/Spring evidence in the data"
+    ]
+  },
+  {
+    "id": "chunk_24-2",
+    "title": "Creative Marketing Campaign Manager at Blend",
+    "link": "https://remotefirstjobs.com/companies/blend360/jobs/creative-marketing-campaign-manager-870737",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Marketing operations and campaign coordination role for a digital payments client in banking. Non-engineering role with no stated salary.",
+    "matched_keywords": [
+      "enterprise",
+      "banking"
+    ],
+    "score": 8,
+    "recommendation": "SKIP",
+    "pros": [
+      "Banking/financial services client context"
+    ],
+    "cons": [
+      "Marketing project management, not software engineering",
+      "No technical stack required"
+    ]
+  },
+  {
+    "id": "chunk_24-3",
+    "title": "Senior Software Developer- Java/DevOps skills required at Netcompany",
+    "link": "https://remotefirstjobs.com/companies/netcompany/jobs/senior-software-developer-javadevops-skills-required-870716",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "EUR",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior software developer role at an IT consultancy working on public and private sector digital products, requiring Java and DevOps skills. Covers the full development lifecycle with hands-on coding; salary and location are not stated.",
+    "matched_keywords": [
+      "java"
+    ],
+    "score": 73,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Senior Java role matches the core stack",
+      "Enterprise public/private sector consulting context"
+    ],
+    "cons": [
+      "DevOps emphasis is outside the profile's core",
+      "Spring Boot, microservices and location not confirmed in the data",
+      "Description truncated; .NET and Salesforce also in the stack"
+    ]
+  },
+  {
+    "id": "chunk_24-4",
+    "title": "Sr. AI Engineer, AI FDE at Databricks",
+    "link": "https://remotefirstjobs.com/companies/databricks/jobs/sr-ai-engineer-ai-fde-870713",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior customer-facing applied AI engineer (forward deployed) building GenAI production solutions such as RAG, multi-agent systems and Text2SQL, open to remote locations. Salary is not stated and the data does not specify the programming stack.",
+    "matched_keywords": [
+      "multi-agent"
+    ],
+    "score": 66,
+    "recommendation": "CONSIDER",
+    "pros": [
+      "Multi-agent and RAG production experience matches the applied AI profile",
+      "Senior customer-facing architecture and advisory role"
+    ],
+    "cons": [
+      "Java/Spring not mentioned in the data",
+      "Customer-facing deployment work is a different focus from backend architecture"
+    ]
+  },
+  {
+    "id": "chunk_24-5",
+    "title": "Senior Data Engineer (India) at Karat",
+    "link": "https://remotefirstjobs.com/companies/karat/jobs/senior-data-engineer-india-870677",
+    "source": "RemoteFirstJobs_AI",
+    "salary": "N/A",
+    "salary_currency": "N/A",
+    "salary_period": "N/A",
+    "years_experience": "N/A",
+    "description_review": "Senior data engineering role building cloud-based pipelines, data models and orchestration for an interviewing platform. Location is India with a schedule overlapping US business hours; salary is not stated.",
+    "matched_keywords": [
+      "architecture"
+    ],
+    "score": 42,
+    "recommendation": "SKIP",
+    "pros": [
+      "Senior technical leadership and data architecture ownership"
+    ],
+    "cons": [
+      "Data engineering focus, not backend Java/Spring",
+      "India location with US-hours overlap"
+    ]
+  }
+]

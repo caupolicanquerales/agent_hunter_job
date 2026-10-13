@@ -3,85 +3,73 @@
   "candidate_count": 5,
   "candidates": [
     {
-      "title": "Senior Data Engineer (Azure) at Proxify",
-      "company": "Proxify",
-      "location": "CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925636/",
-      "source": "WorkingNomads_AI",
+      "title": "Frontend Developer (React) at Codekeeper",
+      "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/frontend-developer-react-870857",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Data Engineer with deep expertise in Microsoft Azure to join our fast-growing Network. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: 5+ years in Data Engineering roles. Advanced SQL knowledge: complex queries, performance tuning, stored procedures. Strong understanding of Azure technologies: Azure SQL Database, Data Factory, etc. Proven experience in ETL development, data integration, and pipeline orchestration. Deep understanding of data modeling principles and data warehouse architectures. Knowledge of data governance principles, data quality management, and data security best practices. Located in",
+      "years_experience": "N/A",
+      "description": "Frontend Developer (React) Are you a skilled Front End Developer who loves turning ideas into elegant, high-performing web applications? Do you get energized by fast-paced environments where your code ships quickly and makes a real, visible impact? Are you the kind of engineer who cares just as much about clean architecture and thoughtful user experience as you do about hitting deadlines? Codekeeper is looking for an experienced Front End Engineer with deep React expertise to join our growing, ambitious team. In this role, you won&rsquo;t just be writing code - you&rsquo;ll be helping to design, build, and continuously improve products that thousands of people rely on. You will collaborate closely with designers, product managers, and fellow engineers who are passionate about their craft and committed to raising the bar every single day. Ready to take the next step in your career and help us build something meaningful? We&rsquo;d love to hear from you. About the Role As part of the development team, the Front End Developer shall focus on developing user interface components for our web application and ensuring that these components are robust and easy to maintain. The current tech stack for this position requires proficiency in JavaScript/TypeScript, CSS, and React, with the potential to expand as new technologies become available to the industry. The responsibilities of this position shall require close collaboration with the Design team and the other members of the Product ",
       "matched_keywords": [
-        "architecture"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer (Azure) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925634/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfil their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Azure DevOps Engineer for one of our clients who would be responsible for ensuring the reliability, security, and scalability of Azure-based systems. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of proven experience as a DevOps Engineer with a strong focus on Azure. In-depth knowledge of Azure services and architecture, including Azure VMs, Azure App Service, Azure Functions, and more. Proficiency in scripting languages (e.g., PowerShell, Bash) and automation tools. Experience with containerization and orchestration tools (Docker, Kubernetes, AKS). Familiarity with Infrastructure as Code (IaC) ",
-      "matched_keywords": [
-        "architecture"
-      ]
-    },
-    {
-      "title": "Senior Fullstack Developer (React.js / Node.js) at Proxify",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925629/",
-      "source": "WorkingNomads_AI",
-      "salary": "N/A",
-      "salary_currency": "N/A",
-      "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. Nice-to-have: Database Architecture knowledge. Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable ",
-      "matched_keywords": [
-        "microservices",
-        "backend",
+        "java",
         "architecture",
-        "fullstack",
-        "full-stack",
-        "node"
+        "typescript"
       ]
     },
     {
-      "title": "Senior Python Developer (Fullstack, BE-Heavy) at Proxify",
-      "company": "Proxify",
-      "location": "CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925623/",
-      "source": "WorkingNomads_AI",
+      "title": "Full Stack Developer (Javascript) at Codekeeper",
+      "link": "https://remotefirstjobs.com/companies/codekeeper/jobs/full-stack-developer-javascript-870856",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Python Developer (Fullstack, Backend-Heavy) to join one of our high-growth client teams as a core software architect. In this role, you will be responsible for designing, scaling, and maintaining high-throughput backend systems while having the fullstack dexterity to build out the corresponding frontends. You will handle everything from high-performance asynchronous API design and background task orchestration to state management on the client side. This is an ideal role for an engineer who loves the clean syntax and processing capabilities of Python but values the completeness of delivering a seamless end-to-end user experience. What we are looking for: 5+ years of production experience with modern Python, with a deep und",
+      "years_experience": "N/A",
+      "description": "Full Stack Developer (JavaScript) Are you an experienced Full-Stack JavaScript Developer who thrives on crafting clean, efficient, and scalable code? Excited by the opportunity to make a meaningful impact in the fast-evolving software escrow industry? Codekeeper is looking for a talented Full-Stack Engineer with deep JavaScript expertise to join our growing team. If you are passionate about building high-quality solutions and want to help shape the future of software escrow, we’d love to hear from you. Apply now and be part of something impactful. About the Company Codekeeper was founded by tech industry professionals to revolutionize software escrow for the cloud era. We offer state-of-the-art disaster recovery solutions that mitigate third-party risks in business operations. As a remote-first company with a central office in The Hague, we prioritize a healthy, resilient organization to support the development of our robust app. 🌐 codekeeper.co/ What Else Can You Expect from Us? A dynamic, enthusiastic, and fun team Opportunities for growth within a startup environment Regular team activities and get-togethers A comprehensive onboarding process with a dedicated ramp-up period and time to learn A culture that values open communication, feedback, and collaboration We believe in nurturing our app, teams, and organization with a focus on long-term success. We&rsquo;re dedicated to building a healthy, resilient company that empowers every team, from design to support and operatio",
       "matched_keywords": [
-        "backend",
+        "java",
         "fullstack",
         "full-stack"
       ]
     },
     {
-      "title": "Senior Django Developer at Proxify",
-      "company": "Proxify",
-      "location": "CET (+/- 3 hours)",
-      "link": "https://www.workingnomads.com/job/go/1925616/",
-      "source": "WorkingNomads_AI",
+      "title": "Senior GenAI Engineer at Taboola",
+      "link": "https://remotefirstjobs.com/companies/taboola/jobs/senior-genai-engineer-870834",
+      "source": "RemoteFirstJobs_Dev",
       "salary": "N/A",
       "salary_currency": "N/A",
       "salary_period": "N/A",
-      "years_experience": "5+ years",
-      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Django Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: 5+ years of web development experience, with at least 4 years specialising in Django. Strong understanding of the Django ORM, Django REST framework, and Python. Able to integrate multiple data sources and databases into one system. Understanding of the threading limitations of Python, and multi-process architecture. Good understanding of server-side templating languages (such as Jinja 2, Mako). Familiarity with event-driven programming in Python. Understanding of accessibility and security compliance. Knowledge of user",
+      "years_experience": "2+ years",
+      "description": "Realize your potential by joining the leading performance-driven advertising company! As a Senior GenAI Engineer in our GenAI team in the Tel Aviv office, you’ll play a key role in developing and enhancing our generative AI products, building advanced algorithmic solutions that improve content discovery, personalization, and monetization at scale. To thrive in this role, you’ll need: M.Sc. in Computer Science, Mathematics, Engineering, or a related field Strong Python, SQL and Spark skills Familiarity with statistical modeling techniques 2+ years of hands-on experience designing, building and evaluating GenAI workflows, including Agentic RAG, Tool calls evaluation, LLM-as-a-judge, RLHF, and LLM fine-tuning 3+ years of experience in data science, analytics, and visualization Excellent problem-solving and critical-thinking abilities 3+ years of hands-on experience developing traditional machine learning algorithms, and NLP models. Bonus points if you have: Strong mentoring and public-speaking skills, with a passion for writing research papers and technical documentation and sharing knowledge at conferences. Experienced in Java or Scala How you’ll make an impact: Be responsible for the entire algorithmic lifecycle of our user facing multilingual GenAI product at scale DeeperDive: data analytics, offline and online evaluation of new LLMs, evaluate the quality of our generative content, minimize hallucinations, evaluate guardrails, tool use and router calls, and improve retrieval ",
+      "matched_keywords": [
+        "java",
+        "generative ai"
+      ]
+    },
+    {
+      "title": "Staff Android Engineer, Android Platform at Reddit, Inc.",
+      "link": "https://remotefirstjobs.com/companies/reddit/jobs/staff-android-engineer-android-platform-870828",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "day",
+      "years_experience": "N/A",
+      "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. The Android Platform team sets the technical direction for Android at Reddit. We design, build and support the Android app for millions of DAUs and the development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer on the Android Platform team, you’ll set technical direction and lead cross-team initiatives for a large, multi‑team Android codebase, with a core focus on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experiences, and App Architecture (modern and opinionated). You’ll turn ambiguous platform problems into a multi-quarter roadmap, align engineering partners, and stay hands-on from design and implementation through rollout and adoption. What you’ll do Lead technical decisions that will scale Reddit’s Android Platform to the next 100M+ DAUs, balancing long-term platform health with product delivery. Drive Developer Experience strategy to accelerate build and test cycles and improve release safety",
       "matched_keywords": [
         "architecture"
+      ]
+    },
+    {
+      "title": "Forward Deployment Engineer-Viewer at DeepHealth",
+      "link": "https://remotefirstjobs.com/companies/deephealth/jobs/forward-deployment-engineerviewer-870822",
+      "source": "RemoteFirstJobs_Dev",
+      "salary": "N/A",
+      "salary_currency": "N/A",
+      "salary_period": "N/A",
+      "years_experience": "N/A",
+      "description": "Description Own the AI adoption strategy for the Viewer: define requirements, expected customer impact and success criteria, and feed them back to Product and Engineering. The Forward Deployment Engineer, Viewer helps customers adopt DeepHealth’s enterprise diagnostic Viewer correctly. The role combines clinical workflow knowledge, engineering depth and customer communication to design how the Viewer is configured for each customer, coach implementation teams, resolve complex technical issues, and turn recurring field needs into standard product workflows, including AI-enabled imaging workflows as they are released. This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness. Essential Duties and Responsibilities Own technical solution design and configuration of the Viewer for assigned customers, mapping clinical reading workflow (worklists, hanging protocols, priors, user roles) to product configuration. Lead technical discovery with customers and implement",
+      "matched_keywords": [
+        "enterprise"
       ]
     }
   ]
