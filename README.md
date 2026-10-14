@@ -265,13 +265,16 @@ focused modules: routing (`backend_server.py`), request handling
 | Method | Path | Description |
 |--------|------|-------------|
 | `GET` | `/health` | Liveness probe → `{"status": "ok"}` |
-| `GET` | `/api/jobs/search?query=&limit=&source=` | Search jobs (query params) |
-| `POST` | `/api/jobs/search` | Search jobs (JSON body `{query, limit, source}`) |
+| `GET` | `/api/jobs/search?query=&page=&page_size=&source=` | Search jobs (query params, paginated) |
+| `POST` | `/api/jobs/search` | Search jobs (JSON body `{query, page, page_size, source}`) |
 | `OPTIONS` | `/api/jobs/search` | CORS preflight → `204` |
 
-- `400` — missing `query`, non-integer `limit`, or invalid JSON body.
+- `400` — missing `query`, non-integer `page`/`page_size`, or invalid JSON body.
 - `404` — unknown path. `502` — the MCP search call failed.
-- `limit` defaults to `20` and is clamped to `100`.
+- `page` defaults to `1`; `page_size` defaults to `20` and is clamped to `100`.
+  The legacy `limit` param is still accepted as an alias for `page_size`.
+- The response echoes `page`, `page_size`, `total_results`, `total_pages`,
+  `has_next_page` and `has_previous_page` alongside `results`.
 - CORS is allow-listed to the Angular dev origins by default
   (`http://localhost:4200`, `http://127.0.0.1:4200`).
 

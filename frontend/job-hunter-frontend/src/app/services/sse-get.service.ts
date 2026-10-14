@@ -13,12 +13,12 @@ export class SseGetService {
 
     /**
      * Sends a GET request and emits the parsed JSON response.
-     * Null and undefined params are omitted from the query string.
+     * Null, undefined and empty-string params are omitted from the query string.
      */
     get<T = unknown>(url: string, params?: QueryParams): Observable<T> {
         let httpParams = new HttpParams();
         for (const [key, value] of Object.entries(params ?? {})) {
-            if (value !== null && value !== undefined) {
+            if (value !== null && value !== undefined && value !== '') {
                 httpParams = httpParams.set(key, String(value));
             }
         }

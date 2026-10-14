@@ -14,7 +14,7 @@ export class RawPayloadViewer {
 
   // Formatted stringified JSON
   protected readonly formattedJson = computed(() => {
-    const data = this.payload();
+    const data = this.resolvePayload();
     if (data === null || data === undefined) {
       return '{}';
     }
@@ -34,7 +34,7 @@ export class RawPayloadViewer {
 
   // Count top-level keys
   protected readonly keyCount = computed(() => {
-    const data = this.payload();
+    const data = this.resolvePayload();
     if (data && typeof data === 'object') {
       return Object.keys(data).length;
     }
@@ -49,6 +49,26 @@ export class RawPayloadViewer {
 
   public openAccordion(): void {
     this.isOpen.set(true);
+  }
+
+  /**
+   * Normalizes the incoming payload: a JSONB column may arrive as an object
+   * or as a JSON-encoded string, so parse strings into objects when possible.
+   */
+  private resolvePayload(): unknown {
+    const data = this.payload();
+    if (typeof data !== 'string') {
+      return data;
+    }
+    const trimmed = data.trim();
+    if (!trimmed) {
+      return null;
+    }
+    try {
+      return JSON.parse(trimmed);
+    } catch {
+      return data;
+    }
   }
 
   public toggleAccordion(): void {

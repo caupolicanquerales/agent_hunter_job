@@ -31,6 +31,11 @@ export interface JobSearchResponse {
   query: string;
   source: string | null;
   total_results: number;
+  page: number;
+  page_size: number;
+  total_pages: number;
+  has_next_page: boolean;
+  has_previous_page: boolean;
   results: ScrapedJobPosting[];
 }
 

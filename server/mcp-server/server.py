@@ -85,6 +85,7 @@ async def search_job_postings(
     query: str,
     limit: int = 5,
     source: str | None = None,
+    offset: int = 0,
 ) -> str:
     """
     Runs a cosine-similarity search against scraped_job_postings using the
@@ -93,18 +94,20 @@ async def search_job_postings(
     query: free-text search term embedded with the local model.
     limit: maximum number of jobs to return (clamped to MAX_RESULTS_LIMIT).
     source: optional source filter, matched case-insensitively.
+    offset: number of top matches to skip, enabling page-based pagination.
     """
     if not query.strip():
         raise ValueError("query must not be empty")
 
     result_limit = max(1, min(limit, MAX_RESULTS_LIMIT))
+    safe_offset = max(0, offset)
     requested_source = source.strip().lower() if source else None
 
     query_embedding = (await asyncio.to_thread(encode_texts, [query]))[0]
 
     pool = await get_db_pool()
-    matches = await search_jobs(
-        pool, query_embedding, result_limit, requested_source
+    matches, total_matches = await search_jobs(
+        pool, query_embedding, result_limit, requested_source, safe_offset
     )
 
     return json.dumps(
@@ -112,7 +115,9 @@ async def search_job_postings(
             "status": "success",
             "query": query,
             "source": requested_source,
-            "total_results": len(matches),
+            "total_results": total_matches,
+            "offset": safe_offset,
+            "limit": result_limit,
             "results": matches,
         },
         default=str,

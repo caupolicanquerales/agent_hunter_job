@@ -1,11 +1,12 @@
 import { Injectable, computed, inject, signal } from '@angular/core';
-import { catchError, debounceTime, of, Subject, switchMap } from 'rxjs';
+import { catchError, debounceTime, merge, of, Subject, switchMap } from 'rxjs';
 import { JobFilterCriteria, JobModel, JobSortOption } from '../models/job.model';
 import { JobSearchResponse, toJobModel } from '../models/scraped-job-posting.model';
-import { SseService } from './sse.service';
+import { JobSearchParams, SseService } from './sse.service';
 
 const DEFAULT_SEARCH_QUERY = 'developer';
-const SEARCH_LIMIT = 100;
+const DEFAULT_PAGE_SIZE = 20;
+const MAX_PAGE_SIZE = 100;
 const SEARCH_DEBOUNCE_MS = 300;
 
 @Injectable({
@@ -14,9 +15,14 @@ const SEARCH_DEBOUNCE_MS = 300;
 export class JobService {
   private readonly sseService = inject(SseService);
   private readonly searchRequest$ = new Subject<void>();
+  private readonly pageRequest$ = new Subject<void>();
 
   private readonly _jobs = signal<JobModel[]>([]);
   private readonly _selectedJobId = signal<string | null>(null);
+  private readonly _page = signal(1);
+  private readonly _pageSize = signal(DEFAULT_PAGE_SIZE);
+  private readonly _totalResults = signal(0);
+  private readonly _totalPages = signal(0);
   private readonly _filters = signal<JobFilterCriteria>({
     keyword: '',
     remoteOnly: false,
@@ -28,11 +34,19 @@ export class JobService {
   public readonly jobs = this._jobs.asReadonly();
   public readonly selectedJobId = this._selectedJobId.asReadonly();
   public readonly filters = this._filters.asReadonly();
+  public readonly page = this._page.asReadonly();
+  public readonly pageSize = this._pageSize.asReadonly();
+  public readonly totalResults = this._totalResults.asReadonly();
+  public readonly totalPages = this._totalPages.asReadonly();
+  public readonly hasNextPage = computed(() => this._page() < this._totalPages());
+  public readonly hasPreviousPage = computed(() => this._page() > 1);
 
   constructor() {
-    this.searchRequest$
+    merge(
+      this.searchRequest$.pipe(debounceTime(SEARCH_DEBOUNCE_MS)),
+      this.pageRequest$
+    )
       .pipe(
-        debounceTime(SEARCH_DEBOUNCE_MS),
         switchMap(() =>
           this.sseService
             .getJobs<JobSearchResponse>(this.buildSearchParams())
@@ -41,6 +55,7 @@ export class JobService {
       )
       .subscribe((response) => {
         if (response) {
+          this.applyPagination(response);
           this.loadJobs(response.results.map(toJobModel));
         }
       });
@@ -144,12 +159,44 @@ export class JobService {
 
   public setKeyword(keyword: string): void {
     this._filters.update((prev) => ({ ...prev, keyword }));
+    this._page.set(1);
     this.requestJobs();
   }
 
   /** Requests a fresh search from the backend using the current keyword. */
   public requestJobs(): void {
     this.searchRequest$.next();
+  }
+
+  /** Jumps to an absolute page (clamped to the available range) and reloads. */
+  public goToPage(page: number): void {
+    const target = this.clampPage(page);
+    if (target === this._page()) return;
+    this._page.set(target);
+    this.pageRequest$.next();
+  }
+
+  /** Loads the next page when one is available. */
+  public nextPage(): void {
+    if (this.hasNextPage()) {
+      this.goToPage(this._page() + 1);
+    }
+  }
+
+  /** Loads the previous page when one is available. */
+  public previousPage(): void {
+    if (this.hasPreviousPage()) {
+      this.goToPage(this._page() - 1);
+    }
+  }
+
+  /** Changes the page size, resetting to the first page. */
+  public setPageSize(pageSize: number): void {
+    const size = Math.max(1, Math.min(Math.trunc(pageSize) || DEFAULT_PAGE_SIZE, MAX_PAGE_SIZE));
+    if (size === this._pageSize()) return;
+    this._pageSize.set(size);
+    this._page.set(1);
+    this.pageRequest$.next();
   }
 
   public setRemoteOnly(remoteOnly: boolean): void {
@@ -188,12 +235,29 @@ export class JobService {
       selectedSkills: [],
       sortBy: 'match_score_desc'
     });
+    this._page.set(1);
     this.requestJobs();
   }
 
-  private buildSearchParams(): { query: string; limit: number } {
+  private buildSearchParams(): JobSearchParams {
     const keyword = this._filters().keyword.trim();
-    return { query: keyword || DEFAULT_SEARCH_QUERY, limit: SEARCH_LIMIT };
+    return {
+      query: keyword || DEFAULT_SEARCH_QUERY,
+      page: this._page(),
+      page_size: this._pageSize()
+    };
+  }
+
+  private applyPagination(response: JobSearchResponse): void {
+    this._page.set(response.page);
+    this._pageSize.set(response.page_size);
+    this._totalResults.set(response.total_results);
+    this._totalPages.set(response.total_pages);
+  }
+
+  private clampPage(page: number): number {
+    const lastPage = Math.max(1, this._totalPages());
+    return Math.min(Math.max(1, Math.trunc(page) || 1), lastPage);
   }
 
   public loadJobs(jobs: JobModel[]): void {

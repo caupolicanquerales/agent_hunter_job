@@ -23,8 +23,10 @@ export class JobDashboard implements OnInit {
   protected readonly selectedJob = this.jobService.selectedJob;
   protected readonly availableSkills = this.jobService.availableSkills;
   protected readonly filters = this.jobService.filters;
-  protected readonly totalMatches = this.jobService.totalMatches;
   protected readonly averageMatchPercentage = this.jobService.averageMatchPercentage;
+  protected readonly totalResults = this.jobService.totalResults;
+  protected readonly page = this.jobService.page;
+  protected readonly totalPages = this.jobService.totalPages;
 
   constructor(private elementRef: ElementRef) {}
 

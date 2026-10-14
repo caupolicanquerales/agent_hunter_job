@@ -2,8 +2,16 @@ import { Injectable, inject } from "@angular/core";
 import { Observable } from "rxjs";
 import { QueryParams, SseGetService } from "./sse-get.service";
 
+/** Query parameters accepted by the paginated /api/jobs/search endpoint. */
+export interface JobSearchParams extends QueryParams {
+    query: string;
+    page?: number;
+    page_size?: number;
+    source?: string;
+}
+
 @Injectable({
-  providedIn: 'root'
+    providedIn: 'root'
 })
 export class SseService {
 
@@ -12,7 +20,7 @@ export class SseService {
 
     private readonly sseGetService = inject(SseGetService);
 
-    getJobs<T = unknown>(searchParams: QueryParams): Observable<T> {
+    getJobs<T = unknown>(searchParams: JobSearchParams): Observable<T> {
         return this.sseGetService.get<T>(`${this.URL_ROOT}${this.URL_GET_JOBS}`, searchParams);
     }
 

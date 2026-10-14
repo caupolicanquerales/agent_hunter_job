@@ -461,6 +461,10 @@
   .metric-avg strong {
     color: #34d399;
   }
+
+  .metric-page strong {
+    color: var(--accent-primary);
+  }
 }
 
 /* Mobile Tab Switcher Navigation */
@@ -761,6 +765,10 @@
 
     .metric-avg {
       display: none; // Show only job count on very narrow screens
+    }
+
+    .metric-page {
+      display: none; // Keep the pill compact on very narrow screens
     }
 
     .metric-divider {

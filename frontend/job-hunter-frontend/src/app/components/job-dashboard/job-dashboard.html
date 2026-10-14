@@ -97,11 +97,11 @@
             </div>
             <div class="skills-list-options">
               @for (skill of availableSkills(); track skill) {
-                <label class="skill-option-label" (click)="onSkillToggle(skill)">
+                <label class="skill-option-label">
                   <input
                     type="checkbox"
                     [checked]="isSkillSelected(skill)"
-                    readonly
+                    (change)="onSkillToggle(skill)"
                   />
                   <span class="skill-text">{{ skill }}</span>
                 </label>
@@ -154,9 +154,13 @@
 
       <!-- Metrics overview -->
       <div class="metrics-pill">
-        <span class="metric-count"><strong>{{ totalMatches() }}</strong> jobs</span>
+        <span class="metric-count"><strong>{{ totalResults() }}</strong> jobs</span>
         <span class="metric-divider">•</span>
         <span class="metric-avg">Avg: <strong>{{ averageMatchPercentage() }}%</strong></span>
+        @if (totalPages() > 1) {
+          <span class="metric-divider">•</span>
+          <span class="metric-page">Page <strong>{{ page() }}</strong>/{{ totalPages() }}</span>
+        }
       </div>
     </div>
   </header>
@@ -207,7 +211,7 @@
         <line x1="3" y1="12" x2="3.01" y2="12" />
         <line x1="3" y1="18" x2="3.01" y2="18" />
       </svg>
-      <span>List ({{ totalMatches() }})</span>
+      <span>List ({{ totalResults() }})</span>
     </button>
     <button
       type="button"

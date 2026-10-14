@@ -15,8 +15,9 @@ from urllib.parse import parse_qs, urlparse
 from handle_header import send_json
 from load_mcp_client import search_job_postings
 
-DEFAULT_LIMIT = int(os.getenv("SEARCH_DEFAULT_LIMIT", "20"))
-MAX_LIMIT = int(os.getenv("SEARCH_MAX_LIMIT", "100"))
+DEFAULT_PAGE = 1
+DEFAULT_PAGE_SIZE = int(os.getenv("SEARCH_DEFAULT_LIMIT", "20"))
+MAX_PAGE_SIZE = int(os.getenv("SEARCH_MAX_LIMIT", "100"))
 
 
 @dataclass(frozen=True)
@@ -24,6 +25,8 @@ class SearchRequest:
     """Immutable search parameters extracted from a GET or POST request."""
 
     query: str | None = None
+    page: int | str | None = None
+    page_size: int | str | None = None
     limit: int | str | None = None
     source: str | None = None
 
@@ -32,6 +35,8 @@ def handle_get_search(handler: BaseHTTPRequestHandler, path: str) -> None:
     params = parse_qs(urlparse(path).query)
     request = SearchRequest(
         query=_first(params, "query"),
+        page=_first(params, "page"),
+        page_size=_first(params, "page_size"),
         limit=_first(params, "limit"),
         source=_first(params, "source"),
     )
@@ -46,6 +51,8 @@ def handle_post_search(handler: BaseHTTPRequestHandler) -> None:
         return
     request = SearchRequest(
         query=payload.get("query"),
+        page=payload.get("page"),
+        page_size=payload.get("page_size"),
         limit=payload.get("limit"),
         source=payload.get("source"),
     )
@@ -57,40 +64,66 @@ def perform_search(handler: BaseHTTPRequestHandler, request: SearchRequest) -> N
         send_json(handler, 400, {"error": "query is required"})
         return
     try:
-        resolved_limit = coerce_limit(request.limit)
+        resolved_page = coerce_page(request.page)
+        resolved_page_size = coerce_page_size(request.page_size, request.limit)
     except ValueError as error:
         send_json(handler, 400, {"error": str(error)})
         return
     resolved_query = str(request.query).strip()
     resolved_source = str(request.source).strip() if request.source else None
+    offset = (resolved_page - 1) * resolved_page_size
     try:
         payload = search_job_postings(
-            resolved_query, resolved_limit, resolved_source
+            resolved_query, resolved_page_size, resolved_source, offset
         )
     except Exception as error:  # noqa: BLE001 - surface MCP failures as 502
         send_json(handler, 502, {"error": f"MCP search failed: {error}"})
         return
     results = payload.get("results", [])
+    total_results = payload.get("total_results", len(results))
+    total_pages = _total_pages(total_results, resolved_page_size)
     send_json(
         handler,
         200,
         {
             "query": resolved_query,
             "source": resolved_source,
-            "total_results": payload.get("total_results", len(results)),
+            "total_results": total_results,
+            "page": resolved_page,
+            "page_size": resolved_page_size,
+            "total_pages": total_pages,
+            "has_next_page": resolved_page < total_pages,
+            "has_previous_page": resolved_page > 1,
             "results": results,
         },
     )
 
 
-def coerce_limit(raw_limit: Any) -> int:
-    if raw_limit is None or raw_limit == "":
-        return DEFAULT_LIMIT
+def coerce_page(raw_page: Any) -> int:
+    if raw_page is None or raw_page == "":
+        return DEFAULT_PAGE
     try:
-        limit = int(raw_limit)
+        page = int(raw_page)
     except (TypeError, ValueError) as error:
-        raise ValueError("limit must be an integer") from error
-    return max(1, min(limit, MAX_LIMIT))
+        raise ValueError("page must be an integer") from error
+    return max(1, page)
+
+
+def coerce_page_size(raw_page_size: Any, raw_limit: Any = None) -> int:
+    raw_value = raw_page_size if raw_page_size not in (None, "") else raw_limit
+    if raw_value is None or raw_value == "":
+        return DEFAULT_PAGE_SIZE
+    try:
+        page_size = int(raw_value)
+    except (TypeError, ValueError) as error:
+        raise ValueError("page_size must be an integer") from error
+    return max(1, min(page_size, MAX_PAGE_SIZE))
+
+
+def _total_pages(total_results: int, page_size: int) -> int:
+    if total_results <= 0:
+        return 0
+    return (total_results + page_size - 1) // page_size
 
 
 def _read_json_body(handler: BaseHTTPRequestHandler) -> dict[str, Any]:

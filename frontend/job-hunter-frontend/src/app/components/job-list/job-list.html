@@ -16,13 +16,16 @@
           <article
             class="job-card"
             [class.active]="selectedJob()?.id === job.id"
+            [class.rec-apply]="getRecommendationTier(job) === 'apply'"
+            [class.rec-consider]="getRecommendationTier(job) === 'consider'"
+            [class.rec-skip]="getRecommendationTier(job) === 'skip'"
             (click)="onSelect(job)"
             tabindex="0"
             (keydown.enter)="onSelect(job)"
             (keydown.space)="onSelect(job)"
             [attr.aria-selected]="selectedJob()?.id === job.id"
           >
-            <!-- Card top row: company & match percentage -->
+            <!-- Card top row: company & match percentage / recommendation tag -->
             <div class="card-meta-top">
               <span class="card-company" [title]="job.company">
                 <svg class="company-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -38,14 +41,37 @@
                 {{ job.company }}
               </span>
 
-              @if (job.match_score != null) {
-                <span class="match-badge" [ngClass]="getScoreBadgeClass(job.match_score)">
-                  <svg class="match-sparkle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-                    <path d="M12 2v4m0 12v4M4.93 4.93l2.83 2.83m8.48 8.48l2.83 2.83M2 12h4m12 0h4M4.93 19.07l2.83-2.83m8.48-8.48l2.83-2.83" />
-                  </svg>
-                  {{ formatScorePercentage(job.match_score) }}% match
-                </span>
-              }
+              <div class="card-badges">
+                @if (getRecommendationTier(job); as tier) {
+                  <span class="recommendation-badge" [ngClass]="'badge-' + tier">
+                    @if (tier === 'apply') {
+                      <svg class="rec-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <polyline points="20 6 9 17 4 12" />
+                      </svg>
+                    } @else if (tier === 'consider') {
+                      <svg class="rec-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <circle cx="12" cy="12" r="9" />
+                        <line x1="8" y1="12" x2="16" y2="12" />
+                      </svg>
+                    } @else {
+                      <svg class="rec-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <line x1="18" y1="6" x2="6" y2="18" />
+                        <line x1="6" y1="6" x2="18" y2="18" />
+                      </svg>
+                    }
+                    <span>{{ getRecommendationLabel(job) }}</span>
+                  </span>
+                }
+
+                @if (job.match_score != null) {
+                  <span class="match-badge" [ngClass]="getScoreBadgeClass(job.match_score)">
+                    <svg class="match-sparkle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                      <path d="M12 2v4m0 12v4M4.93 4.93l2.83 2.83m8.48 8.48l2.83 2.83M2 12h4m12 0h4M4.93 19.07l2.83-2.83m8.48-8.48l2.83-2.83" />
+                    </svg>
+                    {{ formatScorePercentage(job.match_score) }}% match
+                  </span>
+                }
+              </div>
             </div>
 
             <!-- Card title: high visual priority for rapid scanning -->
@@ -111,5 +137,52 @@
       </div>
     }
   </div>
+
+  <!-- Pagination footer -->
+  @if (totalPages() > 0) {
+    <footer class="list-pagination">
+      <span class="pagination-summary">
+        {{ rangeStart() }}–{{ rangeEnd() }} of {{ totalResults() }}
+      </span>
+
+      <nav class="pagination-controls" aria-label="Job results pagination">
+        <button
+          type="button"
+          class="page-nav-btn"
+          [disabled]="!hasPreviousPage()"
+          (click)="previousPage()"
+          aria-label="Previous page"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+        </button>
+
+        @for (pageNumber of pageNumbers(); track pageNumber) {
+          <button
+            type="button"
+            class="page-number-btn"
+            [class.active]="pageNumber === page()"
+            [attr.aria-current]="pageNumber === page() ? 'page' : null"
+            (click)="goToPage(pageNumber)"
+          >
+            {{ pageNumber }}
+          </button>
+        }
+
+        <button
+          type="button"
+          class="page-nav-btn"
+          [disabled]="!hasNextPage()"
+          (click)="nextPage()"
+          aria-label="Next page"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9 18 15 12 9 6" />
+          </svg>
+        </button>
+      </nav>
+    </footer>
+  }
 </div>
 

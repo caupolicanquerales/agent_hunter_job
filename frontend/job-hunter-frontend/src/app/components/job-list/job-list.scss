@@ -74,7 +74,79 @@
 }
 
 /* ----------------------------------------------------
-   Compact Job Card with Active Highlighting
+   Pagination Footer
+---------------------------------------------------- */
+.list-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.6rem 1rem;
+  border-top: 1px solid var(--border-subtle);
+  background-color: rgba(17, 24, 39, 0.4);
+  flex-shrink: 0;
+
+  .pagination-summary {
+    font-size: 0.7rem;
+    color: var(--text-subtle);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .pagination-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .page-nav-btn,
+  .page-number-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 28px;
+    height: 28px;
+    padding: 0 0.35rem;
+    border-radius: 6px;
+    border: 1px solid var(--border-subtle);
+    background-color: var(--bg-surface);
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.18s ease;
+
+    &:hover:not(:disabled):not(.active) {
+      background-color: var(--bg-surface-hover);
+      border-color: var(--accent-primary);
+      color: var(--text-main);
+    }
+
+    &:focus-visible {
+      outline: none;
+      box-shadow: 0 0 0 2px var(--border-focus);
+    }
+
+    &:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+  }
+
+  .page-nav-btn svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  .page-number-btn.active {
+    background-color: var(--accent-primary);
+    border-color: var(--accent-primary);
+    color: #ffffff;
+  }
+}
+
+/* ----------------------------------------------------
+   Compact Job Card with Active Highlighting & AI Recommendation Styling
 ---------------------------------------------------- */
 .job-card {
   position: relative;
@@ -84,7 +156,7 @@
   padding: 0.9rem 1rem;
   background-color: var(--bg-surface);
   border: 1px solid var(--border-subtle);
-  border-left: 3px solid transparent;
+  border-left: 3.5px solid transparent;
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
@@ -100,11 +172,84 @@
     box-shadow: 0 0 0 2px var(--border-focus);
   }
 
-  /* Distinct Active Highlight */
+  /* ---------------------------------------------
+     Recommendation Tiers
+     - APPLY / HIGH MATCH: vibrant emerald accent & glow
+     - CONSIDER: muted amber/yellow accent indicator
+     - SKIP: dimmed opacity to recede into background
+  --------------------------------------------- */
+  &.rec-apply {
+    border-left-color: var(--accent-emerald);
+    background: linear-gradient(90deg, rgba(16, 185, 129, 0.08) 0%, rgba(31, 41, 55, 0.95) 45%, var(--bg-surface) 100%);
+    box-shadow: 0 0 14px rgba(16, 185, 129, 0.06);
+
+    &:hover {
+      border-left-color: #34d399;
+      background: linear-gradient(90deg, rgba(16, 185, 129, 0.13) 0%, var(--bg-surface-hover) 50%);
+      box-shadow: 0 4px 18px rgba(16, 185, 129, 0.16);
+    }
+
+    &.active {
+      border-left-color: var(--accent-emerald);
+      background: linear-gradient(90deg, rgba(16, 185, 129, 0.16) 0%, rgba(99, 102, 241, 0.14) 100%);
+      border-color: rgba(16, 185, 129, 0.55);
+      box-shadow: 0 4px 18px rgba(16, 185, 129, 0.22);
+    }
+  }
+
+  &.rec-consider {
+    border-left-color: var(--accent-amber);
+    background: linear-gradient(90deg, rgba(245, 158, 11, 0.05) 0%, var(--bg-surface) 35%);
+
+    &:hover {
+      border-left-color: #fbbf24;
+      background: linear-gradient(90deg, rgba(245, 158, 11, 0.09) 0%, var(--bg-surface-hover) 45%);
+      box-shadow: 0 4px 14px rgba(245, 158, 11, 0.12);
+    }
+
+    &.active {
+      border-left-color: var(--accent-amber);
+      background: linear-gradient(90deg, rgba(245, 158, 11, 0.12) 0%, rgba(99, 102, 241, 0.14) 100%);
+      border-color: rgba(245, 158, 11, 0.55);
+      box-shadow: 0 4px 14px rgba(245, 158, 11, 0.18);
+    }
+  }
+
+  &.rec-skip {
+    opacity: 0.55;
+    border-left-color: #4b5563;
+    background-color: rgba(23, 29, 41, 0.65);
+    filter: grayscale(0.2);
+
+    .card-title {
+      color: #94a3b8;
+    }
+
+    &:hover {
+      opacity: 0.88;
+      filter: grayscale(0);
+      background-color: var(--bg-surface-hover);
+      border-color: #4b5563;
+    }
+
+    &.active {
+      opacity: 1;
+      filter: none;
+      border-left-color: #6b7280;
+      background-color: rgba(99, 102, 241, 0.12);
+      border-color: rgba(99, 102, 241, 0.55);
+      box-shadow: 0 4px 14px rgba(99, 102, 241, 0.12);
+
+      .card-title {
+        color: #ffffff;
+      }
+    }
+  }
+
+  /* Default Active Highlight */
   &.active {
     background-color: rgba(99, 102, 241, 0.12);
     border-color: rgba(99, 102, 241, 0.55);
-    border-left: 3px solid var(--accent-primary);
     box-shadow: 0 4px 14px rgba(99, 102, 241, 0.12);
 
     .card-title {
@@ -121,11 +266,60 @@
     }
   }
 
+  &.active:not(.rec-apply):not(.rec-consider):not(.rec-skip) {
+    border-left: 3.5px solid var(--accent-primary);
+  }
+
   .card-meta-top {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 0.5rem;
+  }
+
+  .card-badges {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex-shrink: 0;
+  }
+
+  .recommendation-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.15rem 0.45rem;
+    border-radius: 9999px;
+    font-size: 0.675rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    white-space: nowrap;
+
+    .rec-icon {
+      width: 10px;
+      height: 10px;
+      flex-shrink: 0;
+    }
+
+    &.badge-apply {
+      background-color: rgba(16, 185, 129, 0.18);
+      color: #34d399;
+      border: 1px solid rgba(16, 185, 129, 0.4);
+      box-shadow: 0 0 8px rgba(16, 185, 129, 0.15);
+    }
+
+    &.badge-consider {
+      background-color: rgba(245, 158, 11, 0.15);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.35);
+    }
+
+    &.badge-skip {
+      background-color: rgba(107, 114, 128, 0.18);
+      color: #9ca3af;
+      border: 1px solid rgba(107, 114, 128, 0.3);
+    }
   }
 
   /* Softer, secondary hierarchy for the company name */
@@ -341,6 +535,19 @@
 
   .cards-scroll-area {
     padding: 0.5rem 0.65rem;
+  }
+
+  .list-pagination {
+    padding: 0.5rem 0.65rem;
+
+    .pagination-summary {
+      display: none; // Prioritise controls on narrow phones
+    }
+
+    .pagination-controls {
+      width: 100%;
+      justify-content: space-between;
+    }
   }
 
   .job-card {

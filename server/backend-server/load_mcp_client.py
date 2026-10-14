@@ -62,13 +62,16 @@ def _extract_tool_text(result: Any) -> str:
     return "\n".join(texts).strip()
 
 
-def search_job_postings(query: str, limit: int, source: str | None) -> dict[str, Any]:
+def search_job_postings(
+    query: str, limit: int, source: str | None, offset: int = 0
+) -> dict[str, Any]:
     """Call the MCP search tool over SSE and return its parsed JSON payload."""
     client = load_mcp_client().McpSseClient(MCP_SERVER_URL)
     try:
         client.connect()
         result = client.call_tool(
-            MCP_TOOL_NAME, {"query": query, "limit": limit, "source": source}
+            MCP_TOOL_NAME,
+            {"query": query, "limit": limit, "source": source, "offset": offset},
         )
     finally:
         client.close()

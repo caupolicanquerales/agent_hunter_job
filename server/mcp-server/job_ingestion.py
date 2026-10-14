@@ -67,12 +67,19 @@ SEARCH_QUERY = """
         recommendation,
         pros,
         cons,
+        raw_payload,
         evaluated_at,
         1 - (embedding <=> $1::vector) AS similarity
     FROM scraped_job_postings
     WHERE ($2::text IS NULL OR source = $2)
     ORDER BY embedding <=> $1::vector
-    LIMIT $3;
+    LIMIT $3 OFFSET $4;
+"""
+
+COUNT_QUERY = """
+    SELECT COUNT(*)
+    FROM scraped_job_postings
+    WHERE ($1::text IS NULL OR source = $1);
 """
 
 
@@ -206,17 +213,32 @@ async def store_evaluations(
     return new_ingested, jobs_updated
 
 
+def decode_row(row: asyncpg.Record) -> dict[str, Any]:
+    """Convert a DB row to a dict, decoding raw_payload JSONB from text."""
+    decoded = dict(row)
+    raw_payload = decoded.get("raw_payload")
+    if isinstance(raw_payload, str):
+        try:
+            decoded["raw_payload"] = json.loads(raw_payload)
+        except (TypeError, ValueError):
+            decoded["raw_payload"] = None
+    return decoded
+
+
 async def search_jobs(
     pool: asyncpg.Pool,
     query_embedding: list[float],
     limit: int,
     source: str | None = None,
-) -> list[dict[str, Any]]:
+    offset: int = 0,
+) -> tuple[list[dict[str, Any]], int]:
     async with pool.acquire() as conn:
         rows = await conn.fetch(
             SEARCH_QUERY,
             json.dumps(query_embedding),
             source,
             limit,
+            offset,
         )
-    return [dict(row) for row in rows]
+        total_matches = await conn.fetchval(COUNT_QUERY, source)
+    return [decode_row(row) for row in rows], int(total_matches or 0)
