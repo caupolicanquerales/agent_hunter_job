@@ -72,8 +72,12 @@ bounded parallel fan-out with a strict fan-in contract.
 - **HNSW vector index** — fast approximate cosine-similarity search over postings.
 - **Stdlib HTTP backend** — a dependency-free controller that fronts the MCP
   search tool with a CORS-enabled REST endpoint for the browser.
+- **Server-side pagination** — the search endpoint is page-based
+  (`page`/`page_size`); the backend forwards an `offset` to pgvector and returns
+  `total_results`, `total_pages` and navigation flags.
 - **Angular 22 + SSR dashboard** — signals-based state, standalone components,
-  responsive master/detail UI wired to the backend search endpoint.
+  responsive master/detail UI wired to the backend search endpoint, with paginated
+  results and instant skill/remote filtering over the loaded page.
 
 ---
 
@@ -216,7 +220,7 @@ The FastMCP server (`server/mcp-server/server.py`) exposes two tools over the
 | Tool | Arguments | Purpose |
 |------|-----------|---------|
 | `store_job_postings` | `postings: list[dict]` | Embed each evaluated job and upsert it into `scraped_job_postings`; returns ingestion metadata (`new_jobs_stored`, `jobs_updated`) |
-| `search_job_postings` | `query: str`, `limit: int = 5`, `source: str \| None` | Embed the query and rank stored jobs by cosine similarity via the HNSW index |
+| `search_job_postings` | `query: str`, `limit: int = 5`, `source: str \| None`, `offset: int = 0` | Embed the query and rank stored jobs by cosine similarity via the HNSW index; `offset` skips the first *k* matches for pagination and the payload reports the overall `total_results` |
 
 ```mermaid
 flowchart LR
@@ -231,8 +235,8 @@ flowchart LR
 
     subgraph Search["search_job_postings"]
         Q["query text"] --> QE["embed query"]
-        QE --> S["ORDER BY embedding <=> query<br/>LIMIT n"]
-        S --> SR["rows + similarity"]
+        QE --> S["ORDER BY embedding <=> query<br/>LIMIT n OFFSET k"]
+        S --> SR["rows + similarity<br/>+ total_results (COUNT)"]
     end
 ```
 
@@ -244,6 +248,10 @@ flowchart LR
 - **Text that is actually searchable** — the embedding is built from the scored
   fields (title, source, matched keywords, review, pros, cons), so similarity
   ranks against the evaluation, not raw HTML.
+- **Raw payload passthrough** — `search_job_postings` also returns `raw_payload`
+  (the original evaluated object, retained verbatim). Because `asyncpg` hands
+  `JSONB` back as text, the row decoder JSON-parses it before serialization, so the
+  dashboard's raw-payload viewer renders real JSON instead of an escaped string.
 - **Connection pool** — a lazily-created `asyncpg.Pool` guarded by an
   `asyncio.Lock`, closed on lifespan shutdown.
 - **Offline model** — the embedding model is downloaded at build time
@@ -291,7 +299,7 @@ flowchart TB
         Root["App (router-outlet)"]
         Routes["app.routes.ts<br/>'' -> JobDashboard"]
         Dashboard["JobDashboard<br/>filters · metrics · layout"]
-        List["JobList<br/>ranked cards"]
+        List["JobList<br/>cards + pagination footer"]
         Detail["JobDetail<br/>description · score · salary · pros/cons"]
         Viewer["RawPayloadViewer<br/>JSON inspection"]
     end
@@ -302,6 +310,7 @@ flowchart TB
         Selected["computed: selectedJob"]
         SkillList["computed: availableSkills"]
         Metrics["computed: totalMatches / averageMatchPercentage"]
+        Paging["signals: page · pageSize<br/>totalResults · totalPages<br/>hasNextPage · hasPreviousPage"]
     end
 
     subgraph HTTP["Backend access"]
@@ -319,6 +328,7 @@ flowchart TB
     Service --> Selected
     Service --> SkillList
     Service --> Metrics
+    Service --> Paging
     Dashboard --> Service
     List --> Service
     Detail --> Service
@@ -327,16 +337,42 @@ flowchart TB
 
 **State model** — `JobService` is the single source of truth:
 
-- `_jobs`, `_selectedJobId`, `_filters` are private `signal`s.
+- `_jobs`, `_selectedJobId`, `_filters` plus pagination state
+  (`_page`, `_pageSize`, `_totalResults`, `_totalPages`) are private `signal`s.
 - Exposed as `asReadonly()`; mutations go through intent methods
-  (`setKeyword`, `toggleSkill`, `setSortBy`, `requestJobs`, ...).
+  (`setKeyword`, `toggleSkill`, `setSortBy`, `requestJobs`, ...). Pagination is
+  driven by `goToPage` / `nextPage` / `previousPage` / `setPageSize`, and exposes
+  `page`, `pageSize`, `totalResults`, `totalPages`, `hasNextPage`, `hasPreviousPage`.
 - Derived views (`filteredJobs`, `selectedJob`, `availableSkills`,
   `averageMatchPercentage`) are `computed()` — no manual subscriptions, no stale UI.
-- Keyword searches are **debounced** (`300 ms`) and fire a fresh backend request.
-- The REST response (`JobSearchResponse.results: ScrapedJobPosting[]`) is mapped to
-  the dashboard model by `toJobModel()`: the cosine `similarity` becomes
-  `match_score`, `matched_keywords` → `required_skills`, `description_review` →
-  `clean_description`, and `evaluated_at` → `scraped_at`.
+- Two request streams feed one search: keyword changes go through a **debounced**
+  (300 ms) `searchRequest$`, while page navigation bypasses it via an immediate
+  `pageRequest$`; both are merged before `switchMap` so a new page fires right away.
+- `buildSearchParams()` sends `{ query, page, page_size }`; `applyPagination()`
+  copies the response's `page`, `page_size`, `total_results`, `total_pages` back
+  into the signals, and the response also echoes `has_next_page` /
+  `has_previous_page`.
+- Client-side facets (`remoteOnly`, selected skills) and sorting operate on the
+  currently loaded page via `filteredJobs`; keyword/remote/skill changes reset to
+  page 1 and re-query the backend.
+- The REST response (`JobSearchResponse`) is mapped to the dashboard model by
+  `toJobModel()`: the cosine `similarity` becomes `match_score`,
+  `matched_keywords` → `required_skills`, `description_review` →
+  `clean_description`, `evaluated_at` → `scraped_at`, and `raw_payload` is carried
+  through verbatim so `RawPayloadViewer` can render the original JSON.
+
+**UI bindings**
+
+- `JobDashboard` owns the **skills dropdown** (a multi-select built from
+  `availableSkills`). Each option is a checkbox bound with
+  `[checked]` + `(change)` (one event per toggle, so selections don't cancel out);
+  toggling updates `filters().selectedSkills` and immediately re-filters
+  `filteredJobs`. A `document:click` listener closes the menu on outside clicks.
+- `JobList` renders the **pagination footer**: a `start–end of total` summary,
+  prev/next buttons (disabled at the bounds) and a windowed (max 5) set of
+  jump-to page numbers.
+- The header metrics pill reports overall `totalResults` and, when there is more
+  than one page, `Page X/Y`.
 
 > Note: `SseService`/`SseGetService` are named for their eventual streaming role,
 > but currently perform a plain HTTP `GET` through Angular's `HttpClient`.
@@ -547,7 +583,7 @@ npm run build      # production + SSR bundle
 | `MCP_SERVER_URL` | `http://127.0.0.1:3000/sse` | MCP SSE endpoint |
 | `BACKEND_HOST` / `BACKEND_PORT` | `0.0.0.0` / `3100` | Bind address |
 | `CORS_ALLOWED_ORIGINS` | `http://localhost:4200,http://127.0.0.1:4200` | Allowed browser origins |
-| `SEARCH_DEFAULT_LIMIT` / `SEARCH_MAX_LIMIT` | `20` / `100` | Result bounds |
+| `SEARCH_DEFAULT_LIMIT` / `SEARCH_MAX_LIMIT` | `20` / `100` | Default / max `page_size` (`limit` is treated as a `page_size` alias) |
 
 **Reporter script** (`final_chunk_reporter.py`)
 
